@@ -1,87 +1,87 @@
 {
   "adm": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "bunge": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "ttet": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 116
+    "count": 176
   },
   "nestle": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 121
+    "count": 184
   },
   "coca_cola": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "pepsico": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "tyson": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "general_mills": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "mondelez": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "uni_president": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 116
+    "count": 176
   },
   "wei_chuan": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 116
+    "count": 176
   },
   "standard_foods": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 116
+    "count": 176
   },
   "kraft_heinz": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "walmart": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "costco": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "etf_pbj": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "etf_vdc": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   }
 }
