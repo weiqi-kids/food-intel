@@ -1,0 +1,86 @@
+[
+  {
+    "id": "unknown-2026-04-14-001",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
+    "summary": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-10-002",
+    "date": "2026-04-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
+    "summary": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                           ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-10-006",
+    "date": "2026-04-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
+    "summary": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterpri",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-25-007",
+    "date": "2026-03-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
+    "summary": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                     ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-22-003",
+    "date": "2026-03-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
+    "summary": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                            ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-03-004",
+    "date": "2026-03-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
+    "summary": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                     ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-13-005",
+    "date": "2026-02-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
+    "summary": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible ",
+    "sources": []
+  }
+]
