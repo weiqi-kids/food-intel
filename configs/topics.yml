@@ -1,0 +1,129 @@
+# 食品供應鏈情報追蹤 - 主題清單
+
+topics:
+  food_inflation:
+    display: 食品通膨
+    keywords:
+    - food inflation
+    - 食品通膨
+    - food price
+    - 食品價格
+    - grocery price
+    - CPI food
+    - 食品CPI
+    - price increase
+    - 漲價
+    - shrinkflation
+    - 縮水式通膨
+    sentiment_keywords:
+      positive:
+      - 通膨放緩
+      - price moderation
+      - inflation easing
+      negative:
+      - 通膨加劇
+      - price surge
+      - inflation spike
+  raw_material_cost:
+    display: 原物料成本
+    keywords:
+    - raw material cost
+    - 原物料成本
+    - commodity price
+    - 原物料價格
+    - sugar price
+    - 糖價
+    - cocoa price
+    - 可可價格
+    - wheat price
+    - 小麥價格
+    - palm oil
+    - 棕櫚油
+    - packaging cost
+    - 包材成本
+    - input cost
+    sentiment_keywords:
+      positive:
+      - 成本下降
+      - cost decline
+      - commodity easing
+      negative:
+      - 成本上升
+      - cost increase
+      - commodity surge
+  consumer_spending:
+    display: 消費支出
+    keywords:
+    - consumer spending
+    - 消費支出
+    - consumer confidence
+    - 消費者信心
+    - retail sales
+    - 零售銷售
+    - trade down
+    - 降級消費
+    - private label
+    - 自有品牌
+    - volume growth
+    - 銷量成長
+    sentiment_keywords:
+      positive:
+      - 消費回升
+      - spending recovery
+      - volume growth
+      negative:
+      - 消費疲弱
+      - spending weakness
+      - trade down
+  food_safety:
+    display: 食品安全
+    keywords:
+    - food safety
+    - 食品安全
+    - recall
+    - 召回
+    - contamination
+    - 汙染
+    - FDA warning
+    - FDA 警告
+    - food scandal
+    - 食安事件
+    - inspection
+    - 稽查
+    - quality control
+    - 品管
+  health_wellness:
+    display: 健康趨勢
+    keywords:
+    - health wellness
+    - 健康趨勢
+    - organic
+    - 有機
+    - plant-based
+    - 植物基
+    - sugar-free
+    - 無糖
+    - functional food
+    - 機能性食品
+    - clean label
+    - 潔淨標示
+    - probiotics
+    - 益生菌
+    - GLP-1 impact
+  earnings:
+    display: 法說會
+    keywords:
+    - earnings
+    - 法說會
+    - 財報
+    - quarterly results
+    - guidance
+    - outlook
+    - revenue
+    - 營收
+    - profit
+    - 獲利
+    - organic growth
+    - 有機成長
+    - volume
+    - pricing

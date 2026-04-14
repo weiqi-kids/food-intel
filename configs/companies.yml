@@ -1,0 +1,313 @@
+# 食品供應鏈情報追蹤 - 公司清單
+
+companies:
+- id: adm
+  name: Archer-Daniels-Midland
+  aliases:
+  - ADM
+  - ADM公司
+  ticker: ADM
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 農產品加工
+  description: 全球最大農產品加工與原料供應商
+  downstream:
+  - nestle
+  - coca_cola
+  - pepsico
+  - tyson
+  - general_mills
+  - mondelez
+- id: bunge
+  name: Bunge Global
+  aliases:
+  - Bunge
+  - 邦吉
+  ticker: BG
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 農產品貿易
+  description: 全球主要農產品貿易與油脂加工商
+  downstream:
+  - nestle
+  - coca_cola
+  - pepsico
+  - tyson
+  - general_mills
+  - mondelez
+- id: ttet
+  name: 大統益
+  aliases:
+  - TTET Union
+  - 大統益
+  ticker: 1232.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: 油脂加工
+  description: 台灣最大沙拉油與黃豆加工廠
+  downstream:
+  - uni_president
+  - wei_chuan
+  - standard_foods
+- id: cargill
+  name: Cargill
+  aliases:
+  - 嘉吉
+  ticker: null
+  market: null
+  currency: USD
+  position: upstream
+  role: 農產品貿易
+  description: 全球最大非上市公司，農產品與食品原料
+  downstream:
+  - nestle
+  - coca_cola
+  - pepsico
+  - tyson
+- id: nestle
+  name: Nestlé
+  aliases:
+  - 雀巢
+  - Nestle
+  ticker: NESN.SW
+  market: SIX
+  currency: CHF
+  position: midstream
+  role: 食品製造
+  description: 全球最大食品公司
+  upstream:
+  - adm
+  - bunge
+  - cargill
+  downstream:
+  - walmart
+  - costco
+- id: coca_cola
+  name: The Coca-Cola Company
+  aliases:
+  - 可口可樂
+  - Coca-Cola
+  - Coke
+  ticker: KO
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 飲料
+  description: 全球最大飲料公司
+  upstream:
+  - adm
+  - bunge
+  - cargill
+  downstream:
+  - walmart
+  - costco
+- id: pepsico
+  name: PepsiCo
+  aliases:
+  - 百事
+  - Pepsi
+  ticker: PEP
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 食品/飲料
+  description: 全球第二大食品飲料公司
+  upstream:
+  - adm
+  - bunge
+  - cargill
+  downstream:
+  - walmart
+  - costco
+- id: tyson
+  name: Tyson Foods
+  aliases:
+  - 泰森食品
+  - Tyson
+  ticker: TSN
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 肉品加工
+  description: 全球最大肉品加工商
+  upstream:
+  - adm
+  - bunge
+  - cargill
+  downstream:
+  - walmart
+  - costco
+- id: general_mills
+  name: General Mills
+  aliases:
+  - 通用磨坊
+  ticker: GIS
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 食品製造
+  description: 穀物與零食大廠
+  upstream:
+  - adm
+  - bunge
+  downstream:
+  - walmart
+  - costco
+- id: mondelez
+  name: Mondelēz International
+  aliases:
+  - 億滋
+  - Mondelez
+  ticker: MDLZ
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 零食
+  description: 全球最大零食公司，Oreo 母公司
+  upstream:
+  - adm
+  - bunge
+  downstream:
+  - walmart
+  - costco
+- id: uni_president
+  name: 統一企業
+  aliases:
+  - Uni-President
+  - 統一
+  ticker: 1216.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 食品製造
+  description: 台灣最大食品集團
+  upstream:
+  - ttet
+  - adm
+  downstream:
+  - walmart
+  - costco
+- id: wei_chuan
+  name: 味全食品
+  aliases:
+  - Wei Chuan Foods
+  - 味全
+  ticker: 1201.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 乳品/食品
+  description: 台灣乳品與食品大廠
+  upstream:
+  - ttet
+- id: standard_foods
+  name: 佳格食品
+  aliases:
+  - Standard Foods
+  - 佳格
+  ticker: 1227.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 食品製造
+  description: 桂格燕麥、得意的一天等品牌
+  upstream:
+  - ttet
+  - adm
+- id: kraft_heinz
+  name: Kraft Heinz
+  aliases:
+  - 卡夫亨氏
+  ticker: KHC
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 食品製造
+  description: 美國第三大食品公司
+  upstream:
+  - adm
+  - bunge
+  downstream:
+  - walmart
+  - costco
+- id: walmart
+  name: Walmart
+  aliases:
+  - 沃爾瑪
+  - Walmart Inc
+  ticker: WMT
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 零售
+  description: 全球最大零售商
+  upstream:
+  - nestle
+  - coca_cola
+  - pepsico
+  - tyson
+  - general_mills
+  - mondelez
+  - kraft_heinz
+- id: costco
+  name: Costco Wholesale
+  aliases:
+  - 好市多
+  - Costco
+  ticker: COST
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 零售
+  description: 全球最大會員制倉儲量販店
+  upstream:
+  - nestle
+  - coca_cola
+  - pepsico
+  - tyson
+  - general_mills
+  - mondelez
+  - kraft_heinz
+etfs:
+- id: pbj
+  name: Invesco Dynamic Food & Beverage ETF
+  ticker: PBJ
+  market: NYSE
+  currency: USD
+  description: 食品飲料動態 ETF
+- id: vdc
+  name: Vanguard Consumer Staples ETF
+  ticker: VDC
+  market: NYSE
+  currency: USD
+  description: 必需消費品 ETF，涵蓋食品與家用品
+supply_chain_positions:
+  upstream:
+  - 農產品加工
+  - 農產品貿易
+  - 油脂加工
+  midstream:
+  - 食品製造
+  - 飲料
+  - 食品/飲料
+  - 肉品加工
+  - 零食
+  - 乳品/食品
+  downstream:
+  - 零售
+topics:
+- id: food_inflation
+  name: 食品通膨
+- id: raw_material_cost
+  name: 原物料成本
+- id: consumer_spending
+  name: 消費支出
+- id: food_safety
+  name: 食品安全
+- id: health_wellness
+  name: 健康趨勢
+- id: earnings
+  name: 法說會
