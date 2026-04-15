@@ -12,6 +12,7 @@ companies:
   position: upstream
   role: 農產品加工
   description: 全球最大農產品加工與原料供應商
+  rss_url: https://news.google.com/rss/search?q="Archer-Daniels-Midland"&hl=en&gl=US&ceid=US:en
   downstream:
   - nestle
   - coca_cola
@@ -30,6 +31,7 @@ companies:
   position: upstream
   role: 農產品貿易
   description: 全球主要農產品貿易與油脂加工商
+  rss_url: https://news.google.com/rss/search?q="Bunge+Global"&hl=en&gl=US&ceid=US:en
   downstream:
   - nestle
   - coca_cola
@@ -48,6 +50,7 @@ companies:
   position: upstream
   role: 油脂加工
   description: 台灣最大沙拉油與黃豆加工廠
+  rss_url: https://news.google.com/rss/search?q="TTET+Union"&hl=en&gl=US&ceid=US:en
   downstream:
   - uni_president
   - wei_chuan
@@ -62,6 +65,7 @@ companies:
   position: upstream
   role: 農產品貿易
   description: 全球最大非上市公司，農產品與食品原料
+  rss_url: https://news.google.com/rss/search?q="Cargill"+grain+trading&hl=en&gl=US&ceid=US:en
   downstream:
   - nestle
   - coca_cola
@@ -136,6 +140,7 @@ companies:
   position: midstream
   role: 肉品加工
   description: 全球最大肉品加工商
+  rss_url: https://news.google.com/rss/search?q="Tyson+Foods"&hl=en&gl=US&ceid=US:en
   upstream:
   - adm
   - bunge
@@ -171,6 +176,7 @@ companies:
   position: midstream
   role: 零食
   description: 全球最大零食公司，Oreo 母公司
+  rss_url: https://news.google.com/rss/search?q="Mondelēz+International"&hl=en&gl=US&ceid=US:en
   upstream:
   - adm
   - bunge
@@ -188,6 +194,7 @@ companies:
   position: midstream
   role: 食品製造
   description: 台灣最大食品集團
+  rss_url: https://news.google.com/rss/search?q="Uni-President"&hl=en&gl=US&ceid=US:en
   upstream:
   - ttet
   - adm
@@ -205,6 +212,7 @@ companies:
   position: midstream
   role: 乳品/食品
   description: 台灣乳品與食品大廠
+  rss_url: https://news.google.com/rss/search?q="Wei+Chuan+Foods"&hl=en&gl=US&ceid=US:en
   upstream:
   - ttet
 - id: standard_foods
@@ -218,6 +226,7 @@ companies:
   position: midstream
   role: 食品製造
   description: 桂格燕麥、得意的一天等品牌
+  rss_url: https://news.google.com/rss/search?q="Standard+Foods"&hl=en&gl=US&ceid=US:en
   upstream:
   - ttet
   - adm
@@ -249,6 +258,7 @@ companies:
   position: downstream
   role: 零售
   description: 全球最大零售商
+  rss_url: https://news.google.com/rss/search?q="Walmart"+retail&hl=en&gl=US&ceid=US:en
   upstream:
   - nestle
   - coca_cola
@@ -268,6 +278,7 @@ companies:
   position: downstream
   role: 零售
   description: 全球最大會員制倉儲量販店
+  rss_url: https://news.google.com/rss/search?q="Costco+Wholesale"&hl=en&gl=US&ceid=US:en
   upstream:
   - nestle
   - coca_cola
