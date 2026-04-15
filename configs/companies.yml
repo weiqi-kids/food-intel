@@ -75,6 +75,7 @@ companies:
   ticker: NESN.SW
   market: SIX
   currency: CHF
+  rss_url: https://www.nestle.com/api/news/newsrss
   position: midstream
   role: 食品製造
   description: 全球最大食品公司
@@ -94,6 +95,7 @@ companies:
   ticker: KO
   market: NYSE
   currency: USD
+  rss_url: https://investors.coca-colacompany.com/news-events/press-releases?feed=rss
   position: midstream
   role: 飲料
   description: 全球最大飲料公司
@@ -112,6 +114,7 @@ companies:
   ticker: PEP
   market: NASDAQ
   currency: USD
+  rss_url: https://www.pepsico.com/our-stories/press-release/rss
   position: midstream
   role: 食品/飲料
   description: 全球第二大食品飲料公司
@@ -147,6 +150,7 @@ companies:
   ticker: GIS
   market: NYSE
   currency: USD
+  rss_url: https://news.generalmills.com/rss/news-releases.xml
   position: midstream
   role: 食品製造
   description: 穀物與零食大廠
@@ -224,6 +228,7 @@ companies:
   ticker: KHC
   market: NASDAQ
   currency: USD
+  rss_url: https://news.kraftheinzcompany.com/rss/news-releases.xml
   position: midstream
   role: 食品製造
   description: 美國第三大食品公司

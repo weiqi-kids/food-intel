@@ -1,0 +1,26 @@
+# Food industry news feeds
+
+feeds:
+  # Industry media
+  - id: food_dive
+    name: Food Dive
+    url: https://www.fooddive.com/feeds/news/
+    description: Food industry news and analysis for executives
+  - id: food_business_news
+    name: Food Business News
+    url: https://www.foodbusinessnews.net/rss/topic/2596-all-food-business-news-content
+    description: Food business news covering processing, ingredients, and markets
+  - id: food_engineering
+    name: Food Engineering
+    url: https://www.foodengineeringmag.com/rss/topic/2666-breaking-news
+    description: Food and beverage manufacturing industry news
+
+  # Google News topic feeds
+  - id: google_news_food_industry
+    name: Google News - Food Industry
+    url: https://news.google.com/rss/search?q=food+industry+news&hl=en
+    description: Google News aggregation for food industry
+  - id: google_news_food_prices
+    name: Google News - Food Prices
+    url: https://news.google.com/rss/search?q=food+prices+inflation+commodity&hl=en
+    description: Google News aggregation for food prices and inflation
