@@ -1,8 +1,30 @@
 {
   "date": "2026-04-15",
-  "total_events": 0,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 6,
+  "by_company": {
+    "tyson": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "uni_president": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "walmart": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "consumer_spending": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {},
     "topics": {}

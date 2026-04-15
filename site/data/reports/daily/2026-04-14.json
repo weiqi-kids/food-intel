@@ -51,5 +51,19 @@
         "count": 1
       }
     ]
-  }
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為食品安全相關動態：「The Smart Advantage: How Artificial Intelligence Is Trans...」。主要關注主題為食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection A...（食品安全）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }
