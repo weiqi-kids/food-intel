@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T09:09:35.939103Z",
+  "updated_at": "2026-04-17T09:08:37.335093Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-02-28",
   "companies": [
     {
@@ -119,14 +119,14 @@
       "name": "百事",
       "ticker": "PEP",
       "currency": "USD",
-      "ar": 9265000000,
-      "ar_prev": 12879000000,
-      "ar_qoq": "-28%",
-      "inventory": 5845000000,
-      "inv_prev": 6093000000,
-      "inv_qoq": "-4%",
+      "ar": 12396000000,
+      "ar_prev": 9265000000,
+      "ar_qoq": "+34%",
+      "inventory": 6211000000,
+      "inv_prev": 5845000000,
+      "inv_qoq": "+6%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "standard_foods",

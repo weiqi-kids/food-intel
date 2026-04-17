@@ -12,6 +12,32 @@
     "sources": []
   },
   {
+    "id": "costco-2026-04-16-002",
+    "date": "2026-04-16",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Thousands of Costco bed frames recalled following reported injuries - PhillyBurbs",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTHBBdlhfT3RrUG1JblNUNnU1NjZ0cVZIS3FvVlpjTGZCZERBZDNtVG9Jb0xkazhnSDZ6VHN4MkxKQ0xQWGFGV3JBWDZHU2Q3ZU9IU05JMG9YcDdBTXhyTkFhNEVvWm51cHBzS213UX",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-004",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "raw_material_cost"
+    ],
+    "impact": "neutral",
+    "title": "A mid Higher Energy, Food, Commodity Prices, Inflation Rebounds to 15.38% - THISDAYLIVE",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQejZHY1pEUWlQbW9xa0J3eXZmMDZKSFlYWFhkLUxUUDkxQ1lKM09nODhxeXR2VGVhQVVyU0VPMTZYeWpzakZGYk1JZE9GaTJXc3JrcDY5T2JONWJXelJMdkNfM3BTa0Z3T2gtVjBtY3",
+    "sources": []
+  },
+  {
     "id": "tyson-2026-04-15-009",
     "date": "2026-04-15",
     "companies": [
@@ -318,6 +344,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-04-08-003",
+    "date": "2026-04-08",
+    "companies": [],
+    "topics": [
+      "food_inflation"
+    ],
+    "impact": "neutral",
+    "title": "Monthly food price index worldwide from January 2000 to March 2026 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2xQOFVqZ0ozbjBmaXVneVRNVjNPb2NuNy1rSzBpNEdDb013eE5NUFdVcENURjRNN2ZEeUViaDEwNEpHOERsa2tZZjhUX043MmJqQmJ1MWpfcno1OGRWcnd3U0JWenVrTmdEaGpCYl",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-03-007",
     "date": "2026-04-03",
     "companies": [],
@@ -548,6 +586,20 @@
     "sources": []
   },
   {
+    "id": "uni_president-2026-03-04-001",
+    "date": "2026-03-04",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "0220.HK Uni-President China (HKSE) Q4 earnings 04 Mar 2026: key targets - Meyka",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMks5TlhJWmlKaXkyalZHVklLYlhtVjBUZ29VN1NOem5IaHl6blBWS0VhdHFSZVB3X2ZvWXhNcV90U2paTWxuWExCeWZXdjBtdjAxS1ZDa3ZKSzNFRHktR2NqdlRsOWFmaHJ2cGR5WX",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-03-03-004",
     "date": "2026-03-03",
     "companies": [],
@@ -685,6 +737,30 @@
     "impact": "positive",
     "title": "HSBC initiates Uni-President China stock with Buy rating on growth outlook - Investing.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOcG9iX2ZKT3FuZ2VFbUJuNXFjUTV1Y0ozZ1pNZEYwR1o0NG5YNTQtVlF3Z2NGQk1ibzVTOGlxRElpSG4yWlNfMkdxMlRDRlRNYTVGcnY0d3JNbnhoaTk1blBUWWs1UEJTVmljUnlXY2",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-07-22-005",
+    "date": "2025-07-22",
+    "companies": [],
+    "topics": [
+      "food_inflation"
+    ],
+    "impact": "neutral",
+    "title": "Low-income countries hit hardest by global food price inflation - Food and Agriculture Organization",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDZ3ZnRwMVVUSlV1X1RBS2h6UmczWHRQRDNfVjlrOHQwS05yTGUzRnVYZnRsSzdSMmlzZUswSHVYRXJzV1ZseDBPaDMyVktQdUQwUlFwbVFQb0VZNkphcTFpejBPaU55QXdIT2J4cV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-07-21-006",
+    "date": "2025-07-21",
+    "companies": [],
+    "topics": [
+      "food_inflation"
+    ],
+    "impact": "neutral",
+    "title": "Mapped: 16 times extreme weather drove higher food prices since 2022 - Carbon Brief",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOX3VrS0tWamRJOC1lRVlGUUFlYVozMXpRd1M0dC1kbU1hVzRIQWszbk5tVGw4em9FYnZSbVlOVDA5M3RjN3ZYcExQeGx3OTRSbXdGYXliUVZUTlRvRGxubXdmbV8zRU5acURzaExKZ3",
     "sources": []
   },
   {
