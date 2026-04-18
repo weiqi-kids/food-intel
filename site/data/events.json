@@ -1,5 +1,55 @@
 [
   {
+    "id": "bunge-2026-04-17-001",
+    "date": "2026-04-17",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Preview: What To Expect From Bunge Global's Report - inkl",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQclYwdlNpVmFOc3pfcGFsdjVJMHgtb3czTFFESG1KLVJHTTlPS1MycXhWaDFzSW5SNjdlQzl0MFhwRFJ3SGRSM3JVVkNCdEMxbzBKeXpxZjdVTS1fbUNQM3ltdlJrdHk4ZzYtdjZoUE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-004",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mondelēz Sustainability Strategy Advances as Cocoa Life Reaches Full Cocoa Sourcing Coverage - Food & Beverage Outlook",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX0ZoeERnZG9hYVpOOEdlVHQ1M0JZREJyOWM4aVNUbGhOcktVUnBQZC1EcTdPaFI2N1U5ZkZpWWVQdlU3MG1yQ1lkZXM4Y1hWdERITzVMVVJHOVVGWkg0LTdabWJ2Q1FWN1lZRVFGVX",
+    "sources": []
+  },
+  {
+    "id": "costco-2026-04-17-007",
+    "date": "2026-04-17",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Costco Wholesale (NASDAQ:COST) Stock - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN1phaWtGaEptaXFLN2RjVVAyMXRfTkVBSGlyUTFlekp2bzREZFk1ZU5Fak4wTUtjaC1nVlI4RXNxX2I1VGdPTDZ6MlJmbklZalY3Vlcwb3E1VWEtUGVrSGp1aU92eWYzbUQxOVREZX",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-008",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "consumer_spending"
+    ],
+    "impact": "neutral",
+    "title": "Food Exec Brief: Investors Reset, Oil Tops $100, and Private Label’s Grip Tightens - Food Industry Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ3NEWWw0TDlrQ1ZnMzRIV0NteWx3bEtxX0pYVmRwLWZTTW1KbnY0TDlLMmlUR1BqT2xTelZwUE1xT1NEVV84aFg1dVg1U1J1eGxyLXBUeFRkN3g0TnF6NXFGdndkXzVxT3FSZFg5U3",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-16-007",
     "date": "2026-04-16",
     "companies": [],
@@ -356,6 +406,46 @@
     "sources": []
   },
   {
+    "id": "tyson-2026-04-08-003",
+    "date": "2026-04-08",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods Announces Second Quarter Earnings Conference Call and Webcast - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGVBUmhsSWJSVjJ6bEFZUUNvZEkzNU8yYUdKcVhDb3ZJd1kzYXBYZlNjbF9vT09BTjg2b3ZfZkdLMkIxZXlOLW1PaWNiamFudGNFQlA1aDZuSy03azM1akFpR3JMaFFLQzZsdUtzU3",
+    "sources": []
+  },
+  {
+    "id": "mondelez-2026-04-08-005",
+    "date": "2026-04-08",
+    "companies": [
+      "mondelez"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mondelēz International to Report Q1 2026 Financial Results on April 28, 2026 - Kenosha News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZmE3bVAwcDc5RVJnank5NHI1QmtFOGh2anBqVEFDYmtsVEMwUWROZ0pYLVdvbGcta1lCRXpET0kxdU9KTm94T3ctX3czVThSVWV2a3oyYld2amlLWVc0QmpodDZVVVVGT1dKaFBJRF",
+    "sources": []
+  },
+  {
+    "id": "tyson-2026-04-05-002",
+    "date": "2026-04-05",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods Plant Closures And New Accounting Chief Reshape Profit Outlook - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDNCdlV5Nk5aZHBTRWNFRVRvcFo3M29mYW5SSDJaVEoyNkJsM3ZxRjBPamwyQWRKamYteWpDcGY5cFA2OWI1WmlLc2FnSnFQM0p2dTJzVWFyTTk4N0libFBSbDE0bVN3LWxuSmc5d2",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-03-007",
     "date": "2026-04-03",
     "companies": [],
@@ -546,6 +636,30 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-03-05-009",
+    "date": "2026-03-05",
+    "companies": [],
+    "topics": [
+      "food_inflation"
+    ],
+    "impact": "neutral",
+    "title": "Food prices push inflation to 13-month high - Philstar.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOeVpCYU0tM3lpYmJXZ0JmeDZ0akY3RDd4TXVuWk4wWnBHN19VbmkzdkpvTmJrV2pYSVNSVGlSay1WbER5WWkxRWtCNjdxNGtVaUJXNGRUR2NOa3RLX3BKQ3JTS21mQk9mX1h0Zl93S2",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-05-010",
+    "date": "2026-03-05",
+    "companies": [],
+    "topics": [
+      "food_inflation"
+    ],
+    "impact": "neutral",
+    "title": "Higher food prices push inflation up to 2.4% in February 2026 - Rappler",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9VX19tdTE4d0Jfa2pCTlVQaVRlNXdGR1N3MFdkQ2dGU1ZEUUxGZVBXWTNQMlVPS2xWVVVfdGlFVi1jZWhJNDEzZWNEdVFvODg1MnpQVHNaRjhtMUdCcjkyTkxVSVI3YnZidGhBUFV6Ym",
+    "sources": []
+  },
+  {
     "id": "uni_president-2026-03-04-014",
     "date": "2026-03-04",
     "companies": [
@@ -690,6 +804,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-01-16-011",
+    "date": "2026-01-16",
+    "companies": [],
+    "topics": [
+      "raw_material_cost"
+    ],
+    "impact": "neutral",
+    "title": "Inflation Eases to 15.15% Amid Moderation in Energy, Food, Commodity Prices - THISDAYLIVE",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTBNMER1bkdRQlZRRkhzVUVvcndJZ3FxQVFpT0xHOTR2eW5GOThZamtCcEZNR3NXQ3VXUjJlVXZOdU1hcGE1aHhrVVh4R25WeXd6ZTdVNzRUejRnWlZnX0N1VXVTNk5mVXVDTzFpZl",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-01-14-017",
     "date": "2026-01-14",
     "companies": [],
@@ -761,6 +887,18 @@
     "impact": "neutral",
     "title": "Mapped: 16 times extreme weather drove higher food prices since 2022 - Carbon Brief",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOX3VrS0tWamRJOC1lRVlGUUFlYVozMXpRd1M0dC1kbU1hVzRIQWszbk5tVGw4em9FYnZSbVlOVDA5M3RjN3ZYcExQeGx3OTRSbXdGYXliUVZUTlRvRGxubXdmbV8zRU5acURzaExKZ3",
+    "sources": []
+  },
+  {
+    "id": "unknown-2014-10-09-006",
+    "date": "2014-10-09",
+    "companies": [],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan tycoon resigns over food safety scandal - Yahoo News Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQTRJWnVOQ1Q1N05WbzZ4MkJSekhmU3RjVkhuMnhWWF9kSW1ySHdqMklOWE5LNURicTRlMWxobEE4VmZaVE1kVzZSd0t3eldRNWhZRFNTSDRxalpYVDFDLXRTOVNfMVFZMW1ia0JBQV",
     "sources": []
   },
   {
