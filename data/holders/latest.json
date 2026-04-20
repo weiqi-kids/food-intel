@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T08:42:42.695361+00:00",
+  "updated_at": "2026-04-20T09:49:02.456469+00:00",
   "companies": {
     "adm": {
       "name": "Archer-Daniels-Midland",
@@ -144,55 +144,55 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 547169,
           "pct_held": 0.02,
-          "value": 43237292
+          "value": 41847486
         },
         {
           "holder": "Steigerwald, Gordon & Koch, Inc.",
           "shares": 99,
           "pct_held": 0.0,
-          "value": 7822
+          "value": 7571
         },
         {
           "holder": "Kohmann Bosshard Financial Services, LLC",
           "shares": 75,
           "pct_held": 0.0,
-          "value": 5926
+          "value": 5736
         },
         {
           "holder": "Gardner Russo & Quinn, LLC",
           "shares": 11130,
           "pct_held": 0.0,
-          "value": 879492
+          "value": 851222
         },
         {
           "holder": "Atlas Capital Advisors Inc",
           "shares": 1100,
           "pct_held": 0.0,
-          "value": 86921
+          "value": 84128
         },
         {
           "holder": "First Manhattan Co. LLC",
           "shares": 2107,
           "pct_held": 0.0,
-          "value": 166495
+          "value": 161143
         },
         {
           "holder": "Burkett Financial Services, LLC                          ",
           "shares": 160,
           "pct_held": 0.0,
-          "value": 12643
+          "value": 12236
         },
         {
           "holder": "Chickasaw Capital Management, LLC",
           "shares": 4250,
           "pct_held": 0.0,
-          "value": 335834
+          "value": 325040
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 22499,
           "pct_held": 0.0,
-          "value": 1777870
+          "value": 1720723
         }
       ]
     },
