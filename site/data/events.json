@@ -1,5 +1,60 @@
 [
   {
+    "id": "cargill-2026-04-21-001",
+    "date": "2026-04-21",
+    "companies": [
+      "cargill",
+      "adm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Egg Replacement Ingredient Market Forecast and Outlook 2026 to 2036 | Cargill, Archer-Daniels-Midland Company, Kerry Group, Ingredion Incorporated ' | Future Market Insights ' - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxNazZLNWVtaTl1RWVFZDg1ZEJZRFlBUmVNRVFiZXJVeHpBWTV5WlVwUWpNZEsxaGhKNFlaRHI0YkpzaENNU3g3MTJaTkVCZTU3bWNremlTV2l1NngyTlZMQkRzRXc1a1R2enRXcE1DTk",
+    "sources": []
+  },
+  {
+    "id": "costco-2026-04-21-003",
+    "date": "2026-04-21",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Costco announces nationwide item recall for possible injury risk - SILive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkIxNlhPMDBLNE4ydkEweFlzZkE2YnZuUjlLVk42U044U05ieVZwSmdNNXNQV2tDNjhoQ24tc2ZuM2JTbDVGLTZieGZVSndQenpIbDdyYmxzLUhpVUNETm50WEFCbHJqOGFvcHRlZF",
+    "sources": []
+  },
+  {
+    "id": "costco-2026-04-21-004",
+    "date": "2026-04-21",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Costco Tariff Refund Debate Tests Member Pricing And Dividend Growth - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcHliLUt0OFJPcTNubUkyckJ3ZU94QXJ1RXdPYzVud2NyVVNBWDFyd3NuMy05NFF2SmE3RWRDX2NTVEcwaW9vOWVUc3pSYUcxYlpvclpmT2NWQUpHdFZsckdmM3JBYXNqaVkzdWUyNW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-005",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Revival Animal Health recalls canine milk replacers for elevated vitamin D - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa2ktNUd3azhjNElyLVA2Q1huVURUeVZ0dEdya0dZd3YwT0hpSGJiRUs1Y1lCNGhIbVpycE9zeE9kWlFEUkNNRUhLaHZHQlp3azZWQkxMSmJvZ0dwcGJxMWlybXQydXNjMmlBa1VYN2",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-20-002",
     "date": "2026-04-20",
     "companies": [],
@@ -650,6 +705,20 @@
     "sources": []
   },
   {
+    "id": "mondelez-2026-03-20-002",
+    "date": "2026-03-20",
+    "companies": [
+      "mondelez"
+    ],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Aston University and Mondelēz International Partner to Reimagine Food Engineering Technologies - Quality Assurance & Food Safety",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlNCb2lVU3k2b0xoSi15OFhaSi1oQkxkYkhlc1FyS0RpdV81dEpOS21ZWVI0bkhqX283ck8zaTZDM0hlT1otVHpUWERBTkNNYzRUQjFORTNEbG1XbEZqYzhvaW1SakRxODcwVXExQj",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-03-19-009",
     "date": "2026-03-19",
     "companies": [],
@@ -983,6 +1052,18 @@
     "impact": "neutral",
     "title": "The impact of food inflation on the cost of living - The House of Commons Library",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFAtRkhLQmRkUlBudmphVGtaOEk5NFMxY0lCUzVKdk1ocWRYUTIwdXRhZlplSVZpT1MwZXZPY3h0T3RzUmRUQ1p6bHBESkRDYVZ4VXhoRXZGaFZzOU10dVdSQnZMY2xJaDJfcWlhaWJFcU",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-12-22-006",
+    "date": "2025-12-22",
+    "companies": [],
+    "topics": [
+      "food_inflation"
+    ],
+    "impact": "neutral",
+    "title": "Will food inflation fall in DMS next year? - Capital Economics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUZBWnNRMzZsT3d5dnU2WmI2VjJwbGROT0tHdUFwSHlQQUVXME9sMEwzbER6SThzZkZHWFNMM2xjRHVJc29lUE52Uk95c3d6ejY5U25hYmJheHA3YTZoNVUxRjBoREsxNVNjUlpwYn",
     "sources": []
   },
   {
