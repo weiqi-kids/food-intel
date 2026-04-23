@@ -1,5 +1,45 @@
 [
   {
+    "id": "bunge-2026-04-23-002",
+    "date": "2026-04-23",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A Look At Bunge Global (BG) Valuation As Analyst Optimism Builds Before Earnings - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLVZUS1VpREdEVFFQc0lZaHlYUGJrbTljeUh3RjVoVVlIU0doRXR4VjlTLXQ0WHd5SWtES1BrOWNsZ3lJdUJfWUdLT3ZTWmRlclVmSVdkazJucjJiVE5IX1czZEJWaVBTM3dmSzNtYl",
+    "sources": []
+  },
+  {
+    "id": "bunge-2026-04-22-003",
+    "date": "2026-04-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (BG) Expected to Beat Earnings Estimates: Should You Buy? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0ZfTFlxR1YwRVN0N255TllobXN4amtrZ2JJeVZ5Yy1YcEpEM3pydXAtTHJYMExkSFA5LUsyemFBeXRtSTMyZk11Tm8zTDlWNE9lb3Jkd1BHNUxDb2tFdS1VVmlDR05EaWhyTGhUc2",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-004",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Live webinar to dissect the outlook of GLP-1’s impact - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVFOMnJQejIzbTNLNW42NDRjZzc3QzVIaHFGeHBCbHI0ZFRKSkV4TDRoTTVOeGRoeTNvTHVCRWhqbzVGZEcyX0l3UVVEYy1IeTRJeEE1T21YdXBrWExsTV95OFZyc1VRTzNTRUFYek",
+    "sources": []
+  },
+  {
     "id": "cargill-2026-04-21-001",
     "date": "2026-04-21",
     "companies": [
@@ -52,6 +92,20 @@
     "impact": "neutral",
     "title": "Revival Animal Health recalls canine milk replacers for elevated vitamin D - PetfoodIndustry",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa2ktNUd3azhjNElyLVA2Q1huVURUeVZ0dEdya0dZd3YwT0hpSGJiRUs1Y1lCNGhIbVpycE9zeE9kWlFEUkNNRUhLaHZHQlp3azZWQkxMSmJvZ0dwcGJxMWlybXQydXNjMmlBa1VYN2",
+    "sources": []
+  },
+  {
+    "id": "adm-2026-04-21-001",
+    "date": "2026-04-21",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland Company (NYSE:ADM) Q3 2025 Earnings Call Transcript - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gJBVV95cUxPNFNveVkwSDU5VjdyenBlZWNQazl1OGNOc3c4WTRZdmo5X0NnMHpwOXFDQnlGcDBKcEpMSnRnTjlaMUM3U3dhTnllbExhVGowWGtqMmZLNVNKWE44WTVJYV9TT2I5YURjQm5vUWQwQU",
     "sources": []
   },
   {
@@ -602,6 +656,18 @@
     "impact": "neutral",
     "title": "Benign food prices prompt a positive surprise in Turkish inflation - ING THINK economic and financial analysis | ING THINK",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2EtYVMzeUloR3FJQVZ5YTB6bzlsMks4UmN4V2tCXy1neUFSdWRZeGpudHVnNmZpb3IzZ1UzVDk4dF9tVW12ZjRrX1h5cGtEOU9ZVFpFOTlPN20zZE96emxBSkFTVzk2NzB1MFZoZH",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-005",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "food_inflation"
+    ],
+    "impact": "neutral",
+    "title": "Food prices spiked in March as Middle East conflict drove up energy costs, UN says - The Guardian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWmlRNTRLRXRlQmN5Nnc2d2NzZEtQZlpsQmtGM2FvYVlhT1RrMzlMR053VV9lNzY4SldwTlJma044UFRJZkdnOHd6MmtBTTBEN0h2MDNvZ1VXVDkyNng5a0hvc0gxQnR5YTVTamdVUH",
     "sources": []
   },
   {
