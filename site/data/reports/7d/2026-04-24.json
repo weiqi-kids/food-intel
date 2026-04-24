@@ -1,0 +1,101 @@
+{
+  "date": "2026-04-24",
+  "date_range": {
+    "start": "2026-04-18",
+    "end": "2026-04-24"
+  },
+  "generated_at": "2026-04-24T09:22:48.607536Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "adm-2026-04-20-001",
+      "date": "2026-04-20",
+      "title": "Plant-based Protein Market Forecast and Outlook 2026 to 2036 | Cargill, Archer-Daniels-Midland Company, Kerry Group, Roquette, Ingredion Incorporated - PR Newswire UK",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "food_safety": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "bunge": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "costco": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 7,
+        "last": 8,
+        "change_pct": -12.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-20",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 4,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-18 ~ 2026-04-24）共 7 則事件，重點為「Plant-based Protein Market Forecast and Outlook...」。食品安全、法說會為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "好市多",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
