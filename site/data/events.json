@@ -56,6 +56,34 @@
     "sources": []
   },
   {
+    "id": "walmart-2026-04-24-003",
+    "date": "2026-04-24",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Dumbbells sold at Walmart recalled. See affected product - USA Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0VhVGFOLS1qY2ZNSXN0aEZlY0JYc2ZkTWU2MmJFQWgxR0dsUm1OcFN0NDVMc25hNWdhQWZoVFVvelYzNGpZUHViYnhLNnlHQ1V4YkJ5ZlF2QWVoT3pmSzd6a01mdEhFanJ6cTNYNz",
+    "sources": []
+  },
+  {
+    "id": "walmart-2026-04-24-004",
+    "date": "2026-04-24",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Walmart Posts 5.4% Profit Growth in Annual Report, Driven by E-commerce - Progressive Grocer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWhDbU5WM2FoWm43ZVhDSGVyTjVTTmljMHMxbGYwX2dqVW01VzhRSzR6S0ROV1RWV2s0YmFNOWdrc0RSRXRLcjVPZEIybEgzR01OUU5lRmRsV1huWUFPenZPT0w3X0dwenJVa19HQ0",
+    "sources": []
+  },
+  {
     "id": "bunge-2026-04-23-002",
     "date": "2026-04-23",
     "companies": [
@@ -131,6 +159,20 @@
     "impact": "neutral",
     "title": "Live webinar to dissect the outlook of GLP-1’s impact - Food Business News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVFOMnJQejIzbTNLNW42NDRjZzc3QzVIaHFGeHBCbHI0ZFRKSkV4TDRoTTVOeGRoeTNvTHVCRWhqbzVGZEcyX0l3UVVEYy1IeTRJeEE1T21YdXBrWExsTV95OFZyc1VRTzNTRUFYek",
+    "sources": []
+  },
+  {
+    "id": "costco-2026-04-22-007",
+    "date": "2026-04-22",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Generac recalls portable generators sold at Costco over fire risk - Fox Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlZ4Z0sxRlU4RWhGbDJXTUUwM0dibHZZcTlvYUZ6cU9xWEU2UmpfS2ZpQjhnVllaa2RpY0pIcHpKeGl0UGFTeDJQbWRHTGt0NGlOWEp2VUNaS1VhMFdnb2ZqQ2VyRUt5SUI5VW1GSU",
     "sources": []
   },
   {
@@ -891,6 +933,20 @@
     "sources": []
   },
   {
+    "id": "bunge-2026-03-17-001",
+    "date": "2026-03-17",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global SA Announces Pricing of $1.2 Billion Senior Notes Offering - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOWWpuLWtPR2RuN1JEWjRlcGVDenFTTURrNXp2NFRfZ09nNDU0eTdqMG1USkdnRWRnS25tZmtwN1djTnNodktpY3ZqV1ZKcVl0YWtpdkROd1p1anRXRkQ2cF9LN3lFSE9yUjdXVXpsQ3",
+    "sources": []
+  },
+  {
     "id": "uni_president-2026-03-13-016",
     "date": "2026-03-13",
     "companies": [
@@ -978,6 +1034,20 @@
     "impact": "neutral",
     "title": "Higher food prices push inflation up to 2.4% in February 2026 - Rappler",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9VX19tdTE4d0Jfa2pCTlVQaVRlNXdGR1N3MFdkQ2dGU1ZEUUxGZVBXWTNQMlVPS2xWVVVfdGlFVi1jZWhJNDEzZWNEdVFvODg1MnpQVHNaRjhtMUdCcjkyTkxVSVI3YnZidGhBUFV6Ym",
+    "sources": []
+  },
+  {
+    "id": "uni_president-2026-03-05-002",
+    "date": "2026-03-05",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "H-share Announcement Highlights | Uni-President China Holdings Limited's profit attributable to shareholders for 2025 increased by 10.88% year-on-year to RMB 2.05 billion, with a final dividend of RMB 0.4747 per share. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnBTdTlESjVTcjhQenAxQkNWbXA3cW9hRW9PUkk1MHB0aTV4c015VXlpRGxlUTdXQzQ3SXBCSEFIVXdxOEI3MnRydmlyT1llT2F1bVVQVldCM3ZUY0JZcWtBX2Q0UkZKSktFcFF1X1",
     "sources": []
   },
   {
