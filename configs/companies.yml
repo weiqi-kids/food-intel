@@ -1,5 +1,3 @@
-# 食品供應鏈情報追蹤 - 公司清單
-
 companies:
 - id: adm
   name: Archer-Daniels-Midland
@@ -20,6 +18,7 @@ companies:
   - tyson
   - general_mills
   - mondelez
+  fetch_mode: http
 - id: bunge
   name: Bunge Global
   aliases:
@@ -39,6 +38,7 @@ companies:
   - tyson
   - general_mills
   - mondelez
+  fetch_mode: http
 - id: ttet
   name: 大統益
   aliases:
@@ -55,6 +55,7 @@ companies:
   - uni_president
   - wei_chuan
   - standard_foods
+  fetch_mode: http
 - id: cargill
   name: Cargill
   aliases:
@@ -71,6 +72,7 @@ companies:
   - coca_cola
   - pepsico
   - tyson
+  fetch_mode: http
 - id: nestle
   name: Nestlé
   aliases:
@@ -90,6 +92,7 @@ companies:
   downstream:
   - walmart
   - costco
+  fetch_mode: http
 - id: coca_cola
   name: The Coca-Cola Company
   aliases:
@@ -110,6 +113,7 @@ companies:
   downstream:
   - walmart
   - costco
+  fetch_mode: http
 - id: pepsico
   name: PepsiCo
   aliases:
@@ -129,6 +133,7 @@ companies:
   downstream:
   - walmart
   - costco
+  fetch_mode: http
 - id: tyson
   name: Tyson Foods
   aliases:
@@ -148,6 +153,7 @@ companies:
   downstream:
   - walmart
   - costco
+  fetch_mode: http
 - id: general_mills
   name: General Mills
   aliases:
@@ -165,6 +171,7 @@ companies:
   downstream:
   - walmart
   - costco
+  fetch_mode: http
 - id: mondelez
   name: Mondelēz International
   aliases:
@@ -183,6 +190,7 @@ companies:
   downstream:
   - walmart
   - costco
+  fetch_mode: http
 - id: uni_president
   name: 統一企業
   aliases:
@@ -201,6 +209,7 @@ companies:
   downstream:
   - walmart
   - costco
+  fetch_mode: http
 - id: wei_chuan
   name: 味全食品
   aliases:
@@ -215,6 +224,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Wei+Chuan+Foods"&hl=en&gl=US&ceid=US:en
   upstream:
   - ttet
+  fetch_mode: http
 - id: standard_foods
   name: 佳格食品
   aliases:
@@ -230,6 +240,7 @@ companies:
   upstream:
   - ttet
   - adm
+  fetch_mode: http
 - id: kraft_heinz
   name: Kraft Heinz
   aliases:
@@ -247,6 +258,7 @@ companies:
   downstream:
   - walmart
   - costco
+  fetch_mode: http
 - id: walmart
   name: Walmart
   aliases:
@@ -267,6 +279,7 @@ companies:
   - general_mills
   - mondelez
   - kraft_heinz
+  fetch_mode: http
 - id: costco
   name: Costco Wholesale
   aliases:
@@ -287,6 +300,7 @@ companies:
   - general_mills
   - mondelez
   - kraft_heinz
+  fetch_mode: http
 etfs:
 - id: pbj
   name: Invesco Dynamic Food & Beverage ETF
