@@ -1,10 +1,16 @@
 {
-  "total_raw": 0,
-  "dup_title": 0,
+  "total_raw": 251,
+  "dup_title": 55,
   "no_date": 0,
-  "too_old": 0,
-  "gate1_fail": 0,
-  "gate2_fail": 0,
+  "too_old": 112,
+  "gate1_fail": 30,
+  "gate2_fail": 54,
   "passed": 0,
-  "gate2_samples": []
+  "gate2_samples": [
+    "Archer-Daniels-Midland Taps Growing Dairy Blends Theme In Ingredients Story - simplywall.st",
+    "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
+    "Archer Daniels Midland (ADM) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+    "ADM Financials: Income Statement, Balance Sheet & Cash Flow | Archer Daniels Midland Co - Stock Tita",
+    "Archer-Daniels-Midland Taps Dairy Blends Growth As Valuation Question Lingers - Yahoo Finance"
+  ]
 }
