@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:18:52.913579Z",
+  "generated_at": "2026-04-26T08:51:49.779925Z",
   "top_events": [],
   "anomalies": [],
   "topic_trends": {},
@@ -14,6 +14,24 @@
     },
     "top_companies": [],
     "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 274,
+    "dup_title": 53,
+    "too_old": 111,
+    "gate1_blocked": 44,
+    "gate2_blocked": 52,
+    "passed": 14,
+    "pass_rate": "6.3%",
+    "gate2_block_rate": "23.5%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) stock sinks as market gains: What you should know - MSN",
+      "Is Archer-Daniels-Midland (ADM) Still Attractive After A 49% One-Year Share Price Jump - simplywall.",
+      "ADM Financials: Income Statement, Balance Sheet & Cash Flow | Archer Daniels Midland Co - Stock Tita",
+      "Archer-Daniels-Midland Taps Growing Dairy Blends Theme In Ingredients Story - simplywall.st",
+      "Archer-Daniels-Midland Taps Dairy Blends Growth As Valuation Question Lingers - Yahoo Finance"
+    ],
+    "alert": false
   },
   "llm_analysis": {
     "summary": "2026-04-26 無食品產業相關事件。市場處於平靜狀態，無重大訊號。",

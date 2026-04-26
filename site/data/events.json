@@ -162,6 +162,24 @@
     ]
   },
   {
+    "id": "costco-2026-04-25-010",
+    "date": "2026-04-25",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lawsuit unveils big problem with Costco staple rotisserie chicken - thestreet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcExSUksySVBoS0k1RG9PNlBPUEMtUU1GMzRWdkVCTGIyMFE0NFZZZGNXemw1aWNPSGdiZ1o4aGstbTloUkU3ajdEeFR0d1ZKdldVMURGLWpNZEpkZWltSzd2TElJdHZMZHMwU2Jpa0",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcExSUksySVBoS0k1RG9PNlBPUEMtUU1GMzRWdkVCTGIyMFE0NFZZZGNXemw1aWNPSGdiZ1o4aGstbTloUkU3ajdEeFR0d1ZKdldVMURGLWpNZEpkZWltSzd2TElJdHZMZHMwU2Jpa0lORVUweE1LZmdDOUFvRnVQVHVFOW5sVHlHc01DeWZWZlc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "costco-2026-04-24-003",
     "date": "2026-04-24",
     "companies": [
@@ -462,6 +480,150 @@
     ]
   },
   {
+    "id": "walmart-2026-04-24-021",
+    "date": "2026-04-24",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Meet the new CEOs leading Walmart, Lululemon, and other retailers in 2026 - Business Insider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdXdqZUJ1eWhYM2JPcG1LOHRaT0QtT2MweUpMQ0xtZVhkVUpXS1FBZE0tTEVUMzlyd0ZwYXBSbjhJTWpDMU1RMUtUZ1FMN1FRZjFBT3U0Nl93T0h2WkgwLVlBRVFDVnBsMEN4Sm1kLW",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdXdqZUJ1eWhYM2JPcG1LOHRaT0QtT2MweUpMQ0xtZVhkVUpXS1FBZE0tTEVUMzlyd0ZwYXBSbjhJTWpDMU1RMUtUZ1FMN1FRZjFBT3U0Nl93T0h2WkgwLVlBRVFDVnBsMEN4Sm1kLWRodjVubDA2eHEzNXJFLVlibENIVDBzZEU5RGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-04-24-022",
+    "date": "2026-04-24",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco China Operator Faces Lawsuit From Beijing Namesake Firm - Yicai Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSVVmbllHdGdQUVlTQ1dsRDc4dEw0bjgtakFqTWhacWUyVWN3cmtZMG5wZFluLVRpdVp5bnd6VkJTSGFraUt6OEV6cWVNZkRVYmd5QkZCeDlWcUx4M2NZSG40TzZraFNSWmRONTFTQW",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSVVmbllHdGdQUVlTQ1dsRDc4dEw0bjgtakFqTWhacWUyVWN3cmtZMG5wZFluLVRpdVp5bnd6VkJTSGFraUt6OEV6cWVNZkRVYmd5QkZCeDlWcUx4M2NZSG40TzZraFNSWmRONTFTQW1aYlFwUEJXTzlxLTFDSDR5R2hUM2xKUEs2YXd5YlhvZkZUUjJDb1ptU0xkZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-023",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Trail mix recalled because of undeclared allergens",
+    "summary": "<p>Ferris Coffee &amp; Nut Co. of Grand Rapids, MI, is recalling a single lot of Frederik&#x2019;s by Meijer Vanilla Bourbon Trail Mix because it may contain undeclared wheat and soy.&#xA0;</p><p>Peop",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/04/trail-mix-recalled-because-of-undeclared-allergens/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-024",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Bonbons recalled because of undeclared nuts",
+    "summary": "<p>French Broad Chocolates PBC is recalling Bette&#x2019;s Bake Sale Bonbon Collection boxes with batch numbers 260414 and 260417 because of the potential to contain undeclared walnuts.&#xA0;</p><p>Pe",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/04/bonbons-recalled-because-of-undeclared-nuts/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-025",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Food Safety Summit offers free live-streamed sessions",
+    "summary": "<p>The 2026 <a href=\"https://www.food-safety.com/food-safety-summit/agenda?ref=foodsafetynews.com\"><u>Food Safety Summit</u></a> is just two weeks away, bringing together food safety professionals fro",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/04/food-safety-summit-offers-free-live-streamed-sessions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-026",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "positive",
+    "title": "EU audit shows improved Brazilian Salmonella situation for pepper and watermelon",
+    "summary": "<p>An assessment of black pepper controls in Brazil has revealed the Salmonella contamination rate has improved but raised questions about a lack of checks at primary production level.</p><p>The Septe",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/04/eu-audit-shows-improved-brazilian-salmonella-situation-for-pepper-and-watermelon/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nestle-2026-04-24-027",
+    "date": "2026-04-24",
+    "companies": [
+      "nestle"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nestlé job cull begins in Europe under plan to eliminate 16,000 positions",
+    "summary": "<p>Nestlé has started to roll out job cuts in Europe as part of the 16,000-cull announced by CEO Philipp Navratil in October.</p>\n<p>The post <a href=\"https://www.just-food.com/news/nestle-job-cuts-be",
+    "sources": [
+      {
+        "name": "just_food",
+        "url": "https://www.just-food.com/news/nestle-job-cuts-begin-in-europe-under-plan-to-eliminate-16000-positions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-028",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "food_inflation"
+    ],
+    "impact": "neutral",
+    "title": "UK food inflation could hit 7% – Bank of England survey",
+    "summary": "<p>UK food inflation could reach 7% this year, businesses have told the Bank of England after the Food & Drink Federation predicted 9-10%.</p>\n<p>The post <a href=\"https://www.just-food.com/news/uk-fo",
+    "sources": [
+      {
+        "name": "just_food",
+        "url": "https://www.just-food.com/news/uk-food-inflation-could-hit-7-bank-of-england-survey/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "bunge-2026-04-23-002",
     "date": "2026-04-23",
     "companies": [
@@ -586,6 +748,64 @@
     ]
   },
   {
+    "id": "unknown-2026-04-23-009",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Online food platforms fined in China",
+    "summary": "<p>Chinese authorities have issued penalties against seven e-commerce platforms for violations including food safety.</p><p>The State Administration for Market Regulation (SAMR) imposed fines for a se",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/04/online-food-platforms-fined-in-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-010",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Cantaloupes recalled because of Salmonella",
+    "summary": "<p>The U.S. Food and Drug Administration is reporting that Ayco Farms Inc., recalled 8,302 cartons of whole cantaloupes because the fruit may be contaminated with Salmonella.</p><p>The cantaloupes wer",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/04/cantaloupes-recalled-because-of-salmonella/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nestle-2026-04-23-011",
+    "date": "2026-04-23",
+    "companies": [
+      "nestle"
+    ],
+    "topics": [
+      "food_safety",
+      "health_wellness",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nestlé confident of infant-formula “recovery” after first-quarter sales impact",
+    "summary": "<p>Nestlé is confident it can fully recover lost sales from the infant-formula recall that drove a sequential slowdown in its organic growth.</p>\n<p>The post <a href=\"https://www.just-food.com/news/ne",
+    "sources": [
+      {
+        "name": "just_food",
+        "url": "https://www.just-food.com/news/nestle-confident-of-infant-formula-recovery-after-first-quarter-sales-impact/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "bunge-2026-04-22-003",
     "date": "2026-04-22",
     "companies": [
@@ -624,6 +844,24 @@
     "title": "Generac recalls portable generators sold at Costco over fire risk - Fox Business",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlZ4Z0sxRlU4RWhGbDJXTUUwM0dibHZZcTlvYUZ6cU9xWEU2UmpfS2ZpQjhnVllaa2RpY0pIcHpKeGl0UGFTeDJQbWRHTGt0NGlOWEp2VUNaS1VhMFdnb2ZqQ2VyRUt5SUI5VW1GSU",
     "sources": []
+  },
+  {
+    "id": "tyson-2026-04-22-004",
+    "date": "2026-04-22",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tyson Foods Faces Antitrust Probe While Shares Trade Below Fair Value - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkNZcUpXd3lLVUVIcE9RM1YzLS00WTByaWtLN3cwX2VsZHg2YUNWM3ZiZkZIV0ZEb2x1bXhJNWFHRXBNZC12czRrZnI3QWhaOU5KTTdlYVNqZTlvNVRuMHI4TXhmZHRRZ2tEX1ZQMn",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkNZcUpXd3lLVUVIcE9RM1YzLS00WTByaWtLN3cwX2VsZHg2YUNWM3ZiZkZIV0ZEb2x1bXhJNWFHRXBNZC12czRrZnI3QWhaOU5KTTdlYVNqZTlvNVRuMHI4TXhmZHRRZ2tEX1ZQMnBWNkVkbU5kcm9SaGVMUkZxYWZYcVJRelkzZE1tUTVfc2pyQ3UxQnFtM3dDNE5IOWM?oc=5",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "cargill-2026-04-21-001",
@@ -708,6 +946,24 @@
       {
         "name": "bunge",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNW5ZTWhqV1dPVElfSTVKZFpNVndiTmo1elpuWDNYbGF5STNoNDM3SnN5RDd5d1JVRS1Rc3A2V1dnWjVRajdiT19KT2tCWUNmODd0UnAyRGNOamVZckxxSEZsVjRjXzBnSzJhU1gxb1ctZ0p3ZDk3UmdnenptUGZ1dGhmYUZJbFMtLTRsRGw5UmQ2bUtoUWI0U3h4SS1MeV82QUNIT19sRlFzbEtYWkhyRTA0MFZpOW13SXFSQkJTYnBVZ3JRQjNr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-04-21-007",
+    "date": "2026-04-21",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tyson Foods delivers free meals to New London residents amid flooding - Spectrum News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTEdVZUJkdDJiaFVKZmZrXzZYNnlPRmx5Rk16WHREak1ERGVFTTlxOU42SkZlZHpNWV9ybzVwWEl5MnAwZmUtckNpVUwyMnNrQkczdjgwNnFROXVNdTBsTzBJdi0zVkE1cEo4TDJocW",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTEdVZUJkdDJiaFVKZmZrXzZYNnlPRmx5Rk16WHREak1ERGVFTTlxOU42SkZlZHpNWV9ybzVwWEl5MnAwZmUtckNpVUwyMnNrQkczdjgwNnFROXVNdTBsTzBJdi0zVkE1cEo4TDJocWh4aWExLTB5bEJQQWVPTEpSQWRENnNkVVk3MkVMU2w5V3ZIRXJKdmhxbi1mc0dfQQ?oc=5",
         "type": "rss"
       }
     ]
