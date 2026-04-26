@@ -1,11 +1,11 @@
 {
-  "total_raw": 274,
-  "dup_title": 53,
+  "total_raw": 539,
+  "dup_title": 110,
   "no_date": 0,
-  "too_old": 111,
-  "gate1_fail": 44,
-  "gate2_fail": 52,
-  "passed": 14,
+  "too_old": 228,
+  "gate1_fail": 50,
+  "gate2_fail": 69,
+  "passed": 82,
   "gate2_samples": [
     "Archer Daniels Midland (ADM) stock sinks as market gains: What you should know - MSN",
     "Is Archer-Daniels-Midland (ADM) Still Attractive After A 49% One-Year Share Price Jump - simplywall.",

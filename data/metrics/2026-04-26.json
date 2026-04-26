@@ -1,8 +1,30 @@
 {
   "date": "2026-04-26",
-  "total_events": 0,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 9,
+  "by_company": {
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "walmart": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "costco": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {},
     "topics": {}
