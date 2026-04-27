@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:41:51.230712Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 100,
+    "too_old": 121,
+    "gate1_blocked": 7,
+    "gate2_blocked": 14,
+    "passed": 23,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "8.5%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
+      "Zacks.com featured highlights include Archer Daniels Midland, Bunge, ProFrac, Cardinal and Centene -",
+      "Bunge Global SA: The technical configuration is positive - marketscreener.com",
+      "Morgan Stanley Sees A Modest Q1 Beat For Bunge And ADM - Finimize",
+      "Initiative China retains Uni-President media remit - Campaign Asia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-04-27 無食品產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
