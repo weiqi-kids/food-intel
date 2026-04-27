@@ -1,9 +1,55 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:37:36.114755Z",
+  "generated_at": "2026-04-27T10:07:37.862948Z",
   "top_events": [
     {
       "rank": 1,
+      "event_id": "unknown-2026-04-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cracking the latest dietary guidance with walnuts",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fooddive.com/spons/cracking-the-latest-dietary-guidance-with-walnuts/817647/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-27-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA cites Ocean Group Inc. seafood facilities for Listeria, sanitation failures across four sites",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/04/fda-cites-ocean-group-inc-seafood-facilities-for-listeria-sanitation-failures-across-four-sites/"
+    },
+    {
+      "rank": 3,
       "event_id": "mondelez-2026-04-27-001",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -23,11 +69,63 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRkViSXBsY2lJWmtQdlA5emYzTDVXV0kyN0JXR1VHYy12WHRyVEVmUEdPUEZETE5scXJvdlVXdDIyTzNTYkg2WGpjRGFIWDdBNVhkRzgwZjdfVHh1U0J2MDRFTmF4cDBPRGYzVDR2RUJuaE9SalhqVXlqN2V0dDdRN192TUEtX3lNd1JmbmhSTGRsaVhiMWVISUZYbmhQeTJvM3NVVnJrUHF6R0sxellpWnl3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mondelez-2026-04-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mondelēz International publishes latest ‘Snacking Made Right’ report - Sustainability Online",
+      "companies": [
+        "mondelez"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMWVTNGh0UVNjX0c0cjBiUDk0dEJSUl9GampmTWZ5ZzhkWWROSU9aTFRDVUpLeFMwcEZrcDVlLVFVVzZ4WnN6WGdocmtUbXlJUUVkYjRqN0N1NDVNNWxVcmVCZkpPV252Q0QyNnRrWmNxRU9jUVZnSmU4ckdfSkh1UWpIb0p3Y29Bb2VCN1ZBQ3dLbm9GOHhUWmpaUFcxUFVRLW9rVmpNS3k?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Case Packing and Palletizing Automation in 2026: Adapting to SKU Growth and Tighter Labor Markets - Food Industry Executive",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONldFXzdPMXJ3aXVpa2NpaXUxMnFwSmtWdE5aMElhdk5xT0lWbWtVNjd2ZC1ndlg0Y2R6VElaUTh2UmRXeG1vTFVlcG9hZGtlRWhQcWV2YWtLdEVLRW50Tlk5U3Vxal82bW5tWTNxUFFYeVFxVGtST1VhMUtYT1BWRFdMWEw1VU1qa0J4MHpPX0FnZkFxbzdzM1hERVRJdEtSS096VDZJVnF4YUk1ZDRlSE1FeXQ1dUpXMk1odGd2X0pvaFduWnQzQ0tZQVV1VHVScmczMy1B?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
       "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
@@ -36,38 +134,56 @@
       "consecutive_weeks_rising": 0,
       "sentiment_today": 0.0,
       "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 1,
+    "total_events": 12,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 1,
-      "negative": 0
+      "positive": 2,
+      "neutral": 9,
+      "negative": 1
     },
     "top_companies": [
       {
         "id": "mondelez",
-        "count": 1
+        "count": 2
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      },
+      {
+        "id": "earnings",
         "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 529,
-    "dup_title": 219,
-    "too_old": 242,
-    "gate1_blocked": 14,
-    "gate2_blocked": 29,
-    "passed": 25,
-    "pass_rate": "8.1%",
-    "gate2_block_rate": "9.4%",
+    "total_raw": 793,
+    "dup_title": 320,
+    "too_old": 360,
+    "gate1_blocked": 22,
+    "gate2_blocked": 51,
+    "passed": 40,
+    "pass_rate": "8.5%",
+    "gate2_block_rate": "10.8%",
     "gate2_samples": [
       "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
       "Zacks.com featured highlights include Archer Daniels Midland, Bunge, ProFrac, Cardinal and Centene -",
@@ -78,14 +194,14 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 1 則事件，焦點為億滋相關動態：「Mondelēz International reshapes Filipino snacking habits ...」。主要關注主題為產業通用，市場情緒中性。",
+    "summary": "今日共 12 則事件，焦點為億滋相關動態：「Cracking the latest dietary guidance with walnuts」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
-        "text": "Mondelēz International reshapes Filipino snacking habits through ‘Snack na Sw...（產業通用）",
-        "level": "green"
+        "text": "Cracking the latest dietary guidance with walnuts（法說會、產業通用）",
+        "level": "yellow"
       },
       {
-        "text": "億滋為今日主要關注企業。",
+        "text": "FDA cites Ocean Group Inc. seafood facilities for Listeria, sanitation failur...（食品安全、產業通用）",
         "level": "green"
       }
     ]
