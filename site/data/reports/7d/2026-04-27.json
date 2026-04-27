@@ -4,7 +4,7 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T01:41:51.300020Z",
+  "generated_at": "2026-04-27T03:37:36.178372Z",
   "highlights": [
     {
       "rank": 1,
@@ -30,7 +30,7 @@
       "sentiment_this_week": 0.0
     },
     "industry_general": {
-      "this_week": 7,
+      "this_week": 8,
       "last_week": 0,
       "week_over_week_change": "N/A",
       "sentiment_this_week": 0.0
@@ -56,56 +56,61 @@
       "event_count": 2,
       "sentiment_avg": 0.0,
       "rank": 3
+    },
+    "mondelez": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 14,
-        "last": 10,
-        "change_pct": 40.0
+        "this": 149,
+        "last": 35,
+        "change_pct": 325.7
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-04-21",
-      "event_count": 0,
+      "event_count": 14,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-22",
-      "event_count": 0,
+      "event_count": 13,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-23",
-      "event_count": 1,
+      "event_count": 29,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-24",
-      "event_count": 4,
+      "event_count": 57,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-25",
-      "event_count": 0,
+      "event_count": 16,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-26",
-      "event_count": 9,
+      "event_count": 19,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-27",
-      "event_count": 0,
+      "event_count": 1,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 14 則事件，重點為「Egg Replacement Ingredient Market Forecast and ...」。產業通用、食品安全、法說會為本週焦點話題。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 149 則事件，重點為「Egg Replacement Ingredient Market Forecast and ...」。事件量較上週增加 326%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "好市多",

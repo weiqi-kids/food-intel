@@ -1,11 +1,11 @@
 {
-  "total_raw": 265,
-  "dup_title": 100,
+  "total_raw": 529,
+  "dup_title": 219,
   "no_date": 0,
-  "too_old": 121,
-  "gate1_fail": 7,
-  "gate2_fail": 14,
-  "passed": 23,
+  "too_old": 242,
+  "gate1_fail": 14,
+  "gate2_fail": 29,
+  "passed": 25,
   "gate2_samples": [
     "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
     "Zacks.com featured highlights include Archer Daniels Midland, Bunge, ProFrac, Cardinal and Centene -",
