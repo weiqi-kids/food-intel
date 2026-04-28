@@ -1,87 +1,87 @@
 {
   "adm": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "bunge": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "ttet": {
-    "earliest": "2020-11-23",
-    "latest": "2026-04-27",
-    "count": 1313
+    "earliest": "2020-08-25",
+    "latest": "2026-04-28",
+    "count": 1375
   },
   "nestle": {
-    "earliest": "2020-11-20",
-    "latest": "2026-04-27",
-    "count": 1364
+    "earliest": "2020-08-24",
+    "latest": "2026-04-28",
+    "count": 1429
   },
   "coca_cola": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "pepsico": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "tyson": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "general_mills": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "mondelez": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "uni_president": {
-    "earliest": "2020-11-23",
-    "latest": "2026-04-27",
-    "count": 1313
+    "earliest": "2020-08-25",
+    "latest": "2026-04-28",
+    "count": 1375
   },
   "wei_chuan": {
-    "earliest": "2020-11-23",
-    "latest": "2026-04-27",
-    "count": 1313
+    "earliest": "2020-08-25",
+    "latest": "2026-04-28",
+    "count": 1375
   },
   "standard_foods": {
-    "earliest": "2020-11-23",
-    "latest": "2026-04-27",
-    "count": 1313
+    "earliest": "2020-08-25",
+    "latest": "2026-04-28",
+    "count": 1375
   },
   "kraft_heinz": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "walmart": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "costco": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "etf_pbj": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "etf_vdc": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   }
 }

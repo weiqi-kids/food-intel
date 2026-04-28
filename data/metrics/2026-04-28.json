@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-28",
+  "total_events": 11,
+  "by_company": {
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "costco": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "nestle": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": 0.05
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "food_safety": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
