@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 84,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 5,
+  "gate2_fail": 19,
+  "passed": 56,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
+    "Is Archer-Daniels-Midland Co (ADM) Overvalued After 3.2% Rally? - GuruFocus",
+    "Archer Daniels Midland Company (ADM) Proxy filing Summary - Quartr",
+    "Archer Daniels Midland Company (ADM) Proxy filing Summary - Quartr",
+    "Dimensional VA U.S. Targeted Value Portfolio's Bunge Global SA(BG) Holding History - GuruFocus"
+  ]
+}

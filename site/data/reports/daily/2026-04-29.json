@@ -1,0 +1,209 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T09:59:28.409451Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-04-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lexington City Council meeting discusses Tyson Foods property - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRWNwV3YxamNLbkw4by1qajh6MUhzaXZfYmd2b1FXaWxkOG1GMWtTYkNoNlNlNk0zTDlZYVhibEprYWI5NnV6a1FVZHZMekpNNWVxazc0dEpJd2Y4UTN6Ti1BTzhXRUJkWGRvU1FacGV3SXZqVDZNUjhjQXBYOU44X0dIVUhaLTR1bDFZN3hWME1vVzdZMC1Oa3Qyd19IcEVqb29YQnRB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-04-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lexington City Council authorizes city manager to sign agreements with Tyson Foods - KSNB",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcWVJWWlIbGFlckFCem80SkNESWY1bEMwY0haWjU0aFVaOU5LQ3RsMmNjRHhxckpRMFpyZjI1eFM1Z0o2dEt1ai1FbUNFWnpLQzBvTmZzbGNGSTJXMUxYbkpWUVdDN0pXYVZEbmRHWEdISExNWmU5MEh6REM2eHFKX1UtSHNCckpwMExWbHJRU19tQ3k1Wk5vRUx3dWdrQU9qaERFZmd1RWZJM0RUam1ENFc0S2U4VFA2MFHSAc4BQVVfeXFMTnJqV1FLREh5QmVVNVVmeVM5LWpwUmpxejJZWFhSb2ExdUQzSERMa2VrbXNzYWU5LVI1MkRqcmpGLTZQWEhlNHFRWVVkUUphRUdJb2ZXWGVtQ0pHT0t6bDlDdEM2R2psOU40Q1dES2FPYVVncGdJN3pQTjQ1a1c4Z2pSSUdPMzhiaFNaV2dQLW5DYXlNOEduLVVFTlBISmxjZkVNbjB5MHpfZ1ZhQU5Ma0w4UTBaanNweWNRQUtyU1pBeW81blk1SmpaNEROVUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Alimentaria FoodTech, a key meeting point for the entire food industry - Asia Food Journal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVJHdWdQOF94U0xJVXhYMlMzajJOakd6ellQR3JpaE94dlh5WVFIZUNYd1BaQ1NFSzk1enRzaXVnMmdxMW96RDRZZFJhRzZIQlZsQThQWWNsWFp6M0ZrZDBILXBEUnNYWndTRi1xVGg2WkNkNUVaWmdOSlNoRlQtR0xVcTlSbnpPRm1Gb3J0ZTF3NDczLUtSVENKdDdKdms?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Global Energy Shock to Drive Commodity Prices to Highs, Threatening Growth and Food Security: World Bank - Devdiscourse",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_cost",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWVA4V1Y3cHZaMFVma0xHTFEtTDFiM2wtcko5dl9jYm5HVXBqY2NBZm4xY29KTnN6RUV3WGFONktzV3dwdXBTNkZnTFB3eXZDV2w5QVNsYVNJWlVrMWh5XzVIVnFzbFlfT3FTaHVXWlpycjlhRndPTjdfOTB6UlpyaThzY0lwMC1BUE1EYVh2U3NXTzlKVVZjWTNFUVJqd1NmWkJwdGY2QzNqSlFEcERkb2VqMWNIMXJnd01XLUZ0blYyd2wtOGxKMWJOeEk2VjdWSkpKaEpncFdvZEVYUFJrYXMtZlhsdVJ4dVdVM9IB8gFBVV95cUxOVXZyeFctS09YUmR0QzBQUlowamdtYWhZaGM4aFJheVRkb1g0b2p1UndRR2lQS09tdmdZRUd6TXItdjhHRkpGZlA0QlpQMmNEcDFGWFh1YVhUdEJUOTAzdG5ORVZNV1VSRkVEcDBvVnJuN1lEOFRVUFE4MXY5QXFqR1hfM0VfUUpnMXJnZ0FnVFNyblV3NFAzUmo4UGp0MnN2ZHE3N3dxeU5QSUUtcFlpN29vNDBNbkNKNWhmY1RTbUxMcG02Vmx5VXlrYXh2YmVERjgwUHBiRlhjeUdKRTMtWHdsN0I0c2k0bFFMVGFBN19TQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Review highlights need to focus attention on emerging pathogen",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/04/review-highlights-need-to-focus-attention-on-emerging-pathogen/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "raw_material_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 84,
+    "too_old": 101,
+    "gate1_blocked": 5,
+    "gate2_blocked": 19,
+    "passed": 56,
+    "pass_rate": "30.9%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
+      "Is Archer-Daniels-Midland Co (ADM) Overvalued After 3.2% Rally? - GuruFocus",
+      "Archer Daniels Midland Company (ADM) Proxy filing Summary - Quartr",
+      "Archer Daniels Midland Company (ADM) Proxy filing Summary - Quartr",
+      "Dimensional VA U.S. Targeted Value Portfolio's Bunge Global SA(BG) Holding History - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為泰森食品相關動態：「Lexington City Council meeting discusses Tyson Foods prop...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lexington City Council meeting discusses Tyson Foods property - KOLN | Nebras...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lexington City Council authorizes city manager to sign agreements with Tyson ...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "原物料成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
