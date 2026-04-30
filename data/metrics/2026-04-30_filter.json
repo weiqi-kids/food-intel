@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 75,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 6,
+  "gate2_fail": 20,
+  "passed": 72,
+  "gate2_samples": [
+    "Archer Daniels Midland (NYSE:ADM) Reaches New 52-Week High - Here's What Happened - MarketBeat",
+    "Archer Daniels Midland Company (ADM) Proxy filing Summary - Quartr",
+    "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
+    "Archer Daniels Midland Company (ADM) Proxy filing Summary - Quartr",
+    "Bunge Global SA reports $21.9B sales, $0.35 EPS in 10-Q - TradingView"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T09:59:24.504632Z",
+  "updated_at": "2026-04-30T09:59:59.334883Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-02-28",
   "companies": [
     {
@@ -91,14 +91,14 @@
       "name": "億滋",
       "ticker": "MDLZ",
       "currency": "USD",
-      "ar": 3903000000,
-      "ar_prev": 4189000000,
-      "ar_qoq": "-7%",
-      "inventory": 4419000000,
-      "inv_prev": 5098000000,
-      "inv_qoq": "-13%",
+      "ar": 4397000000,
+      "ar_prev": 3903000000,
+      "ar_qoq": "+13%",
+      "inventory": 4079000000,
+      "inv_prev": 4419000000,
+      "inv_qoq": "-8%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "nestle",

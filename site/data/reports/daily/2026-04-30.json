@@ -1,0 +1,228 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T10:00:02.456616Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-04-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global Q1 Earnings Call Highlights - Yahoo Finance",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcjZrVVJTNWNYbjkzMEVib2huSXZnTVc2SWNyaElveVZvUFFWMTRZVkRUazM1RFZsWGxHbkZnSDdtWVF6SEdRaG9mZmdDVmJhMDNlV0VpSFNXcGU5Ujg1OWlZWUZ6R2JwbEVDZS1LTlBKWXo3UWF2eW4yTWJ0aVBzdnJhb0VnMjNIQzB1ZUI0TnRBQndfa1BfYWh3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-04-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global (BG) Margin Compression Challenges Bullish Profitability Narratives Ahead Of Q1 2026 - simplywall.st",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN2tOcU9ocUdIMUJKT1R5dU95U1dpQk15d1hUNXoyeDRtNDIyWENJRXduQ2VJdmE2dmFNODltRHBtbkg4OXdnZEdWWXhSTXJFd1c3dkdvOUJRR19TZUpkbTJWSUJLNU9ZRzMyckhMN2ZlUEprNGxMUkcyYnEtXzUyQ2R3djVVaGVFNTY1dWhjN1Y0bDZGdFNvenpXYklUWXdIUEw5ZnVMR3hlUGJhQ21IVWQ0QURPYUFwNnpGVWpiZ082NVZYcUc5N0lnVDc0Qk1pMVB2cGl2d9IB3AFBVV95cUxQMzNpcE5VSmNEcXh1bTBjV0stOUlRWDRfSDhhcG42Q2w5Y3lmaS1lTUh0UGlZd3BBc2ZPQ0lzdWNBRHdTRGZscFpteVU4YjVhYkUwZ1FZMkJMUjJBcnFSbE8zMHQ3dzFCaUFscmxDNWIxYTlwNGtqSXpkYWdyRC05WXQwSTRIak9HMEVCNHhtdFhIMUdJU3MwVm96YWVSN1k1UkRGRXRpclh6VDdDTjRjbEVrV3ZHaVVWRmRpQnBaRWtTTzIwbk5UZm4wTVd1ZDBQaC1JZWoxTDRNSDRO?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-04-30-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global Lifts 2026 Outlook After Strong Quarter - TipRanks",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSm9aZjluM3JyRmNHZWQ2YWZGQUFZV1BPakh0U3BxYTZqVXlTc3Z0N3VEczNiZ3RGeDRDUnI1VlY0ZHhmaHZQOUE1Z0RhTW80UHhxS0ZKblJGbUdENW9OZ3dTQ2tlMnZGV01sa2lqQzRhamJSbmVkeGxSZFhFTDNCRUx0Q09abkJPaFNqREhWWG9lbnN2ZHlWV0c3S3pkaGVJNFpOX3dfMA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tyson-2026-04-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lexington to manage Tyson Foods wastewater treatment facility, farmland after Nebraska plant closure - KETV",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMHNvNW55OXBvTTBMdG5kMXdEcF9aS0RmNUNuUnRscVBnUFlnNmVoVDY3VlExRDV4SWg4ckFCWlphUG9Sc0ZaT2JuTVI2aElORjNZWlVzSW1vSS0zOXN2b2ExSGNicS1nRF9XSGg0bVFPTjRCQi1LcHpFT0pZXzBhMkFR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-04-30-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vanguard Group Inc. Buys 46,881 Shares of Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWnZ5eW1PWDB1QVVwV211em1aTVRtQW9DSGt4ZlQ3dHBRdXZneVhhd2JDRjI0TmxqekRPSU1WSEZ5dkg3Znk2aGlWSjlmREtKc1F3UEZCZGtpU3hHOEpHWk1Vb3B3ZVBwOW5vajYyT1k1dFFQbHFhT3BwUFF6TWtMb1JsRVJhU0RKNk5ZQVc0elBzN0tIT2hkNUpiMGRHdXJqRHhWZElDNnBGOXc4d05GZkdWbXR3bWp3cjNaaA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "bunge",
+        "count": 3
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "costco",
+        "count": 1
+      },
+      {
+        "id": "nestle",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 75,
+    "too_old": 91,
+    "gate1_blocked": 6,
+    "gate2_blocked": 20,
+    "passed": 72,
+    "pass_rate": "38.1%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Archer Daniels Midland (NYSE:ADM) Reaches New 52-Week High - Here's What Happened - MarketBeat",
+      "Archer Daniels Midland Company (ADM) Proxy filing Summary - Quartr",
+      "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
+      "Archer Daniels Midland Company (ADM) Proxy filing Summary - Quartr",
+      "Bunge Global SA reports $21.9B sales, $0.35 EPS in 10-Q - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Bunge、泰森食品、好市多相關動態：「Bunge Global Q1 Earnings Call Highlights - Yahoo Finance」。主要關注主題為產業通用、法說會、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Bunge Global Q1 Earnings Call Highlights - Yahoo Finance（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge Global (BG) Margin Compression Challenges Bullish Profitability Narrati...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
