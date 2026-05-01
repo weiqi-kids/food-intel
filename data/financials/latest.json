@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T09:59:59.334883Z",
+  "updated_at": "2026-05-01T09:27:24.997359Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-02-28",
   "companies": [
     {
@@ -21,14 +21,14 @@
       "name": "邦吉",
       "ticker": "BG",
       "currency": "USD",
-      "ar": 387000000,
-      "ar_prev": 296000000,
-      "ar_qoq": "+31%",
-      "inventory": 13198000000,
-      "inv_prev": 13312000000,
-      "inv_qoq": "-1%",
+      "ar": 494000000,
+      "ar_prev": 387000000,
+      "ar_qoq": "+28%",
+      "inventory": 15428000000,
+      "inv_prev": 13198000000,
+      "inv_qoq": "+17%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "coca_cola",

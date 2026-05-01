@@ -1,0 +1,201 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T09:27:29.021548Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-05-01-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Better Buy: Walmart or Costco Stock - The Motley Fool",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaE5HU090WUFOQVBpbm1YcDk2dThJa1BwaDljYUt5YkdhT0R1RUdSRWY5R3Ixb25PZUx0ZklQLW9KNTlpQVpXR2hNYzBqQS1lNmEzYnBWSXlmWFM1S0FEZ0tfVm42SlRacGlVdXpwakFucHBCcml5Zk9pSS1TU0QxeTlLOA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-05-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nebraska city, Tyson working to find new purpose for beef processing plant - Northwest Arkansas Democrat-Gazette",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHphRGNaTFhhTzV6SF9PRFNwdW9IVWxhNzVrS0loLWZnRERsM0Q2SGlYek92TUp4b1U3ckVuOWpPYkRLN3RBT2o0WURXVjZSbTBLMVh2VEhxRWRDVjN2bGZxZThBcUJqeTdqZmNvT3FESDVHTWk0TjhhbGJkSVdEZDUxaUtvSV9aakVOZm1wcXl6QldZQ2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Inside Mondelēz’s Circularity, Sustainable Cocoa & ESG Goals - Sustainability Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUZ3UW9SZlJ3SG1lOER0VURiclVtMlZ1N0p4dUxodzVDS1FLa2VGcThKRndXandpZDBZV3ZlQmczX291MlZRa1VuekpqcU96T2F0Y3BWdHlvcldLcEZacmdLQ0ZGTkUtYlJjYnB0aXFVX3JnSXJiaGNDSUV0MmRLbXoycXhmbnB4QVBV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Celleste Bio launches first milk chocolate bars made with cell-cultured cocoa butter - Oils & Fats International",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWdDMTZDb28yX0toQ1dHNjhVcUJKMElMMkZaMy1ueWQyVVpuTjlRY0U1OXl2V3lXeWdHSGFvdUtLV1UySDQtWWU1OXF2U2lkX0FXbjVocU9HRDJxWGVwS3kwM1F6QU9iYjVMWHlGeVdoLTZ1NzdJNFVWZGRycEZycGJkN19mVElMYmxiMkF2TGppZzk3YUl3WmlHdHh1dzJJM3ZDSEQ1blliSW95SXZCelEtV2JQRGRH?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-05-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco Wholesale Corporation $COST Shares Acquired by Danske Bank A S - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSFM0RjlmVHNuc0JGTTJFMDlYal8tWnBwemNEVm43MDh0SzNGSVYyRlhJQlktaGozc0ZacXNPUVBjazV3ZDhIdm1UT0pvU1RqUXBmdnlNcDBKVXhkbGVyOEZhaUpKNTIweDB0dnhMb0V3NFBXckZTZmtodTFqMXhWaFpzd0hiS0l4OUN4QmdsUWszUVIxQ1VlOTNEdHJwLTBvYjZoS3ZZVzctRFRITnh1UnhidXlHcEhmdHJBYkQtMWJPMjhESkFDOQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "food_safety",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 92,
+    "too_old": 97,
+    "gate1_blocked": 4,
+    "gate2_blocked": 15,
+    "passed": 56,
+    "pass_rate": "32.6%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "Archer Daniels Midland Company (ADM) Proxy filing Summary - Quartr",
+      "Is Archer-Daniels-Midland Co (ADM) Overvalued After 3.2% Rally? - GuruFocus",
+      "Archer Daniels Midland Company (ADM) Proxy filing Summary - Quartr",
+      "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
+      "Archer Daniels Midland (NYSE:ADM) Reaches New 52-Week High - Here's What Happened - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為好市多、泰森食品、沃爾瑪相關動態：「Better Buy: Walmart or Costco Stock - The Motley Fool」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Better Buy: Walmart or Costco Stock - The Motley Fool（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nebraska city, Tyson working to find new purpose for beef processing plant - ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
