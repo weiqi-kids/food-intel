@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T09:27:24.997359Z",
+  "updated_at": "2026-05-02T08:58:58.431708Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-02-28",
   "companies": [
     {
@@ -35,14 +35,14 @@
       "name": "可口可樂",
       "ticker": "KO",
       "currency": "USD",
-      "ar": 3038000000,
-      "ar_prev": 3946000000,
-      "ar_qoq": "-23%",
-      "inventory": 4425000000,
-      "inv_prev": 4802000000,
-      "inv_qoq": "-8%",
+      "ar": 3675000000,
+      "ar_prev": 3038000000,
+      "ar_qoq": "+21%",
+      "inventory": 4730000000,
+      "inv_prev": 4425000000,
+      "inv_qoq": "+7%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "costco",

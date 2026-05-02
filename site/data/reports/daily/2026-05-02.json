@@ -1,0 +1,114 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T08:59:01.767580Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-05-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland Stock Rockets 8.2% With 5-Day Winning Streak - Trefis",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM3NwRlhybTZHWVBfa25sWkZGT1BIUHI4b1ZLSHFKSm82SmxORzh4WlVRQ2hRUWpSMVhCYWFRMW9JQ1h5Q3lGb1NxSnR6c196R0w0UUZ1Ylp0VVhVUk9vTW1xU19nSmtVY01VdnRvd3lwbHE5TkVYRnU1UGp5SXFvR0dhYjRnRlYyeEJRWmxtc2dFUU9LWEVua2NnVHp3UUpzcU5tMTRXMnozNGJ0OEJ1THpXYnRQbjUtR3FqN1lfSjhCd3dGMTZ4TEdtZkFFbzFz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Missoula Clark Fork River Market opens with focus on food access - Nonstop Local News Montana",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQ0d0RU80al9ZaEw0WHpnTVhqVmU3STdnN0E0RHRCTHR2MDNCLUR5VnRreW4zd0MwSUJDSFdjX25JekRzS3M0V1lOV1RfSzFBaENfa0w3VHNEZlJPSWxrb2tPM3dOVGpxMGVlR3M4a2xHQzZmbE9SeWhWRjF6Z0g5eXFhY19Qa2tZaWFaZmlxRnNEbUxtQ0YxVDdSSVM4T1BvcjhFZ2UzTnNHMjhmU2o0MmV6dTFiMjlnQnpTYUppOXE1U2IzeFpkV01pXzZPMnJQY2l1czZsMnF2aTJqNTB3dHdiUEhnQTNGWlFF?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 102,
+    "too_old": 92,
+    "gate1_blocked": 6,
+    "gate2_blocked": 20,
+    "passed": 45,
+    "pass_rate": "27.6%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "Archer Daniels Midland (NYSE:ADM) Reaches New 52-Week High - Here's What Happened - MarketBeat",
+      "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
+      "Archer Daniels Midland Company (ADM) Proxy filing Summary - Quartr",
+      "Archer Daniels Midland Company (ADM) Proxy filing Summary - Quartr",
+      "Lexington’s largest employer is gone — City and Tyson working together to move forward - KSNB"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為ADM相關動態：「Archer-Daniels-Midland Stock Rockets 8.2% With 5-Day Winn...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Archer-Daniels-Midland Stock Rockets 8.2% With 5-Day Winning Streak - Trefis（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Missoula Clark Fork River Market opens with focus on food access - Nonstop Lo...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
