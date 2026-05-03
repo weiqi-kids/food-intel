@@ -1,0 +1,211 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:14:59.154186Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-05-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global (BG) Q1 earnings beat estimates - MSN",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUd2LXRqWEpITkctNThCSTB5bVlpdU5mdzgzR0Q4MmIxUlZMVlFiQWg5ZkduZ1dEekZuNm9DbEZtSGpmblBFcU5OMGRpOVcwTUs0RndnZm5lMDRELWR2eHNpcmlmU2pWN0lVc3BxOVJjWWpZdzV4RFNpenBGUHB3anFwdkF5LWJWREVRc0dBTExzV183WDBYYlI2Uy0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-05-03-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tyson Foods Earnings: What To Look For From TSN - StockStory",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa2dYeEl6ZTNkVENPZTdrNzNEODBlcmd3NUlJX1Frb0lXcm9BZnc1Vzk5VFpZRmZrVlMyQkMxd3gtdHA2UHVnamRmZkxUaXFpNzhoVHIzR2tOT29qbUxmSHgtUE03dndkZ0NOYmRHRGxTT09vZWtEOEtVYUx1MlZoNVozYjFTV0tQUmxBVVRXM2FlNDEtaHkydVE3UHV1T0JyUENSUzh6Yw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-05-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company (NYSE:ADM) Given Consensus Recommendation of \"Hold\" by Analysts - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNzFadm5oRnlUbUljMG1iUXhpMEVOZWM1ZUJmaC1mYlBuTHVEQjVJcnpXTEZBczNoOXhtNWx1bzAzb00yQkZYa0xpWjNZQ1pwQzg5Z3QxSmdEMk5mbmVlbmtqanFqNXhSRnh4ZlpabkhFNC0yemRxaHlueHl6dFp2ZlNyU3JmendHb2xkOW5oc2x2ZW9pa0JyLTY1OFFhOUZBV2JyR3BhNUpyMFZfWHliQVpQX2R3QkhLLUVqdmtpdnV3bld2WVpSSnB4Y0E0TnljdFB1WkcySlNYck0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tyson-2026-05-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods (TSN) Upgraded to Overweight on Growth Potential - Yahoo Finance UK",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2o0WVhfaXN6cFZqZkkweVFSc01NcWtpOFkzYkF0T1RaeU9vSTdwNVBqdDh4cmpoLWlmLXkwY3NDOUI2M3Zfa2t1VjluV2JfeXBGbzVfRl9nZkZuNFhGYnRkMW9meUFrdjV5ZWdvZWQyeUlwNWlZTDItTXN5Wi1GX0xZbUpZanZLSnRLeA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-05-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CX Institutional Has $7.82 Million Stake in Costco Wholesale Corporation $COST - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObjhOVFluWHN3NGdZU0VwaEwwRzJ1UEdsOExCX0hRMWVtSDJBN1NBTHZobEcyZnZ1MkVxRXJldlpLLXFRWW1Qc2tFVWp0UUhqYVM2ZG9ubHB0Mkstamx1XzVsU2UyUU11Smo0c1lDZW96RzBmWmVyUEhmQ0c5T2Jfck9KUS1qcVV3aUlkRVB2VHlFcnFBUExSVExobFFTMkxUNEQ3NmY2NXR2NVR0QWJLdElvc2Y2TUJvcE9CZmtreGw1bXVZbFpqb1pWZ0hEMWdQdHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 3
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 120,
+    "too_old": 93,
+    "gate1_blocked": 5,
+    "gate2_blocked": 15,
+    "passed": 32,
+    "pass_rate": "22.1%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
+      "Archer Daniels Midland (NYSE:ADM) Reaches New 52-Week High - Here's What Happened - MarketBeat",
+      "Lexington’s largest employer is gone — City and Tyson working together to move forward - KSNB",
+      "Mondelēz International Reports Q1 2026 Results - Yahoo Finance",
+      "Uni-President China Sets 2026 AGM to Approve 2025 Results and Share Issue Mandate - TipRanks"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為好市多、泰森食品、ADM相關動態：「Bunge Global (BG) Q1 earnings beat estimates - MSN」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bunge Global (BG) Q1 earnings beat estimates - MSN（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tyson Foods Earnings: What To Look For From TSN - StockStory（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
