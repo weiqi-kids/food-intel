@@ -1,0 +1,84 @@
+{
+  "date": "2026-03-12",
+  "generated_at": "2026-05-03T02:38:16.339205Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cargill-2026-03-12-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cargill halts Brazil soybean exports to China after inspection rule change - DatamarNews",
+      "companies": [
+        "cargill"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "cargill-2026-03-12-008",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cargill: Brazil soy shipments to China halted due to inspection changes - Baird Maritime",
+      "companies": [
+        "cargill"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cargill",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "food_safety",
+        "count": 2
+      }
+    ]
+  }
+}
