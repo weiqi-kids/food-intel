@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 77,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 5,
+  "gate2_fail": 16,
+  "passed": 66,
+  "gate2_samples": [
+    "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Here's What Happened - MarketBeat",
+    "Are investors undervaluing Archer Daniels Midland (ADM) right now? - MSN",
+    "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
+    "Nasdaq Holds 25,000; Amazon, Baker Hughes And Bunge Global In Focus - Investor's Business Daily",
+    "Mondelēz International Reports Q1 2026 Results - GlobeNewswire"
+  ]
+}

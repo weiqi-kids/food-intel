@@ -1,0 +1,225 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T09:54:46.798562Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-05-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tyson Foods, Inc. (TSN.US) 2Q Adj. EPS Beats; Raises FY26 Profit Outlook - AASTOCKS.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQelVIdTRjNXQxdmFkc3dZWUp6X1haZzZvLTNLXzk1bjdjbEdseGdJbzgxSGQyZnJuOVpxcENTTnFhVmNteGhpM3lQcVYzemVqU2FvMmUwSTZmdzR2VS1SRU0tMjJCT3Y4bkhONjEtV0NDR0dKX3NYS19yRmRvVW45SF9TVHdlOGhPcFlZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-05-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland Stock Rockets 10% With 6-Day Winning Streak - Trefis",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdm9ack1Jd01ZMVpReTdqZWlsU2hIZHplSFNMSS05UTRkNWtvNEtoU3pXeTV6Z1JmNk05QlRPNWFaUWg1SDVrQkUzX01hTHRLNl82aDc2X3prRG5laGJZSFMtZC16RlYwVENGaWNkV0pORXk3TUZWSklNOS1lUzZGd1J0WnRNWjN5SS1HbFVYcVR0blg1SFBUNnIyVDhTbEZBcUgxRkNvMzE4MjV6ZmtPZFlfZUxPM0g1MzZPaVBlMG9NVmk5amJ3cF9OTGVCc1k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-05-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BofA raises Tyson stock price target on strong chicken results - Investing.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSF9HUi10OUs1VFR6U0VwUURNVjhvaUw2TTJXM0JBaVRzS3VKeDRkNFRnNmhnbFg3U1A2REJWalpROTAzM0VKNUw0U3dxcTlMVnI5X2dZUjYwUmYzWFRYSTBiVjBzYWcxZWZGR1l5OVI5X0w2Y2NkMk8wU2dGeVc2RTB4VXFWbDF4eEdzNTNKekJNSm9qMkJNTkExbFF0aEtpNml0WXZmSklsa0NaWTBmS255aUg0M0l5N2VGM1pDcw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-05-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart expands AI-driven beauty shopping tools in retail push - Retail Insight Network",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnlzbEpjS0tuSkc0aXZoT2EwUmtWUno2WUh1YjBGUUJaTWt6WkJseFBsY29WYVd4TEZYZ3lNVm5mS1VoeWxDcVE0UXh3bkdldmZvZU1YS1hwc2lTMUJVanZVNXZhazBMZFBDWVBRWFhsNzFWQUxxNk9meFo2N0JIbTJvakk2Z3Z6WHJBVkNmNmVpUm1UWGFSb2xjS3lpQVdxckNpR21nYTZXSWs?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-05-05-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "First Costco store in Milwaukee County to break ground this week - WISN",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXU3ZWY1TlRaYXJQU21EOE1KZEFUYWMxMGtlSnJlUWZxYkxFYzQ2VHphUUdvSElQU0tRMlJIWFB3V21KUlkwdnFLTWI4aVhQTE5heXRkeTdORWhPNU1BZWhwSkJqdkdjUEtOSkIxYkJMck96NXpBOTJ3NHBxd3RkR3B3cHB2V25ZbzJVQm9WYU9QOGJEaHNvanFBNlJ1ZTRaMEtQUg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 77,
+    "too_old": 100,
+    "gate1_blocked": 5,
+    "gate2_blocked": 16,
+    "passed": 66,
+    "pass_rate": "35.3%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Here's What Happened - MarketBeat",
+      "Are investors undervaluing Archer Daniels Midland (ADM) right now? - MSN",
+      "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
+      "Nasdaq Holds 25,000; Amazon, Baker Hughes And Bunge Global In Focus - Investor's Business Daily",
+      "Mondelēz International Reports Q1 2026 Results - GlobeNewswire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為好市多、泰森食品、ADM相關動態：「Tyson Foods, Inc. (TSN.US) 2Q Adj. EPS Beats; Raises FY26...」。主要關注主題為產業通用、食品安全、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tyson Foods, Inc. (TSN.US) 2Q Adj. EPS Beats; Raises FY26 Profit Outlook - AA...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Archer-Daniels-Midland Stock Rockets 10% With 6-Day Winning Streak - Trefis（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
