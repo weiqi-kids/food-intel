@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 77,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 4,
+  "gate2_fail": 12,
+  "passed": 67,
+  "gate2_samples": [
+    "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Here's What Happened - MarketBeat",
+    "Nasdaq Holds 25,000; Amazon, Baker Hughes And Bunge Global In Focus - Investor's Business Daily",
+    "Tyson reports loss in beef business - The Fence Post",
+    "Walmart Lost This Key Title to Amazon for the First Time in Company History -- Is It Still a Buy? - ",
+    "Walmart shopping carts left in wrong place WILL trigger $100 fines after strict law upheld - the-sun"
+  ]
+}

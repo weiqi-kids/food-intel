@@ -1,0 +1,222 @@
+{
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T06:02:57.747760Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer Daniels Midland Q1 Earnings Call Highlights - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPclA4S0gwbGNNYmxMZS1JZ1I0WDNacnRCNnJ1STlaYnpsWjFCeWRNNUpkOV9Za2g0YTF1dE8zN2Yyc1N4OVpUR0dHTHZBS0xNR3l5NjZscXZjZ296UFphcF9ScjRwMF9TNS1PZGJQTmRENmhTWFFxTXZCYWk3QkxWLWFNYUZvM0NsT2hMWHVBU2JyQUdBS1hGcWtuTERYdWRw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-05-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ADM Earnings Call: Guidance Raised Amid Volatility - TipRanks",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa2R4SkpibldkNHFtRTM1VV9lWU1EczdTZWhST1MwbE9OSEZpeFMxaVRGTmZ5MEwxVXZmLUJVVkI1UGlRdTR3UFVKWElnZlVBTzRHSG1EOWx6bFpjVzdvaTZoM2ItZjFIOUpVdmYyOURObUN1eTRJeDFiZmZrMXE2Q1N6czdhOVBpWHUtTmRBZkg2STVFZlN0eUNuczhqWFlsemI3cEdwb0NNQ3hSWkU4NE1TMkFlNUZkdGpmY0RvMVRoblgwY3dqeXRWWlllY3hoMzVQN2l6cVdQUHluYXJ0Zg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer Daniels Midland Q1 Earnings Call Highlights - MarketBeat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXh3aDZ2YVloMFRibHFnc2dxQXFsemZJMXFoTEl3OUFYOTNFenZETjBMSnh5WU5xV0JRbWpSSlN2UEg4ZENHMWh1bUJlQkd3dE1IUm1BSjBHV0M0TGNQNkFNQ3dEdEtIanVCU0lrd2FtYWFBQzZxWWtldTRLR0tuSWkxbTdsUTVPX3ljbHpEZ0xTYnRRbFd4SFZSamYzTS1NQVQzRl9YSQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-06-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "3 Profitable Stocks We’re Skeptical Of - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3h2TER5SkMzSmN1Z3JZZ0VNTl9LQXNjUG5SY21tSXVnaURZaEV5UTBOMzd5aTY4VkdnZ3pzanpLeUh5cGhVa1MxSnVFMGUxcVdQdmF6SlVHM00tbG5jamxKa0dSclRPTHZTbncwS1QwcWIwYWdBaXZjNFV3LXQ1Tl9ILWpSbVVsTFVocmxCQ0NYajN3UUQ1UWswanA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-05-06-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Korean Billionaire's Medicube Skincare to Hit Costco, Walmart in US Expansion - Bloomberg.com",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHlyNUlpRlI3MmpoWjg3RkE4T1RPYVRPbGJudG5JT041OVN2TFBkRW4xNkJEUG9RZWEyWFMyWDNVQ2hzdDV3bEZRTkVrRks4ZUxNR2JmeC1JYXEyLWxvUVV5dHdYQXhTV3o1aUEzcy1wTFEzX1pYdVZDTnVhdi04bmhJUTZfcFlfSUROaWtwcURwOVVFMkh1VEFlZ2tyZmhpVU9zX1pfaU9USjhfcU5QOHQ5WUU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 3
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "costco",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 77,
+    "too_old": 104,
+    "gate1_blocked": 4,
+    "gate2_blocked": 12,
+    "passed": 67,
+    "pass_rate": "35.8%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Here's What Happened - MarketBeat",
+      "Nasdaq Holds 25,000; Amazon, Baker Hughes And Bunge Global In Focus - Investor's Business Daily",
+      "Tyson reports loss in beef business - The Fence Post",
+      "Walmart Lost This Key Title to Amazon for the First Time in Company History -- Is It Still a Buy? - ",
+      "Walmart shopping carts left in wrong place WILL trigger $100 fines after strict law upheld - the-sun"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為ADM、沃爾瑪、好市多相關動態：「Archer Daniels Midland Q1 Earnings Call Highlights - Yaho...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Archer Daniels Midland Q1 Earnings Call Highlights - Yahoo Finance（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "ADM Earnings Call: Guidance Raised Amid Volatility - TipRanks（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
