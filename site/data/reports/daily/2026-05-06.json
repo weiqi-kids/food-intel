@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:02:57.747760Z",
+  "generated_at": "2026-05-06T10:10:05.206557Z",
   "top_events": [
     {
       "rank": 1,
@@ -95,32 +95,32 @@
     },
     {
       "rank": 5,
-      "event_id": "walmart-2026-05-06-008",
-      "importance_score": 0.7,
+      "event_id": "unknown-2026-05-06-016",
+      "importance_score": 0.75,
       "importance_reasons": [
-        "多公司提及"
+        "涉及財報"
       ],
-      "title": "Korean Billionaire's Medicube Skincare to Hit Costco, Walmart in US Expansion - Bloomberg.com",
-      "companies": [
-        "walmart",
-        "costco"
-      ],
+      "title": "Jefferies raises Archer Daniels price target on earnings outlook - Investing.com",
+      "companies": [],
       "related": {
         "customers": [],
         "suppliers": []
       },
-      "topics": [],
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHlyNUlpRlI3MmpoWjg3RkE4T1RPYVRPbGJudG5JT041OVN2TFBkRW4xNkJEUG9RZWEyWFMyWDNVQ2hzdDV3bEZRTkVrRks4ZUxNR2JmeC1JYXEyLWxvUVV5dHdYQXhTV3o1aUEzcy1wTFEzX1pYdVZDTnVhdi04bmhJUTZfcFlfSUROaWtwcURwOVVFMkh1VEFlZ2tyZmhpVU9zX1pfaU9USjhfcU5QOHQ5WUU?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0M4LXhrenVjZDJjUW9pNWxEaEpBbkRFcmJybE1PcHR3c3VXaUd3S0JvYlpNSk15b2pBdzVTZ0FMTmc0TUozU0szRU84blhhWGJ0NzdXbUk5ZGhPSEwyWnRIbU5rUG9RUkdMc2k5UkVEVlAxUkxSVmZSU240U3dCYm1uT1lGLWoxYmdKdzJ0OFFIM0xuaUlDSEFoSjVmTGp2RUV4WnlNQmVGVlpPS184Mk5KcFpTTXZrWWs0and4ck53UQ?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 4,
+      "today": 6,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -130,13 +130,13 @@
       "sentiment_7d_avg": null
     },
     "industry_general": {
-      "today": 8,
+      "today": 15,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.06,
+      "sentiment_today": -0.03,
       "sentiment_7d_avg": null
     },
     "food_safety": {
@@ -150,36 +150,48 @@
       "sentiment_7d_avg": null
     }
   },
-  "supply_chain_activity": [],
+  "supply_chain_activity": [
+    {
+      "from": "costco",
+      "to": "walmart",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": []
+    }
+  ],
   "stats": {
-    "total_events": 13,
+    "total_events": 24,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 12,
+      "neutral": 23,
       "negative": 1
     },
     "top_companies": [
       {
+        "id": "costco",
+        "count": 7
+      },
+      {
         "id": "adm",
-        "count": 3
+        "count": 5
       },
       {
         "id": "walmart",
-        "count": 2
+        "count": 5
       },
       {
-        "id": "costco",
-        "count": 2
+        "id": "tyson",
+        "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 8
+        "count": 15
       },
       {
         "id": "earnings",
-        "count": 4
+        "count": 6
       },
       {
         "id": "food_safety",
@@ -188,14 +200,14 @@
     ]
   },
   "filter_audit": {
-    "total_raw": 264,
-    "dup_title": 77,
-    "too_old": 104,
-    "gate1_blocked": 4,
-    "gate2_blocked": 12,
-    "passed": 67,
-    "pass_rate": "35.8%",
-    "gate2_block_rate": "6.4%",
+    "total_raw": 525,
+    "dup_title": 206,
+    "too_old": 203,
+    "gate1_blocked": 8,
+    "gate2_blocked": 21,
+    "passed": 87,
+    "pass_rate": "27.3%",
+    "gate2_block_rate": "6.6%",
     "gate2_samples": [
       "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Here's What Happened - MarketBeat",
       "Nasdaq Holds 25,000; Amazon, Baker Hughes And Bunge Global In Focus - Investor's Business Daily",
@@ -206,7 +218,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 13 則事件，焦點為ADM、沃爾瑪、好市多相關動態：「Archer Daniels Midland Q1 Earnings Call Highlights - Yaho...」。整體情緒偏負面，需留意潛在風險。",
+    "summary": "今日共 24 則事件，焦點為好市多、ADM、沃爾瑪相關動態：「Archer Daniels Midland Q1 Earnings Call Highlights - Yaho...」。整體情緒偏負面，需留意潛在風險。",
     "signals": [
       {
         "text": "Archer Daniels Midland Q1 Earnings Call Highlights - Yahoo Finance（法說會）",
