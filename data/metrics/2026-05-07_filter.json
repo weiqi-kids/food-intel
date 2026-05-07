@@ -1,0 +1,16 @@
+{
+  "total_raw": 262,
+  "dup_title": 94,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 2,
+  "gate2_fail": 17,
+  "passed": 50,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
+    "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Here's What Happened - MarketBeat",
+    "Nasdaq Holds 25,000; Amazon, Baker Hughes And Bunge Global In Focus - Investor's Business Daily",
+    "Tyson Lifted Up on New Chicken’s Wings - WSJ",
+    "Walmart Lost This Key Title to Amazon for the First Time in Company History -- Is It Still a Buy? - "
+  ]
+}
