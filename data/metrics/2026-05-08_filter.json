@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 88,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 0,
+  "gate2_fail": 17,
+  "passed": 59,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) PT Raised to $90 at UBS - StreetInsider",
+    "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
+    "Nasdaq Holds 25,000; Amazon, Baker Hughes And Bunge Global In Focus - Investor's Business Daily",
+    "Bunge (BG) Reports Q1 Adjusted EPS of $1.83 - Insider Monkey",
+    "Walmart Backs Out of Plans to Purchase the Old Kmart on Broadway; County Government’s ‘One-Stop Perm"
+  ]
+}

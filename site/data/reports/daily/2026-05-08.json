@@ -1,0 +1,259 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:06:41.459029Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-05-08-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Wall Street Roundup: Tyson Targets, Costco vs McDonald's, Asia ETFs - Gotrade",
+      "companies": [
+        "tyson",
+        "costco"
+      ],
+      "related": {
+        "customers": [
+          "costco"
+        ],
+        "suppliers": [
+          "tyson"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVZybUpEN05vVjJVTXRfZVBqSUJKOXNDNzY4LU00dUdjc2R6azQ1QlR6QTVpczFnWXhrdG5ZRDNQR080WHZlcHZZX2dBd0hoZF9zSkRod3V6c3pkN2ZKWkxtX0ZRdFVIak1FdUUtb1I5Vk0yS3VuczdxSFZZQkhvdXBnT0o5eGdlWmpoV1N3SVAyYjJpMjZwdFBpMEVUZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "uni_president-2026-05-08-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Uni-President China Holdings Announces Q1 2026 Unaudited Financial Results and Subsidiary Profits - Minichart",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTlhJVzhJa3JrLS1wRW5ZTmw5VHpVZVBROFB5eWI3VzdXc2Z1a1VlU21mTlhTU21aX2JtdlFnNFhaNXBkTWFUYzFPN0tNeWs3NkRKYnZYbzNzTU9BU3FQVmhNU1E5LXJQbGVPeVZHNGNOTXpqMlR3NS1MZmREUy16Q2JVeEE5RXkzNDN2dVFQQTFQeWhjQ3hpLWRVSHBMcjVTNWRwUzRER0JNSVJmemp0SEVWS0IxWnowVVM4SnpRc3NDUndoeFo3YXA0VWk5bklSMmU2Mg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-05-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zacks.com featured highlights include Helen of Troy, Bunge Global, Avnet, Bloomin' Brands and Select Medical - Zacks Investment Research",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLVZzeUxLQUpjQWNuSk1SN05HOElsWmtNUWJFTURPLW1mbGg0c012M0hZMUh2MmN0V0NXU2gxWjhtaUdVSFdXSE5TQVZrbW9ZU3hFdnkwOFFrQXZQQ0t5S2RQSXl1SkktVU9wdUZyYVJHcThRNlVjbVpGNzVydkhVd0o1UllVSVppMzZOclBKTVl0clZHSXRFcXVtV2JwNXFsSnl0LUd4SFhIV1JHSGViS3ZnXy1FVDZ6VjdZc1BGOURPOXR6T2tKc2IzQVYwLXVSY1RKdk16VndKRHdS?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tyson-2026-05-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Are Wall Street Analysts' Target Price for Tyson Foods Stock? - Barchart.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0JkLUV1eDFaRkVjV2NQaEwtbC10TjFVZjcwVXVCRDZlUE9KWEZvdzk0cXl6R3d4RnFUd2dIWUpZcmdYcFBha041ZjNRdFV5dFBtZ2szYkxNSERoZTRYUGdUdUdzUTNjaFc2bGJwYUpjRjJ0Q1ZNN0M1VFFsNVVpZHlwSHFwY01wcElvbnIyeUJLZlAyRm5OQUJ6bWwzQU5xWmJoeXRSSkN6Q2lo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-05-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ASR Vermogensbeheer N.V. Boosts Stock Position in Costco Wholesale Corporation $COST - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSkdSN1NDOFhqdjVCVUw3TFFONklLdW5FTWZUQkxqSkZDcUNqODNWaGk4THhIRWRCVzNDQXF5dU44ZGhHVEdXVFRuODhMa3ZMcExGUTFWcDc0WXNqaC1DS25idkd5RXdBaGE4UlBlRnQ3ZGVkV0t2cEtKWTZKdUtYU0tPck9feEE3TDhqdlp3eVlQRm5JazhrMmsyajhCVFpxZHp4dk5WZWdyemFnZlVUdGZMbEhtaVZJZ0QzR2RTLW9FNnhvR19CVEVkNFJCY3VaTlBjMmtsSnEyUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 3
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 88,
+    "too_old": 101,
+    "gate1_blocked": 0,
+    "gate2_blocked": 17,
+    "passed": 59,
+    "pass_rate": "33.3%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) PT Raised to $90 at UBS - StreetInsider",
+      "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN",
+      "Nasdaq Holds 25,000; Amazon, Baker Hughes And Bunge Global In Focus - Investor's Business Daily",
+      "Bunge (BG) Reports Q1 Adjusted EPS of $1.83 - Insider Monkey",
+      "Walmart Backs Out of Plans to Purchase the Old Kmart on Broadway; County Government’s ‘One-Stop Perm"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為好市多、泰森食品、Bunge相關動態：「Wall Street Roundup: Tyson Targets, Costco vs McDonald's,...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Wall Street Roundup: Tyson Targets, Costco vs McDonald's, Asia ETFs - Gotrade",
+        "level": "red"
+      },
+      {
+        "text": "Uni-President China Holdings Announces Q1 2026 Unaudited Financial Results an...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

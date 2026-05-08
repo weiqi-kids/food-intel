@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T10:15:55.191304Z",
+  "updated_at": "2026-05-08T09:06:38.809097Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-02-28",
   "companies": [
     {
@@ -161,14 +161,14 @@
       "name": "泰森食品",
       "ticker": "TSN",
       "currency": "USD",
-      "ar": 2429000000,
-      "ar_prev": 2524000000,
-      "ar_qoq": "-4%",
-      "inventory": 5406000000,
-      "inv_prev": 5681000000,
-      "inv_qoq": "-5%",
+      "ar": 2399000000,
+      "ar_prev": 2429000000,
+      "ar_qoq": "-1%",
+      "inventory": 5478000000,
+      "inv_prev": 5406000000,
+      "inv_qoq": "+1%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "uni_president",
