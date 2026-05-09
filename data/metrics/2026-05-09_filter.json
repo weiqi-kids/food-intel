@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 98,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 2,
+  "gate2_fail": 15,
+  "passed": 50,
+  "gate2_samples": [
+    "Archer Daniels Midland (NYSE:ADM) Raised to Buy at Wall Street Zen - MarketBeat",
+    "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Here's What Happened - MarketBeat",
+    "Archer-Daniels-Midland Up Over 6%, on Pace for Largest Percent Increase Since March 2020 -- Data Tal",
+    "Latest in Bunge Global SA - The Western Producer",
+    "Nasdaq Holds 25,000; Amazon, Baker Hughes And Bunge Global In Focus - Investor's Business Daily"
+  ]
+}

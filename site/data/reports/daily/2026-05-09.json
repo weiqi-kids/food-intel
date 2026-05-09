@@ -1,0 +1,200 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:09:46.246831Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-05-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Gas leak reported at Tyson Foods in New Holland - WGAL",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkU0Y0tLdDVQYzVEeVQwVVg3b09ObEhIS05fUnhvSzkwTW5nckhfOFlDSUtWaWZMVUVJQTZ1NXpTbTlyODVoME5yMzZPSkR6cnBrekJMMTBrcWFDX1ktYl9ZRU9zN2ZkTkx4bklTQVRJU3RJNmpjNjVrR1laSm5lSHdaNWNjQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-05-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods (NYSE:TSN) Upgraded by Wall Street Zen to \"Buy\" Rating - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1ZqSVVOZTF0cGU1UVhpQUJBUkdVTzdCdUpXOXhwSnNadVpOZkowNEEtZ1NhSUdycm5vWkZvOUZlaEZ3eUwxSWpBcjZPOFktMjlZR09tTkQ1SDI1cUdpQzI1NlU3Qkt6dFRwcHlIdDBveDd4bUR5ekZ3ZlZSamFrM0ZWcUVNX2ZOblA2ZGtBbEEtT3Vta3d1OXlCem42NjBNXzFLY1VTQ1lRM0hoY0gwY3NNRUp5QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-05-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Gas leak reported at Tyson Foods in New Holland - Yahoo News Canada",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mS0hrV3NMajFXV2ZDbzFTWm9PVUtGMEpnZ3oxYWw3eWY0Zkc1aVhHcEM4WnYyYU1zQ2ItNE1RVHlsV0JHeWVNeTdIZlV4TjNlRDJKT2ZpOFhPYzI0WXltMER1LS1QbkRzS05yYmYtd3pUY3JNNE95X0hR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tyson-2026-05-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Reported gas leak at Tyson Foods in New Holland - Yahoo News Canada",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmVHJMRTBTcUxrOWxYLV9wcjlzTjBla2pLLUNSTFhlUHhma2RjaC1tbE5KLUFaSFlhb1dCOHhQbU5vbnJRTVExRTFoeG1PdGc1Tms5dEc0M19ManZna01FaUNJSVZsUHN6STJYNmdXYzR0RXZ3ek5hTlRn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-05-09-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ethic Inc. Buys 1,610 Shares of Costco Wholesale Corporation $COST - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1FoalZCTHFFTURQUE1HdzdNS1REOGJKZnpBekFhYXQwS0FMc0FFMFFKTUxHZG82enZSeWh2Q3ZKZFhnUFdDbFdwX0p4TlRJLS1MclBpZU5wN2VBUHdWc0s0bGJyWEpTSlFtVVU1N3BpUUYwSDhaVjd0VWtyM3ZJT0ZhRzd2RFI0UXFISmJPMDRBR1F3b1dZUWJvblZqbGI5R0M2a3o4Mm9JUUZKVnZvME1kcXFqbWJNWGhCYktVR0syZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 4
+      },
+      {
+        "id": "costco",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "food_safety",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 98,
+    "too_old": 95,
+    "gate1_blocked": 2,
+    "gate2_blocked": 15,
+    "passed": 50,
+    "pass_rate": "30.9%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "Archer Daniels Midland (NYSE:ADM) Raised to Buy at Wall Street Zen - MarketBeat",
+      "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Here's What Happened - MarketBeat",
+      "Archer-Daniels-Midland Up Over 6%, on Pace for Largest Percent Increase Since March 2020 -- Data Tal",
+      "Latest in Bunge Global SA - The Western Producer",
+      "Nasdaq Holds 25,000; Amazon, Baker Hughes And Bunge Global In Focus - Investor's Business Daily"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為泰森食品、好市多相關動態：「Gas leak reported at Tyson Foods in New Holland - WGAL」。主要關注主題為產業通用、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Gas leak reported at Tyson Foods in New Holland - WGAL（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Tyson Foods (NYSE:TSN) Upgraded by Wall Street Zen to \"Buy\" Rating - MarketBeat（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
