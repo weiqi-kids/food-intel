@@ -1,0 +1,16 @@
+{
+  "total_raw": 262,
+  "dup_title": 115,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 3,
+  "gate2_fail": 14,
+  "passed": 31,
+  "gate2_samples": [
+    "Archer Daniels Midland (NYSE:ADM) Raised to Buy at Wall Street Zen - MarketBeat",
+    "Is It Too Late To Consider Bunge Global (BG) After Its Strong 1 Year Rally? - simplywall.st",
+    "Latest in Bunge Global SA - The Western Producer",
+    "Nasdaq Holds 25,000; Amazon, Baker Hughes And Bunge Global In Focus - Investor's Business Daily",
+    "Bunge (BG) Reports Q1 Adjusted EPS of $1.83 - Yahoo Finance"
+  ]
+}

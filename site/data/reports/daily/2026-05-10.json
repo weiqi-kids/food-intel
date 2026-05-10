@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:23:48.285950Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-05-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods, Inc. $TSN Shares Purchased by Mitsubishi UFJ Asset Management Co. Ltd. - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeHdidDNlRy1vSW1YT1E1aGFEak1EQ0hUcXZJcEZZX2g5ZmhZR1FLQ09oUGRIb256TWNmc2Q3SjQ3Nk5zeTVJV214WGNqaUxxSXJzVVZIZVd0a0RIQlBBMlNjcHNFMUdaNF9ONnFqbmJXdzdZVE94clBYZEpaZi0tYWptUkVfcE9RZVRiYWZ5a3N0SkNWcEpGbE1XTjZIMmp3eVJzcUZ1Z0tuN1JjSU9CWThFX2V5bmZreEIzZV9URGZFa2wyV2xZZ3ZCYWJRdS00ckxUUDlR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-05-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco Lawsuit Over Tariff Refunds Puts Member Value And Valuation In Focus - Yahoo Finance",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUUp3YS1xcHhqc2xtVzQxNkZrQ3R2VUF6bjU5blljMmlJN0NTT3djR3dudWtSTXZpQ2Q2dmpzUGt2em9mNnlQLUFmYUhJX29ZNTFnSWpEeEdnanV6bmhtam1fbkNtUTRQT3FIRkNvakc1NnkxN2VtS0hMMV8xeGluUXEwaGlCTk5XSEstV2lfWFV1U2F0alAwdlZqV2lGSXJR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-05-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Investors May Respond To Costco Wholesale (COST) April Sales Surge And Dividend Increase - simplywall.st",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeVVwaHh3M0haSXZqeWo1UHlIcmxIX1VwRTNJdVhyQlFnS01rU05CSHNqNDVrTTJkcHFPUnV1RzZaNmFBc2ZUR2JqYkdHYUs5NWtkY0E2dkFHX1lxU25WaVFSaUctS3Zsb0d3V0hKSjY0U1BUNlY0UnBWbE9uNElsa2Y5TkJXSkJ3QUh4cl9zUm9JMk1XUmpXYk9tREQ4UlVxOXE4UFpVOU52d0JtdmtrRzFqR1hxdmpnN21sM2ZFb2NQZ1plRlFTYnA3X0RNNHpSTU1BMTBac3VpbGttNkHSAeMBQVVfeXFMTVoxZFR6Q3p3RkJnVGVHQ3JtbThNbHhqOEl6Z0JfTGg4a3BHcnk0Qmh3anhwc3dTMk5TdEZFNFFvZno0elRWR2g3S3lfdExCSVFwaTctOEt5UDBsQ19sdDBFNjluczBqcnRJaDJEN3Z1SS1rNkZYNmxyREZBdUk0MUFuMmk3RlkxS0xCblhvMm5wN3Z0Ym9PdjZTY1Uxb2Z1VlBTMGYyTzI1aFdEMnZteWhuU05yR1lkay1qLVdDa3MyVUpESUdzOHpkdnQybDlfaUREV0ZJMHRLNDFVSDhfaHdzTTg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-05-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ebert Capital Management Inc. Acquires Shares of 4,209 Costco Wholesale Corporation $COST - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSFFzQ2lHd1VaQnllRy1iYWRpV0pTQkVGTjVqblFLdDEzZzRQa0lTUjRrbzRtYjBBRXBUc1lOUnFXTWEtX191aHVjWm1LTkRUY0ltM25QTWFlSWxrX0oyMlFpZDY4SW5UMW5BNUdSSFR6OWZDWlQtMGcwQTlFYkU5aGZYN25LbXZ0eU1LbFFYWW1Nc3QzbDF3alhIRENGbUhOX3dJT0M1em5BbTNfeXoxQU0xSlp4Q0JOT0UtUzNwb2FYUmMtbzdFNXczanFvRGZ5enYtQkFhemlHMERDWFlMVg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Huge growth in Korean food patents: 46,000 applications in one decade - صوت الإمارات",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUjhtb29SbzJZb1J6X1ByZXg3SnJWbTdybElEQU1VZG1iV1hHOUJQS3BwRmMyOFBLei1KaUs5NEFZT1FCT3VhajhfdXhQSDFic0w2cm9mSFptRFhXWUZZRUVhQUs5c09mal9hU3hpUTlwODg0aXFuR1o5ck5YSjc3QkpDdE9ER0RZU0V3M3c5UVBiMVlkdnpyMkV6TG9qeTBrQmlJc1dZZnJ4N2NNTTBnWGJETzBiNThSWWxERnNwWGE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 3
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 262,
+    "dup_title": 115,
+    "too_old": 99,
+    "gate1_blocked": 3,
+    "gate2_blocked": 14,
+    "passed": 31,
+    "pass_rate": "21.1%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Archer Daniels Midland (NYSE:ADM) Raised to Buy at Wall Street Zen - MarketBeat",
+      "Is It Too Late To Consider Bunge Global (BG) After Its Strong 1 Year Rally? - simplywall.st",
+      "Latest in Bunge Global SA - The Western Producer",
+      "Nasdaq Holds 25,000; Amazon, Baker Hughes And Bunge Global In Focus - Investor's Business Daily",
+      "Bunge (BG) Reports Q1 Adjusted EPS of $1.83 - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為好市多、泰森食品相關動態：「Tyson Foods, Inc. $TSN Shares Purchased by Mitsubishi UFJ...」。主要關注主題為產業通用、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tyson Foods, Inc. $TSN Shares Purchased by Mitsubishi UFJ Asset Management Co...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Costco Lawsuit Over Tariff Refunds Puts Member Value And Valuation In Focus -...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
