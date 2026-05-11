@@ -1,87 +1,87 @@
 {
   "adm": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "bunge": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "ttet": {
-    "earliest": "2017-06-16",
-    "latest": "2026-05-08",
-    "count": 2161
+    "earliest": "2017-03-20",
+    "latest": "2026-05-11",
+    "count": 2221
   },
   "nestle": {
-    "earliest": "2017-06-15",
-    "latest": "2026-05-08",
-    "count": 2234
+    "earliest": "2017-03-17",
+    "latest": "2026-05-11",
+    "count": 2294
   },
   "coca_cola": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "pepsico": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "tyson": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "general_mills": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "mondelez": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "uni_president": {
-    "earliest": "2017-06-16",
-    "latest": "2026-05-08",
-    "count": 2161
+    "earliest": "2017-03-20",
+    "latest": "2026-05-11",
+    "count": 2221
   },
   "wei_chuan": {
-    "earliest": "2017-06-16",
-    "latest": "2026-05-08",
-    "count": 2161
+    "earliest": "2017-03-20",
+    "latest": "2026-05-11",
+    "count": 2221
   },
   "standard_foods": {
-    "earliest": "2017-06-16",
-    "latest": "2026-05-08",
-    "count": 2161
+    "earliest": "2017-03-20",
+    "latest": "2026-05-11",
+    "count": 2221
   },
   "kraft_heinz": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "walmart": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "costco": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "etf_pbj": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "etf_vdc": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   }
 }

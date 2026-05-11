@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-11",
+  "total_events": 16,
+  "by_company": {
+    "adm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "tyson": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "uni_president": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "costco": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 16,
+      "sentiment_avg": 0.03
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "health_wellness": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "food_safety": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
