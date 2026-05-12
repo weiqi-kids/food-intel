@@ -1,0 +1,16 @@
+{
+  "total_raw": 263,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 5,
+  "gate2_fail": 14,
+  "passed": 45,
+  "gate2_samples": [
+    "Oxbow Advisors LLC Invests $3.12 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Archer Daniels Midland (NYSE:ADM) Raised to Buy at Wall Street Zen - MarketBeat",
+    "Latest in Bunge Global SA - The Western Producer",
+    "Is It Too Late To Consider Bunge Global (BG) After Its Strong 1 Year Rally? - simplywall.st",
+    "Bunge (BG) Reports Q1 Adjusted EPS of $1.83 - Yahoo Finance"
+  ]
+}

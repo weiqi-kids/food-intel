@@ -1,0 +1,228 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T10:25:22.360465Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-05-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer-Daniels-Midland’s Q1 Earnings Call: Our Top 5 Analyst Questions - StockStory",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUFMaDQ1Ui1lZU1tQjYxOW50aGlJRDcwdDVPdnNZQXhjeE9IaTdDQmlmcnRRNGNKbTRfTUhzUXVZc1l1Nkd2c0dwUmQ5WUJkNlNTS3BJZ1E4WEdnVFNuQ1lwU1FiaVBqbm54V014VHlzQlV6QUswWVFQOWVScklEMkkxM3RtbjJxY29CMmpSN08xSUFMTFJFenA4ZWVvSzVnMXMyeTRBd1g0cEgwUDBVOFNmR1FDLTdTUjZWRUxnSHhPYUQxNHhobQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-05-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer-Daniels-Midland’s Q1 Earnings Call: Our Top 5 Analyst Questions - The Globe and Mail",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObTVmXy0yMHZPZklNODZ6TWtjWU51WDRha25YWkVSNmRoZGpYMkptU0cta1RHRlVTQ0ZBOG80MVNGWTRQVlRqNUlkMmg0SUUzd0lZUDNqNUdEbjZPV3kxclpZQkVxUi1ZbG5mNXMtUjdqQWdNMXBtdTNRMHQzY2VVQ09MTDVxb2psekJZMEp5dXlYTFByVi1HWmdJbUVQWjdmeGpkT1ZaOHd4c3gyN29Xalh4R2dGM2t0c2ZkdkNJR2hhT1BIYkZqT2twc2Rja2VhQXh2TXRzU2k0M3h5WjEwWGJleF9lQk0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-05-12-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bernstein Adjusts PT on Costco Wholesale to $1,192 From $1,170, Maintains Outperform Rating - marketscreener.com",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVJaV3lxREVmcEloMVRmd0dsdU9rUTIzRzBaX1NjQ0ZpaTZuUmVlNVNja3QyckFzZUFCd2JJWjhRd1lKR25zVkNhbnp6b3dwQXpoWEY5V3RnRmpwaktQRWVSWUdJWDFfQnFKWF9wbUpER2N5SmJjeDZZQjdVVHMwdjhnNmlXQ1JyTEhxYVBhUTFGdXhhWW83TzBCYW1SeTN0RTk0cmJQN0VEMU9QM0E4LWNGNXdLSXBYQXlUd3Q5RmRub1N1eUtMTFYxZm5oU3lxRkRYQklHMGI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bunge-2026-05-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Surging Sales But Weaker Margins At Bunge Global (BG) Has Changed Its Investment Story - simplywall.st",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdzc1dWx3b3NrUjRVRW5SS2JYcWlWX3NoN01OczViN3pQR2doTTRoc1hxaTVtSjB5VGl3UlY5VndhYWlFRG0zYVZxamFGRUJrLWR3Nm9SRkN2VXlYUmYtMGQzd1haYndkSy0xZTZmd2FyMnRqYjNvS1Nia005MVNCMWpPYmZqVjZKa2JraUlEVkh6bTYwbUhKdFlORnBlTWJkMTE1VXdpMXQxTjRjTVBjZnpfRnlyRGhvSXNzMTdBQlJxLWpsSlVzR1JWajVPLWtCOXZ4V2dR0gHbAUFVX3lxTE5KUUtjRENSYy1iWkxZZEhpZENBQmp4NHpFcFpsUkRZU0JyRWkzZDc4OWJRZ182OHIyU1VRQ3p2TmY0LVg2eFphQ2U0UVZOYmVpU0wwbGtXWjZXZUI0NDByM0U2WUJseUZpc2gwRW9LOEJVbTJoOEl5RnJsZWFQWnp4dGY5SEMtcXZsZmNtUm9OQkdyWldza0cxdkl4ZEpUVGJCOTh4Z0JhNlJVOFNzVXdLYURZLXhRZ0hMZFR3WjM2aDJtZGlPVFc0UGZCbXItRXowcGh3SWV5SW95cw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-05-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "European grocery store giant ‘better than Walmart’ confirms US expansion as it inches closer to brand new locations - the-sun.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSENtVWNBV2VxdDljQmJta2lqWWp6ZW1GUjU5WjI2MjVVNUZ3U2tSNTBCTnI1ZjZLM0NPeXlYcVpOdEZnYm5JY1M2VHVJempESnlIVnNtZHRVVzlTR3JUM1NpMFVlcTJzTmVqdmJicmRCZzh4ZHFvLUd1WWU0cDlNWUhOOTZld1RjWTlPLTFqTWZXSzRUWkd3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 263,
+    "dup_title": 104,
+    "too_old": 95,
+    "gate1_blocked": 5,
+    "gate2_blocked": 14,
+    "passed": 45,
+    "pass_rate": "28.3%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "Oxbow Advisors LLC Invests $3.12 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Archer Daniels Midland (NYSE:ADM) Raised to Buy at Wall Street Zen - MarketBeat",
+      "Latest in Bunge Global SA - The Western Producer",
+      "Is It Too Late To Consider Bunge Global (BG) After Its Strong 1 Year Rally? - simplywall.st",
+      "Bunge (BG) Reports Q1 Adjusted EPS of $1.83 - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為好市多、ADM、Bunge相關動態：「Archer-Daniels-Midland’s Q1 Earnings Call: Our Top 5 Anal...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Archer-Daniels-Midland’s Q1 Earnings Call: Our Top 5 Analyst Questions - Stoc...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Archer-Daniels-Midland’s Q1 Earnings Call: Our Top 5 Analyst Questions - The ...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
