@@ -1,0 +1,190 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:14:52.655164Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Who do you trust? Shoppers name most trusted grocery stores in the South - Greenville Online",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVms2d2V2ZERGQmN0RW9fYU8zMkNmUUd2ZVlCejQ3cF8wWkZuN1RoRzRKVm1kTy04RVFETGNvb0Y5TXFoRGlULWZ2OHZuRWZTc3cyclFkMUtpdmttdUtMUmxGS05yNkJ3TUZuczFBLVNoV2RtOEhrU1JSdU9WY0ZVa3FGUGZJYzl5cUx3R25HZmw2TktuZWhUN29wM3g0ajBXTnN5RWEzQ3ZPekpyRTdqeVV2OWxlbmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-05-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Chobani transformed Walmart aisles into a integrated media channel - The Drum",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZU9ya2VMRzhONVUtcC1vdkQwV3VyRGlRWHBqa3VOeWhLNFpFQWdsTWYzWFhzeGczaC1jVWp5bW9zZ0FSaUU3WFFVQ1hrckFVdjBJMWxQQ0p0RDdwUmVfZENJdW9EeFI0Wkd3Wjl6TzZETVRYMTJHdmJuU043RkNvc2lpV195ek5uRU9VSmpwNlRzaDVzNzJ0bzJHQVR5SHkya185ck04M2tjcklsYmpQaVdB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-05-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Streamlining push: Walmart said to cut or relocate 1,000 corporate workers - Seeking Alpha",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjhNR0RkcWY5czg4Mmp2VkFiLVJrdGpRdTFLcDh1R3dsQmtpSTBvS2Q0WHkwVWl6VkhBc0dwMTlqWXZ0RlZyV1A1V2x5eVlJOHV3aHh4RlUzbjhaV0JMRkYyazJQY0MyRDRkZ2xJVXlrS2Y5TXNWcTlwc3BUUmlGalVaRHQybGl4aWYzOGdCNm8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ground Control: Retailers Are Leaning Into Buying Their Spaces - CommercialSearch",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQUlxZlRrNVIxd2xlX2RWUW94ZF9aU0UzUFVBZjdhUm5od0NNN2w0UEhVMFJ2SXJZRjBxd0xzb25iNC1US1lkaWxmaHExQkstMUhsaGtIZmZKT1VyNk1XTjdNZ082a29rMHJGSm9wWU1KbFZsOFVwRDgtZkxuQUpjbTdhd0VXWF94ektYd2xtRVBiUHZORmwyWWdCTmtZMTBtR3c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-05-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart layoffs continue to grow the corporate vs. frontline divide - The HR Digest",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcU9NLXJMcTNsRy16N2FpYjdER1RFNXJmeTEzYjRveWNsa3JBeURNbXhvSk5PbGZNWFQtYnk3TzV2SHNHa0o0ZmJVdDlFc0thMjlhTTd3ZWlCR1ZTc3R4UDRtT3NUbDF2dDVjSG9kVTJLa3RrdDFuTERidXM4bUhobldacE5qY1VNeWdIbnFic0lpTjc2UjhDWWJQRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 4
+      },
+      {
+        "id": "costco",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 263,
+    "dup_title": 81,
+    "too_old": 98,
+    "gate1_blocked": 9,
+    "gate2_blocked": 25,
+    "passed": 50,
+    "pass_rate": "27.5%",
+    "gate2_block_rate": "13.7%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Company (ADM) Expands Incentive Compensat - GuruFocus",
+      "A Look at Archer-Daniels-Midland Co (ADM) After 4.0% Gain -- GF Value $59.39 vs Price $80.73 - GuruF",
+      "Oxbow Advisors LLC Invests $3.12 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Archer Daniels Midland (NYSE:ADM) Raised to Buy at Wall Street Zen - MarketBeat",
+      "Latest in Bunge Global SA - The Western Producer"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為沃爾瑪、好市多相關動態：「Who do you trust? Shoppers name most trusted grocery stor...」。主要關注主題為產業通用、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Who do you trust? Shoppers name most trusted grocery stores in the South - Gr...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "How Chobani transformed Walmart aisles into a integrated media channel - The ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

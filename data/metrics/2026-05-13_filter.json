@@ -1,0 +1,16 @@
+{
+  "total_raw": 263,
+  "dup_title": 81,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 9,
+  "gate2_fail": 25,
+  "passed": 50,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Company (ADM) Expands Incentive Compensat - GuruFocus",
+    "A Look at Archer-Daniels-Midland Co (ADM) After 4.0% Gain -- GF Value $59.39 vs Price $80.73 - GuruF",
+    "Oxbow Advisors LLC Invests $3.12 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Archer Daniels Midland (NYSE:ADM) Raised to Buy at Wall Street Zen - MarketBeat",
+    "Latest in Bunge Global SA - The Western Producer"
+  ]
+}
