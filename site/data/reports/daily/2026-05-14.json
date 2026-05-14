@@ -1,0 +1,211 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T10:07:48.817695Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-14-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Singapore sees decline in major outbreaks",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/05/singapore-sees-decline-in-major-outbreaks/"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-05-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Community Bank N.A. Reduces Stock Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLTVFME5FSnpCLUZEX2lQYU9fZVVjY2c1amdBdEFKZFdLSUc1WkNTLUJ5RDRSOFlmWXZNaFo2Vzl6d2FoeGhOYVN1X3ZqR19CTWRFRWdMVlAyWUFwMzU2OWM1bE1XYmpzckNYLS0zU205cFdsQVVaVm4tdTZoZnhZM3N5NTBhUEZfVFRTUDhxUGhNYkh2Q2VhcHZvSTVHQ1JlY1ZVbUIxU0FxRktkT2Z1eGxDN3d2eHplTzNXSEVpSVNlM0pnRnlhVWloaHgzcnc0YV82QjN3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-05-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pacer Advisors Inc. Cuts Holdings in Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEZmY25SazMwZ2R3dHZUU0N0Ukl6eUU1MDR5VXNwNzU2TFVsSzAwMU5NbHpxMjNBdGxpdFNwUXh4bGtqQ29LN2YzWmxSSlUxc3dmX1pLMS1uUmlHanJPOERfT0dwSEJsUy05YmxFZzF4cnB6ZHRMXzRDX1pab204Nmx5eGVlR2NmTEpEUUtCSE80ZEhwdTJXbEo3cVpHM1pfSXJvUEZPUUY2V0JvMHR2Y2wxalRMeG8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "uni_president-2026-05-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Uni-President China Holdings Ltd. Announces Extraordinary General Meeting for Approval of 2026 Framework Purchase Agreement and Connected Transactions - Minichart",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORWZVWTQtSVRkZW9VRERWdUphZGNVV3hJRFROeVdLRDdCUjR6NTNqaF9KYndCcGUxS3FncWI0MXhhZ0lKT0N3Y3IyVHBxenVHdTJrRlFIN0hWWlZjNVVoWWRHX3loZ2llam9KNm1hRTdtQnhfSkVKTlNxNGxDNUVlRXJUOE9SbFFRV01pQWZadWt6VDA0SWFEdWxnVzliOGthZ2hvcHlsUGdiMzNBa1ZVb1BJS1pMNHZUdVpGV2xMNG14Vnp1UXE3LXpOUUVoNU5MNERRSE5XcmFHemVBN2xoR2RfWW1VQmpDdllManlBbXlES3ZUU3RkVm9XdzgwUDhmZ25uSEhkX0loZjI0OE53RXVoZ3RObkxwZlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-05-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart launches local US delivery hubs in quest for speed supremacy - Financial Times",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQkNIT3p6a2R5WjNla3JlU05KR0ZwcDAwRnduMHhwbDBqWEJlVXhFVE45dk9NMUtyTmVUSDRzU3JfdHpxLXptbEJsSmNYS25oa2lJS0w2WHREWmkzVGpCeUV1OEI3MFViX2F3XzJtaU5HbGFGbHQyRm5KeWJ4cXVrUzdRYTA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 262,
+    "dup_title": 86,
+    "too_old": 88,
+    "gate1_blocked": 10,
+    "gate2_blocked": 21,
+    "passed": 57,
+    "pass_rate": "32.4%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Company (ADM) Expands Incentive Compensat - GuruFocus",
+      "Oxbow Advisors LLC Invests $3.12 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Latest in Bunge Global SA - The Western Producer",
+      "Is It Too Late To Consider Bunge Global (BG) After Its Strong 1 Year Rally? - simplywall.st",
+      "Walmart cuts 1,000 roles to simplify operations, Reuters reports - CNBC"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為好市多、沃爾瑪、ADM相關動態：「Singapore sees decline in major outbreaks」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Singapore sees decline in major outbreaks（食品安全、產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Community Bank N.A. Reduces Stock Position in Archer Daniels Midland Company ...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
