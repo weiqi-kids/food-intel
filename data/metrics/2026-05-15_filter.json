@@ -1,0 +1,16 @@
+{
+  "total_raw": 262,
+  "dup_title": 86,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 12,
+  "gate2_fail": 20,
+  "passed": 51,
+  "gate2_samples": [
+    "Oxbow Advisors LLC Invests $3.12 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Latest in Bunge Global SA - The Western Producer",
+    "Is It Too Late To Consider Bunge Global (BG) After Its Strong 1 Year Rally? - simplywall.st",
+    "Vinayak Sasitharan named Mondelēz International senior finance director for SSA - Bizcommunity",
+    "Walmart cuts 1,000 roles to simplify operations, Reuters reports - CNBC"
+  ]
+}

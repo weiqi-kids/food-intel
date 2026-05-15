@@ -1,0 +1,261 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:14:04.977933Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cargill-2026-05-15-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Bunge Global SA stock (US12185T1043): earnings update and Cargill JV exit reshape the agribusiness s - AD HOC NEWS",
+      "companies": [
+        "cargill",
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS2FrN011bmpJVTNpMTlpM0VReUJVNFVxZ3ZkRG9qR3c5Z3BvRllKOHNxUVFOYUNJazRNbzA5Ry1uQklTdGdGRUs5bVlxNE0zVUhneXRLanRRRUFCcGcwWFFVTXFyeFFEcU13TmM5dnBSa1Q0VEl2dmhXTEhSS3BRZGJEdXo3S1I2NFc0aDRiY1llQWxKRVlXU3hjb0U0SjNYRllwNzNvWmN1RzdWaE00SjBsZktzSk1NdWM5X3JUOEEweXM4bXlMdA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-05-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Should Tyson’s Stronger Chicken And Prepared Foods Offset Beef Weakness Require Action From Tyson Foods (TSN) Investors? - simplywall.st",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONXh6elY3X3hkRXpLSW1EbW5rLWp4TTUzSExmRXpySnJLLUpVOE9JbXU3OEJJbGk3MU43YThHZGRZQlBWTkdSRmVoYnEtQXJINkE4NGVVN3BhMm54TkZpOG9ULWxFdUFRdHJiNGc1VFZnWXlONUxlUlJ1Skd1ZE5yWUUySERDWUdVZ1lwQ1VKVEE1d2t0TDZQZ01ucVlHTDlrWW1CZzhITDNObHZLU1huck9GQ0xueEY4TWtjaWFsVVp4MlhKRU5nTXVlM3N2YVNUSVg0bk9INNIB3AFBVV95cUxNMkp0cW5Tb0tjUXNWR2czdVhoLUhlbmluMjFUQmpJZ2pRdWR2R0V6ZEZRYjFPYkRDZEd5Qmxsa0Nwb3Y5amUtQXJIbVBobVJGNC1yNUtHeEJTT2dlWHpPeDVqVzVGaVlKRHJCUHQ4MVVwdUE3STloVlNyVjFHRnk3MldHRUotdG1iQjRuYzhPbEJRQ2h2ZkNiRlNZbXBEOXV3MUFEUnFJYjYxN05DR0xrVWpvRXFselhFQ3dlMjRsakxldjlxVGxMYUN2SFN2NGNUX3dmQ3dLSy1DZ2px?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-05-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart promises faster service, more interaction as it remodels Connecticut stores - CTPost",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFEwV3Job0NuQjU3WmxoZmZOZHhIaG1QVGRXRzBDOGJEQS1FNkVsdVhJaERIUEQ2S3dyd3ZZM3NHM2NReC16VzhLZG5aVU1UM0pCaTN0SmlIQWlodm9nb2JyNGZSekVIdEhUR0xxX3hjN0RrRUNQamlxUDd5M1lTWGNlazEwb0FjWXpXSTNacXYzX0dMWkZ3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-05-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bessemer Group Inc. Sells 157,803 Shares of Costco Wholesale Corporation $COST - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUUU4Nko1enBTRnFYSzhaTmFwRlV3cnJXX0RMSEZscFl1MUhZYS1fUTdUMkFfdnAwNjJSSDJTRFE5M2V2Q3pzMklkSnVybl9rcjY5dVNnSXdSWURYcFVWMFQ1b1g4VkpWTy15cVdJeDI3TnRaMV82QzVjcl9GMXV1VzZkUHk0UV9GRU1YUlctYlBRN2ZFclhySFFMNmNveEx3M21tamF1SEp6UndfSWYyZ3V6ZGY5eGlMN0FGajBkUDVBSmhSdjBBaURCN2dFSE02U1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-05-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is It Too Late To Consider Costco Wholesale (COST) After Its Strong Multi Year Rally - Yahoo Finance",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUmVOSUxYMFJ6OTBqaVN4VFRTSDNzcU5yNlNzWEpWMHVNZGlPZTE2LUFLNGpqeFlwRmNFTnNlYk9ydC1zOURUSlBGU3dZRUxuVjVFQ3cyeGtYNlBvT0p6LS1ZenBjc2ZNRVdXcm9rcU1TM05PVzd4dUZyYVgxMElReFo4Szdjcm1xREdmWW5va3R5b1R0b2JXNVdKSy1qeFFy?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "cargill",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "raw_material_cost",
+        "count": 1
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 262,
+    "dup_title": 86,
+    "too_old": 93,
+    "gate1_blocked": 12,
+    "gate2_blocked": 20,
+    "passed": 51,
+    "pass_rate": "29.0%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Oxbow Advisors LLC Invests $3.12 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Latest in Bunge Global SA - The Western Producer",
+      "Is It Too Late To Consider Bunge Global (BG) After Its Strong 1 Year Rally? - simplywall.st",
+      "Vinayak Sasitharan named Mondelēz International senior finance director for SSA - Bizcommunity",
+      "Walmart cuts 1,000 roles to simplify operations, Reuters reports - CNBC"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為好市多、嘉吉、Bunge相關動態：「Bunge Global SA stock (US12185T1043): earnings update and...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Bunge Global SA stock (US12185T1043): earnings update and Cargill JV exit res...（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Should Tyson’s Stronger Chicken And Prepared Foods Offset Beef Weakness Requi...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "原物料成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
