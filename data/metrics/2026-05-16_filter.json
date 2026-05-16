@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 8,
+  "gate2_fail": 16,
+  "passed": 39,
+  "gate2_samples": [
+    "Is It Too Late To Consider Bunge Global (BG) After Its Strong 1 Year Rally? - simplywall.st",
+    "Preliminary approval of Tyson settlement with beef DPPs granted - Feedstuffs",
+    "Vinayak Sasitharan named Mondelēz International senior finance director for SSA - Bizcommunity",
+    "Walmart cuts 1,000 roles to simplify operations, Reuters reports - CNBC",
+    "Walmart and Amazon race to win over rural America with speedier deliveries - The Boston Globe"
+  ]
+}
