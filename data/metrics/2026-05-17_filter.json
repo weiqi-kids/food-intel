@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 8,
+  "gate2_fail": 14,
+  "passed": 23,
+  "gate2_samples": [
+    "Preliminary approval of Tyson settlement with beef DPPs granted - Feedstuffs",
+    "Vinayak Sasitharan named Mondelēz International senior finance director for SSA - Bizcommunity",
+    "Walmart and Amazon race to win over rural America with speedier deliveries - AP News",
+    "The Path to $160: The Upside Case for Walmart - Trefis",
+    "Walmart Supercenter coming to new Santa Rita Ranch Center - Community Impact | News"
+  ]
+}
