@@ -1,0 +1,231 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T11:38:51.419934Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Unpacking Q1 Earnings: Ingredion (NYSE:INGR) In The Context Of Other Ingredients, Flavors & Fragrances Stocks - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV21mb3I5WXBEckN3V1k0SHJXVG9ZRnc2Y0RTaEpJTk5QZGRSdUtLbDZKbVZkRUdLNkpFNXh0bTB1ZTBtNXRCTnhsRlFsWW1Wbk9Fd2NSX1cxTTducmhENmlJSkN5V2RCMGFCNnVscExlc05Ia0NWdlJKXzAwcmM0SjE3R1RSME5yX3dZR3UtU01SaXZBMk5iV0pFdUZzRnFkNmp1RzJRNV9iaFNqaTJHeXRWUTBhZkVFTzZZR1RrZVJ6WmFWNEdrZzNtS3RwbkJfVlNYN0pfb1ZFYkNzZjlXcy16WDdPRzhKWnlmZGpOWXVOdHNDV0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-05-18-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tyson Foods stock (US9024941034): Fresh earnings focus after the latest company update - AD HOC NEWS",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSkMyaXRqcXRWalA5ektCS2RGVjNEdGU3ckQyRjFmOU9pbldOMXdoX1ZBSXBwazh3cGtURDBkMENpTmZUanJ6RmZMSGdpNnhoUXNtMzNTYTlkTGtkdWs2OF9kNm5LcWVuSTdOZ04wWFRfYlNBaTMzR3BXaWVsN3N2dThZLVprVDRfN0t5aHI0QWltUHJULWc3SzFteFFFVzQ3MTRKQnB4N0NyaWxMc0lLYVZqdnNiQTM5OE1qUlFRZXV1Z3VLcGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-18-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA warns four firms in California and Oregon over Listeria, HACCP and sanitation failures",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/05/fda-warns-four-firms-in-california-and-oregon-over-listeria-haccp-and-sanitation-failures/"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-05-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland stock (US0394831020): Accounting probe fallout and strategy in focus - AD HOC NEWS",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWVVYMkk2UGJiOGZsX0RRenZaOFR1OXRmNXlaYmNCdkd0QVAxaXd0Y1BDYnJSbi1Ea2RFeVlUTExLTEZhbmxTZTlKT3AtbW96UHBlWXZ6QVl4YmwtRmtoblJnWDg2X2s4U0FzdFk5bjVxNFg0UUNac21pMlV1di1vb0lQSWR4YTBabXNuM0NWM0o3Y3VJTHRnd3RhNHhCRl9EOVRkX1Z1UnJfbHB1NlNPbzJYYkNuU3JfMlFsWl9tSk1laWdOTXdiVw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bunge-2026-05-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global SA stock (US12185T1043): grain trader in focus after recent share move and integration - AD HOC NEWS",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjZ5ODFtYUV6MXQyRDgwSFpqV2ExNkcwYXpCZVF4YTFqR0lnUWd1a1dBbEhWMWlwMUxHdm9hOUp5TTVVQS1tczNsQmZrZG9HdGhROG9xVHVad1pKeGY4a0F3QjVBWjVRR2N0ZlFFeE1NSDhINm5hRTllWGZFOFRQOVlHTzFNTzVueHFIT1NxX19xUUhkbkI2bml5QXFnUjJXY0ZXNEpwQV9tRzFlVUdoOWU2QTRRdlp6VWJUVE4yNWllLWlCYUdV?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 7
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "food_safety",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 102,
+    "too_old": 110,
+    "gate1_blocked": 5,
+    "gate2_blocked": 13,
+    "passed": 34,
+    "pass_rate": "21.0%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Company (ADM) Expands Incentive Compensat - GuruFocus",
+      "Vinayak Sasitharan named Mondelēz International senior finance director for SSA - Bizcommunity",
+      "Walmart and Target are about to show just how much shopping habits have changed due to the Iran war ",
+      "Walmart and Amazon race to win over rural America with speedier deliveries - AP News",
+      "The Path to $160: The Upside Case for Walmart - Trefis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為好市多、泰森食品、ADM相關動態：「Unpacking Q1 Earnings: Ingredion (NYSE:INGR) In The Conte...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Unpacking Q1 Earnings: Ingredion (NYSE:INGR) In The Context Of Other Ingredie...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tyson Foods stock (US9024941034): Fresh earnings focus after the latest compa...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

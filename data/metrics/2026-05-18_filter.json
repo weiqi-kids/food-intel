@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 5,
+  "gate2_fail": 13,
+  "passed": 34,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Company (ADM) Expands Incentive Compensat - GuruFocus",
+    "Vinayak Sasitharan named Mondelēz International senior finance director for SSA - Bizcommunity",
+    "Walmart and Target are about to show just how much shopping habits have changed due to the Iran war ",
+    "Walmart and Amazon race to win over rural America with speedier deliveries - AP News",
+    "The Path to $160: The Upside Case for Walmart - Trefis"
+  ]
+}
