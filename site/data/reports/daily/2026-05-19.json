@@ -1,0 +1,231 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T10:55:29.327516Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-05-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer-Daniels-Midland stock (US0394831020): earnings questions, buyback pause and accounting probe - AD HOC NEWS",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0JuTXpENE95ZmNZZkhkT1NmQ0pyUi1WWTRBRUtkSDFYYzNsUlk1ZXhSekJmR0RoUlNqTGU1dFRHTnFFZDJHWWQtS2FRUkZWWGNDUjFaSmxWeWtZVEpLVHg3N1BPU2wtcGVLSUJERDhUZlpuWGw4akdlbHFkTGNXaHNVUkh3MkZyR2pMVmtuSVJzSVJnVVJDX19mYjVuazRxQmxNYVk5MDcyRi0tYnRZY1hRQ0FWUk9zaDYyR3puQjZHS3pUSVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-19-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "New Zealand continues reforming food safety system",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/05/new-zealand-continues-reforming-food-safety-system/"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-05-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Shares Sold by DNB Asset Management AS - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVkFNMG5TamE5Q2Y4VENDaExPLWg5Q0c0aU5rRmQ2Unl5YVZLcFJQWHdJc1pLZWp4Ql9iNjBaSFJTemRlZl9JQ3FOckhyUm9BQVpQUWtqZXRsTlJZcEVGX21KSzF4MjlKaUVVQUdJbVh2WWVHa3kxWHVZWHN1WXdfU1V4SGp2TXZiSl92QnpoZTI3eG55alM4c2x1bDJlMWduVzJuUFRsaVVKSENZaFJLekZBTWk4MHEzWVZVb3Q4VU14UHZDMXpoLU55VUthX2M?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-05-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Gamco Investors INC. ET AL Sells 16,009 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVzFqWjc2WFQ2RWh4TXRmNUZaVk15ZTB4bkF2NzRCV2NFWDkzN0ZhOFkzWnZNUTEzenR6bjVyQVNkZmpBWVJHcVNrdEwtNW1yT3QtRDJqSG44Y2ljc3VtR01nRDZPWGdBMnkzMl8taGl5MHdUSlZmc3k0YXMzRmxPZFdoZzJpV1JleS1uTWJ2LXJ3VExrZ0t2U3psd3A3OEt1M0YtS0V2ZG9LOENsbU9HNzhjdmRZM3RtZjZsTklsSnZqN0dSRXB4cTlvbTc0TWtPUVlXY3B6SVlhcjQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-05-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods plant worker dies at job: May 18, 2026 - AppleValleyNewsNow.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdHdIdmZxd1g3WDdVdkxJdm9XeXNDQkFkUHZKYXh6ckQ2NExmVzlrZVNKZGtGR3h3eTV6RC13bEZLNjVfUi1ZLWVvYUtPVWIwUjdvS3FJQUJKb1gzdVRqNVB5dXBBeDZPbW85RXlHYjRJZU5BNUR0dlFJOHRpV2RROG8tWnlxSG56OU5vd3pabnl6ak5hc2haT054aVIxZ1o5YTVBVFY1UFRsdm5GQTk2MnN3QXVLYVdYOVh6ZHhmT28wTlU2ZG5vbFRjMVZlUlZuRUEw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "adm",
+        "count": 3
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "food_safety",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 93,
+    "too_old": 99,
+    "gate1_blocked": 3,
+    "gate2_blocked": 13,
+    "passed": 56,
+    "pass_rate": "32.7%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Walmart and Amazon race to win over rural America with speedier deliveries - KSL.com",
+      "Walmart and Target are about to show just how much shopping habits have changed due to the Iran war ",
+      "RTH Owns Amazon and Walmart. XRT Owns Everything Else. That 12% Gap in 2026 Is No Accident - Yahoo F",
+      "Walmart purchases shopping plaza property in Volusia County for $5M - The Business Journals",
+      "Walmart makes quiet move as Amazon delivery threat grows - thestreet.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為好市多、ADM、沃爾瑪相關動態：「Archer-Daniels-Midland stock (US0394831020): earnings que...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Archer-Daniels-Midland stock (US0394831020): earnings questions, buyback paus...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "New Zealand continues reforming food safety system（食品安全、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

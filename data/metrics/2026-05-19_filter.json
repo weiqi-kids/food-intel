@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 93,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 3,
+  "gate2_fail": 13,
+  "passed": 56,
+  "gate2_samples": [
+    "Walmart and Amazon race to win over rural America with speedier deliveries - KSL.com",
+    "Walmart and Target are about to show just how much shopping habits have changed due to the Iran war ",
+    "RTH Owns Amazon and Walmart. XRT Owns Everything Else. That 12% Gap in 2026 Is No Accident - Yahoo F",
+    "Walmart purchases shopping plaza property in Volusia County for $5M - The Business Journals",
+    "Walmart makes quiet move as Amazon delivery threat grows - thestreet.com"
+  ]
+}
