@@ -1,0 +1,16 @@
+{
+  "total_raw": 261,
+  "dup_title": 79,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 5,
+  "gate2_fail": 13,
+  "passed": 79,
+  "gate2_samples": [
+    "Walmart & Target inches away from $1k fines if they don't change self-checkout - the-sun.com",
+    "Walmart purchases shopping plaza property in Volusia County for $5M - The Business Journals",
+    "Walmart and Amazon race to win over rural America with speedier deliveries - KSL.com",
+    "Walmart and Target are about to show just how much shopping habits have changed due to the Iran war ",
+    "Exclusive: Amazon and Walmart workers are concerned that AI is making HR decisions - Fast Company"
+  ]
+}
