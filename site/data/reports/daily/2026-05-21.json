@@ -1,0 +1,238 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T11:00:38.088512Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-05-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tyson Foods Inc. stock (US9024941034): earnings recovery meets legal settlement costs - AD HOC NEWS",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVM0Nk9STGNlMWR4bExJeTBrSHJ6MDhGSUNMamdGV1UwVnItektFRmN4OU56dzM0bHNraFo1ZlJOQXlhSXFrS2NFNU1QaHhRUk5yM085ODhCMnE3Nnp4X3puS2ZQVjlTeWJfa0lJcEdGRzMyOVRDNTNSQ3FULURqMFZ1cDlGWlFuV0M3WWtJd1F5VlNkcFpON1hFbGpqdFBJczhpbF9mcFU2R0thaHREazVKaU1vZXpoQmkyUVB2Mlk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mondelēz Drives UK Growth Agenda - Food & Beverage Outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelRaeUpDSUw0ZzRZUlM0T1pPcHlTWEY5SUNEbFl4ME44OF9kWnJXczc5WjJ1QTBSeThXamMtWUJXeWphN3I2WE15cGNkSGtOZXpLZWZ4MW44Q0o4WnFfd1phbmt2bXFVXzN3d0NSMExMblVCSHk2aUlpZjJIQmNUaVZUVEdSb2RRRlF1TWtUaDNwQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "uni_president-2026-05-21-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "G Sachs: Logistics Cost Inflation Emerges for Mainland Staples Firms, Greater Profit Impact on Tingyi, Uni-President China - AASTOCKS.com",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXlsTGU4c3pUYlFpQ0lUZGptY3RjZVZ0dWJDMlVsTm9aVHJSN0c1Q0xqNng3M1VDOG9VNS1ncmN6ZFQ4VWxyU2l2TDJheUhPVmo5Wm1PWVlERF9TdWdJN0JKVElZcWRESndwMTZNaWRmM1JKMTdmZWxFaWp4VjhOZUIyQ2o?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "uni_president-2026-05-21-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Goldman Sachs: Logistics cost inflation is emerging among mainland China's consumer staples companies, significantly impacting the profitability of Master Kong and Uni-President. - 富途牛牛",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3gyeVhEMDh6TGVySU5zLXdlU3JNMVRTeVdmaFRzaXl3NDAtS25HR1lNUnNpTVVwM0hDOTdwMklsbjlXV3A4MlVvdzN6c1BXMG1xLVdHWXlRV3VYeEtrenVCdW1VQ0pnWEx0Rm42aG9pVGFPQnluTDNpamVscGw4VWNfTWZHTUtfSUFSR05la1hTUXVoU20yMGlZbDFsOVM0cFBPUXMtZlNmanF2QlZXRVBn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-05-21-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart to report first-quarter earnings before the bell. Here's what Wall Street expects - CNBC",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtOS15eV9xWHNjUmx0blE3c2docUEtU2E5WUIxQl94VWdPQTFUZ1hnQzFudXBOazVkSHNSRlFhaG43YnNFV1diQWJvZkpKRmMybjkyOUUtQndtcjUzTFdYUzhBX1Z6UlVIS2FyYlVuSVlGQ1XSAXhBVV95cUxNUG95TGo5R3VBZnJaTkN4Zm1mbTdVdXByTy1iQ3paZnllRHR1ZmhibzZjUXRWbkZBbzl5LVl2OWxyOEZ2cVhEUnNObk9YWE91bjFNUE9WNGpqelhTdUZWUU5rOWZlUXBDSGxjeXhZS3ROaFdoSVFWajE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.3,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "uni_president",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "food_safety",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 261,
+    "dup_title": 114,
+    "too_old": 77,
+    "gate1_blocked": 5,
+    "gate2_blocked": 15,
+    "passed": 50,
+    "pass_rate": "34.0%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "What Did Bunge's 2026 Investor Day Reveal About Its Future - Kavout",
+      "Walmart makes quiet move as Amazon delivery threat grows - thestreet.com",
+      "Exclusive: Amazon and Walmart workers are concerned that AI is making HR decisions - Fast Company",
+      "Walmart & Target inches away from $1k fines if they don't change self-checkout - the-sun.com",
+      "Walmart and Amazon race to win over rural America with speedier deliveries - KY3"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Uni-President、ADM、泰森食品相關動態：「Tyson Foods Inc. stock (US9024941034): earnings recovery ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Tyson Foods Inc. stock (US9024941034): earnings recovery meets legal settleme...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Mondelēz Drives UK Growth Agenda - Food & Beverage Outlook（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

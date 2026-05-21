@@ -1,5 +1,313 @@
 [
   {
+    "id": "adm-2026-05-21-001",
+    "date": "2026-05-21",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Banque Cantonale Vaudoise Purchases 18,088 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNME56cjJMc0U1UTZZYlFYYk1hdHJTRThBeGJ5NVF0MHFzZ00zTVNSaWJzUTdrZjlYRkZabWdPajBTMFllSGkzbkVfVEFDeEs2NnU1U1BxeEs2S19HRDFmdmNwRjJwTTlEMkZBTHcyeX",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNME56cjJMc0U1UTZZYlFYYk1hdHJTRThBeGJ5NVF0MHFzZ00zTVNSaWJzUTdrZjlYRkZabWdPajBTMFllSGkzbkVfVEFDeEs2NnU1U1BxeEs2S19HRDFmdmNwRjJwTTlEMkZBTHcyeXprdzNZODF2TDBIcTlzWFFZY3dUbnFJRmNJNlhaY1RtTjNtTVR5bGJXVzBxMjgzMVBwMjdoUVJEekZWajVwUG5VSDhWcjNnNHd0OTdna2tXdHNfWEFFTlgtSXJvc3NmMU4ycHJqWFdlWFpGVUlRMnA3RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-05-21-002",
+    "date": "2026-05-21",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods Inc. stock (US9024941034): earnings recovery meets legal settlement costs - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVM0Nk9STGNlMWR4bExJeTBrSHJ6MDhGSUNMamdGV1UwVnItektFRmN4OU56dzM0bHNraFo1ZlJOQXlhSXFrS2NFNU1QaHhRUk5yM085ODhCMnE3Nnp4X3puS2ZQVjlTeWJfa0lJcE",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVM0Nk9STGNlMWR4bExJeTBrSHJ6MDhGSUNMamdGV1UwVnItektFRmN4OU56dzM0bHNraFo1ZlJOQXlhSXFrS2NFNU1QaHhRUk5yM085ODhCMnE3Nnp4X3puS2ZQVjlTeWJfa0lJcEdGRzMyOVRDNTNSQ3FULURqMFZ1cDlGWlFuV0M3WWtJd1F5VlNkcFpON1hFbGpqdFBJczhpbF9mcFU2R0thaHREazVKaU1vZXpoQmkyUVB2Mlk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-003",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mondelēz WTR highlights sustainability progress across packaging, sourcing and climate goals - DFNI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ2NNQlJINy1zSDI4OW1rTTA0bDktcmx5LThKZGQ3Nm5nV1BmQ1d5amFVZUEzd3BCMGRhME92NU8zS1FuOVhGVUx0bS1sZ3U0TWF5NUVjNnk2bjNSQWJnY1BBTjdfbW83YkRINm8xTD",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ2NNQlJINy1zSDI4OW1rTTA0bDktcmx5LThKZGQ3Nm5nV1BmQ1d5amFVZUEzd3BCMGRhME92NU8zS1FuOVhGVUx0bS1sZ3U0TWF5NUVjNnk2bjNSQWJnY1BBTjdfbW83YkRINm8xTDAyZ1ZPVm9XOGM0MzV5cVAxck9oZ2Q2YVhmZlJSd0s5LURITzlUeFowUERRTWh1Nl8tS0J5OEJCbGpENDZIVHVLRVFkZWdUWGs3ZkNoOXdETWNUd1ZhR2ZzcVh4TGxRa3kwNXVjTWdZVnpnb0p1M1B3dFRQOUN6OUNJZjJGelZHUTF3YkltdU1vV013?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-004",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mondelēz Drives UK Growth Agenda - Food & Beverage Outlook",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOelRaeUpDSUw0ZzRZUlM0T1pPcHlTWEY5SUNEbFl4ME44OF9kWnJXczc5WjJ1QTBSeThXamMtWUJXeWphN3I2WE15cGNkSGtOZXpLZWZ4MW44Q0o4WnFfd1phbmt2bXFVXzN3d0NSME",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelRaeUpDSUw0ZzRZUlM0T1pPcHlTWEY5SUNEbFl4ME44OF9kWnJXczc5WjJ1QTBSeThXamMtWUJXeWphN3I2WE15cGNkSGtOZXpLZWZ4MW44Q0o4WnFfd1phbmt2bXFVXzN3d0NSMExMblVCSHk2aUlpZjJIQmNUaVZUVEdSb2RRRlF1TWtUaDNwQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-05-21-005",
+    "date": "2026-05-21",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Number of shareholders of Uni-President China Holdings Ltd. – FWB:58U - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQa1dLTEwyemlJRjAwem5RNWl1Y1F4NzU4eE9lY1FHbnRnQ3lTQk5RSUZaWUphQ3Y3cTFuSUxqbG5VdDJkQ3ZucmN6ektoY2ZJd0QtWGpRRjFNaHlyYWJNR3VieFBuUUpBWmF5MllEZF",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa1dLTEwyemlJRjAwem5RNWl1Y1F4NzU4eE9lY1FHbnRnQ3lTQk5RSUZaWUphQ3Y3cTFuSUxqbG5VdDJkQ3ZucmN6ektoY2ZJd0QtWGpRRjFNaHlyYWJNR3VieFBuUUpBWmF5MllEZFotakFNOTE5STREMGdGOWdQSjBhdGNPV1NIaUVxOHhERHhqRVZTZWZUU1dnS2k2V1h5MEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-05-21-006",
+    "date": "2026-05-21",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "G Sachs: Logistics Cost Inflation Emerges for Mainland Staples Firms, Greater Profit Impact on Tingyi, Uni-President China - AASTOCKS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXlsTGU4c3pUYlFpQ0lUZGptY3RjZVZ0dWJDMlVsTm9aVHJSN0c1Q0xqNng3M1VDOG9VNS1ncmN6ZFQ4VWxyU2l2TDJheUhPVmo5Wm1PWVlERF9TdWdJN0JKVElZcWRESndwMTZNaW",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXlsTGU4c3pUYlFpQ0lUZGptY3RjZVZ0dWJDMlVsTm9aVHJSN0c1Q0xqNng3M1VDOG9VNS1ncmN6ZFQ4VWxyU2l2TDJheUhPVmo5Wm1PWVlERF9TdWdJN0JKVElZcWRESndwMTZNaWRmM1JKMTdmZWxFaWp4VjhOZUIyQ2o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-05-21-007",
+    "date": "2026-05-21",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Goldman Sachs: Logistics cost inflation is emerging among mainland China's consumer staples companies, significantly impacting the profitability of Master Kong and Uni-President. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3gyeVhEMDh6TGVySU5zLXdlU3JNMVRTeVdmaFRzaXl3NDAtS25HR1lNUnNpTVVwM0hDOTdwMklsbjlXV3A4MlVvdzN6c1BXMG1xLVdHWXlRV3VYeEtrenVCdW1VQ0pnWEx0Rm42aG",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3gyeVhEMDh6TGVySU5zLXdlU3JNMVRTeVdmaFRzaXl3NDAtS25HR1lNUnNpTVVwM0hDOTdwMklsbjlXV3A4MlVvdzN6c1BXMG1xLVdHWXlRV3VYeEtrenVCdW1VQ0pnWEx0Rm42aG9pVGFPQnluTDNpamVscGw4VWNfTWZHTUtfSUFSR05la1hTUXVoU20yMGlZbDFsOVM0cFBPUXMtZlNmanF2QlZXRVBn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-05-21-008",
+    "date": "2026-05-21",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Walmart to report first-quarter earnings before the bell. Here's what Wall Street expects - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBtOS15eV9xWHNjUmx0blE3c2docUEtU2E5WUIxQl94VWdPQTFUZ1hnQzFudXBOazVkSHNSRlFhaG43YnNFV1diQWJvZkpKRmMybjkyOUUtQndtcjUzTFdYUzhBX1Z6UlVIS2FyYlVuSV",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtOS15eV9xWHNjUmx0blE3c2docUEtU2E5WUIxQl94VWdPQTFUZ1hnQzFudXBOazVkSHNSRlFhaG43YnNFV1diQWJvZkpKRmMybjkyOUUtQndtcjUzTFdYUzhBX1Z6UlVIS2FyYlVuSVlGQ1XSAXhBVV95cUxNUG95TGo5R3VBZnJaTkN4Zm1mbTdVdXByTy1iQ3paZnllRHR1ZmhibzZjUXRWbkZBbzl5LVl2OWxyOEZ2cVhEUnNObk9YWE91bjFNUE9WNGpqelhTdUZWUU5rOWZlUXBDSGxjeXhZS3ROaFdoSVFWajE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-21-009",
+    "date": "2026-05-21",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rathbones Group PLC Has $236.81 Million Stake in Costco Wholesale Corporation $COST - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWV82MVNMSTdWNDFKSFBhTDl1ZUR3YS1QdWFwbmhuLUdzUm9mWG9JUGlsT2hOdVJTREdSY0Q4emMwUHh0M0RVYllTTF9nREp6T0ZMOXFLRE5leEpIUmdXaEpVQlNFdEhhd3JsUnJkMk",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWV82MVNMSTdWNDFKSFBhTDl1ZUR3YS1QdWFwbmhuLUdzUm9mWG9JUGlsT2hOdVJTREdSY0Q4emMwUHh0M0RVYllTTF9nREp6T0ZMOXFLRE5leEpIUmdXaEpVQlNFdEhhd3JsUnJkMk9ILWhTRFhFNGt4YUl5ekw4SnhXdTlJVkdvV0p3OWtnUlVRVGRxeDBOOE41NktxeVh3bzdJdjNFTTllQVpoUjh0UDBKaXlZOURXQXJ1VFpMSzNwaXpkTWFBMjFKYU5fcTlsRkdxNGRHUjM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-010",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Nutriment Company acquires German raw pet food platform - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOXFaalBvUEtYcTh5US0zN0NQNHVrcHJONEJwaFpPR3pLNUhjSjBvVld4bFBhdUhLdU15ZWhlY01tZmNJUW0ybldCMWdSaGVUQV9LYWhNMEI5dWludFY5cV9qUEx0VlB5eTYyXzhkME",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOXFaalBvUEtYcTh5US0zN0NQNHVrcHJONEJwaFpPR3pLNUhjSjBvVld4bFBhdUhLdU15ZWhlY01tZmNJUW0ybldCMWdSaGVUQV9LYWhNMEI5dWludFY5cV9qUEx0VlB5eTYyXzhkME5pV1dFYmRJUmZKZzVvTEFvMV9ROEt2eGZBV0hLallPS3JJaHpiTlJRZ05sNmEyT0xFVF9MWlFLeDlLWkdYaFotaEVvOG51Q0QwNjFWODRHX3dDcjFmdENRUk9PYU9sQ0hVMUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-011",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Petfood Forum Europe 2026 highlights innovation, sustainability and market growth - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUV9fN0tEbkhRTG0tczVCakowQlRLRm1tTmplQTdiWFdxRkp1Z0pBUHdIN04yVm02TTY1bVVWUUlpVldIVUg5UEUyWVJCUkFXZVY3WHdpVzVtenlSLXVJTWNCM0JmdlA2SEg1dm05Q1",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUV9fN0tEbkhRTG0tczVCakowQlRLRm1tTmplQTdiWFdxRkp1Z0pBUHdIN04yVm02TTY1bVVWUUlpVldIVUg5UEUyWVJCUkFXZVY3WHdpVzVtenlSLXVJTWNCM0JmdlA2SEg1dm05Q19zNGJpOTE0Q3l1UHd0a2hLN0hSWUdRc1gtSHpoOVRhR1drX2FhcVhmX21CeEoyN3JSWHBKbXRvTUZEREJVNVBrNlcwUVNaRTg5UE5rbXhSUTRKeGdLYVJxOUctakN3TjBMalFUX3dpNHBPT0UxRnQwYmZ0X3BNZEdJeUNTNFhtVnRFUlhTakItLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-012",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "FDA investigating new Salmonella outbreak",
+    "summary": "In other outbreak news, the agency has initiated a foreign inspection in relation to an outbreak traced to cantaloupe",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/05/fda-investigating-new-salmonella-outbreak-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-013",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "USDA move to decommission Beltsville Research Center sparks food safety and legal concerns",
+    "summary": "<p>The USDA&#x2019;s plan to decommission the Beltsville Agricultural Research Center (BARC) and disperse its research units, including the Environmental Microbial and Food Safety Laboratory (EMFSL), ",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/05/usda-move-to-decommission-beltsville-research-center-sparks-food-safety-and-legal-concerns/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-014",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "IFC guide aims to help with food safety assessment",
+    "summary": "<p>The International Finance Corporation (IFC) has produced a guide to support the analysis of four aspects of national food systems, including food safety.</p><p>The <a href=\"https://www.ifc.org/cont",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/05/ifc-guide-aims-to-help-with-food-safety-assessment/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-015",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "License for Canadian ice cream company suspended because of food safety violations",
+    "summary": "<p>The Canadian Food Inspection Agency has suspended the license of a Quebec frozen dessert company because of violations of food safety laws.</p><p>The agency&#x2019;s move against Abe&#x2019;s Froze",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/05/license-for-canadian-ice-cream-company-suspended-because-of-food-safety-violations/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-016",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Microgreens being recalled in Canada because of E. coli",
+    "summary": "<p>Micro Verdure brand microgreens are being recalled in Canada because of pathogenic E. coli.</p><p>This recall was triggered by&#xA0;the company, according to the Canadian Food Inspection Agency. Th",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/05/microgreens-being-recalled-in-canada-because-of-e-coli/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-05-20-001",
     "date": "2026-05-20",
     "companies": [
@@ -420,6 +728,554 @@
       {
         "name": "food_safety_news",
         "url": "https://www.foodsafetynews.com/2026/05/belgium-puts-focus-on-domestic-food-safety/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-20-023",
+    "date": "2026-05-20",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland Making A Comeback (NYSE:ADM) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWM5MmZEZmlCTk42NUpPeVQyLXIxUDVXMWhHSmJVMkU3anltZmkxUWRTcTRjSmJNRVFXcDZ0cHcxRGc3M0dBdmxocVdmaTVsbDhOazJtV2hOd2tTcTI2X1dkemE5c3hWQTUwRko3VD",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWM5MmZEZmlCTk42NUpPeVQyLXIxUDVXMWhHSmJVMkU3anltZmkxUWRTcTRjSmJNRVFXcDZ0cHcxRGc3M0dBdmxocVdmaTVsbDhOazJtV2hOd2tTcTI2X1dkemE5c3hWQTUwRko3VDNoNXRJMXN1X3FsNjFPN3J4aXNBVDRYY2Fy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-20-024",
+    "date": "2026-05-20",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland stock (US0394831020): ADM’s food and feed platform stays central to US supp - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMzBjZng1cjhSWC1MeEJYc0pfckpMVkdRbUZhM1NIQm9OWUN4dnJrMHpoeFRGOXlCbTI1UTdFWFdjcFZYWW9VNk90R1NpNW5qeFRFT05jeXdyVFVxMHZNcVRKVk04dFVuWEU3ZG1jOU",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMzBjZng1cjhSWC1MeEJYc0pfckpMVkdRbUZhM1NIQm9OWUN4dnJrMHpoeFRGOXlCbTI1UTdFWFdjcFZYWW9VNk90R1NpNW5qeFRFT05jeXdyVFVxMHZNcVRKVk04dFVuWEU3ZG1jOUFHbDFCNWRzYkNjT0tCb185SzZITHlSZ0dRRW9reHpaWndzcEpNckpTSEZMTEZLR1B5elVsMENabk1yc2gtMkc5d0NYUC1YTm1leV9IcA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-025",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland shareholders back board, reject pesticide disclosure push - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVlhMTlPZEExdnBZTUFNek9mdkRDR1lib04telNlQy0zbW5qRmxid1d3SUNzbW9nejFjZVI1RkxOa1I5SHdFRnYwZXlNQktjRE5WcG1GMHBqZEtYYUVyTHBtNGtYblBnbU9HMVVyQT",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVlhMTlPZEExdnBZTUFNek9mdkRDR1lib04telNlQy0zbW5qRmxid1d3SUNzbW9nejFjZVI1RkxOa1I5SHdFRnYwZXlNQktjRE5WcG1GMHBqZEtYYUVyTHBtNGtYblBnbU9HMVVyQTVzdjNONURxN090V3VlYVA4SDlldTZhTnRPLUhvQkkwdl95SUt3RjdEOUhWcm9nNDdZRkJpdXBPSW5XOGhKQXB4VXJVeUtKeDFyYmlfclNFa3FCTzdZeVpyQjQzYzJEZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-20-026",
+    "date": "2026-05-20",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Bunge Announces Approval of Increased Quarterly Dividends at 2026 Annual General Meeting - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRzFQR1IwdGZiLUZINXkwdDYxLXpGS205Y3gzSXZiTFVNN2hJUWVnMzVLQlBOMkxmN25aNnl0WjM5QzJndENIZlNaN1I0dlVlbl9ZWGloaXExa2RrMElGRDZ5NkZ0akdXeGVzX0YxNX",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRzFQR1IwdGZiLUZINXkwdDYxLXpGS205Y3gzSXZiTFVNN2hJUWVnMzVLQlBOMkxmN25aNnl0WjM5QzJndENIZlNaN1I0dlVlbl9ZWGloaXExa2RrMElGRDZ5NkZ0akdXeGVzX0YxNXQxSC1BbkhqNVdCbU16UWdIMTU2Y284eEt0ZGUtRW81akk4ZVU5bnd3T0ZfUEdZS1VZZ2I2N0VwWXhFejZvQ3NCU2Q3eGhxNklBR0FLZE1qQmYwSmcxekZVdUtQWkZ0M3pPcHNEb0tEaFoyYkNobkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-20-027",
+    "date": "2026-05-20",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Bunge Global Ups Quarterly Dividend to $0.72 a Share From $0.70, Payable on June 1 to Shareholders of Record on May 22 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWS1aZ1NORTR5Xy1OdGNJMXhxX3ctVDNmMlhoSkJObFJSN0NwSEg2d3BxbUI1QUJ3QU4tR3VvdFQ0WjV5dy1fVDVfZ0JZSXBXRWdhVVJUTFVuX2stTWZkUWRLNG9BdDNNLVNqbmNmOU",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWS1aZ1NORTR5Xy1OdGNJMXhxX3ctVDNmMlhoSkJObFJSN0NwSEg2d3BxbUI1QUJ3QU4tR3VvdFQ0WjV5dy1fVDVfZ0JZSXBXRWdhVVJUTFVuX2stTWZkUWRLNG9BdDNNLVNqbmNmOUFZSGNWZG5HZ3BqWU1EVTBoaGdNTDAxbjRjTkx1d3Vpa0dNaUJpNlZGX3BhNWtmakpaUndFTDB2S2daTzBvT1ZMRTZ5VnRMcVAwR0hZbklKU3ptV2k3Z2lzWjl2SjRMb3RxMGtTYzRtQWRDWDVpQkEyTm5ZZTY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-05-20-028",
+    "date": "2026-05-20",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods moves forward with $82.5 million settlement after approval - MEAT+POULTRY",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQZU15ZWNYTVN6OFdtWXlGd1lDMHNPa253QkFuMlNkQ2lVWS1zRXg0UUh0Umd4RWVBSkNmQmRvVVB1ZEFVV0hVNjdGV0hWM1pIU0ptUEdRSEpnaFNwNEdHMkZXZWVQSE55QWQtLS05Yz",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZU15ZWNYTVN6OFdtWXlGd1lDMHNPa253QkFuMlNkQ2lVWS1zRXg0UUh0Umd4RWVBSkNmQmRvVVB1ZEFVV0hVNjdGV0hWM1pIU0ptUEdRSEpnaFNwNEdHMkZXZWVQSE55QWQtLS05YzFILVZaMTljM0oxYVBJWUNDZW0wQ2lSdGVlblZ6RmlzcnQtb19iYUJsRUQ4OWJ0UjVXNEFmVk1qc1ZVMFNNaXJrbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-05-20-029",
+    "date": "2026-05-20",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods $82.5M Preliminary Settlement in Beef Price-Fixing Lawsuit | 2026 Update - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlJBQ3B2bkZwZ3RYd2ZJMW9LcEdJbTB3UUM0QkZ5WWE4YnNTaXk4djlCOEs1TDFGc3B6cnFLd0JtdmVtRFd2ZDRETHB2RUZEekFkeXNuWXR1bmtSb1ZYc1dMbWRBaUxNSHhKRTRXc3",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlJBQ3B2bkZwZ3RYd2ZJMW9LcEdJbTB3UUM0QkZ5WWE4YnNTaXk4djlCOEs1TDFGc3B6cnFLd0JtdmVtRFd2ZDRETHB2RUZEekFkeXNuWXR1bmtSb1ZYc1dMbWRBaUxNSHhKRTRXc3ZMWktqOUdpT3hKX3c5X1ZHMDVRbDdWamlTM2pXOHdTR004aXJBZ3NyNm9ZQTc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mondelez-2026-05-20-030",
+    "date": "2026-05-20",
+    "companies": [
+      "mondelez"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mondelēz International, Inc. Declares Quarterly Dividend of $0.50 per Share - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTldBb2ZoVzUxUWxROTQyUkxmbWM3Y2twajFicXE1TDNwaFVHUmU2OC1aQUM1ajlTaWVmT0F0OFpNQ0hKZFpkX1lqcGpMOTJmZnlaUFBtcjUyNlZNUjBEZi1OclhPaUtpT1pLcXRpeD",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTldBb2ZoVzUxUWxROTQyUkxmbWM3Y2twajFicXE1TDNwaFVHUmU2OC1aQUM1ajlTaWVmT0F0OFpNQ0hKZFpkX1lqcGpMOTJmZnlaUFBtcjUyNlZNUjBEZi1OclhPaUtpT1pLcXRpeDlTazhoVDhpa1R6eXN6XzlsSkhzdXNEVFpGaUc3TXRaTm1BRXRmTmFZbEFGa3BUdV84Tlp4bHRXbndVWW0tb2FRLTdiSXY3aUF4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mondelez-2026-05-20-031",
+    "date": "2026-05-20",
+    "companies": [
+      "mondelez"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mondelēz International Declares Regular Quarterly Dividend of $0.50 per share - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdWpwZVFRbm1VZm84Yy1UaXlsbGwxeXcySWdUUTVURlJqNFc0MG5uT0drZUF1d2pLZmllTUgyVTN6WGd6S0MwcWU1QU9Qam9PejlIbmNiSjM3SzlQSnZGYWlpTUs4Sld2ak85NkFzLU",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdWpwZVFRbm1VZm84Yy1UaXlsbGwxeXcySWdUUTVURlJqNFc0MG5uT0drZUF1d2pLZmllTUgyVTN6WGd6S0MwcWU1QU9Qam9PejlIbmNiSjM3SzlQSnZGYWlpTUs4Sld2ak85NkFzLUl3REg3RU01YngyajdLNmNJVmpLUEVHZHNIZk1TVG4xeGFTdUJLc1EyNl9qMEwwREVmRlRRMnNuWHl0d1laLVFGZmg3WWFWUXBqTnJ5OW1ILU5pZkR5OEZFUGgyV0hyOF9UYUFCaDB2UVQ3RzhQdy1hNjFhUlI2Rjh2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-032",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mondelēz will pay $0.50 per share to holders of record June 30 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPT0lzaS1hRThBWUwwVnRiNURQa2ZURHltaE95RG90R2xNajZYLU50YUxSUURUYU95UVhiQlZOS09qRHpOS04zRldzM01GeVAyUGRnQ0JoRzY3ajREeGE5dE9JMlFZTktmc2FlNXpUSU",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT0lzaS1hRThBWUwwVnRiNURQa2ZURHltaE95RG90R2xNajZYLU50YUxSUURUYU95UVhiQlZOS09qRHpOS04zRldzM01GeVAyUGRnQ0JoRzY3ajREeGE5dE9JMlFZTktmc2FlNXpUSU9TRmRDZ3FTcFhLTmJuaTdTSlBVZkFaWjkyQUZ1M0VxN2NfajdSdkdRZnBwbVpibnBsZWpKMlNQODRwdzNkbXlhNDMtc0ZXXy0zMjMzUDFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mondelez-2026-05-20-033",
+    "date": "2026-05-20",
+    "companies": [
+      "mondelez"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mondelēz International declares $0.50 quarterly dividend payable July 14, 2026 - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0VhcFJkSktpVWlCMUVaQWNScjN0UWtQTGFNV0hYbDZSRjZHOW5kakt5TXpuT0s0WlF2eWVVcVdHRlRIVGpyVW1RYndoU2lTR1V4TF9ZWDd6SGtkMUZwZGFuWGhNOUxoM2NBY0lHdm",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0VhcFJkSktpVWlCMUVaQWNScjN0UWtQTGFNV0hYbDZSRjZHOW5kakt5TXpuT0s0WlF2eWVVcVdHRlRIVGpyVW1RYndoU2lTR1V4TF9ZWDd6SGtkMUZwZGFuWGhNOUxoM2NBY0lHdmZRVzczQkhDNmx3NDEtY2VEdnBCSG03RnVpSUZ4RTViN3IzSTlOVTZ4bXZ3T3gyZkdjTXdIbHZrNU8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-05-20-034",
+    "date": "2026-05-20",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Target Skids Despite Beat-And-Raise Report. Walmart Earnings Due. - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0dfWUI0ZGVLZm0zbXJjNlJoY3BYeFhxNER0c2k0RmhNaEJSdlUxRGFHU1VFOUFMRlhBNU8wZzlxX3pTX3lGS1UtNm5hTTBMaVg1NFdjdDl1NHRyZnNIYlJ1NnN6TXJGM3Zndk5Edm",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0dfWUI0ZGVLZm0zbXJjNlJoY3BYeFhxNER0c2k0RmhNaEJSdlUxRGFHU1VFOUFMRlhBNU8wZzlxX3pTX3lGS1UtNm5hTTBMaVg1NFdjdDl1NHRyZnNIYlJ1NnN6TXJGM3Zndk5EdmFPZV9adjhkQTVibl90ZC1mcW4yMnNkc0tnS2x4Qw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-05-20-035",
+    "date": "2026-05-20",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Retail earnings preview: TJX, Walmart and Ross Stores - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2NWNlAxUzAwRmNsWDJQNmM4MjdfMzFrZU53T2FLeE1kY0JfSUdHWDVmRmVlaW52TGlSYlJhWXRMMkgtWGxYYjdYazFtTG0zbHBaWmZEUTk3MUF6VEJuTzR6bm5ZRGFydTI1YVppc0",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2NWNlAxUzAwRmNsWDJQNmM4MjdfMzFrZU53T2FLeE1kY0JfSUdHWDVmRmVlaW52TGlSYlJhWXRMMkgtWGxYYjdYazFtTG0zbHBaWmZEUTk3MUF6VEJuTzR6bm5ZRGFydTI1YVppc0dzazM2WTFUS1BRZGdmNlQ4eWR6dDJWODdBNUZpNmZPLXU5Y1JROVVKcGZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-20-036",
+    "date": "2026-05-20",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco plans larger Fort Myers store, more parking - Gulfshore Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbFhiVEM0c0NMWHFEdWgyckhCczBadl83ckpYT1dCV3MyOXAxMjlVZFMyNWIzNnFNWkZpZG5kLUtwYjByaGdWRnFvUDVlRjVxYndNZnY1LTNBS0ZDdV9kOERwcWFuVXJzT0xVd1dNY2",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbFhiVEM0c0NMWHFEdWgyckhCczBadl83ckpYT1dCV3MyOXAxMjlVZFMyNWIzNnFNWkZpZG5kLUtwYjByaGdWRnFvUDVlRjVxYndNZnY1LTNBS0ZDdV9kOERwcWFuVXJzT0xVd1dNY2x5S1otVnhFV0ZRYmJZY3ZzWTRFNkV6NXl2cGh5S2N5RzNaakZ5ZkRxOHFMODgzOVR0SnJUUjVxcy1OdHZVbGVZcU1rZFRGSnpMcWdBNFNQdDY4c1h4WmVneUJOSDZOYWM0NDlBNF9JNFViOERHdXN2ekxnMkhEUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-20-037",
+    "date": "2026-05-20",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Popular Costco patio swings recalled after injuries linked to dangerous fall hazard - Fox Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXp5MUZrTnpPMi1kLVRlZXloN1d4WWFQcEZSeUo3VmluZVlESGl5YjZWTF9jaU9fQ3hRS0dUVmgxNktnZFdHLU9WZVpOdS1UWnFkS3dLU3BRekFXTy1FZi1TVmktVXpJakV2azBBaU",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXp5MUZrTnpPMi1kLVRlZXloN1d4WWFQcEZSeUo3VmluZVlESGl5YjZWTF9jaU9fQ3hRS0dUVmgxNktnZFdHLU9WZVpOdS1UWnFkS3dLU3BRekFXTy1FZi1TVmktVXpJakV2azBBaU5sR3BDbFhRUHdkelJqOEU0d0FKYWhVWXZWNlBmbkFhdEF5MVhaLVJzanE0ZzRrd2hKOXBPM05jMlYxYXJrQWlrNVdn0gG3AUFVX3lxTE5lYjB0azR4dFhEVGxoZUp6RTRpclpwODFtSHVTN0pfOExVQkxJa0lZTWlERDg5THEySWVYckdHdl9MeXJ1T1NTMG1KemlVVGNRNl9CWjNnRFdUSUVjM3dHQjZmZE9BcGdIV2RwQVU4R2dvM3Z4Z2l0R2dFRl9hc1NScEJXWTI3Qkh5ZzdQMW5fckNpeUN1NHU3ek9DbjE0bFlUbE1SSXRBM2toZEdHVEgtTzJXOGRTSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-20-038",
+    "date": "2026-05-20",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco Wholesale (COST) Stock Sees a Dip After Six Consecutive G - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzVwaUlDcDdTV3czajRxN2E0eEROWWljYTk0RTR1aGFtblBpWkR3b1k0MHlMSm83MHQ4VC1ZSDFrbzlBRHFyZVp3eFliRzQ0bmRfYlZiNS1UdF9jOVQ4SE45V0dnSzFYMl9GaVpjWj",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzVwaUlDcDdTV3czajRxN2E0eEROWWljYTk0RTR1aGFtblBpWkR3b1k0MHlMSm83MHQ4VC1ZSDFrbzlBRHFyZVp3eFliRzQ0bmRfYlZiNS1UdF9jOVQ4SE45V0dnSzFYMl9GaVpjWjl2RzRHbWNYUXRKdnJvTGxNbWN2Wm82TWxHTjZER2kyOGZ6UWJXcUlwUlFzdGN1M2VwMWVHT3FjY3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-20-039",
+    "date": "2026-05-20",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Higher Gas Prices Have Consumers Visiting Costco, Sam's Club More: What The Data Shows - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU1FhTzNpNmFTRkZfNHJQNWdpYlhQLVd1RGlaQTNJZHlMTTVuV2V2OHVvemFET3MybU1vZk9wTnl3cXIwRTNteHJmd1hfbGw2dTluOXJOdDlkSUszOW9uQ3NVdl9SY1ZVUlJ1VjBVeE",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU1FhTzNpNmFTRkZfNHJQNWdpYlhQLVd1RGlaQTNJZHlMTTVuV2V2OHVvemFET3MybU1vZk9wTnl3cXIwRTNteHJmd1hfbGw2dTluOXJOdDlkSUszOW9uQ3NVdl9SY1ZVUlJ1VjBVeElEcjBoNTdDRnRYcEE1dndqenVIbnpkdl9ERDV4LTduLVgtbVY2YXM2WEZIODJBWk5NTFFVc3pXN2doUE13cVZ2Ny1FUTNkVzN6UWY0cUhiWGJFQkRXSi0wbWl0Nk5JVGwwYVVqTHFEcnZ5SlR2LU1iR0l3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-20-040",
+    "date": "2026-05-20",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco Just Added a Fan-Favorite Summer Dessert to the Food Court Menu - marthastewart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUm80MHBJeEg1Rnl6SFlXb2tuTFkyNEtvSl9Ic2N3U3FCQ3ZPcHoxdnJGeGV2T3dGQmtqZy1Ja3loTXpuQ1FEZXp2YV9hSjZPQkJrSm9VRXl4UU9GQVVRVFpkMGZ4Rnk3MnQwUFo3Sm",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUm80MHBJeEg1Rnl6SFlXb2tuTFkyNEtvSl9Ic2N3U3FCQ3ZPcHoxdnJGeGV2T3dGQmtqZy1Ja3loTXpuQ1FEZXp2YV9hSjZPQkJrSm9VRXl4UU9GQVVRVFpkMGZ4Rnk3MnQwUFo3SmduS2JkNHdEZmd2d29zNF9kSjk1c3BxQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-041",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ferrero to revive Wonka candy brand with Netflix",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/QHa2iKDHo_stIAmvJ7-ZNB24onrDIsmOVBarnvN5COo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GZXJyZXJvX0dyb3VwX3VudmVpbHNfbmV3X1dv",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/ferrero-netflix-wonka-candy-collaboration/820721/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-042",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "consumer_spending",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Independent grocers make up nearly 40% of US food retail sales, report says",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/cG912JD40pLKqNjSby67D3ffrPvAgLmLL-XLmLbskok/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS93b21hbl93X3Byb2R1Y2UuanBn.webp\"/></di",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/nga-national-grocers-association-economic-impact-analysis-independent-grocers/820247/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-043",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Once Upon a Farm soars as parents seek healthier kids’ foods despite inflation",
+    "summary": "<p>John Foraker, the company&rsquo;s CEO and co-founder, said consumer demand for better-for-you offerings remains robust even as rising prices prompt shoppers to cut back on spending in other areas.<",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/once-upon-a-farm-soars-as-parents-seek-healthier-kids-foods-despite-inflat/819748/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-044",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USask graduate thrives in Food Industry Management degree - University of Saskatchewan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxON1REN2d4aGIxZjJWdmx5dFdnU0U3X0tva1BORW9PdVh5QmkwVThzdU1QQnM4VEEwaTJVTl90VmUxdlVVRHUyU09BVEk5eXBna0ZndTZhRUlKTkZIcllzY0g0R2ItYUZCdTNsMzBnbG",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON1REN2d4aGIxZjJWdmx5dFdnU0U3X0tva1BORW9PdVh5QmkwVThzdU1QQnM4VEEwaTJVTl90VmUxdlVVRHUyU09BVEk5eXBna0ZndTZhRUlKTkZIcllzY0g0R2ItYUZCdTNsMzBnbGU1VWxFbm1kR1lSRE9hMHMzZGpkeFRsMGVKNU56WFlQejgwX2c4RmplZ0RGSVJ1YkFPMU5WaGxBVFQ1Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-045",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California Cat Kitchen launches vegetable-free, frozen cooked cat food - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSFJ3M25YbXg0SWxwYXNiNWQ2VVJoSVFxUFl5WFhRNnkyU1BhOVdnZVM1NUhXU016Q1MtbjFYVjcxRUNuZFdjWk9rNllZYk1YUm5hSVhEeWhNMjBLb01CdHg0TWk5ZDRTcE9SYXJLUk",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSFJ3M25YbXg0SWxwYXNiNWQ2VVJoSVFxUFl5WFhRNnkyU1BhOVdnZVM1NUhXU016Q1MtbjFYVjcxRUNuZFdjWk9rNllZYk1YUm5hSVhEeWhNMjBLb01CdHg0TWk5ZDRTcE9SYXJLUktlUVZJVGwtWGd4bjVraFNQcm1Ebld4NGUtb2k2WkRCby1fNW9vZV9ucHJoSmdIV2ZRaWdSNHVnTHlITjFiZWtwUVYwNEpOb19obXFfQms0VXlFSWw3N2xxNGZNVG14MTQ1eVpSdlM0dm93Tnh0cmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-046",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "consumer_spending",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chewy consolidates private label pet brands under Chewy Made - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSk5ieExLSVJpeGdicHNwNlI2TXRhcF9GSFBiMFU2YzFJeEdxMWt6SnNLVThiVjVVNEVKX2stZU5DaC1sNGtUNnlUSmpYQVB1SEVnV2pPcUJfSmNPbU9RbE9Gd3RiYS1ibnFCbUlLeE",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSk5ieExLSVJpeGdicHNwNlI2TXRhcF9GSFBiMFU2YzFJeEdxMWt6SnNLVThiVjVVNEVKX2stZU5DaC1sNGtUNnlUSmpYQVB1SEVnV2pPcUJfSmNPbU9RbE9Gd3RiYS1ibnFCbUlLeENWaXdCVDRGVlV1bGdxREItanJBRjE5MmU2R0pFRFRpNXBHWWJ0MWhGNTU3cS0wN3ZaSWpUVVI2ZU43cjhoMXljYXhyUkFjOEJsZWUteXdmbVVrQ2JqVjFuTWNRSmo1RWRoNUd2Sg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-047",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Private equity firm acquires Nugredient Solutions - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMW95UW93dkhKSTNhVG14NkprOGFmVGhhSlhKbmNuaHBJMzQ0b0xPcWZQeUVnQl92MUFrWGVoRHJ5eGw4NUxOYTRvYkVna1VmOWNyVWJ6MFZ0WHZ5WEt6WnBwQm1DQjhLZEd3U3Ntcm",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMW95UW93dkhKSTNhVG14NkprOGFmVGhhSlhKbmNuaHBJMzQ0b0xPcWZQeUVnQl92MUFrWGVoRHJ5eGw4NUxOYTRvYkVna1VmOWNyVWJ6MFZ0WHZ5WEt6WnBwQm1DQjhLZEd3U3Ntcmt0eXkyc0IydFNvTjhHU0sxNVNKcVkxbFRiQ2tCdFJXOVk4QmQ3alFjTUcwTkJsdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-048",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The winning strategies behind 2025’s standout brands - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3NUUUp6aGxONW4td0kxREgxdU1pOThMQ2NxMktFMTdUaFE0X3Fkb2xZbk5FVWp0ZlR0UkNjam9relV3REJsNlpfaG81aEhvbWtzVnM3RWdfZUFyaGFUYnZHRDFWYi1UdndEblFNdn",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3NUUUp6aGxONW4td0kxREgxdU1pOThMQ2NxMktFMTdUaFE0X3Fkb2xZbk5FVWp0ZlR0UkNjam9relV3REJsNlpfaG81aEhvbWtzVnM3RWdfZUFyaGFUYnZHRDFWYi1UdndEblFNdnpvNE9jQnBRVGRCN01yd3RhTDIxdkZCSWcwT2d3MXpxRXJMcnM4NTVYR1hZNnRid2Jo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-049",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "consumer_spending",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Perception of private label products is shifting - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlYWHFZY0RodDl4MzJ4am5GU0tYZTdaUGI3UGR2UV9RNUk1VHVPX1BpWjF5LWlhbTgweUJ0ZFpnN19qX0k1WXVUczB0RktPODl0eTMxbTFxaVVrQlp6elVoRGhBU2NNb3hQUkNOdU",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlYWHFZY0RodDl4MzJ4am5GU0tYZTdaUGI3UGR2UV9RNUk1VHVPX1BpWjF5LWlhbTgweUJ0ZFpnN19qX0k1WXVUczB0RktPODl0eTMxbTFxaVVrQlp6elVoRGhBU2NNb3hQUkNOdUJhR05Nc3JXNFhaZkNfTGlmQ3pTZ3VXSldQUm0xdHVYS2ZZS0hGZVMwLWttckM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-050",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Goodies enters US retailers - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNclhlSmlYb2NSOVZKNEE5R0tSMF96S0x0MmR4TnhDM1hsWGhoX2N4c29naGR2aERsNlJ6ZnlNd1FpUl9XTEJJdWhwVENBSjNBbVJFaFM0ZG1lRkpVX1Z6NjZURlFLc3FmVHJVTUJhVk",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclhlSmlYb2NSOVZKNEE5R0tSMF96S0x0MmR4TnhDM1hsWGhoX2N4c29naGR2aERsNlJ6ZnlNd1FpUl9XTEJJdWhwVENBSjNBbVJFaFM0ZG1lRkpVX1Z6NjZURlFLc3FmVHJVTUJhVkp1blZkdFA5aGxtczVTLVZVbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-051",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BakeMark names Sean Leer as CEO - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQdllBSU9ONW5WcVd2WDlVdE84bURzMy1tUEx5QUZubjRKcUg0bllfOFVCNzVnT0xZWXJwSEROY2xBQlhzc1d1SmlhOWdFbEQ1SXUzdWtScG13SWRta3hJOTQzWTBZWk56LW1qeTktME",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdllBSU9ONW5WcVd2WDlVdE84bURzMy1tUEx5QUZubjRKcUg0bllfOFVCNzVnT0xZWXJwSEROY2xBQlhzc1d1SmlhOWdFbEQ1SXUzdWtScG13SWRta3hJOTQzWTBZWk56LW1qeTktME9LbkQ3VzJVTG00VDUxbHJJYnZiNGhfUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1813,6 +2669,46 @@
     ]
   },
   {
+    "id": "walmart-2026-05-19-073",
+    "date": "2026-05-19",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Target taps former Walmart exec as supply chain, logistics chief - Retail Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0RxdUc0SlIyYWtzSUlQX2lDRzRNLUR6VWZJMVJvc1Z4bUFhVnlWQzJsd2VTZDduSC1ISllzUlhhZWllU1dOeVJxSjRUaVBTek5wWGtYLTVmTmtUZXV3LXJSUzJzVWRnSVY5V0R1OH",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0RxdUc0SlIyYWtzSUlQX2lDRzRNLUR6VWZJMVJvc1Z4bUFhVnlWQzJsd2VTZDduSC1ISllzUlhhZWllU1dOeVJxSjRUaVBTek5wWGtYLTVmTmtUZXV3LXJSUzJzVWRnSVY5V0R1OHpnTl9hSnk3Uk1qb005WVRxUVhmQl9sem5Ldzd4NUJyQVRLSVBWT1dyMThhQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-19-074",
+    "date": "2026-05-19",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Popular Costco kitchen gadget recalled after fire hazard leaves person burned - Fox Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2UyT1NiNkgxbS0zWUgxSVdHMmFGeU8yUTN1THdocTZBa3ZidjRpSUJ6T3dWNDF4eVlDeDJxb3JFdWJtYnZYeDVXamlyZVlmN0FpbVo2ZnlLcXhPdkdwMTd0eUNiWTlzdzNJYTFEWl",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2UyT1NiNkgxbS0zWUgxSVdHMmFGeU8yUTN1THdocTZBa3ZidjRpSUJ6T3dWNDF4eVlDeDJxb3JFdWJtYnZYeDVXamlyZVlmN0FpbVo2ZnlLcXhPdkdwMTd0eUNiWTlzdzNJYTFEWlVMOTlxbDlsdGpidXZuRjkxWlF6NUFzYVZsRkJXbE5nVEx5M212VmQ3a3JyZEtWazZtNkxjQkZ0alBCQU5aVWNQZms0Yzhnd9IBuwFBVV95cUxNNF9XaFpLcjJVdG9GcXFRa2J4blZZZ2tySEE5RFJvNjVaX0NYcngwNXNLSkJiLVNJck9aeXlBOWdRSThReWM3eUN0RThKT2xyd2FCV3drT3NoaEx2V2pab2NDNHRpRUJqSU9nUGJuTEJJMUpIV1hYamlLTHNBVTRxOGJpT1pPSEtTREFnSUYxQlZ5YkpiYVRNdFVfSUY0dVlVTmswY09xVnVjeVBKdWFXN2pRMmExSHpUU1hz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-05-18-001",
     "date": "2026-05-18",
     "companies": [
@@ -2982,6 +3878,44 @@
     ]
   },
   {
+    "id": "walmart-2026-05-18-062",
+    "date": "2026-05-18",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart Layoffs: 1,000 Corporate Jobs Cut as Self-Checkout Fades - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxONFlsV29IbmhTSnotY0kwbmdtZnlsdnZCYk1VdVFSYWdFWmE5a2dLNmNKRlNhMVdsUlVyX1EwTzQwMTh3Z2JtdXBNbmVTbTh3ZVdaOVJuenowUWhmS3pCcUNYa0NBWG5CbEhza0JUa2",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONFlsV29IbmhTSnotY0kwbmdtZnlsdnZCYk1VdVFSYWdFWmE5a2dLNmNKRlNhMVdsUlVyX1EwTzQwMTh3Z2JtdXBNbmVTbTh3ZVdaOVJuenowUWhmS3pCcUNYa0NBWG5CbEhza0JUa2ZUa0IzM2Y5V0tqUW9RRVhlVGdLb29DenZuTXVkSzU5UHl2Sl96VEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-18-063",
+    "date": "2026-05-18",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Stop using ‘immediately': Costco patio furniture recalled after multiple reports of injuries - NBC 5 Chicago",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOeGFCcUFtUzA2T0VFS2xPTmtjR2E1OWNENkRQUHhuSERkaHA3QnFyXzVoakF3R29SRGRSX3BicjBKZGpUb1RHblFKSXZxTDdMMVZNQkx1SWE1TzNYTlRkMU4zT3g0Q194bEMzODRvWk",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeGFCcUFtUzA2T0VFS2xPTmtjR2E1OWNENkRQUHhuSERkaHA3QnFyXzVoakF3R29SRGRSX3BicjBKZGpUb1RHblFKSXZxTDdMMVZNQkx1SWE1TzNYTlRkMU4zT3g0Q194bEMzODRvWkl5eWlPdnlmd1BrM29CM2ZiVmdNTGxOZU1EVzVhc3Jn0gGWAUFVX3lxTE56aWU1cFhyRjdhNlRqbmxWaWIzNU1WeEFiVlFEQ3dyYkQzdUY3R3hoVDVDUmZwbGdrcFZlcWNyeHgxanF0dDZWMDBuWkt0U252cmtRZldTTmt3MllDTmNGazk0bi1fcE42WnNUQXlxcno5VnpwRFY4ZUtmRjVpYVZ5SF9pa3ZXRDBkY2thdTFrWVZ3OGRuUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "bunge-2026-05-17-001",
     "date": "2026-05-17",
     "companies": [
@@ -3653,6 +4587,24 @@
       {
         "name": "tyson",
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOaDdXTmc3RDBKdTVyS3NmSGVUUVlaakNidElaTExKYWtQYkdKb0pWMGRyc05yQlRhOWhXb2pVdXN2V2N6X3BzWlFqTF96RVNyMjJrbnhTYVY5dUNVVzNEOWJjX3FXU2ZpVjVpMk4zSWtmZUc5UUtVVE9uSkRHTExQdy1MQkNsdzBmaGRucFlzam1WX29oYUxrU2NXdjktX0ZCWUl6OUlqR1Rib3VMS2hhdW11ZmJ5ak00bmo3NjU2SGhBdVk4N0JFMC1hU3NuS3Q5bjAtY2I4S0tpdTlvUjNsMjJZZHpxNXJ2YVlVeGVOMXlSUjNhS3psN0l3WWFVeHV6VFpvVmNZVGpmVEprT0lJTFhIZm9Ydw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-16-020",
+    "date": "2026-05-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Latest News Headlines in the Food & Beverage Industry - Powder & Bulk Solids",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXp6aGVoRFJ3eDRIWEwwRTFXQjhZRXFNWk5CcFF6SlFISUh2R3FabWc4SnFkYUM3RDNjS2x5VFY3RXg5M2U4SU1QcjhYQ3hBZ01pNGN6QllCdUVIeFhLV2wxZG5uVTNUXzd2ZEJJbz",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXp6aGVoRFJ3eDRIWEwwRTFXQjhZRXFNWk5CcFF6SlFISUh2R3FabWc4SnFkYUM3RDNjS2x5VFY3RXg5M2U4SU1QcjhYQ3hBZ01pNGN6QllCdUVIeFhLV2wxZG5uVTNUXzd2ZEJJbzU2RFF3RXpDY3BjZkxzMHphRElNUk5SUW9JamdubnVIZ0taanN3clVz?oc=5",
         "type": "rss"
       }
     ]

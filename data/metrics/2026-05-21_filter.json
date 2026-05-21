@@ -1,0 +1,16 @@
+{
+  "total_raw": 261,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 5,
+  "gate2_fail": 15,
+  "passed": 50,
+  "gate2_samples": [
+    "What Did Bunge's 2026 Investor Day Reveal About Its Future - Kavout",
+    "Walmart makes quiet move as Amazon delivery threat grows - thestreet.com",
+    "Exclusive: Amazon and Walmart workers are concerned that AI is making HR decisions - Fast Company",
+    "Walmart & Target inches away from $1k fines if they don't change self-checkout - the-sun.com",
+    "Walmart and Amazon race to win over rural America with speedier deliveries - KY3"
+  ]
+}
