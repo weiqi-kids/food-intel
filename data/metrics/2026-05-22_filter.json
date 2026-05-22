@@ -1,0 +1,16 @@
+{
+  "total_raw": 259,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 7,
+  "gate2_fail": 16,
+  "passed": 57,
+  "gate2_samples": [
+    "What Did Bunge's 2026 Investor Day Reveal About Its Future - Kavout",
+    "Walmart sticks to conservative annual targets as fuel shock dents US spending - Reuters",
+    "Walmart warns US shoppers are cutting spending as higher petrol prices bite - BBC",
+    "Walmart signals it may raise prices in response to soaring fuel costs - NBC News",
+    "Walmart warns shoppers could face higher prices as fuel costs surge, tax refunds dry up - Fox Busine"
+  ]
+}

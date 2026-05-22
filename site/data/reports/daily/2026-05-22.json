@@ -1,0 +1,221 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T10:43:45.506554Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-05-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tyson Foods stock (US9024941034): poultry recovery and prepared foods drive mixed outlook - AD HOC NEWS",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWHE2UkszSEc3aHUzLTZndHFQdDl3Qk96U1E3OHZCYTdCaEdhbGhRakxjTG9YaE41MlNMaGMxSGZSc01JSXdxQVBuVVRlblRyZVN2VklCMlBaaVpIRmNxcFhUWWxDbnRpWU5XcjZjOHVaSEFyR2FRWm84UEhJUlZpN2I3Q3dkbF9ENS1ZUFFGWTZMeGg2REx3VmZxdWFIUDB0dU9Ba2JYTllHSEE1UGZ3RW0yUHg1UUVaSHdjQ1RkOTh3THc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-22-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA warning letters are on the  rise",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/05/fda-warning-letters-are-on-the-rise/"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-05-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart’s Secret Weapon Is the Boring Old Store - PYMNTS.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGV4ZnhJRmdFUmJzUzRnN19mVHpIZ1AtbVAzM3h2VkNWZjQ2a3duTmN6aW8xZ3BQdkhVNkZLVTlYelg1N2RKQmN0OGk5LXV3bXMzMzZIeW9FRUV3TlcyaTg4Tk4tcF9rRmR0U180ZHp4ZElkTWRpdUl4QV9vNTFvcTBqUHNObUU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-05-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Axxcess Wealth Management LLC Buys 129,601 Shares of Costco Wholesale Corporation $COST - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaTFTd2JBYzdkQ1RMQ2tESXBBWEhQVTI0WGk5V1ZrUGZDUHVoVHdXOUNybU9JSkkyZ0RES2ZnQVBESDBKbGF1c294aGhqcVk1aDZWYnlvVF82UDk5Tk03eUJRUjhQaDRXd2ZLTzdJMmFnMFJmRkRrSVNiTlo0dzZ4QnpHVzdUeHFGU3prcVctNTloQnlKUmJuZmVkVksyek90U1JsNnh6MjRZMmFwQ2xwZ05CWmFIa1otQVhEUElkVHVyVk9mbGZ1M01aNFo3SDZBaFRZQWxicmxubUc4ZTdF?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-05-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Look At Costco Wholesale (COST) Valuation After Another Dividend Hike And Solid Membership Growth - simplywall.st",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTWlMRjNkb1Y0djg0eHU4Tl9POC1KbFNYcnRldE5yOE5mM1hpRy1KcVNSWV9yNldzYWczd3QxRDRXcjQyX01sZ0plUnpEZVBUbk5kMzN3RVdpRjJHZ2FnZ3lzU2hWTHQ0d0VRQ0dTQ29tM180SXFMTlJyRTBOSE41SV91VXpySGVORmFsT3dSLWtEaXl3bEJGb2JGU2NkWUs2a2R3MXAxV0EtRHdHQ2JGU2VaX0lUR19EbXgtb0hfNEphUllIZVVmOVBOd3psZXJiRzFLa0FZVFZISmR2clHSAeMBQVVfeXFMUGNlNEtOS0FIb0tRZFJQd1RZR3J5ZGhld2xLQVJ4VnVjM1ZWZ21YWEh1Nm41a0FmNzl1R0tUdXdCVFdHX3lHRlJ6bVQ5YU82ZFphZWZCelUzdXc1TUpBb3RZTmpQbWtiM2tEcUI5eGRud1Z1eUw1cXVCeWplMWZST0tHVnBSYkE1cGRacGtMbGlvaVR0eVFNOFVJZGZlSlZSOHNoMmZyQmtRNGxxR3c0aDZoMVdXZ2Mxb245d2d1WmstUjI2ME0wUDByLW9NbGRyTlJlZnVDYmJYLXh0T21KajdzMFk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 102,
+    "too_old": 77,
+    "gate1_blocked": 7,
+    "gate2_blocked": 16,
+    "passed": 57,
+    "pass_rate": "36.3%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "What Did Bunge's 2026 Investor Day Reveal About Its Future - Kavout",
+      "Walmart sticks to conservative annual targets as fuel shock dents US spending - Reuters",
+      "Walmart warns US shoppers are cutting spending as higher petrol prices bite - BBC",
+      "Walmart signals it may raise prices in response to soaring fuel costs - NBC News",
+      "Walmart warns shoppers could face higher prices as fuel costs surge, tax refunds dry up - Fox Busine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為好市多、泰森食品、沃爾瑪相關動態：「Tyson Foods stock (US9024941034): poultry recovery and pr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tyson Foods stock (US9024941034): poultry recovery and prepared foods drive m...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "FDA warning letters are on the  rise（食品安全）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
