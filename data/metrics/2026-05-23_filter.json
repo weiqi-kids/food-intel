@@ -1,0 +1,16 @@
+{
+  "total_raw": 257,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 9,
+  "gate2_fail": 13,
+  "passed": 45,
+  "gate2_samples": [
+    "Kroger plans biggest price cuts in years to take on Walmart and Costco - Los Angeles Times",
+    "Walmart warns US shoppers are cutting spending as higher petrol prices bite - BBC",
+    "Walmart signals it may raise prices in response to soaring fuel costs - NBC News",
+    "People are putting less gas in their tanks as high prices crimp budgets, Walmart says - MarketWatch",
+    "Walmart sticks to conservative annual targets as fuel shock dents US spending - Reuters"
+  ]
+}

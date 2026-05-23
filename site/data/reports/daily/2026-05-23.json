@@ -1,0 +1,174 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T09:45:05.474191Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "costco-2026-05-23-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Costco Wholesale stock: Earnings, membership momentum and US consumer demand - AD HOC NEWS",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3h6VUJkb1NlWXo2bnJNUzJWenRzZmF3QVVXWjQ2Y3FkaHZqX2RhQ3ZwLVFaX0RGaDJUVVY3VFFfbEltc1pCTjVSREp5SkNDbFBsUGE2ekpRd0doUEhWLXIwbThTYmxDTmFSUkNYVjhXdU5nUVd2Qm5vRUQ5RllzTjNYY3lSWVlOd2EtZ2xHajBXeE5zYjVCdFkteWRkR2Z2OG5yS1IyVENRMzQ2Xy1hZV83Ul9MbF9TRkN2OVVQNVJMa3N4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-05-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Tyson Foods (TSN)'s US$48 Million Pork Antitrust Settlement Means For Shareholders - simplywall.st",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZ3M0YnI4T0Qzd05TT1RUbVB2OV9uMmpXQWtKejJrM0NBZlRNYmhwNDV2b0FPQ0tPNkc0WEprMkNRYjgzRVdmeW5qVEt4M01LZUFxTVphU29GWWhEdkd5V1d3MU1tMFB2YWZvV3BfcU1rN2VvMmdVVmpIenQtOGxTU21XWjN6R0EwVm5rVzZ0VWFwVUg1SGVCNWJRSzRNYlRZQWlqYjU4alRzV1BoeW9tUktpZ1hTWWFvUmcxdC01QXU5YTc1N1pTRW1NV1hnQTZwcDJTSS1qONIB3AFBVV95cUxNVGR1WWVHUGpiUVg2Ry1zbjA0cWFQT1Bfc2Jvb0dNcXhJaE9KbWMza1BnYmYtMHFldXNFNnVMa1piN1cxMUx6WG9sbV9MS3VlSzVYZEc1aWFnYk5UVlVnS3BoYUJ4dEh3ZGw3VjhLQVd6UzkwR3FGcFBGajV4c3NBNW5WQ1g1MXlpRXBFMjhIWTB1S1h4a0p1clExUTZKcm5LS3JSR3JoY3BzSS1FZWtESFc1aDJkNDd4ZlZTQlBLUzExSWowOGJHaHlsdFMxdmE1eEl0Y0prdFlkWEVT?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-05-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco (NASDAQ: COST) Stock Price Trades at $1,029 on Steady Consumer Spending - foreignpolicyjournal.com",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "consumer_spending",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX25ZU3pneEhDNHd3ZVM2YnVtZzRIZ1VCQjBNU2hKX3gwdTBzRW1ab1ZvblhJUWxKODkzeC0td3pydFE2dUZ3VnJKWmdBMFNsSVJmTnhaNHBfNG1pRk1INXBwSkhjaFVjWW1OLUxFTUJEMUVPdnIxMFhjdFdWXzNzTnlHNHV3bTZ1b2tmR3R3cWZPSVp5cFlaNkdOMWF3bXozaVNKOTZ0RkdJb05fVk1sZFBReXNCMkpERHFMVGEzaw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "consumer_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "consumer_spending",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 257,
+    "dup_title": 109,
+    "too_old": 81,
+    "gate1_blocked": 9,
+    "gate2_blocked": 13,
+    "passed": 45,
+    "pass_rate": "30.4%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "Kroger plans biggest price cuts in years to take on Walmart and Costco - Los Angeles Times",
+      "Walmart warns US shoppers are cutting spending as higher petrol prices bite - BBC",
+      "Walmart signals it may raise prices in response to soaring fuel costs - NBC News",
+      "People are putting less gas in their tanks as high prices crimp budgets, Walmart says - MarketWatch",
+      "Walmart sticks to conservative annual targets as fuel shock dents US spending - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為好市多、泰森食品相關動態：「Costco Wholesale stock: Earnings, membership momentum and...」。主要關注主題為產業通用、消費支出、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Costco Wholesale stock: Earnings, membership momentum and US consumer demand ...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "What Tyson Foods (TSN)'s US$48 Million Pork Antitrust Settlement Means For Sh...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
