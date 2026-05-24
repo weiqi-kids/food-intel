@@ -1,0 +1,16 @@
+{
+  "total_raw": 258,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 6,
+  "gate2_fail": 19,
+  "passed": 18,
+  "gate2_samples": [
+    "Walmart sticks to conservative annual targets as fuel shock dents US spending - Reuters",
+    "Ross, TJX, and Walmart reveal how the real engine of the U.S. economy is doing - CNBC",
+    "Walmart shoppers are filling their gas tanks with less than 10 gallons for the first time since 2022",
+    "Walmart warns US shoppers are cutting spending as higher petrol prices bite - BBC",
+    "Kroger plans biggest price cuts in years to take on Walmart and Costco - Los Angeles Times"
+  ]
+}
