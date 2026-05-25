@@ -1,0 +1,16 @@
+{
+  "total_raw": 261,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 7,
+  "gate2_fail": 12,
+  "passed": 35,
+  "gate2_samples": [
+    "Walmart shoppers are filling their gas tanks with less than 10 gallons for the first time since 2022",
+    "Ross, TJX, and Walmart reveal how the real engine of the U.S. economy is doing - CNBC",
+    "Is Walmart open on Memorial Day 2026? - NJ.com",
+    "We're tracking the price of 45 Costco items, from bacon to motor oil - Business Insider",
+    "Is Costco open or closed on Memorial Day? Here's what to know - USA Today"
+  ]
+}

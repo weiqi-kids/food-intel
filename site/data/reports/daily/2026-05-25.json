@@ -1,0 +1,242 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:44:24.392963Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "costco-2026-05-25-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Are stores open on Memorial Day 2026? Holiday hours for Walmart, Costco, stocks, banks, and more - Fast Company",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYl8zYVlaNW9wMFRsejFtdG5leG9KbXhCS092NVZINTdlRVJaSTZ1cnVCNzQyS1RkLTRDZGVDRE92VUNfcTcycFdYVHNwU1FDX3FlNDJjdXdqXzRLVndQcFZZbmZWYmRDMVVrSzFkZGtNMnFNNEs2YnN6eXpZV29DcFJGQ1BIaS0wMVZHbFZtWGI0LTEwT3hlVG4xMWxUOXRidDNKY1hVal9Vam93R1lwVGZTdldycmh6Umlwb3oyc1BHOGNlbUln?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-05-25-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Walmart vs. Costco: Which Is the Better \"Recession-Proof\" Stock to Buy Now? - Yahoo Finance",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMHRFN1FuRlpZVy1zbi1GeFpKUXhjREFTVGVNVmdjdDJ5dHktVGQ3SDZ5eno2TUEyd25FOXZsSTh1RWtsSjk1M0IwU3l4am9iWVRveWtuTWZDQ1FnbTcyclVXblFWT3VLWnpMZkRVUGdWSy01a0d4eWJHOTAzQjVod2pJc3QzU2NwWEVvZEVvNDBtcGFCRDd0NWVwLTJSd0pI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-05-25-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Walmart vs. Costco: Which Is the Better \"Recession-Proof\" Stock to Buy Now? - The Motley Fool",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNU9HQkhmckZ5c2NmRnRKaVpBZEd4TDYya2NIMVhVV09kOEMyV29JbUd2RDNlcTdnMlZUdkpDQkhNSGVKWXZrT01KZm1XOEZSUFhDTDV4UU82VEJlQWJDclZKbkRuYVJsa21pak1MZ2JkRVo2cmlzNGs0WjJROWszWVNhdkUzc1JnTDNMc2t0OA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-25-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA cites three companies for failing to verify safety of a variety of imported products",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/05/fda-cites-three-companies-for-failing-to-verify-safety-of-a-variety-of-imported-products/"
+    },
+    {
+      "rank": 5,
+      "event_id": "mondelez-2026-05-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mondelēz International expands Zbar portfolio with new kids snacking innovations - Milling Middle East & Africa",
+      "companies": [
+        "mondelez"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGFVVGsxTWtjYnhZSlBMQktWYmdsTUZ1dlNyNmVyM1E2blZqVk9EUnB5cWpBZUJoX2dPV2sya1FNS0xIZ3RPejRrN1dyVTNtQmNmLUJPaUZQZ2FYWWdDaWZDNnBzcXg0cnhtU0hvN0ttRlhiUGxqVEtseUtDZTVBTk1yQTVIcks0TGd0TTR6WHFiamxRT0dya3IyZW80LXFIN2ExNk9jaw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "costco",
+      "to": "walmart",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "walmart",
+        "count": 3
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "raw_material_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 261,
+    "dup_title": 122,
+    "too_old": 85,
+    "gate1_blocked": 7,
+    "gate2_blocked": 12,
+    "passed": 35,
+    "pass_rate": "25.2%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "Walmart shoppers are filling their gas tanks with less than 10 gallons for the first time since 2022",
+      "Ross, TJX, and Walmart reveal how the real engine of the U.S. economy is doing - CNBC",
+      "Is Walmart open on Memorial Day 2026? - NJ.com",
+      "We're tracking the price of 45 Costco items, from bacon to motor oil - Business Insider",
+      "Is Costco open or closed on Memorial Day? Here's what to know - USA Today"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為好市多、沃爾瑪、億滋相關動態：「Are stores open on Memorial Day 2026? Holiday hours for W...」。主要關注主題為產業通用、食品安全、原物料成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Are stores open on Memorial Day 2026? Holiday hours for Walmart, Costco, stoc...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Walmart vs. Costco: Which Is the Better \"Recession-Proof\" Stock to Buy Now? -...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "原物料成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2026-05-25",
+  "total_events": 11,
+  "by_company": {
+    "mondelez": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "costco": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "walmart": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 11,
+      "sentiment_avg": -0.05
+    },
+    "raw_material_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "food_safety": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "costco",
+      "to": "walmart",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}

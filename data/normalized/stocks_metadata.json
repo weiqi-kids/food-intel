@@ -1,63 +1,63 @@
 {
   "adm": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "bunge": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "ttet": {
-    "earliest": "2014-01-10",
-    "latest": "2026-05-22",
-    "count": 3008
+    "earliest": "2013-10-14",
+    "latest": "2026-05-25",
+    "count": 3072
   },
   "nestle": {
-    "earliest": "2014-01-10",
+    "earliest": "2013-10-14",
     "latest": "2026-05-22",
-    "count": 3104
+    "count": 3162
   },
   "coca_cola": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "pepsico": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "tyson": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "general_mills": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "mondelez": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "uni_president": {
-    "earliest": "2014-01-10",
-    "latest": "2026-05-22",
-    "count": 3008
+    "earliest": "2013-10-14",
+    "latest": "2026-05-25",
+    "count": 3072
   },
   "wei_chuan": {
-    "earliest": "2014-01-10",
-    "latest": "2026-05-22",
-    "count": 3008
+    "earliest": "2013-10-14",
+    "latest": "2026-05-25",
+    "count": 3072
   },
   "standard_foods": {
-    "earliest": "2014-01-10",
-    "latest": "2026-05-22",
-    "count": 3008
+    "earliest": "2013-10-14",
+    "latest": "2026-05-25",
+    "count": 3072
   },
   "kraft_heinz": {
     "earliest": "2015-07-06",
@@ -66,23 +66,23 @@
     "history_complete": true
   },
   "walmart": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "costco": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "etf_pbj": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   },
   "etf_vdc": {
-    "earliest": "2014-01-13",
+    "earliest": "2013-10-15",
     "latest": "2026-05-22",
-    "count": 3109
+    "count": 3170
   }
 }
