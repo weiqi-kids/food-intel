@@ -1,0 +1,16 @@
+{
+  "total_raw": 263,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 8,
+  "gate2_fail": 11,
+  "passed": 60,
+  "gate2_samples": [
+    "Vinayak Sasitharan Joins Mondelēz International as Senior Finance Director (CFO) – Sub-Saharan Afric",
+    "Target, Walmart battle for Charlotte shoppers with pricey remodels + new features - Charlotte Observ",
+    "TJ Maxx has a secret weapon Walmart and Target can’t match - thestreet.com",
+    "'We Want to Be America's Best Grocer': Kroger's Aggressive Plan to Beat Walmart and Costco - inc.com",
+    "Napa County commission raises alarm over harmful pest found on Costco vines - SFGATE"
+  ]
+}

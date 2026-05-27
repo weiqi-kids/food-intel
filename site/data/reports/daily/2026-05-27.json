@@ -1,0 +1,209 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T11:31:12.116526Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-05-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Target vs. Walmart: Which Retail Stock Is the Better Buy After Earnings? - The Motley Fool",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWFsNkxtRkJhTmtuNy11TV9SVDVIZm5IdDdOdElmQWdIUlBIR2ExSGR2QXVEeklRd3NUWlAwNnBiOWpwQjd3cDRmdGdoNzdtTUVqT1RabWd3anBGNWozS1VaSDR3TjdaN2Etak9CN09lLXo4Q3lHUlNVS2RPd0NSTmN2eW9ZYUxMOU1rSUZVOWpWaTZ2REVnUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-05-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Costco earnings preview: High hopes amid high gas prices (COST:NASDAQ) - Seeking Alpha",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMkYyaXB1c2s4aFEwR2pUX0RrcDlZTHNjdVdqZUFaOF93WnA2NlhveGN6dWE4Rnl1NFBZZXpuMjg2RTVWTUVRcWY3UTdBcG91aWw5emNhR0kxMXBxVV90Q0hfOTVBN0tXdFNZZTBBbnVDSVE3LTNNLV9RRGtRQjNaa2VUY1NKSkV5eEpTaTRwQTJrRm90UHNDSQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mondelez-2026-05-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Matt Foley Mondelēz International Oreo Brings Seoul Food Stateside Through Their New BTS Cookie Collab - BuzzFeed",
+      "companies": [
+        "mondelez"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkozcXRyR2tkZEpZR0F4Q1JYeGt6YXdzWHJLb0RLcHlabmV6S19kdmVNQlYyQ1lQSkhueFhoSU16aE04OUh3NDFORVZzbFBkVUFKQldENjZGWXlZam1PN3VYV0F0ZG1rRjNNQnFqTUJWa0w1MXdDbnlTOERPOVJnZHMzS09RYWd3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-05-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "As CEO of the $96 billion Sam’s Club, Latriece Watkins is testing her mettle at the warehouse retailer that produced CEOs for Walmart, Target, and Walgreens - Fortune",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2hKTWV3N0d5WlhkN1YzUnpEWkJORkFwNm1MdklvM3lQZjVKWVdRZ2FSTjV0aHU5LU1wV0JxaExfdF9ZM1ZnYUV4NUU5SGZ6TmJYdW5WUGRsX0lPRWt0MHVibUJSb3lYTWJNN3hMaTd0TWVMMmozZ2M3eWh2SFhTQkx4ejVWSFJCaFg0YVFDRW9EUlY0alN3OHV3ZS1MUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-05-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco Stock Has Been Pulling Back Again. Time to Buy? - Yahoo Finance",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2dqTXBpQnJDVEJoa3lQc3hibTlSaEFaYkZablZuOHQ3UTV3VXE1cWQ0Z2hNRDNfNGg1eTBQeUR0cnlSQTNMWHZXSmtfaFNrNGtzTkU4VUhkSjBLbk1tSHEtb0k0c0d1dl80MjZOVHVTNEFwckt6REdFSjNNSHlkYTdodkRvRTI3MW5wSVJ0bTNaS2FWUWNtNlVKZ2o?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 7
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 263,
+    "dup_title": 92,
+    "too_old": 92,
+    "gate1_blocked": 8,
+    "gate2_blocked": 11,
+    "passed": 60,
+    "pass_rate": "35.1%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "Vinayak Sasitharan Joins Mondelēz International as Senior Finance Director (CFO) – Sub-Saharan Afric",
+      "Target, Walmart battle for Charlotte shoppers with pricey remodels + new features - Charlotte Observ",
+      "TJ Maxx has a secret weapon Walmart and Target can’t match - thestreet.com",
+      "'We Want to Be America's Best Grocer': Kroger's Aggressive Plan to Beat Walmart and Costco - inc.com",
+      "Napa County commission raises alarm over harmful pest found on Costco vines - SFGATE"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為好市多、沃爾瑪、億滋相關動態：「Target vs. Walmart: Which Retail Stock Is the Better Buy ...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Target vs. Walmart: Which Retail Stock Is the Better Buy After Earnings? - Th...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Costco earnings preview: High hopes amid high gas prices (COST:NASDAQ) - Seek...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

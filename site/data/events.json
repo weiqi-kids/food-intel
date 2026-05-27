@@ -1,5 +1,893 @@
 [
   {
+    "id": "mondelez-2026-05-27-001",
+    "date": "2026-05-27",
+    "companies": [
+      "mondelez"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Matt Foley Mondelēz International Oreo Brings Seoul Food Stateside Through Their New BTS Cookie Collab - BuzzFeed",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkozcXRyR2tkZEpZR0F4Q1JYeGt6YXdzWHJLb0RLcHlabmV6S19kdmVNQlYyQ1lQSkhueFhoSU16aE04OUh3NDFORVZzbFBkVUFKQldENjZGWXlZam1PN3VYV0F0ZG1rRjNNQnFqTU",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkozcXRyR2tkZEpZR0F4Q1JYeGt6YXdzWHJLb0RLcHlabmV6S19kdmVNQlYyQ1lQSkhueFhoSU16aE04OUh3NDFORVZzbFBkVUFKQldENjZGWXlZam1PN3VYV0F0ZG1rRjNNQnFqTUJWa0w1MXdDbnlTOERPOVJnZHMzS09RYWd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-05-27-002",
+    "date": "2026-05-27",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "As CEO of the $96 billion Sam’s Club, Latriece Watkins is testing her mettle at the warehouse retailer that produced CEOs for Walmart, Target, and Walgreens - Fortune",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOa2hKTWV3N0d5WlhkN1YzUnpEWkJORkFwNm1MdklvM3lQZjVKWVdRZ2FSTjV0aHU5LU1wV0JxaExfdF9ZM1ZnYUV4NUU5SGZ6TmJYdW5WUGRsX0lPRWt0MHVibUJSb3lYTWJNN3hMaT",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2hKTWV3N0d5WlhkN1YzUnpEWkJORkFwNm1MdklvM3lQZjVKWVdRZ2FSTjV0aHU5LU1wV0JxaExfdF9ZM1ZnYUV4NUU5SGZ6TmJYdW5WUGRsX0lPRWt0MHVibUJSb3lYTWJNN3hMaTd0TWVMMmozZ2M3eWh2SFhTQkx4ejVWSFJCaFg0YVFDRW9EUlY0alN3OHV3ZS1MUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-05-27-003",
+    "date": "2026-05-27",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Target vs. Walmart: Which Retail Stock Is the Better Buy After Earnings? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWFsNkxtRkJhTmtuNy11TV9SVDVIZm5IdDdOdElmQWdIUlBIR2ExSGR2QXVEeklRd3NUWlAwNnBiOWpwQjd3cDRmdGdoNzdtTUVqT1RabWd3anBGNWozS1VaSDR3TjdaN2Etak9CN0",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWFsNkxtRkJhTmtuNy11TV9SVDVIZm5IdDdOdElmQWdIUlBIR2ExSGR2QXVEeklRd3NUWlAwNnBiOWpwQjd3cDRmdGdoNzdtTUVqT1RabWd3anBGNWozS1VaSDR3TjdaN2Etak9CN09lLXo4Q3lHUlNVS2RPd0NSTmN2eW9ZYUxMOU1rSUZVOWpWaTZ2REVnUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-27-004",
+    "date": "2026-05-27",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco Stock Has Been Pulling Back Again. Time to Buy? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2dqTXBpQnJDVEJoa3lQc3hibTlSaEFaYkZablZuOHQ3UTV3VXE1cWQ0Z2hNRDNfNGg1eTBQeUR0cnlSQTNMWHZXSmtfaFNrNGtzTkU4VUhkSjBLbk1tSHEtb0k0c0d1dl80MjZOVH",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2dqTXBpQnJDVEJoa3lQc3hibTlSaEFaYkZablZuOHQ3UTV3VXE1cWQ0Z2hNRDNfNGg1eTBQeUR0cnlSQTNMWHZXSmtfaFNrNGtzTkU4VUhkSjBLbk1tSHEtb0k0c0d1dl80MjZOVHVTNEFwckt6REdFSjNNSHlkYTdodkRvRTI3MW5wSVJ0bTNaS2FWUWNtNlVKZ2o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-27-005",
+    "date": "2026-05-27",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Costco earnings preview: High hopes amid high gas prices (COST:NASDAQ) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMkYyaXB1c2s4aFEwR2pUX0RrcDlZTHNjdVdqZUFaOF93WnA2NlhveGN6dWE4Rnl1NFBZZXpuMjg2RTVWTUVRcWY3UTdBcG91aWw5emNhR0kxMXBxVV90Q0hfOTVBN0tXdFNZZTBBbn",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMkYyaXB1c2s4aFEwR2pUX0RrcDlZTHNjdVdqZUFaOF93WnA2NlhveGN6dWE4Rnl1NFBZZXpuMjg2RTVWTUVRcWY3UTdBcG91aWw5emNhR0kxMXBxVV90Q0hfOTVBN0tXdFNZZTBBbnVDSVE3LTNNLV9RRGtRQjNaa2VUY1NKSkV5eEpTaTRwQTJrRm90UHNDSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-27-006",
+    "date": "2026-05-27",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This is how T.J. Maxx, Costco inspired Dollar General’s store redesign, new shopping experience - MassLive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUkk1M2NaM0lkcFEwa3BGQm1uQ2lTZEVwemtucmgxUlAxTXIzT0cwMVQtUVB3ZTNRN0NBREJCNG8xWjZ2MGxuMGswTTg2RmliT3lPeHcteVRwb1ZVWEFlclRCZlBmeW1PQk5MN1VsRT",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUkk1M2NaM0lkcFEwa3BGQm1uQ2lTZEVwemtucmgxUlAxTXIzT0cwMVQtUVB3ZTNRN0NBREJCNG8xWjZ2MGxuMGswTTg2RmliT3lPeHcteVRwb1ZVWEFlclRCZlBmeW1PQk5MN1VsRThqV3VuZU45ZkU5aHpOUGhHOGdXb2xGbTNTYjZrM1Z0UjY5QnZZdG5pZ0x0Y0M0R3pNU2hZZlBreWxNQVoxN21LUUFtY1BjLVJNZHl3aHpaeFFPOC04V0pVeTkzSWktUFNqVmdZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-27-007",
+    "date": "2026-05-27",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "6,133 Shares in Costco Wholesale Corporation $COST Acquired by Ghe LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0ZxR1BYUDJfTGdqcGIxOTdOWmlEczFCODBsUUszbXFuNnRodlVSdmRyUnhWNzFDUi1yaTdReXJNbGIyUy11XzFXaVg3S2RPSlBRTWVrcUplWFR4UkxyRi1uajVQVUN1Ul9Ob2V2eH",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0ZxR1BYUDJfTGdqcGIxOTdOWmlEczFCODBsUUszbXFuNnRodlVSdmRyUnhWNzFDUi1yaTdReXJNbGIyUy11XzFXaVg3S2RPSlBRTWVrcUplWFR4UkxyRi1uajVQVUN1Ul9Ob2V2eHFUZkExbmhCXzJ3d09pN1kyWE5IdHhVZDlZY2R4cEEyZGxVc3NtdUNoQ2JpeW4xNUJRdW1fUTVEZXFnWFJ3NEl6Q244Tld1Rk83aHpxVVdORWZrNGtQZzhhLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-27-008",
+    "date": "2026-05-27",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grapevines sold at Sacramento Costco stores infested with disease-spreading insect - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFlqRkNZTGpGU01aRU54WG5kN0VFa3F2Mlh2U2JHcXAtRHhtUXFldmNlN1g3UzZKNGVxVzVqNUZUYjZXdGV0MndFVzF6TVFyYTd3MTBPbzNELVoweWNHOHVvX2FwVWlXbWZNY3RnWE",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFlqRkNZTGpGU01aRU54WG5kN0VFa3F2Mlh2U2JHcXAtRHhtUXFldmNlN1g3UzZKNGVxVzVqNUZUYjZXdGV0MndFVzF6TVFyYTd3MTBPbzNELVoweWNHOHVvX2FwVWlXbWZNY3RnWExxTng0aVZCZGw3V21uX0FMWkhkN1dZVDRmYTJYYW01NDBUMk0wYWJQaFp2WHo0TjVqWHlWOXR3OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-27-009",
+    "date": "2026-05-27",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco Stock Has Been Pulling Back Again. Time to Buy? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOOExrVWVPQW9Qa0k3OFZIR3gyWEF4OE1kcEhOLWtjSGQ2WF9uTmVMRXhXTnd3Y2c3eXB6UVVsWTNuNS1pcHNBdzNjT21UbnlvcW9YU09mMFV2bEJuUHhBa2FybF9xclB3ZlE3azFYSl",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOExrVWVPQW9Qa0k3OFZIR3gyWEF4OE1kcEhOLWtjSGQ2WF9uTmVMRXhXTnd3Y2c3eXB6UVVsWTNuNS1pcHNBdzNjT21UbnlvcW9YU09mMFV2bEJuUHhBa2FybF9xclB3ZlE3azFYSlQxeEt0ZDdpY0Z6akhFSFZLRXgxSmpYemhhNzQyWHZJVXZPZTlZZXMzUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-27-010",
+    "date": "2026-05-27",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bernstein Calls Costco (COST) a Top Defensive Consumer Stock - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXprUVkxcS1tZlFkUTA0QzZ1anE5ekczX3ZhQVlXb2lzdkNxTnBNX09SUU9GYjdTRkNiNWp6Ry0tbnh0cjNKNXRuT2MxZ2k3ZE9rT3VTUERkZ0lMaGxBdlN6enkxajBpczZUcmxxWj",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXprUVkxcS1tZlFkUTA0QzZ1anE5ekczX3ZhQVlXb2lzdkNxTnBNX09SUU9GYjdTRkNiNWp6Ry0tbnh0cjNKNXRuT2MxZ2k3ZE9rT3VTUERkZ0lMaGxBdlN6enkxajBpczZUcmxxWjNmZ1JhdzVpOWZ6WWhWbnBPYkV3dFdJSUVHbTlibWlQbmx6UkpJY1RlbWd4azczLTAxS25wUNIBrAFBVV95cUxPOE96TS1aX3JOcFExNlFBYkEyVUhWUEg0YzFhOEhzUkl2UFZDQXdlWWc4Mkw3WHVBVUtzRllCY1pZM2Z0Sy15V3haM1JfTVA5aEZxQjJzU1BXZ09kT09CMWY4Tk4wSmhaMy1ZSXdORklnYXJfY3dvdW5yNExDRmY0MjhnY2dqdGN3SlZhdXFLT3hOVFJkR2hXV3Uwb3pteTB2XzdmLWJjZHd6aDlk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-011",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AgSphere and EIT Food link Canada and Europe to accelerate agri-food innovation - Food Ingredients First",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkNJOWNDcDdjN1pZc2pLdGRwaGZDc05uWGF0SW1YRmQ2ejI3alpxZnkzZHRzbWVjeWpuY1dKQXBwVUVzQzFuQkV4eUF4VmZWTzFodWZMVkthMTNvcUtKaHgwd04wYV9YQlFiaUktYX",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkNJOWNDcDdjN1pZc2pLdGRwaGZDc05uWGF0SW1YRmQ2ejI3alpxZnkzZHRzbWVjeWpuY1dKQXBwVUVzQzFuQkV4eUF4VmZWTzFodWZMVkthMTNvcUtKaHgwd04wYV9YQlFiaUktYXZtQ0tOXzA5OVllZHNVeEc4V3N5WC0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-012",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Jersey Food Council cites four industry leaders at “Night of Distinction” - ROI-NJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkVrbDlYamZ1WGhlZzZtWVRvMjMxME9FZGVSa1hEbENaT0l2Mkp3YVJSWHhwWHgzWFEtcnFJZC1idFVkdGJ1NHNTVGI3X0twb0tGWHEwYUJwVzZoNGFtalJ2Z0VTbk5DWGpHYTdUaD",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkVrbDlYamZ1WGhlZzZtWVRvMjMxME9FZGVSa1hEbENaT0l2Mkp3YVJSWHhwWHgzWFEtcnFJZC1idFVkdGJ1NHNTVGI3X0twb0tGWHEwYUJwVzZoNGFtalJ2Z0VTbk5DWGpHYTdUaDBRRFA2Wm5ZS3hEVUx3TENHcEt4ZS1vOWFYUGhseDYtX19FVE1SelFUQVFaWUh4dzJqRDgzUDg3emtoSzNGRU82VThSeWhJbzlWU2VR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-013",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Food industry falls behind in gender balance - Farmers Guardian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaFNJNjM4V2Z5NFBqNmItMEpqU0U1bWNWbVZXV2lwTDQ5ZVdNN2N3UlpXQU5veWlxdDFzUXF0clloUjNxQlVwaEItVDB3S095YUJmSnJjd0ZaZDZmV0IxdVhBRGY4S0dQNGYyTGRfQW",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaFNJNjM4V2Z5NFBqNmItMEpqU0U1bWNWbVZXV2lwTDQ5ZVdNN2N3UlpXQU5veWlxdDFzUXF0clloUjNxQlVwaEItVDB3S095YUJmSnJjd0ZaZDZmV0IxdVhBRGY4S0dQNGYyTGRfQW01VmZMTXpKWmV0bGFucDh6R1kxVnVKQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-014",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Clover Food Labs is shutting down after 17 years - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPU1ZrajdNYjBscjRKQnMtWTBETXRzRkhfZTZnYlh4NEFRZVNKSUplTVFnNU5Zb2dZblB1QmtaM3oyZFNTMmM3ODFCZ1dZUFg4Q3FFZm9MbXBtOEx0YXhTWnV0aGJtMVNwMDJ0S05KME",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU1ZrajdNYjBscjRKQnMtWTBETXRzRkhfZTZnYlh4NEFRZVNKSUplTVFnNU5Zb2dZblB1QmtaM3oyZFNTMmM3ODFCZ1dZUFg4Q3FFZm9MbXBtOEx0YXhTWnV0aGJtMVNwMDJ0S05KMEJxSFJ1SGkzbkpRMG01M091MTlGeGxTbVJZaWRkMHRtLXpBVmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-015",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Outbreak numbers related to backyard poultry flocks rising quickly",
+    "summary": "Over a quarter of people sickened in this outbreak are children younger than 5 years old",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/05/outbreak-numbers-related-to-backyard-poultry-flocks-rising-quickly/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-016",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Germany shares findings from long-term outbreak analysis",
+    "summary": "Over the 10-year period studied, 3,021 foodborne outbreaks were investigated in 16 states.",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/05/germany-shares-findings-from-long-term-outbreak-analysis/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-017",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Botulism cases under investigation in Italy",
+    "summary": "<p>Italian officials suspect that a brand of olive and almond cream caused two cases of botulism.</p><p>In early May, two adult patients, part of the same family, were hospitalized because of suspecte",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/05/botulism-cases-under-investigation-in-italy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-001",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The OREO Brand & BTS Movement is On! Introducing the Limited Edition OREO & BTS Cookies - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZnpkT3lNQTlUZDhrMTR4UjZWNXptZEp4VTk5ZEd2ZXJKeE5oaWN1NkQ1MU05eFFPN0doZ2pfdUR3a3VQN3lkQ2h1b2I0cUp5aWJDZkNzZTNiWG1tODJtblZYLVJ1NVh3dWk2bHhpNk",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZnpkT3lNQTlUZDhrMTR4UjZWNXptZEp4VTk5ZEd2ZXJKeE5oaWN1NkQ1MU05eFFPN0doZ2pfdUR3a3VQN3lkQ2h1b2I0cUp5aWJDZkNzZTNiWG1tODJtblZYLVJ1NVh3dWk2bHhpNkt3bm54TWZ6RE02Vm9ESjg1WXJDeWRWOGlmOGpDaGNpOEt3OVFBdXp3aHJEZjh5ZGlOV1BaQW91Sk9HYmdRR3dlNzFaNWk4aVFYYk43ZTlIY0lMWkZYSUhOVi1jSV9RaGZWRFBCNWVBUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-05-26-002",
+    "date": "2026-05-26",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart store damaged after vehicle strikes pillar in Cape Breton - PNI Atlantic News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0g1eUxucVJVQ2Z6VE5UYmk3Nm93Z2dNTlItV29oQm0xRm5KQ3FxY2tIVHBIQzRkcXIzenlNZWtqa2dNVHdjUTBEU1d5VGYwU1hxUnRIVURzZUttVkZ6QThTMVNpdDU4eC1YTzRrV0",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0g1eUxucVJVQ2Z6VE5UYmk3Nm93Z2dNTlItV29oQm0xRm5KQ3FxY2tIVHBIQzRkcXIzenlNZWtqa2dNVHdjUTBEU1d5VGYwU1hxUnRIVURzZUttVkZ6QThTMVNpdDU4eC1YTzRrV0FCQVJsQVN6SWx0Q2N2bXVraTd2QklZNzd5eTdXb1ZJZ082UlhZMUpiVFZTamUwdnJWNnFlSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-05-26-003",
+    "date": "2026-05-26",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Walmart, Target and Amazon are part of Zacks Earnings Preview - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnBOMktBYnNDQlNHclZmWjF2MWVBTm5KTXE0Nm1jSjJmTGZRdXFWWWhjUzl3emlPUDBsOUhnaTZwcU1rbzk0X1R2VWI1eXlHWlVmX0JGU08zSkg3aUhfZjR4OEpSeVFaMFNLa045RG",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnBOMktBYnNDQlNHclZmWjF2MWVBTm5KTXE0Nm1jSjJmTGZRdXFWWWhjUzl3emlPUDBsOUhnaTZwcU1rbzk0X1R2VWI1eXlHWlVmX0JGU08zSkg3aUhfZjR4OEpSeVFaMFNLa045RGdOdjFGV0R4SG1uLWllWElyRzlibUo2ekxPZWtTNXF1U1ZLMXFGVkQ3N0VGVVF3WWFGUHlVdVQ5QnpORlhpTVZRM0dIZzduaTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-05-26-004",
+    "date": "2026-05-26",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart launches new supply chain strategy: prepaid consolidation - Chain Store Age",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUhZX3c4NlR4YlZ3Y0F2RWxMLTJzWFF2N0J2enNKNlVuNC1YckdUelUxaEV3Mjd2NU9aeW83cHAzaHNOeWFENnlyZlFfY1V3alhsSWhuazE3UkhNYTk2OS1tRnk5RmFoeHk0OHpXbn",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUhZX3c4NlR4YlZ3Y0F2RWxMLTJzWFF2N0J2enNKNlVuNC1YckdUelUxaEV3Mjd2NU9aeW83cHAzaHNOeWFENnlyZlFfY1V3alhsSWhuazE3UkhNYTk2OS1tRnk5RmFoeHk0OHpXbnVnVWNySU9ua1RZRDRfeE1DSlNpY3hERGZmYXVfdndGeVJNVmRB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-05-26-005",
+    "date": "2026-05-26",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gen Z demands bigger bargains — driving gains for discount retailers like Walmart and Ross - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUVNrV3diU0pJMDJpRjR5anZNeTA1OFVydG5oMUZUcE56LW1sd3VFcGtqRHhNQTdDTndCRnNDZlFxeXVIdjNjbzc1VG15blk2SnphUGJydzV6cFptZF9fZXRFN2R6VzNxekNQaHBvZz",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUVNrV3diU0pJMDJpRjR5anZNeTA1OFVydG5oMUZUcE56LW1sd3VFcGtqRHhNQTdDTndCRnNDZlFxeXVIdjNjbzc1VG15blk2SnphUGJydzV6cFptZF9fZXRFN2R6VzNxekNQaHBvZzJ6a2FVd29uQnZQMlhuTU0xcTIwNkRBNjg2dUxTZGVWVGlFRzJoNUQ5TThIUlpMeUhPUUxfUkZyeE9WcVpRWXpneWpxM1dmYndHYnRzWThFZ1JLQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-05-26-006",
+    "date": "2026-05-26",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart shares tumble as high gas prices slam shoppers - PennLive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQcmZ4VDVsOWZXVTVCSmFZUzJfNjBxR3hFUXBuamMwZ0czRkVLN25hMUlJcmtfV1Q1Y1JmZ0p1bThoYldGNUVfWm9vSWVoZkRtd3VGbUFydjBTWFk4Ui1IMDFXNlR2cFBGWFhTUjB3Y3",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcmZ4VDVsOWZXVTVCSmFZUzJfNjBxR3hFUXBuamMwZ0czRkVLN25hMUlJcmtfV1Q1Y1JmZ0p1bThoYldGNUVfWm9vSWVoZkRtd3VGbUFydjBTWFk4Ui1IMDFXNlR2cFBGWFhTUjB3Y3EwQzJiRHpjY0NCUzZkYW81by1SM0FMVG5vak1yYWw0d2VVa1VmUG92RXJRTEZOUdIBsgFBVV95cUxNTm0tRjktZng5X1FGVjliOXRNZGhmVDlPUHh5Slh3eEYtT29mRkpoNVFaSF9HYlBkQ3lnS0FRc2JIbFhBc2VUcTIzUzRsa2VENVB1Tl80UUhzdU9oWVoxZWdfQUUtbjBzYkNwY3ViQjdfaFlKVllDT1dDYlJuakJ2dkRta1l1NlJKaXpjLWt6UjRpaW5USV9tYnl5VEZCQnB2bjl0YUpleU5hb0VJM005b3d3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-05-26-007",
+    "date": "2026-05-26",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart C-Suite Execs Exit - Progressive Grocer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kNVhSeHBDREZlUkUzN1ZGaHp5YkFEc181RmsxR0RGSE9PVWVDdldiSkE2cWdnbVJoN1lpMVRUczIyM3psTUFXYmhqeXFLZHZCQnBUQVdYTXpLQUhIcDNlMVJvUkhTMU0?oc=5\" targ",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kNVhSeHBDREZlUkUzN1ZGaHp5YkFEc181RmsxR0RGSE9PVWVDdldiSkE2cWdnbVJoN1lpMVRUczIyM3psTUFXYmhqeXFLZHZCQnBUQVdYTXpLQUhIcDNlMVJvUkhTMU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-26-008",
+    "date": "2026-05-26",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco's Famous Rotisserie Chickens Are Sparking Concern Over 1 Unusual Detail - Southern Living",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNMXpCUVVVTURtbm9xaDh3SnV2NFB1aTd0TFhrUEZlY1BOSVBjb1hCVjFyZ0JxZFVjTVhCZVhzLWR6X25JN25MV2p2Zk5yajU4eV8tdzVyd1hvaXVOLWpHTFJZQjJnNV9WMEtab3F0Zj",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMXpCUVVVTURtbm9xaDh3SnV2NFB1aTd0TFhrUEZlY1BOSVBjb1hCVjFyZ0JxZFVjTVhCZVhzLWR6X25JN25MV2p2Zk5yajU4eV8tdzVyd1hvaXVOLWpHTFJZQjJnNV9WMEtab3F0ZjRXY1dWNnBXVERqNWNaYTYxMVFDUWcyUkRqeEpHa3ZkbUo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-26-009",
+    "date": "2026-05-26",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here's How Much Costco Stock Is Expected to Move After Earnings - Investopedia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQR29PaWpjVTNOV3BfNTZJODZIa0JzVzhKS0J1aFVDdC1pZ2FOVU5DLWJRZGU1eEh3T0Q4cmgza0dVZlRWbXJFbVJsUFVjT3JqMnRicmdXbE54aWhWWllQVmNWbklscF9jMVZ0YWhyTm",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR29PaWpjVTNOV3BfNTZJODZIa0JzVzhKS0J1aFVDdC1pZ2FOVU5DLWJRZGU1eEh3T0Q4cmgza0dVZlRWbXJFbVJsUFVjT3JqMnRicmdXbE54aWhWWllQVmNWbklscF9jMVZ0YWhyTmljSVFBeVlpNFg2NnlwRlFNQ3BwS01JMUpqSjJNdXU5eEczUU55MGdjT29GLXVTWE9JdnRHZGt6Y0R3RGNCSW83TDln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-26-010",
+    "date": "2026-05-26",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Costco Recalls Kirkland Supplements Due to Foreign Matter Contamination - EatingWell",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPbENTck9yY0JlY21zNWozNVVJYjBISm5TY1p3ZTNZUjY1cU1pb0lTMnlaTFc2cTFRUnl3ejV1OWlDSlFUaGg0M002NVdSRDRxZDNPOGFYTFZuQ1JDMHB1UThqQnJTSDlReDJQWGRTZH",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbENTck9yY0JlY21zNWozNVVJYjBISm5TY1p3ZTNZUjY1cU1pb0lTMnlaTFc2cTFRUnl3ejV1OWlDSlFUaGg0M002NVdSRDRxZDNPOGFYTFZuQ1JDMHB1UThqQnJTSDlReDJQWGRTZHh1MzZDZFVnRk85akdiS0dsMGVDVXY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-26-011",
+    "date": "2026-05-26",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Costco Stock Is Dipping On Tuesday? - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSE5NQjgtSl9KcDhNbXJ6N3ppTldpamk2N19uUEVXcXpCYVltdllWUjhZLVpKV2ZXNjZBd2Fack1zUHRmV2czakFpZm4wUmtNTDkxSnJMX184WFd3a2xFM1B1OE8weUQ1ZzRiRGRlSm",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSE5NQjgtSl9KcDhNbXJ6N3ppTldpamk2N19uUEVXcXpCYVltdllWUjhZLVpKV2ZXNjZBd2Fack1zUHRmV2czakFpZm4wUmtNTDkxSnJMX184WFd3a2xFM1B1OE8weUQ1ZzRiRGRlSmFXemhJRFlPOExpWEVMUTk1SkN6SlFiUzJ4bEdKbV9BXzhUZXpNdjNXMTVQbzJtbXlS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-26-012",
+    "date": "2026-05-26",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco is facing a major lawsuit over what’s really inside its Kirkland pasta - AL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3RDckNZQWU3VDE2dnY5cEF1c243SmpnYUhrX1JwREZNRl8yMC1tRkI3anc2NWVjVkhnYi01N2JvZ0VXVl9uTDBfQWxodGQ4UDVHblpSQUxZN3g1XzQ4dmotMDJrTEJKVmptSHVkcl",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3RDckNZQWU3VDE2dnY5cEF1c243SmpnYUhrX1JwREZNRl8yMC1tRkI3anc2NWVjVkhnYi01N2JvZ0VXVl9uTDBfQWxodGQ4UDVHblpSQUxZN3g1XzQ4dmotMDJrTEJKVmptSHVkcl92ZGVtcDVFRVlZYUhMN3ZmNC1FaEtLbnRpeTBOUmNHcEYtb1NFcGdjazZRUmhnc25mUXU2SU5SMjZWN1RKVG5tUjFpc9IBxwFBVV95cUxOb2pJY2Y2UndxNUtfOGdCYTlGd1ZKNkZQdVFEeVkzRVBGV2k4LW5TWXFJd19zVlhTNmpNNmdvQnNMVG1Ed2prRnY0cVlaS0dBVDJnRkRSSkhVcTlxenFfRkdDOXRoZlRlTGZzdGtWdmJNZHVBZ2NTd3A2WU14aVNXZnlhYUlHZFpocUFDMU12WnI2MjhJTnpMNzdUcVR6WElxSGZQa25IQ18tZDRrWVFOM0tLbmxocG1iaGt6QnhYUURZS3VkMEc4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-013",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Svedka’s senior brand director on the vodka’s future-forward marketing",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/u6dx1Y6ljZmup75frOywVb8DLDpBsxs8yUyojMjn_NQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TdmVka2FfU1ZFRFBIT05FUy5qcGc=.webp\"/>",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/svedkas-senior-brand-director-on-the-vodkas-future-forward-marketing/820581/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-014",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cactus candies, protein donuts: 5 products highlighting the evolution of snacking",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/k1drEPCQVxRg7HwdO_utjV7Hts0t4VdkxgCEfCwMEx0/g:nowe:0:97/c:2855:1613/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMzg0My5qcGVn.",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/cactus-candies-protein-donuts-5-products-highlighting-the-evolution-of-sn/820362/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-015",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How the food and beverage industry is rethinking manufacturing investments",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/yI1IHTmvJeaUh2-UwCmmr2ukYIn8IwkoZkSZzlzreVc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDA0NDAxNDM4LmpwZw==",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/food-beverage-manufacturing-investments-us-expansion/821081/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-016",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How the food and beverage industry is rethinking manufacturing investments - Food Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSVBrdkZNMmdBQW0xZGRIQkh4ODFmbGt0eTJfUFp0ak1JZmdYN0wwNHU5QVROUlFaS3djN2pOUzFPc19KaF9tQWFDRkN5WnRVUmRZQk5xSmlueTFxYlBXZGt6V1dhMTgtcG5FcFFWMG",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSVBrdkZNMmdBQW0xZGRIQkh4ODFmbGt0eTJfUFp0ak1JZmdYN0wwNHU5QVROUlFaS3djN2pOUzFPc19KaF9tQWFDRkN5WnRVUmRZQk5xSmlueTFxYlBXZGt6V1dhMTgtcG5FcFFWMGNrb3Jvc2d6X1hKQWpvVklnbVJ2TkdnVjN3Wm5Rc3NsSE9jODlf?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-017",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Law expanding West Virginia’s cottage food industry takes effect June 12 - West Virginia Watch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOVm1TSzhLUm4wQW9MelFHajNOeFhROFBYVlBPenVDVEFybVgzMTBMN3FfblRtOS1iLXp3YWRkblNvWXdoX0REcmdFMFJSZWhXcTA2ZFhfVEkxYmowbkpIN08yZHlUUGZSb3JWSGpsRE",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVm1TSzhLUm4wQW9MelFHajNOeFhROFBYVlBPenVDVEFybVgzMTBMN3FfblRtOS1iLXp3YWRkblNvWXdoX0REcmdFMFJSZWhXcTA2ZFhfVEkxYmowbkpIN08yZHlUUGZSb3JWSGpsRE1KOEtHVjltTnp3VGlqX0FCbEFiUkw2VHpoTjJ0a2tRc1dBZmNTZnZhcmxUTHRHUExUTE55RTFzcmhZX2F5TlhBWmItMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-018",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The forever challenge: how the food industry must rise to meet PFAS - New Food",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNam1WT0dPUHJRMmRqM0Q2WTJadnJpaC0zVE9WYjgxUnhtSXVjNTFlcnVsZFAwZnpXaUZPYzhfWFJFWkpzeHdaemlGYmMzUkhYRjI4SmpDQWN3UmZITFJ0NnltUUVxR2loX2xxdzVWdX",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNam1WT0dPUHJRMmRqM0Q2WTJadnJpaC0zVE9WYjgxUnhtSXVjNTFlcnVsZFAwZnpXaUZPYzhfWFJFWkpzeHdaemlGYmMzUkhYRjI4SmpDQWN3UmZITFJ0NnltUUVxR2loX2xxdzVWdXhlSHg0VHBVRGdNTUJ2NG1OcFJRMFRmQlZvNkE1MUR5OGppcUstV01JQ0F0TmVUaENWQnpZRElHVU1DdXJDbTREQ2FPOWk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-019",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "FDA Warning Letters Are Rising and What It Signals for Food Manufacturers and Global Suppliers - Food Industry Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOeVVhU3J2UnpqMUdlek1LZW0taG5vSDFSMWJ5dXFFYUtBR2U4UXIwZHYzZHhUWnJDalRheWk2RU1fb2JSOXQ5bnhDZ3RXX2ptRUxpU1NMVmNoT2YzdHBaczNiRWxmYjlnWXQ3eU91eF",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeVVhU3J2UnpqMUdlek1LZW0taG5vSDFSMWJ5dXFFYUtBR2U4UXIwZHYzZHhUWnJDalRheWk2RU1fb2JSOXQ5bnhDZ3RXX2ptRUxpU1NMVmNoT2YzdHBaczNiRWxmYjlnWXQ3eU91eFEwMHcwQUlwTFZ0SEthNU81TFlEekVUSkhTWkdfcEg5MFEwZmNDWFF6bWJVYjQtczg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-020",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Flavor innovation propelling pretzel category - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOTEowcjlhM05iMjg3NmFCOHYzTTlTclVPbmNnS2NVVk1JWHpVdVR2OFZOMkZlWFlTM2MtUW1MZEh6S2xQWmdqV2ptRFpJMExGNXh2UUlVTFpmUkpST3d3RGhYclhaaXc2cEl5MGhFNU",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTEowcjlhM05iMjg3NmFCOHYzTTlTclVPbmNnS2NVVk1JWHpVdVR2OFZOMkZlWFlTM2MtUW1MZEh6S2xQWmdqV2ptRFpJMExGNXh2UUlVTFpmUkpST3d3RGhYclhaaXc2cEl5MGhFNUZXTFBDaUdRZUVnRDd4YzY5UXN6NVRkM2R4ZFkyWGVEZ0hIN1JQcWRyTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-021",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Law expanding West Virginia’s cottage food industry takes effect June 12 - The Register-Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWHlseEJQX29nOC1fY1N3ZXRMdTNXNXVFWktCemw0ZTlPX1RBRlRIVXBVbTRzNjBCTWRENlVYMnRhUThTVV9CcUN2bmRLTWZHLVRabHh1TnRWbHJvbXNUMnNzMHg2SmVGT3FNaFR5Yl",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWHlseEJQX29nOC1fY1N3ZXRMdTNXNXVFWktCemw0ZTlPX1RBRlRIVXBVbTRzNjBCTWRENlVYMnRhUThTVV9CcUN2bmRLTWZHLVRabHh1TnRWbHJvbXNUMnNzMHg2SmVGT3FNaFR5YlJVb1ZYSFE1UEdiQmNadExsVFdMY2RxYlFibHZ4R3JzcWtwOVNGVTlRcTdCQ1hCM3pIdmVGal9fMkY4VGRVVjBRMDY3NHZwZnl3OHBpLTBfVW5YT1BKYzk4dWpXOVUta2x4UHZVaDQ1VlRMYml3UDFmY2xBdVpoLWh3alBTT25rRS1NQ0JkWVROVExta0FOY0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-022",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can renewable energy make food production easier? - FoodNavigator.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTzBVYmp2SDB1UVZLSXg2cWlkc0wwTWJmSjhqakFWeXhCX1NmRzdvNFVZZkZhYVN3Q3B4N2cyMjZOb0FBQ0FYdDROOEVxYzNpNURrNGkxMnlXY1ZpTmpFWWc4UWhuUGtxUWptcjRIdW",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTzBVYmp2SDB1UVZLSXg2cWlkc0wwTWJmSjhqakFWeXhCX1NmRzdvNFVZZkZhYVN3Q3B4N2cyMjZOb0FBQ0FYdDROOEVxYzNpNURrNGkxMnlXY1ZpTmpFWWc4UWhuUGtxUWptcjRIdW94a0FqdGRxcW4xWTNNbDdkUjhlTzMyU0pLMG41SlViT3FTYWhaeUtUMlpES2ZFMEJuWkh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-023",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farmer's Dog partners with The Oprah Podcast on dog-focused series - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVGRaUTVoX2laQjM0em94QldURTBxNFF0cmh2OG9Kb1VqVDRTNWhGRE9TaEdQZTZNc3RFZG5mQ05ta3VvX1BKbXJCS1FKUml1Z3dUVDdOWWw1TndLa0tOUEcwTXVIWHRReEw4U0tvSU",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVGRaUTVoX2laQjM0em94QldURTBxNFF0cmh2OG9Kb1VqVDRTNWhGRE9TaEdQZTZNc3RFZG5mQ05ta3VvX1BKbXJCS1FKUml1Z3dUVDdOWWw1TndLa0tOUEcwTXVIWHRReEw4U0tvSUpDWkJMZ1Bvc3UyYXdOQTJpQVlNLXg0WHlRRWNLazUwOVh4cjJfXzJUNmlqM1ZGRmcwcnJ0Q1Y2SlNxNEViYkI3eFhZU2Z2c1NEZ2ZqRTRieThjbml3YUxzRHE3UWRIdmZBTWxhMXMtbktTdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-024",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "An industry-backed “Trojan horse” bill would trample state food safety laws, critics warn - Wisconsin Muslim Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPOEZ1dE5VM2Q3V3ktQnBXeFhDcDZqN05oRGdRejR4X1pfX1ZJcmg2LVZFY0NtWVpfRmJINlphRW0wb2swVWk0Rk1CT3EtcXc3aHJsdUJVVDEyWmhmOG4xZDRsVE9QOW1TeUFCTm0xZU",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPOEZ1dE5VM2Q3V3ktQnBXeFhDcDZqN05oRGdRejR4X1pfX1ZJcmg2LVZFY0NtWVpfRmJINlphRW0wb2swVWk0Rk1CT3EtcXc3aHJsdUJVVDEyWmhmOG4xZDRsVE9QOW1TeUFCTm0xZUdWZFQ5UkhxRVd2cTJZWGdVRmU3VGV1SFRuOTRNcXdob2FtYkpld0NwYmExaVYzQVRpcnJEMWJMTHZES1QxNTJEUUJLcjI5R1JnSFVzMnNOZmc3ZTZkcllROTdqZlZSMlhqNm8ybmVOd0s1YmJpYjl4dkJKdDZyTml3S2Y3Z2hud3ZpbENDYWJOaDlJNDNiTmlucWVjNjVqcFhoRVJmU0N2ME5GOEU0ZFl2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-025",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "My Word Is My Bond: A Q&A With George Sousa Jr. of Mariani Packing Company - Food Industry Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHhNc21VSHhjaEVpeTEyWDg3SFpndGx4aWtUSXFsc1BEZW9Bd2lzZXh4aUk0amNCNWRWbVVkRG95dTE3TGd2aTA4aGJhZDVLYVhxS1BFMnRTMEhUemJ4Q3hRaDN3djJseEVLWmpEWG",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHhNc21VSHhjaEVpeTEyWDg3SFpndGx4aWtUSXFsc1BEZW9Bd2lzZXh4aUk0amNCNWRWbVVkRG95dTE3TGd2aTA4aGJhZDVLYVhxS1BFMnRTMEhUemJ4Q3hRaDN3djJseEVLWmpEWGxocW91YUstdXBCQngtOGJWQjZmRXB4RG1hYkxzeXhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-026",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Turpaz Industries acquires Phoenix Flavors & Fragrances - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFJBN3FjbC1yRmlGSWRybDJmaVZ1VFlhNjRDZ1hpZVdnTVZmbkNQMHl1RnF5YnUwNS1QU29TSWlKaTF3M1N0aEhLcV91NXhSUTJ4Ry1ZT3E5aklIMG41X0lCT1NKcnN2REdmN1NrbU",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFJBN3FjbC1yRmlGSWRybDJmaVZ1VFlhNjRDZ1hpZVdnTVZmbkNQMHl1RnF5YnUwNS1QU29TSWlKaTF3M1N0aEhLcV91NXhSUTJ4Ry1ZT3E5aklIMG41X0lCT1NKcnN2REdmN1NrbUt1YTZzRkJLQzZOaGo2Tm11cHlKcUZtYnlfM1J1THZGQndZYUcwMTJpUldUQmRsYlFWOEFmdXAtb20?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-027",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Flowers Foods to focus on lowering costs - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTjktbnFUYkFHX21kZ2hXT1VLUS1QMmFLTXlGZUFpaVJLNkp4ZTlGNkt3RUlfcVlDUzk2WGhaOTZJYnIyU3RKbmZFbEZQcGhONzM2WEdzSFh5UlI0aGpwNERPdlNUQUpBT2M5ckdQU2",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTjktbnFUYkFHX21kZ2hXT1VLUS1QMmFLTXlGZUFpaVJLNkp4ZTlGNkt3RUlfcVlDUzk2WGhaOTZJYnIyU3RKbmZFbEZQcGhONzM2WEdzSFh5UlI0aGpwNERPdlNUQUpBT2M5ckdQU2ctMDVkMnNfSEFneGhvX2xmVllaTGNpSUVJY2VDLVpRMmU4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-028",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Heartland adds to sweetener portfolio with acquisition - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTNUYXAwRnRFMWNHZHI2dVhaLXh5VkV3SkdtYmh1S1JCR3luOTJaQWo1c05RZXFLUDBxZVkzOEtVUW42MmVaWDFwdlZhWXM0MnZUci1VU1Vha3FUaWJSWkhQVVdld1dEWE95ckFJY3",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTNUYXAwRnRFMWNHZHI2dVhaLXh5VkV3SkdtYmh1S1JCR3luOTJaQWo1c05RZXFLUDBxZVkzOEtVUW42MmVaWDFwdlZhWXM0MnZUci1VU1Vha3FUaWJSWkhQVVdld1dEWE95ckFJY3JqWGVVNnJBX1VxOGd6b0lLY1hxNnpaUUJMMVhnaFZVRnQ1cHFidDJHekU3OTlZTENuUHJucg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-029",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "FDA issues warning after cookie company refuses to recall products",
+    "summary": "<p>The FDA is warning consumers with milk, wheat, or tree nut allergies not to eat, and retailers not to serve or sell certain Imperial-brand cookies and candies manufactured by Imperial Nougat Co. du",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/05/fda-issues-warning-after-cookie-company-refuses-to-recall-products/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-030",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New guidance for infant manufacturers available",
+    "summary": "<p>The FDA has issued <a href=\"https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-protein-efficiency-ratio-rat-bioassay-studies-demonstrate-new-infant-formula?r",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/05/new-guidance-for-infant-manufacturers-available/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mondelez-2026-05-25-001",
     "date": "2026-05-25",
     "companies": [
@@ -212,6 +1100,158 @@
       {
         "name": "food_safety_news",
         "url": "https://www.foodsafetynews.com/2026/05/u-s-experts-among-attendees-at-food-safety-event-in-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mondelez-2026-05-25-012",
+    "date": "2026-05-25",
+    "companies": [
+      "mondelez"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mondelēz International expands Zbar portfolio with new kids snacking innovations - Milling Middle East & Africa Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGFVVGsxTWtjYnhZSlBMQktWYmdsTUZ1dlNyNmVyM1E2blZqVk9EUnB5cWpBZUJoX2dPV2sya1FNS0xIZ3RPejRrN1dyVTNtQmNmLUJPaUZQZ2FYWWdDaWZDNnBzcXg0cnhtU0hvN0",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGFVVGsxTWtjYnhZSlBMQktWYmdsTUZ1dlNyNmVyM1E2blZqVk9EUnB5cWpBZUJoX2dPV2sya1FNS0xIZ3RPejRrN1dyVTNtQmNmLUJPaUZQZ2FYWWdDaWZDNnBzcXg0cnhtU0hvN0ttRlhiUGxqVEtseUtDZTVBTk1yQTVIcks0TGd0TTR6WHFiamxRT0dya3IyZW80LXFIN2ExNk9jaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-05-25-013",
+    "date": "2026-05-25",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart announces nationwide recall of food item for infection risk - SILive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPaGoxYkpsZ0F3ZkZ0d3pNZDdadmdVQkphVFlycmVtQkhkUXM4eUlmam5oU3N5SW54dHg0LW9TaVJtZWM2cWF4N1RkU20zaFdkWDJPS0p2NDlQTElrelNHZ0Y3Um1LTjZVU3ZJWG9aQ2",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaGoxYkpsZ0F3ZkZ0d3pNZDdadmdVQkphVFlycmVtQkhkUXM4eUlmam5oU3N5SW54dHg0LW9TaVJtZWM2cWF4N1RkU20zaFdkWDJPS0p2NDlQTElrelNHZ0Y3Um1LTjZVU3ZJWG9aQ2tvUmUwalV1U1drdjJOdXBVVndRMFBOTklkbXl0dFNZeXBpWmg2N0pITWxNN29fcXhHRjZTWTlpdVdIRU030gHAAUFVX3lxTE5kY1JqeFRJMHRvRlJ4ckNzRUJlV010OW1ySXRWcFhrUXlaUGkyYlRPVEhlazFlc0dsV1FfeHNELW5GVmNXREYwWWVDeGhCa3RsTEQ0SWdNc2xQYmxnVzRSbU04SWVtZ05OS2RhSi16emtwWU9GQlRKZFVGX3dvd1ZuREo4Ymx3VXAwS3JDUWNROVdLQUlqd0k1Uk1mQUQ5Mm5ENDVyRGpONXR0b1hXdjhVdG5RZUhhdi1aSWNVWXE0Ug?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-05-25-014",
+    "date": "2026-05-25",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Doctor Butler's Maximum Strength Relief Formula Now Available at Walmart Stores Nationwide - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNThYR0NiYnZEQlpwaUF1UV95MUN2WE83eEZzeWcxd0JhTXkwUmEtdENYSHF0NHlDbnBRYUVqY1JBNEE1bnhndWhpd054QmJYT2F1SDVPdER2RzNBTWNVT21LdjlsU2FCU1k0MEE0T1",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNThYR0NiYnZEQlpwaUF1UV95MUN2WE83eEZzeWcxd0JhTXkwUmEtdENYSHF0NHlDbnBRYUVqY1JBNEE1bnhndWhpd054QmJYT2F1SDVPdER2RzNBTWNVT21LdjlsU2FCU1k0MEE0T1VQMzNBX2Jsb1pZM0lrWlprempleWFPMUhKdm9KOXMzNHl6X2F2bEV5Q1lGallpOEsxS2l5aVJRUXRjUUNRcTFFXzZ0YlM3bzRSRGNWQ1l5ZThTMW1rX2tRZVdSSGFvczJYZU8zRGxTQVpXbFNJM1hfbnVZNXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-05-25-015",
+    "date": "2026-05-25",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart braces for bag ban under city’s new law and customers face checkout fee - the-sun.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXdiX0lJVV8xTDV0ekVYT3p0UVhLeVhYN1dscWxHT0pVMlpsMlY4dk5HQjI4Vkc5bGdvYjZMOTgyZDNlbEtDbXRUTDgwNzVlNHA2UUhUdUtRLVQzMC1oUDB2RGV3bjNkZVRRbVFqM0",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXdiX0lJVV8xTDV0ekVYT3p0UVhLeVhYN1dscWxHT0pVMlpsMlY4dk5HQjI4Vkc5bGdvYjZMOTgyZDNlbEtDbXRUTDgwNzVlNHA2UUhUdUtRLVQzMC1oUDB2RGV3bjNkZVRRbVFqM0FjZXRxM2lCbWNtYVUwUkVRZFFEMkhsajFIa1h3ekVvMnVCdWRaaVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-25-016",
+    "date": "2026-05-25",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco faces class action over Kirkland tortelloni’s ‘preservative free’ labeling - Class Action Lawsuits",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREctZS1ybTRnc2otZy1kUGI0OFkxME0xVENiSVpybmswRHZlZnBxUFhjNlpzYmJqMVRYai1oR0dKZFItaGVwdm4tYmUySi1NWVY3dXIwSmtQU3pFMHhhMXZoOHNzeGltdElxcXdpck",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREctZS1ybTRnc2otZy1kUGI0OFkxME0xVENiSVpybmswRHZlZnBxUFhjNlpzYmJqMVRYai1oR0dKZFItaGVwdm4tYmUySi1NWVY3dXIwSmtQU3pFMHhhMXZoOHNzeGltdElxcXdpckNUQVFBV1ZYMEFwenpsbkpza1J5NEVaUnhESUd4UERBYVVMTHVaZUh5cEhPbmpRZVQyLW94WjcxblY4RUxDLVpZUUMwblVlNXJMZTJrUFVlVVVfR2c5ZVRyemp4MWxHZUdwVmlyNDZ2MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-25-017",
+    "date": "2026-05-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI evolving as an innovation tool - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxObnJQd3dmTXM4LUJwa09sY29ReVplTEx1YWFoSHNMei1IbDVhbXpWcmR0Wm9ac01uelFRb0hJTnR6XzViWjNzMG9US0loTGlFQjlDZ0thNE45bkNkVVVZcUQ4VVQ1RURtalh1TkRrdm",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObnJQd3dmTXM4LUJwa09sY29ReVplTEx1YWFoSHNMei1IbDVhbXpWcmR0Wm9ac01uelFRb0hJTnR6XzViWjNzMG9US0loTGlFQjlDZ0thNE45bkNkVVVZcUQ4VVQ1RURtalh1TkRrdm1sMUFJaFJXVUJJOWZKVmlGdnYyZGNsN3ht?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-25-018",
+    "date": "2026-05-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Partnership boosting access to collagen, gelatin ingredients - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkE1eGgtMFBFV2dXNlY3UEZQOXdSRW5DRVlnUjZLZ2RPak0tSnJhUWxTYzJndXZwbjF5T1FuTjRBR2wyRllZS2M3eF96S3FLYk93MkszRHRzRDBBc21LSlBiUXBQdHBoZVUyMHdnY0",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkE1eGgtMFBFV2dXNlY3UEZQOXdSRW5DRVlnUjZLZ2RPak0tSnJhUWxTYzJndXZwbjF5T1FuTjRBR2wyRllZS2M3eF96S3FLYk93MkszRHRzRDBBc21LSlBiUXBQdHBoZVUyMHdnY0lEamxydVB0NmRVN0N1WVBERnJDalFhR0tQQWpLMlZOTzZKdWtPelBDeTNfUWRWdm9icy1xcDJSdWFxNUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-25-019",
+    "date": "2026-05-25",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "USDA posts warning about beef kofta linked to E. coli outbreak",
+    "summary": "<p>The USDA&#x2019;s Food Safety and Inspection Service (FSIS) has issued a public health alert regarding beef kofta products served at The Kebab Shop restaurant locations because they have been impli",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/05/usda-posts-warning-about-beef-kofta-linked-to-e-coli-outbreak/",
         "type": "rss"
       }
     ]
@@ -567,6 +1607,47 @@
       {
         "name": "google_news_food_industry",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1djTjVMSFJWblU3dFEtWTliN0oyaWxWQTZSS0I1UUpDX25sbFpwZnY0NURuQ2ZhX0cxcWRrZ2FIaGk4RXhXQ0l2elEzYWZMbmJUcDR4SXR2dFhIOWlQLWdmWWZWWGdaMy1XN1FhRi1wUjRxQ2tEOS1WdXZ3eFAyS01fZ3VSVVV4Zk5lTW1nX3hGTVp0YmJBbUhmLV9fVFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-24-020",
+    "date": "2026-05-24",
+    "companies": [
+      "costco",
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What stores are open on Memorial Day? Is Walmart, Target, Costco open? - The News Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPallveThLNi0wcW03SnEyRlZaaXFtQXBYbzg4TUZkQzBlbEdhVmdxWjNtOGNqclF2aE13TGxRamg2ZDhxSDFPNmpoMi1GVmtaaXhoRHVHQ2tHYWNxcWRhdnlxWmV5OEhHZXJWV05UZF",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPallveThLNi0wcW03SnEyRlZaaXFtQXBYbzg4TUZkQzBlbEdhVmdxWjNtOGNqclF2aE13TGxRamg2ZDhxSDFPNmpoMi1GVmtaaXhoRHVHQ2tHYWNxcWRhdnlxWmV5OEhHZXJWV05UZFdBa2FBQVQ1aHlxLVM1Mk5KYTNZcDVkd0VKUFE3dUw1VTlYZG1mMzRhYmkxVFdwU0EyTHhjVl9KWmNfY3JrX3EzZTNTbkszQzVobkRVOXpGTTVIeHNYczExV1hzZkxqSXNCWW9jdjREOV9XcEg4VjhYZWpxWEptdjJ2Vnp1SkdGZE43QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-05-24-021",
+    "date": "2026-05-24",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "What I Learned About Loss While Skateboarding at Costco - The New York Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPRWgtYmJMRHZmU2NtVzJZdUwybDZWejltSmJFUkdYUW9SUWU2OTVjcDQtZVRGNlRlT3VhMXdHMHdfbW83SlNadzUyWE1MbHVLbktpaFpkNnl5cG90aURLX3Y3LUNZakpXS1BhdFBkWl",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRWgtYmJMRHZmU2NtVzJZdUwybDZWejltSmJFUkdYUW9SUWU2OTVjcDQtZVRGNlRlT3VhMXdHMHdfbW83SlNadzUyWE1MbHVLbktpaFpkNnl5cG90aURLX3Y3LUNZakpXS1BhdFBkWl9GbmZjMzhmSHJLeEl2Ul9YVVZBUzJFX1JCSWZKajRtR1RQZw?oc=5",
         "type": "rss"
       }
     ]
@@ -1866,6 +2947,46 @@
     ]
   },
   {
+    "id": "adm-2026-05-22-060",
+    "date": "2026-05-22",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ADM Price History for Archer Daniels Midland Stock - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1BMzZxWTNtcUQ0eEhzMGNYQy1WQzFkZUZXdE1PQTFMV1hGN2w4YkR2c1lzVWZibHgxZjE5MVNac1Iwa25MNzQyRU80RGlmQWRjQkJNc2RCdWFGd0hTTGFNdGE3cm9MZ01xWU9zT1FHam",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BMzZxWTNtcUQ0eEhzMGNYQy1WQzFkZUZXdE1PQTFMV1hGN2w4YkR2c1lzVWZibHgxZjE5MVNac1Iwa25MNzQyRU80RGlmQWRjQkJNc2RCdWFGd0hTTGFNdGE3cm9MZ01xWU9zT1FHamtrZjlFSEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-22-061",
+    "date": "2026-05-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BG - Bunge Global SA Stock Price and Quote - Finviz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzekVhOUEyRnRwZEtZRlJpOTNFbGxsTDh0NTdvVi1mVXZuc3JreFRVNXZreVZ1SXFBRkdaS0I1Q3ZMRW8?oc=5\" target=\"_blank\">BG - Bunge Global SA Stock Price and",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzekVhOUEyRnRwZEtZRlJpOTNFbGxsTDh0NTdvVi1mVXZuc3JreFRVNXZreVZ1SXFBRkdaS0I1Q3ZMRW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-05-21-001",
     "date": "2026-05-21",
     "companies": [
@@ -3092,6 +4213,26 @@
       {
         "name": "google_news_food_industry",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtWTNfLTdXSzY5LURNamdOZl9KcHV0aG5wVThSNHZ4N1hjWTR4Z0c0T0ZJSmVIZXJNd2xYTF9JYVh4RG8tanBvQ2h6WnNjdFlKZkxaTVhlT3Jnd1A1WVBkcUh2ZktmRlR6TzgxRWotQ1pQbmZpT0F1ZHg3NA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-21-065",
+    "date": "2026-05-21",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Do Wall Street Analysts Like Bunge Global Stock? - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVo0ZzFCMWhucFVOTWhMNGZ3bGhtU1dBbEMxZ2ZRREpqNW8zVjNibjBUbkhlbkRqcnVNR3RoVnFPaTFSRS16Y2hxQV9ncnR5SUxwMXpaakRJS1h4dHdhZzRWYlhNNEFrN0p0T0t6X3",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVo0ZzFCMWhucFVOTWhMNGZ3bGhtU1dBbEMxZ2ZRREpqNW8zVjNibjBUbkhlbkRqcnVNR3RoVnFPaTFSRS16Y2hxQV9ncnR5SUxwMXpaakRJS1h4dHdhZzRWYlhNNEFrN0p0T0t6X3R4QWIxcm45VWJ1RWtocml1dnRUYUdPeTJQdnNfNl9OWE5EWmhGZ2c?oc=5",
         "type": "rss"
       }
     ]
