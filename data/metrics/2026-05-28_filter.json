@@ -1,0 +1,16 @@
+{
+  "total_raw": 262,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 10,
+  "gate2_fail": 12,
+  "passed": 50,
+  "gate2_samples": [
+    "Don’t Miss: Tyson working to reopen closed shifts in upcoming years - Amarillo Tribune",
+    "Target, Walmart battle for Charlotte shoppers with pricey remodels + new features - Charlotte Observ",
+    "'We Want to Be America's Best Grocer': Kroger's Aggressive Plan to Beat Walmart and Costco - inc.com",
+    "Walmart Debuts Program to Streamline Distribution Network - PYMNTS.com",
+    "Costco Is Selling This 20-Bin Storage Set for a Steal - Apartment Therapy"
+  ]
+}
