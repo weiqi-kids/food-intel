@@ -1,0 +1,227 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:21:23.420117Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-05-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart and 5 More Consumer Stocks to Buy After a Solid Retail Earnings Season - Barron's",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQekEwN2dVNEE2OU9ETkRZQmk1OTFid01rdHRlRjhfV3NxX3lPMW40Q3l5OFFna0FKUzFHeEkwb0UyUVh0bEs5Tm1Qb1lmemlOczRJX29jd1ZXRnJBSVJsQkJ1SjlxQVpRRy1tV0tOd0JYeUdFWS1KRU1CWG5aSWEyUGk4OGQ3ZXlEQ3EzY0RBOGVjRHJfVkxxOXhJNFVpc2hfUk4zRm1DeFlzZko3SlZRRGsxQkQyNWJoQVNyMGRUTHl6UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-05-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Costco Wholesale Corp (COST) Q3 2026 Earnings Call Highlights: S - GuruFocus",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOHI3d2dwa3BjWmlHSGdnS3dueTBUZ2JkaXFSRDdCbGxhOUVXT29MZEx5TEptT2UzVDc3dmpRNEdaenlWM1dtdWtxMTNmVGFfbHkzcjJmUWxMSE4wSHJNZUJTNXJBQVlibEpQUEFhN2lsMHNQY212OFVid01pVnIzeTNySF96SkhWTlNpM1ZoMndrVTBRMWVXOVM1NC1wazZxNzRsSlhtOWpIdEF3NFU2ZXZXbHlVQS1pNFNZdXEtZEhKc0tiSVh5YWpIX2tNc1lraWF0UFFuX3hrZXluUms0M3FxbnMyODF2YUdNS2lpcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-29-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Academic warns of risks with changing FSA’s remit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/05/academic-warns-of-risks-with-changing-fsas-remit/"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-05-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Allstate Corp Has $2.08 Million Stock Holdings in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNampuSnhwN3FfTGFfcEI2Uy1oM2RFY2JfbThCSUhNc3hoYmZ1SlB5bVoxdVJCNVRWdGxCYUQzeWtSQnQ2ekF0RGJoRXR1WXV2anpWZk5famt1ZVRXS0xINmlHYm04SDFVa1o5UTZYa1pvRUk5TEtCdXdPZ01qdzJyYkZxaDBiaklOVEtJTXJUV1ZwaTlsUzJhX3JLN3hFcUZpWVZ0M05QTExxLWhuZWl3TEloQ29uaVBYYmpobVdjUVgyNk1kUkIwSTF1dlVBRXQ2Rjl0blRaVnc4NGM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-05-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods hires Jeff Schomburger as CEO - Food Dive",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0FiSlZoWWpRS2pQVmg5aVlYWjNfczQ4bE42YkV5azZiYU44VW5yM0JETUdjUUJVS0JoTlRRMXc0S1JCNXViVVNIZFZidkp1Mmd4TlFyLUlkbFF3MkJYR1M4WkJ0V0JJZGtHV3NBVjBycFcyQ24wWjRMWW1HenNkajVkelNTZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 92,
+    "too_old": 93,
+    "gate1_blocked": 8,
+    "gate2_blocked": 12,
+    "passed": 59,
+    "pass_rate": "34.3%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Mondelēz International appoints Ayman Fahmy as West Africa Managing Director - Milling Middle East &",
+      "Walmart names Yahoo and Magnite as partners in its ad tech tuneup - Ad Age",
+      "Kroger, Walmart, and Costco face a $6.5 billion problem - thestreet.com",
+      "Walmart is expanding 30-minute delivery service. See where - USA Today",
+      "Target, Walmart battle for Charlotte shoppers with pricey remodels + new features - Charlotte Observ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為好市多、ADM、泰森食品相關動態：「Walmart and 5 More Consumer Stocks to Buy After a Solid R...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Walmart and 5 More Consumer Stocks to Buy After a Solid Retail Earnings Seaso...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Costco Wholesale Corp (COST) Q3 2026 Earnings Call Highlights: S - GuruFocus（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

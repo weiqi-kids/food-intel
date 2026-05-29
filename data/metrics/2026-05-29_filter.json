@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 8,
+  "gate2_fail": 12,
+  "passed": 59,
+  "gate2_samples": [
+    "Mondelēz International appoints Ayman Fahmy as West Africa Managing Director - Milling Middle East &",
+    "Walmart names Yahoo and Magnite as partners in its ad tech tuneup - Ad Age",
+    "Kroger, Walmart, and Costco face a $6.5 billion problem - thestreet.com",
+    "Walmart is expanding 30-minute delivery service. See where - USA Today",
+    "Target, Walmart battle for Charlotte shoppers with pricey remodels + new features - Charlotte Observ"
+  ]
+}
