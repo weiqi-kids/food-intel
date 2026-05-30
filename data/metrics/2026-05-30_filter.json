@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 7,
+  "gate2_fail": 20,
+  "passed": 33,
+  "gate2_samples": [
+    "What Did Bunge's 2026 Investor Day Reveal About Its Future - Kavout",
+    "Mondelēz International - Britannica",
+    "Walmart looking at building $20 million neighborhood market in Birmingham metro city - AL.com",
+    "Walmart is expanding 30-minute delivery service. See where - USA Today",
+    "Walmart buys Inland Empire cold-storage facility it's leased since 2010 - The Business Journals"
+  ]
+}
