@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 7,
+  "gate2_fail": 17,
+  "passed": 26,
+  "gate2_samples": [
+    "What Did Bunge's 2026 Investor Day Reveal About Its Future - Kavout",
+    "Mondelēz International appoints Ayman Fahmy as West Africa Managing Director - Milling Middle East &",
+    "Walmart looking at building $20 million neighborhood market in Birmingham metro city - AL.com",
+    "Walmart under pressure - Axios",
+    "Walmart is expanding 30-minute delivery service. See where - USA Today"
+  ]
+}
