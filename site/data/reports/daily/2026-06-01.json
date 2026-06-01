@@ -1,0 +1,260 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:29:00.011711Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-06-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Bull Case For Archer-Daniels-Midland (ADM) Could Change Following Upgraded Earnings Outlook Learn Why - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZW45MUh2Y2VBSmY3UFEzZVJjVmEwUUhyMDV2ZUNOTEw1eV9tdHVhNml2blR5czhRUWtpTmx1X010RXotVTFoaHZxUWFjVTNxRFBsRi1CanEzcEtCek1UUGhZNWRsMnE4X2F1b2p2LVlRVjZuQ2RlSTFZbjRnX0UtOGwxblVlVUxPbUJjZVFsaDlERXk4Zk13cGpNTGhOQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-01-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA warns sprout producer, pet treat manufacturer about food safety violations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/fda-warns-sprout-producer-pet-treat-manufacturer-about-food-safety-violations/"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-06-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Thompson Siegel & Walmsley LLC Sells 56,865 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTzRSWTlEWWptUDRTaWFoSXBCcTN2LXZfUkhuOTgybmo1eGU0by1ja3hsN19sdWctNUNrTFhINlMzcW5MV3dHcm12eGVDUjhlR0xiU01MUG1nMExyUVpScHduMnZBUXhKZWoxZ2lXMHRxRjVzRE9xSFhSSTBkODBvd2thSG83M3Y3bVZPbzNQbWJIdEpXd3pOY0lWSWhVSmlLY3ZNU1BVTjFJM0c4eUxWRzBablpKd1hvS19oYVZtVl9nbUdpc0o4cWJMWHdCVERzRHVvYWRhVUdLdHpSYkxz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-06-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nomura Asset Management Co. Ltd. Decreases Stock Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRmlkZ3lPX1FkbG5MMGlRT1kxRU1XcXhJTzh4OGhpRkFIZGVGU1ZpRkY4RjE3WHRfRkl4NUstdWN0MnphbVdoUk9SWVpKR2dpcVgycjYwMTFPTUQzYm50MjhkU0c3Vjl0YS1aa2pnbzQ1Ul9MRnhuRjN5RDBsaWtlb2JSM3FSRmFSX0libW1wZVFYMG5RWWR2eU96OTd6QjZ5b3hsSXJ2MDdjQnZsWG5tOEw3OG04LWpISno0cFZxMzM2OG4tLWNCZExsVkxJYzQ4a25feGlpY19Td0xUUVh4RldjUDJONHo5ZEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bunge-2026-06-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global SA (NYSE:BG) Scores High Growth Momentum Setup with Strong Technicals - ChartMill",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX2drZlo3VDI4b3BhZU9ka1NyNHZ2cW5DcENqUmx0dFBEZ3AtQ3RWamJEWXE5OEQzT05MR3lDdUNtbU5DZV9weTVEek5WM05HLUtLQ1gtTTBGUEpzb3kzZ19UdzdjV3dpRzlLYlh0cWxjUFB6TFNjTUZIWmZhbzJFUjZQakF0LWFPeGxKSWpqREx2WlVoSHF0SzlSbmFGdW16a2haZGM3bmdBbHo3UnRzUXU3dnI2aTRYcENHbldZbG9aX2d5MWxKMg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "adm",
+        "count": 3
+      },
+      {
+        "id": "tyson",
+        "count": 3
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      },
+      {
+        "id": "raw_material_cost",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 94,
+    "too_old": 109,
+    "gate1_blocked": 7,
+    "gate2_blocked": 11,
+    "passed": 44,
+    "pass_rate": "25.7%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "Mondelēz International - Britannica",
+      "Walmart receipt from 2006 goes viral for its shockingly low prices: ‘I just fell to my knees’ - Yaho",
+      "Walmart Expands Offsite Media Strategy - Progressive Grocer",
+      "Walmart Expands 30-Minute-or-Less Delivery Slots Across U.S. in Customer Service Race - TipRanks",
+      "Costco Brought Back the Ready-To-Eat Appetizer Fans Call 'Perfect for Summertime!' - Allrecipes"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為好市多、ADM、泰森食品相關動態：「The Bull Case For Archer-Daniels-Midland (ADM) Could Chan...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "The Bull Case For Archer-Daniels-Midland (ADM) Could Change Following Upgrade...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "FDA warns sprout producer, pet treat manufacturer about food safety violations（食品安全、產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "原物料成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

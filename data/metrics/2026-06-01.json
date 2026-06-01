@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-01",
+  "total_events": 22,
+  "by_company": {
+    "adm": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "tyson": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "uni_president": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "costco": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": -0.03
+    },
+    "food_inflation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "raw_material_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "food_safety": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

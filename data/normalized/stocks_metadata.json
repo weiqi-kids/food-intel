@@ -1,63 +1,63 @@
 {
   "adm": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "bunge": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "ttet": {
-    "earliest": "2012-07-23",
-    "latest": "2026-05-29",
-    "count": 3377
+    "earliest": "2012-04-24",
+    "latest": "2026-06-01",
+    "count": 3441
   },
   "nestle": {
-    "earliest": "2012-07-23",
-    "latest": "2026-05-29",
-    "count": 3473
+    "earliest": "2012-04-24",
+    "latest": "2026-06-01",
+    "count": 3535
   },
   "coca_cola": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "pepsico": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "tyson": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "general_mills": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "mondelez": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "uni_president": {
-    "earliest": "2012-07-23",
-    "latest": "2026-05-29",
-    "count": 3377
+    "earliest": "2012-04-24",
+    "latest": "2026-06-01",
+    "count": 3441
   },
   "wei_chuan": {
-    "earliest": "2012-07-23",
-    "latest": "2026-05-29",
-    "count": 3377
+    "earliest": "2012-04-24",
+    "latest": "2026-06-01",
+    "count": 3441
   },
   "standard_foods": {
-    "earliest": "2012-07-23",
-    "latest": "2026-05-29",
-    "count": 3377
+    "earliest": "2012-04-24",
+    "latest": "2026-06-01",
+    "count": 3441
   },
   "kraft_heinz": {
     "earliest": "2015-07-06",
@@ -66,23 +66,23 @@
     "history_complete": true
   },
   "walmart": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "costco": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "etf_pbj": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "etf_vdc": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   }
 }

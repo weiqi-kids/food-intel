@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 94,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 7,
+  "gate2_fail": 11,
+  "passed": 44,
+  "gate2_samples": [
+    "Mondelēz International - Britannica",
+    "Walmart receipt from 2006 goes viral for its shockingly low prices: ‘I just fell to my knees’ - Yaho",
+    "Walmart Expands Offsite Media Strategy - Progressive Grocer",
+    "Walmart Expands 30-Minute-or-Less Delivery Slots Across U.S. in Customer Service Race - TipRanks",
+    "Costco Brought Back the Ready-To-Eat Appetizer Fans Call 'Perfect for Summertime!' - Allrecipes"
+  ]
+}
