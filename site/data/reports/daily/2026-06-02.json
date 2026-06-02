@@ -1,0 +1,204 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T11:58:59.619280Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-06-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "7,005,443 Shares in Archer Daniels Midland Company $ADM Acquired by Norges Bank - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUWhqUTdMYkR1MW1XMkljcktTUkdDWFVNNUFMNFZaSGhTQTRaRENBSHdkd0laTnJVa2pZRE41WURfc3JlaHRGRHdYeHR5Wk1CdENfN183X0pyeEc5VG9fTkRuWnhobTNLekRDakVjUXl2bFdaejRTdWV4bUpKM1Iwa01fcHdiNVQxaFJuQkUzQzB4Tld1bWFER3JJOVlmeVBEcWpPd1g4dktuVllEdzNoM2JuS0FjWExuQ3VMQWFtVVcwb3M1X04xdnJZTW1vRkg1aWs0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-06-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lucid (NASDAQ: LCID), Applied Digital (NASDAQ: APLD), And Bunge Global (NYSE: BG) Flagged As High-Risk Cash-Burning Stocks - foreignpolicyjournal.com",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVm44VjkyOXlwU21FdjlyZmNKTGlpaFVEVWtVVmZ2SHRpVjRiV1dEUHl1a0ZaTHZaT3RFeG9iSnJ0OUZKMFNJMmxmR1psdjFla1FvSmJtaDJTeGdKTTNfc3JNZC1ldnVsd1dKNTlYczJEMjVmU1d5anVPRlhtV2ZwNlhWZ2NtSnppWGdDa0lHd0FPa3Myem9JalNPd0dFcnlLZ0d1OTF4djFWTVlGd2xYZzFSXzJlVVk0T3BpbEJ2Rmk1MURWUjVUY2QyV3pSandxQnNTRG5BSm40UUZSRTAySjV5bVVTR05sUHQ4RzhERHhlZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-06-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Walmart blueprint: CEO John Furner’s first interview in the top job - Fast Company",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM2VFZmV3SlNDazBoZllNemYxZVhzY3JQa3VsQjR6MDByR0hUaUgtTTAzWVF6T25vVF9CbmMwWXRGMG5SeWxwd0pTR3ZsOThVMHctY3VWMHA2MFFMTkxQQzUzYWhleEsycmM2QkwyNTFLcFdGMGxraE1FTDZmeUFKdVFwcw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-06-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kansas City leaders sign letter urging Costco to maintain consumer-focused grocery access - KMBC",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa3ZETnZVX0RYd2MzSmR6MHJ3WHFweTVEUEE5Tm9iaDlLWmM2emV0TzJhSWwyNkRVekxoYThEZkcwMlNNY1k3Q1M5N0ZMNmh3cXJIUTk3MW1YaXRzVnNmUlhRV1hqNWxqTDZOczFQd1FMcV9xa0JPZ0tQWnJMR3JiV3N0c3Zpc0gtNTY0QXNwNA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-06-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco expands digital footprint - China Daily",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lNFZHc0o1MEpaOTlNUnVicU1sdlRkZ1pxSG84d0k3QnRIQ29GeUc1QlpRaW5KRGFKUk5la3gtNjltazdhS2J6TXh5RlRCbEJISF9iTDY1XzRzYnhvUzFRcDNFdjVuU0d6N2pKQ3NHVzhpUkdyV28tazZHQ1J1Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 93,
+    "too_old": 105,
+    "gate1_blocked": 9,
+    "gate2_blocked": 12,
+    "passed": 48,
+    "pass_rate": "27.6%",
+    "gate2_block_rate": "6.9%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland CLO on Resilient Leadership - WSJ",
+      "Walmart Marks Millionth Drone Drop-Off Amid Increased Delivery Focus - PYMNTS.com",
+      "Walmart targets last-minute shoppers with delivery push - thestreet.com",
+      "Walmart 30-minute delivery live in Delaware, Pa.; is it near you? - The News Journal",
+      "Walmart Marks 1 Million Drone Deliveries Amid Bigger Delivery Push - Progressive Grocer"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為好市多、ADM、Bunge相關動態：「7,005,443 Shares in Archer Daniels Midland Company $ADM A...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "7,005,443 Shares in Archer Daniels Midland Company $ADM Acquired by Norges Ba...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lucid (NASDAQ: LCID), Applied Digital (NASDAQ: APLD), And Bunge Global (NYSE:...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

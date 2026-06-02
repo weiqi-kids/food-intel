@@ -1,0 +1,16 @@
+{
+  "total_raw": 267,
+  "dup_title": 93,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 9,
+  "gate2_fail": 12,
+  "passed": 48,
+  "gate2_samples": [
+    "Archer-Daniels-Midland CLO on Resilient Leadership - WSJ",
+    "Walmart Marks Millionth Drone Drop-Off Amid Increased Delivery Focus - PYMNTS.com",
+    "Walmart targets last-minute shoppers with delivery push - thestreet.com",
+    "Walmart 30-minute delivery live in Delaware, Pa.; is it near you? - The News Journal",
+    "Walmart Marks 1 Million Drone Deliveries Amid Bigger Delivery Push - Progressive Grocer"
+  ]
+}

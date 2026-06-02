@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-01T13:28:55.510672Z",
-  "quarter": "2025-12-31, 2026-01-31, 2026-02-28",
+  "updated_at": "2026-06-02T11:58:55.909381Z",
+  "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
   "companies": [
     {
       "id": "adm",
@@ -228,17 +228,17 @@
       "name": "沃爾瑪",
       "ticker": "WMT",
       "currency": "USD",
-      "ar": 11172000000,
-      "ar_prev": 12115000000,
-      "ar_qoq": "-8%",
+      "ar": 10662000000,
+      "ar_prev": 11172000000,
+      "ar_qoq": "-5%",
       "ar_period": "QoQ",
-      "inventory": 58851000000,
-      "inv_prev": 65354000000,
-      "inv_qoq": "-10%",
+      "inventory": 62570000000,
+      "inv_prev": 58851000000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-01-31"
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "wei_chuan",
