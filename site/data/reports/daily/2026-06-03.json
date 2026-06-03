@@ -1,0 +1,229 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:31:54.348546Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-06-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Northwestern Mutual Wealth Management Co. Sells 21,517 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVkZvZ3M0YjBKSWVLWWFVZkFhNUgwNDhtMVkxRG9xd05VbWF4ckJONmlobTBrV1RaYURIbFRLQ0lRWXRhUGZSQ1VuSjFSSS1ZXy1MZXdibXpuTThhWHdSNGxSbFV2QTJvbzl1NEVQXzRRWFNuM2RzOFNMdXR2c01OYUhOWi1tbEg2Tks1S1JQUnlsdmphOGhUcXJYeVlyUWlmbU1Bd0RZdV9KazlFM3F2cFQyaTZQLVI3SlhMODNCLXhJc0xSYnNzWlpzM1ZhVDFFOG1SczhobHAzeHhJLU9VVHkyNFNOWktMZWdub0JXSQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-06-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods, Inc. $TSN Shares Sold by Savant Capital LLC - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHAzNzRraUI3VEhnRVFtd2FMNEJNTVBydHhLYmNlUEtmQnFBcjNhTkRicjNCUVVmM214NVJka1ZMbU1zQ1JlYmFpRVU4cDg3d1BFQUZqM3NJX1lJeHFKZUhYUkowdmpjYWJIZzA3THc4QmxyZXhSYWJBNzVBNmFsaVJjVi0yQVA3V2FORHhRN3I4aVhwQ3ZPdmN6eE54VHJ5N0FzVlNDd1E5ZWs0WTdOMFVHOVg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-06-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "If You'd Invested $10,000 in Costco Stock 10 Years Ago, Here's How Much You'd Have Today - The Motley Fool",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3dJRGlHZVpCajVtd1lFRlVRZTZoaGJRaWVPbUNIMXBPLW5zLXlZMG5mWk1KbUV3WFJ4ZFRjN191NkozMjR4Y0JaZnpTTDIxcGEtaVlNZndCNVhmT2dxdWlLZDdLcDRVaVZLQ1FnM0tVTk9nRW5XV29Pdl9YTm03TG9HUFJKam00X3duS3NxbllrNzRvX3V3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "USDA Cuts Dismantled a Program Helping Local Food Economies - Civil Eats",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaUNEMWtfUmNmeFZ6bm9lSGVoMGZCNW5KWGlaSXM2Y3RlX1RLVXVfVHVxU0FRUzFSX0REQ0tEZDhUWXd5aWtrMHIxLW5Nb01VOExBd1U5Ulo0SWQ5QTh6NzRKV3FLQ1BoVzdiX1d3UzIwQmpJRzJPR3o4QzFYTHhXa3RTUjEyeEczSl9IdHYwUHJiQnV1cHdwdlpYenczUjFZTmpWekNPMlQxM1FTRGY4RmJPWURDdTBlYXpheWRzVVg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mondelez-2026-06-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cocoa price drop puts Mondelez on alert - Food Business News",
+      "companies": [
+        "mondelez"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_cost",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOEpWa0ZocTM5VHh0cEdEVlVVZ1V2UTUxZkRfMHhNeEZaMmFNZjNYbFJLby10WDE4U0FyRk1Vd3hkUGR5U2FRSnljOGZIUXhSUXVyeWVpMDNLVnV2c0FOekhIdTVic0Y5M3VsVUp0WkRSQWNfWXJVd2p2MmNOZ2k4cEIxaTc2RVhlbnBGM3A3VDA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      },
+      {
+        "id": "nestle",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "raw_material_cost",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 111,
+    "too_old": 97,
+    "gate1_blocked": 5,
+    "gate2_blocked": 19,
+    "passed": 36,
+    "pass_rate": "22.9%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland CLO on Resilient Leadership - WSJ",
+      "Bunge: Correct To Be Careful In 2026 (NYSE:BG) - Seeking Alpha",
+      "Mondelēz International Appoints Ayman Fahmy as Managing Director for West Africa - hrtoday.in",
+      "Mondelēz International appoints Ayman Fahmy as West Africa Managing Director - Milling Middle East &",
+      "Walmart Marks Millionth Drone Drop-Off Amid Increased Delivery Focus - PYMNTS.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為ADM、泰森食品、好市多相關動態：「Northwestern Mutual Wealth Management Co. Sells 21,517 Sh...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Northwestern Mutual Wealth Management Co. Sells 21,517 Shares of Archer Danie...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Tyson Foods, Inc. $TSN Shares Sold by Savant Capital LLC - MarketBeat（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "原物料成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

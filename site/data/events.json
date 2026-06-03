@@ -1,5 +1,251 @@
 [
   {
+    "id": "adm-2026-06-03-001",
+    "date": "2026-06-03",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Northwestern Mutual Wealth Management Co. Sells 21,517 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVkZvZ3M0YjBKSWVLWWFVZkFhNUgwNDhtMVkxRG9xd05VbWF4ckJONmlobTBrV1RaYURIbFRLQ0lRWXRhUGZSQ1VuSjFSSS1ZXy1MZXdibXpuTThhWHdSNGxSbFV2QTJvbzl1NEVQXz",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVkZvZ3M0YjBKSWVLWWFVZkFhNUgwNDhtMVkxRG9xd05VbWF4ckJONmlobTBrV1RaYURIbFRLQ0lRWXRhUGZSQ1VuSjFSSS1ZXy1MZXdibXpuTThhWHdSNGxSbFV2QTJvbzl1NEVQXzRRWFNuM2RzOFNMdXR2c01OYUhOWi1tbEg2Tks1S1JQUnlsdmphOGhUcXJYeVlyUWlmbU1Bd0RZdV9KazlFM3F2cFQyaTZQLVI3SlhMODNCLXhJc0xSYnNzWlpzM1ZhVDFFOG1SczhobHAzeHhJLU9VVHkyNFNOWktMZWdub0JXSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-06-03-002",
+    "date": "2026-06-03",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods, Inc. $TSN Shares Sold by Savant Capital LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHAzNzRraUI3VEhnRVFtd2FMNEJNTVBydHhLYmNlUEtmQnFBcjNhTkRicjNCUVVmM214NVJka1ZMbU1zQ1JlYmFpRVU4cDg3d1BFQUZqM3NJX1lJeHFKZUhYUkowdmpjYWJIZzA3TH",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHAzNzRraUI3VEhnRVFtd2FMNEJNTVBydHhLYmNlUEtmQnFBcjNhTkRicjNCUVVmM214NVJka1ZMbU1zQ1JlYmFpRVU4cDg3d1BFQUZqM3NJX1lJeHFKZUhYUkowdmpjYWJIZzA3THc4QmxyZXhSYWJBNzVBNmFsaVJjVi0yQVA3V2FORHhRN3I4aVhwQ3ZPdmN6eE54VHJ5N0FzVlNDd1E5ZWs0WTdOMFVHOVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-06-03-003",
+    "date": "2026-06-03",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "If You'd Invested $10,000 in Costco Stock 10 Years Ago, Here's How Much You'd Have Today - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3dJRGlHZVpCajVtd1lFRlVRZTZoaGJRaWVPbUNIMXBPLW5zLXlZMG5mWk1KbUV3WFJ4ZFRjN191NkozMjR4Y0JaZnpTTDIxcGEtaVlNZndCNVhmT2dxdWlLZDdLcDRVaVZLQ1FnM0",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3dJRGlHZVpCajVtd1lFRlVRZTZoaGJRaWVPbUNIMXBPLW5zLXlZMG5mWk1KbUV3WFJ4ZFRjN191NkozMjR4Y0JaZnpTTDIxcGEtaVlNZndCNVhmT2dxdWlLZDdLcDRVaVZLQ1FnM0tVTk9nRW5XV29Pdl9YTm03TG9HUFJKam00X3duS3NxbllrNzRvX3V3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-004",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA Cuts Dismantled a Program Helping Local Food Economies - Civil Eats",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaUNEMWtfUmNmeFZ6bm9lSGVoMGZCNW5KWGlaSXM2Y3RlX1RLVXVfVHVxU0FRUzFSX0REQ0tEZDhUWXd5aWtrMHIxLW5Nb01VOExBd1U5Ulo0SWQ5QTh6NzRKV3FLQ1BoVzdiX1d3Uz",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaUNEMWtfUmNmeFZ6bm9lSGVoMGZCNW5KWGlaSXM2Y3RlX1RLVXVfVHVxU0FRUzFSX0REQ0tEZDhUWXd5aWtrMHIxLW5Nb01VOExBd1U5Ulo0SWQ5QTh6NzRKV3FLQ1BoVzdiX1d3UzIwQmpJRzJPR3o4QzFYTHhXa3RTUjEyeEczSl9IdHYwUHJiQnV1cHdwdlpYenczUjFZTmpWekNPMlQxM1FTRGY4RmJPWURDdTBlYXpheWRzVVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mondelez-2026-06-03-005",
+    "date": "2026-06-03",
+    "companies": [
+      "mondelez"
+    ],
+    "topics": [
+      "raw_material_cost",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cocoa price drop puts Mondelez on alert - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOOEpWa0ZocTM5VHh0cEdEVlVVZ1V2UTUxZkRfMHhNeEZaMmFNZjNYbFJLby10WDE4U0FyRk1Vd3hkUGR5U2FRSnljOGZIUXhSUXVyeWVpMDNLVnV2c0FOekhIdTVic0Y5M3VsVUp0Wk",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOEpWa0ZocTM5VHh0cEdEVlVVZ1V2UTUxZkRfMHhNeEZaMmFNZjNYbFJLby10WDE4U0FyRk1Vd3hkUGR5U2FRSnljOGZIUXhSUXVyeWVpMDNLVnV2c0FOekhIdTVic0Y5M3VsVUp0WkRSQWNfWXJVd2p2MmNOZ2k4cEIxaTc2RVhlbnBGM3A3VDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-006",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Americans say they want strict regulations on ultraprocessed food. Will industry and regulators deliver? - CNN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZm4yeDNEeGNCbW52LXZETDVGeURTcG5MMnFXUTlhWmhTQmRNRGpuQ3dsWTlYRm9SUUJzQXR4eGl6NjVzUnpTZmhTeWM1dmpRWllFNFlBX2ZxQ1BBUDlidUQ5bWRpRTBoX19KWXlYUX",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZm4yeDNEeGNCbW52LXZETDVGeURTcG5MMnFXUTlhWmhTQmRNRGpuQ3dsWTlYRm9SUUJzQXR4eGl6NjVzUnpTZmhTeWM1dmpRWllFNFlBX2ZxQ1BBUDlidUQ5bWRpRTBoX19KWXlYUXVHNkVyLTNINy01eVA2LWVTdg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-007",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Minnesota lawsuit saying meat processors are fixing prices settled - St. Cloud Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ2ZKdFNRMy0wejdCWjhPVS1MRlo1R2hoZVNtUWszeExJTGFvVzM1STJjcVVudEZYeU41SjVvTXR3OGJ4d2dMWDRwZEx5dkgxamVvQmZfQlMtWGhkRjNWSmNJVWFzaV9NMm10SHRncj",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ2ZKdFNRMy0wejdCWjhPVS1MRlo1R2hoZVNtUWszeExJTGFvVzM1STJjcVVudEZYeU41SjVvTXR3OGJ4d2dMWDRwZEx5dkgxamVvQmZfQlMtWGhkRjNWSmNJVWFzaV9NMm10SHRncjYtTmREcnV1ODVjMkpReFdFZllDdDRILWFsWnVGMWpNXzk0bUJPRlZlWnNsZHBrRXlEQzlHNy1MUzVELWNOLTBmU3lILVBMZ1BLUE5ETVZHQ05SZnFmX0x6REZKdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nestle-2026-06-03-008",
+    "date": "2026-06-03",
+    "companies": [
+      "nestle"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nestle has big plans for agentic AI - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbDZ0aGg5NHJYU05WTTBjazhVelBidmNHYjNQMlI4bm02ZDJRUVRsSVBoUU02UUp5V3FUT1RVN0tkVVNjUnFGX1oxSWxYNGoyLXNGMUVlRnZxT0dweGZhU0JzcWhVMGczOGJUcjc5Sn",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbDZ0aGg5NHJYU05WTTBjazhVelBidmNHYjNQMlI4bm02ZDJRUVRsSVBoUU02UUp5V3FUT1RVN0tkVVNjUnFGX1oxSWxYNGoyLXNGMUVlRnZxT0dweGZhU0JzcWhVMGczOGJUcjc5SnFxeWViMWE0Y21Hc0ZqTGllYjVVdzJSMXpHVmkw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-009",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cookies supporting focus, protein and sleep launch - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQbzR3RElPNk1FdHRjUU1ITDJGblhNbExadXBYU0ExdVQyQ2JMOUZITUx3eDc0eUlzNmFlVEJLanVmWTN4UEwtOTBfSVo0RVJ6OUFsWFRfamFvanQ0Vm1IakhzOTdPaVRCZGt0VHljMk",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbzR3RElPNk1FdHRjUU1ITDJGblhNbExadXBYU0ExdVQyQ2JMOUZITUx3eDc0eUlzNmFlVEJLanVmWTN4UEwtOTBfSVo0RVJ6OUFsWFRfamFvanQ0Vm1IakhzOTdPaVRCZGt0VHljMkUtSUNsWjBMQ1U0ekZTZkpuRXpUaHlPOGdFbjZjUC1ndnQzZTNOUzRYcThUWlphUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-010",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Publisher's Platform: Where did the Boar’s Head investigations go? Hello DOJ and USDA Inspector General?",
+    "summary": "-- OPINION --",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/06/publishers-platform-where-did-the-boars-head-investigations-go-hello-doj-and-usda-inspector-general/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-011",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Paraguay investigates source of botulism cases",
+    "summary": "<p>Officials in Paraguay have reported four confirmed cases of foodborne botulism.</p><p>The General Directorate of Health Surveillance (DGVS), part of the Ministry of Public Health and Social Welfare",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/06/paraguay-investigates-source-of-botulism-cases/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-012",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "New law in Oklahoma increases sales of unpasteurized, raw milk",
+    "summary": "<p>Oklahoma dairies can now sell more than 10 times the amount of raw, unpasteurized milk directly to consumers.</p><p>Gov. Kevin Stitt signed <a href=\"https://www.oklegislature.gov/BillInfo.aspx?Bill",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/06/new-law-in-oklahoma-increases-sales-of-unpasteurized-raw-milk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-013",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Food poisoning remains top food safety concern in Australia",
+    "summary": "<p>Food poisoning has once again been ranked as the most important food safety issue in a survey by Food Standards Australia New Zealand (FSANZ).</p><p>The Consumer Insights Tracker was conducted in O",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/06/food-poisoning-remains-top-food-safety-concern-in-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-06-02-001",
     "date": "2026-06-02",
     "companies": [
@@ -200,6 +446,363 @@
       {
         "name": "food_safety_news",
         "url": "https://www.foodsafetynews.com/2026/06/estimates-reveal-main-sources-of-various-diseases/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-02-012",
+    "date": "2026-06-02",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Archer-Daniels-Midland (ADM) Is Up 6.6% After Earnings Upgrades And Nutrition Rebound And What's Next - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ1ozLVVkUFplUEVXbHJfbzctM0MtVDJJX040LWRnX1FWQmNIZ0RKUDd3M3pnMTVTcWtZNzliR1NOdEtJcHh5V3BRaGhRQ01MOFkxX2VxRjU4LUtyU1B1a0tXMGtzSExnTmx4WVhveG",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ1ozLVVkUFplUEVXbHJfbzctM0MtVDJJX040LWRnX1FWQmNIZ0RKUDd3M3pnMTVTcWtZNzliR1NOdEtJcHh5V3BRaGhRQ01MOFkxX2VxRjU4LUtyU1B1a0tXMGtzSExnTmx4WVhveGR4YTY0WDdNbGtwaEV4d0psYlpRM1h1Z0FTVXRuMEs1WklpRGNWVEdNQVZJdGhSUC1RSDlwMnU5UUFFU3pmbkFjOGpTSmVKX0ZKdlRYUF9OSHVKV0VhUHBmM1BPYnRoUU01NW54elhjWWxFTUYzc0VwWExub0JXZ9IB6wFBVV95cUxOS2tKZnJoMEx5dEZ0WFNlZm5tVFlJUVRSc0xXSE5yT2RJTjFMbmxKYlJLaGxqanlnUUNEMTM4dHJKNU0yNUUyZ1J1MFdtVGVCejdBVDFlazY5S2FmeUNFMzF4anQ3dURSWEZhOS12Q0NRalQ1b1BYQVpTU005T3J6UTdtUEY2Y0ZGX2JuR1lPVllIcThUNnB2cTV1eGFEcHJMLTM5Tk1CT2lYOUp6NV85RENPcmE2OUhhenVZWV9xTlVieTFzdnBYT1pHaXA0UUNMSllDcHUtbmJJd3VOUG5TMUxjZ25NTnJEbkpJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-06-02-013",
+    "date": "2026-06-02",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A Look at Bunge Global SA (BG) After 5.4% Gain -- GF Value $108. - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSk1sbTZqNGR4QzFHREs3bHRqQlk1cjVkZHU2YnhkYzM3N2JWSjc4aDJFSkNnSldtMXFtWGEyMlRmMjJIZWkwSS1PUm5ONElkU3E1TU9SdlZJUHRQeERWOWtTRS1uNTRCT2U0dS05SH",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSk1sbTZqNGR4QzFHREs3bHRqQlk1cjVkZHU2YnhkYzM3N2JWSjc4aDJFSkNnSldtMXFtWGEyMlRmMjJIZWkwSS1PUm5ONElkU3E1TU9SdlZJUHRQeERWOWtTRS1uNTRCT2U0dS05SHlDNldVa1lXR05IQmRSRTVXalhLUml4dlJrTDVmR0JEQXgtLVB6RXRXY2xlM253QlBnaU0xTjVwUmMzMTRlR2dBbE9Ba3o3LV9FQ3poeTdGTEY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-06-02-014",
+    "date": "2026-06-02",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods Announces Jeff Schomburger to Succeed Donnie King as President and CEO; John H. Tyson Comments - Deli Market News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQdEZtUE41SVV6Qm1HYW82VTJTYlpONWNiOFB6SndIU0Fpem0waHBYdURUaktZRGhMNHd5QkUwRDdscWo5a2FGMzd6R19uZkNFUU5TLTRpSXZNLTQzSTNraWVGRWpOaEVXNGpSVnRHVj",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdEZtUE41SVV6Qm1HYW82VTJTYlpONWNiOFB6SndIU0Fpem0waHBYdURUaktZRGhMNHd5QkUwRDdscWo5a2FGMzd6R19uZkNFUU5TLTRpSXZNLTQzSTNraWVGRWpOaEVXNGpSVnRHVjRjbEk4SFAwU1ZqMWNwcUNxZFAyS2NYNEhtejE4WVpiTUNRbV9nTldnbEJMT2w3T09MWWRydkJnQ1FmVk1oVkhibGNKSm1fN3Ztb1BpdUY0OHZtb2Z0YUNpR1M1RkxrdkRmU05sLWl3SDRjM3lNeThUTlE4M1hVc19aaXVPMDIySVZjVjFZM3VCclFCaFB1d1BQQW1ZSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-06-02-015",
+    "date": "2026-06-02",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Precision Trading with Tyson Foods Inc. (TSN) Risk Zones - Stock Traders Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQW1KR2x6dWdHS2podFhsU2tlcDFPZUVfNnBpeHZDaFYycWRKcWN3TlhBSENpcFlhRlVwQmQ5TEVQNWdZOEg5T1JEVG50UzlIZnp4MzhONWU3WE5RTElGanVwTjQyRVFQU0ZaWkRSd2",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQW1KR2x6dWdHS2podFhsU2tlcDFPZUVfNnBpeHZDaFYycWRKcWN3TlhBSENpcFlhRlVwQmQ5TEVQNWdZOEg5T1JEVG50UzlIZnp4MzhONWU3WE5RTElGanVwTjQyRVFQU0ZaWkRSd2E1SWxPcndIV3Eza09IOXNIcml1cWFqZkMyeHNvMkNUMjE0SmdKd1h1ZGo0SWwwLXB2WE9lcktYNHNGQmFEUy00b1kxUlA0bjFpZGJuRTVCcEh1eHNXeWpOQk1YQUQ2OGNt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "wei_chuan-2026-06-02-016",
+    "date": "2026-06-02",
+    "companies": [
+      "wei_chuan"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wei Chuan Foods Corporation Announces Cash Dividend, Payable on October 6, 2021 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAJBVV95cUxPUVFHd0Z3MW5wRzktN1ExeldlQ1VLeXp2WHdzeUxaRFlIRVA4REVmamRIWDQ5WElOVkozcTh3dU9aMHFyd0JTR3AyTzZ1SXNvVFIyaVMtaVJ3VkIyRlBEVUFpRkFfcTY3cFhmbU1tak",
+    "sources": [
+      {
+        "name": "wei_chuan",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPUVFHd0Z3MW5wRzktN1ExeldlQ1VLeXp2WHdzeUxaRFlIRVA4REVmamRIWDQ5WElOVkozcTh3dU9aMHFyd0JTR3AyTzZ1SXNvVFIyaVMtaVJ3VkIyRlBEVUFpRkFfcTY3cFhmbU1takd0cnQ1Sl9IbXNGRzY3Rk9JeXhBeEdDaDk4THQycmprWjJkbmYwOUNvQm9VWEZKVU9OODlHN01kUkVMenVxQ2RjcWo5Vm1lZkdjWTJlV1hDSnRBb2o0WU1RWDg5WDgtWWktemVKblpIeUpkSy1mUkJuVFgwX3hzZDNaYXBWNDhLYmlZaFJMZzVxMnBsMHpPSXRza1QwaWRzUWJ6RnpRQ3k1ckZ3eWhyUGlCX0V0X2dFLV9xSElHVXU0dGxXb19ycmNjYlYtX3FvdmNUVk9IQWJ3UExZUFA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-06-02-017",
+    "date": "2026-06-02",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "These Are The Farm-Animal Treatment Standards That Walmart And Sam's Club Demand From Suppliers - Tasting Table",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPME1aUDNReVd1NXpSNUFmeGdSVndRRU1pa3BwWERMS2F3Tzd0NFl4dE9ROFczZEZVRFJwdXQ0YXhiOXJiVnNGalRBSDMtcXR2RUI2bU4zbVNFTkVzVlFuSm5FWTM5blo5YkdnclcxTH",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPME1aUDNReVd1NXpSNUFmeGdSVndRRU1pa3BwWERMS2F3Tzd0NFl4dE9ROFczZEZVRFJwdXQ0YXhiOXJiVnNGalRBSDMtcXR2RUI2bU4zbVNFTkVzVlFuSm5FWTM5blo5YkdnclcxTHgxckhWb2xPR2puM3ZuMHlzUnFaMVJjak0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-06-02-018",
+    "date": "2026-06-02",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Costco Issues Recall on Popular Sausage Following Product Mixup - Allrecipes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVVtT2p6SUhBNVhyLXBTRE02cWZzamhmS0xUNTBrSC1KWWxadzE2Y1h0QzBQRXZ4TjdWRHFyeG9iOUlEaTRIUml2NFhLbzVqTXpBcDUwZk1CaEprcFMtM0NqTU85R0lrNkRleDRGSX",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVVtT2p6SUhBNVhyLXBTRE02cWZzamhmS0xUNTBrSC1KWWxadzE2Y1h0QzBQRXZ4TjdWRHFyeG9iOUlEaTRIUml2NFhLbzVqTXpBcDUwZk1CaEprcFMtM0NqTU85R0lrNkRleDRGSXRzRzZTY3JzUXJTT2F3ckp5X0RQRnBDRS1DcWtVdVJHQ1EwQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-06-02-019",
+    "date": "2026-06-02",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco Is Selling a Retro Boom Box, and It’s So ’80s Coded - Apartment Therapy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBCTmlQZ1lkRVVxd0YtYXpoTWwwUmFldE1aMUVwWG1wSmlCak9wdlB6cU42RU9KS21JTGlGclhvUkFJVl9Vd0pPQ2p5bXZtZVpzdlV5aUtZaTRobzZTeFUzbWNkVkNLTExnbHlnT2c5WT",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCTmlQZ1lkRVVxd0YtYXpoTWwwUmFldE1aMUVwWG1wSmlCak9wdlB6cU42RU9KS21JTGlGclhvUkFJVl9Vd0pPQ2p5bXZtZVpzdlV5aUtZaTRobzZTeFUzbWNkVkNLTExnbHlnT2c5WTZvMWxxZkpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-06-02-020",
+    "date": "2026-06-02",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "11 Best Costco Drinks To Keep On Hand All Summer Long - Southern Living",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPajVXeFI4d1EzTVN0OEZaQndOdldjZU5ySTN3WTRocFQ0TFM2YzZwM05Nbk0xSnhKRlI0QjEwM0ppMUNFUXBMZGJkYTMxY0F3ckl2eFNISGExY05QU1Z6TVMtU0xfdUFkTWs0RXg4aF",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPajVXeFI4d1EzTVN0OEZaQndOdldjZU5ySTN3WTRocFQ0TFM2YzZwM05Nbk0xSnhKRlI0QjEwM0ppMUNFUXBMZGJkYTMxY0F3ckl2eFNISGExY05QU1Z6TVMtU0xfdUFkTWs0RXg4aFdVSTlyMzNMdm95UnBaYVZtdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-021",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Brown-Forman puts Slane Irish Whiskey distillery production on ice",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/7sCZumJITN744NrHoAyOwnSZa-p0t8Gt1nrweVfmtyU/g:nowe:0:154/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0x",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/brown-forman-pauses-slane-irish-whiskey-distillery/821710/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-022",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "health_wellness",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The new rules: How functional foods are redefining CPG brand leadership",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/k_ynGE6irKb5Q2-cL7yrE6I2k8fq5N0jGftcJCiY1g0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NzUzMDY2MzMuanBn.web",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/food-reformulation-better-for-you-opinion/821166/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-023",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Peter Rahal’s Next Food Industry Disruption - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPczZYMDlUejNBaXBVSk43RnIwaUNvQjhyQjN2cTlzRXlnVVBrR1dGVmhIdlc3dFYxMzhVNkd4N2ZPSk9XMGVBdjYyMU0xQXNIN0NOUkgzWERSWTZZT0ZILV9rNW5Qc3ZId1dVOHJWSG",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPczZYMDlUejNBaXBVSk43RnIwaUNvQjhyQjN2cTlzRXlnVVBrR1dGVmhIdlc3dFYxMzhVNkd4N2ZPSk9XMGVBdjYyMU0xQXNIN0NOUkgzWERSWTZZT0ZILV9rNW5Qc3ZId1dVOHJWSGtOOEdBVkNNUGFHMFVUUExXVWVnRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-024",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Food Manufacturers Are Adopting AI Fast. Few Have Made It Pay Off at Scale. - Food Industry Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9HNEdteU1nWHhIcVphMzNxdXR6eUwyUkZkODZaWlZaQnRGOGZrc3E1dlUtY09rLVVGaE1sUFdrN0VMODMxZmY2bzZjYURwbHM3R0w3cERjWlFSSjloY1NGZFdGVnpFZGtqTmdUdXU5bG",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HNEdteU1nWHhIcVphMzNxdXR6eUwyUkZkODZaWlZaQnRGOGZrc3E1dlUtY09rLVVGaE1sUFdrN0VMODMxZmY2bzZjYURwbHM3R0w3cERjWlFSSjloY1NGZFdGVnpFZGtqTmdUdXU5bG5Hd0dqMVlV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-025",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Report: Pet food antioxidants market projected at $508.7 million - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGpVTnh0bkxLVVlhNjlVTHpJak1scHpsN3FsX3Nod1dPUUdsNENTejFFbzhRVGJQQ0FETDhsSTNwRmJLMlBkdjlxaWh6M3dvU0VpT1F2V3VtQm15TDQxei1sTUJ1MTFhbEtaZWF6bk",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGpVTnh0bkxLVVlhNjlVTHpJak1scHpsN3FsX3Nod1dPUUdsNENTejFFbzhRVGJQQ0FETDhsSTNwRmJLMlBkdjlxaWh6M3dvU0VpT1F2V3VtQm15TDQxei1sTUJ1MTFhbEtaZWF6bkJUQkU0Q1JCQVJRNW1xaHpfbTVlNmNUaEs2Z3Vsakk3R1poSmxLMUFPT1I3RWd1QzNrUzRQbUwzTHdFLXo0X0ZIaHAyQThIYzNXMzItZ29fRmw4eTdkMUNEcW9CS3ptbEFETGlpRlNJbTVEcGNacUlNdFNOWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-026",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "As restaurants struggle with costs, a major food supplier deal raises new fears - The Washington Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzctNmVPeTFWczJNVVZISkllTnF3ZWstWDdRQUwybXhSanZzaDVWNVlNTlFvUlRjdWpUVF9QRVlMcWRhbUZ4ZlRqSm41WUQ4Q3FsaXlyenY5QXliNkhPdmtlSy1MV05TTUh4LWlxUV",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzctNmVPeTFWczJNVVZISkllTnF3ZWstWDdRQUwybXhSanZzaDVWNVlNTlFvUlRjdWpUVF9QRVlMcWRhbUZ4ZlRqSm41WUQ4Q3FsaXlyenY5QXliNkhPdmtlSy1MV05TTUh4LWlxUV9DUXF6NlJxdzhIVUMwUU5sWUxXVXZSdU5fVmdCQU5GN0tjcC0xalpvRDRwdHBuYUxNNzdqbzlEWGtWcjN2OUtXd2ZJMDc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mondelez-2026-06-02-027",
+    "date": "2026-06-02",
+    "companies": [
+      "mondelez"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mondelez eyeing elusive growth opportunities for 2026 - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSHJoY2tVb0dRQURJa3FUX0Z4cnZvcDhtTGJVMkZCdFlFT3FVV2pZekdtY3c2MDJuMHRibEhPUW5XX0RjczRsT0xiQjFtZFh3WGNMZHJOR0kyVl9BbkdvNjdVbmx0NGdoZFA1X2FuZm",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSHJoY2tVb0dRQURJa3FUX0Z4cnZvcDhtTGJVMkZCdFlFT3FVV2pZekdtY3c2MDJuMHRibEhPUW5XX0RjczRsT0xiQjFtZFh3WGNMZHJOR0kyVl9BbkdvNjdVbmx0NGdoZFA1X2FuZm9ZZHlETEd5S252a1dMWC1temx3ck5zcXNGT3lvNVM1M3Y3aTdBYXJsQXpMN2JZbWtRVXlJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-028",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From Lean to Digital Lean: An Evolution of Lean in Food & Beverage - Food Industry Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaVBYRHliT0tfZEdKUkpwUzJEVFVtRll1QWZVYTJDRG1RVGxEUDFqYUF4bnhKS055WjRWay1oU3ctMGUwUkttb3IzaGxhZl8tMVdFQUFRcEFhdzQ3NzJ1UlpscFNobnhWeUQ5NGxqZX",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaVBYRHliT0tfZEdKUkpwUzJEVFVtRll1QWZVYTJDRG1RVGxEUDFqYUF4bnhKS055WjRWay1oU3ctMGUwUkttb3IzaGxhZl8tMVdFQUFRcEFhdzQ3NzJ1UlpscFNobnhWeUQ5NGxqZXp6R3Q5X2xNMGdXYVhwMUZ6elBGOFJvTHloR0Rz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-029",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What’s next for SunOpta? - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE54dUxPWEI2OWxPLS1iMW1BUVVjTlJ6OTRZUjJnMVVDMkVNNnNKQU9Wd1l5QkFQNG5tWkxpT1h5WDRzNzdOREttMTFXMkowTlozVGNUSklKeDNSWEotNFJELXVUUDU1eTdHb3d1MDV5SX",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54dUxPWEI2OWxPLS1iMW1BUVVjTlJ6OTRZUjJnMVVDMkVNNnNKQU9Wd1l5QkFQNG5tWkxpT1h5WDRzNzdOREttMTFXMkowTlozVGNUSklKeDNSWEotNFJELXVUUDU1eTdHb3d1MDV5SXFKVWctSFEwYkJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-030",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Protein, GLP-1 trends reshaping dairy category outlook - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVUyT25XdkhWUFp4amRMc1Y1dFNNR0VKTFlqSUpTMmx0XzBLUkwxN0VFaldnY2cyVDR4Tkc0b3ZwX1RYOUxaVHcxcXBLMlJaam5nQWMyNGZJN3A1OV9JN1BIR2VoNTlSM01FZzhoUW",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVUyT25XdkhWUFp4amRMc1Y1dFNNR0VKTFlqSUpTMmx0XzBLUkwxN0VFaldnY2cyVDR4Tkc0b3ZwX1RYOUxaVHcxcXBLMlJaam5nQWMyNGZJN3A1OV9JN1BIR2VoNTlSM01FZzhoUWplRHJwM1NLQjFPcVNHZWxPa3NPNGM5WjRtSndnN3BXQl9KSkVfSzcxTnRnRWQ1ZXhhaWJN?oc=5",
         "type": "rss"
       }
     ]
@@ -1215,6 +1818,46 @@
     ]
   },
   {
+    "id": "adm-2026-06-01-054",
+    "date": "2026-06-01",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Zacks Analyst Blog Highlights Archer-Daniels-Midland, Casey's General Stores, Nucor, Ross Stores and Imperial Oil - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWFDanJ1Ymx6VV9PX2lWMTNmbmdtZGlFUGNNcjB4T1BCRDJOMHlZMnExV2ZRMXVWam1wc1RsT1BGMmVHbkhjUTRiUTZLSzFLY2p4MGlmWkYybzZrWWVnN3FJZkFhQmJvdU1wUTFwUV",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWFDanJ1Ymx6VV9PX2lWMTNmbmdtZGlFUGNNcjB4T1BCRDJOMHlZMnExV2ZRMXVWam1wc1RsT1BGMmVHbkhjUTRiUTZLSzFLY2p4MGlmWkYybzZrWWVnN3FJZkFhQmJvdU1wUTFwUVRKRnBMUTIxdVFYRWhubWF5UHFLSWczaFAwUEFWbUJEMUxxVmlvTjVXdi1EejFRRFJkNVNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-06-01-055",
+    "date": "2026-06-01",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart: Store-fulfilled deliveries getting faster - Retail Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNU2prMXNKWWJCNjR6b2pucXdBRnFRbXBMV1BxUnEyT1p0R0pJVkVuM3hpa0lYOHVvbzJsOWlCY2h2M1o0UFlTT2xIWElJZGF5MWNiNzloeEdLTjlsQTZWa1RPdkFUR2J3djVPdTRLY3",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU2prMXNKWWJCNjR6b2pucXdBRnFRbXBMV1BxUnEyT1p0R0pJVkVuM3hpa0lYOHVvbzJsOWlCY2h2M1o0UFlTT2xIWElJZGF5MWNiNzloeEdLTjlsQTZWa1RPdkFUR2J3djVPdTRLY3cwRlBMeHctZkQzSHV5alNfX0VjWEVHOE9vSGZXdnA0WGxFQjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-05-31-001",
     "date": "2026-05-31",
     "companies": [
@@ -1794,6 +2437,26 @@
       {
         "name": "costco",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLTBBRUgzWFNOS0Vkd1dyOXdZbmtwYnctVTBfNDJ0THVEd2hkMkU0QmpDZ0h2UFRpTDFueklQRmZwR0ZYVUpZUnZHOU5aLXotb1JzQ0IzTWNaVjN1Y3NhVVl6TVotejlxUGh1ZTVvNUhjdFBoSzBkRlZTcEx4WjRSQXAzU1lNa05lMHR3Q0hUUllGbUI0ZEdqczF5b9IBoAFBVV95cUxQYUZEdXk1TWhidmRYSkpqVG1rOWRuZm9ydmlHQVVWRzZDT2hwMTZkUTJZOVZSVnFfTlJSR2F3RmwyUkJWNHRicGhVck9PaGNvUWlWSVZqMXVudmtCRHpVSk5yT040bGVJd3hRNXN0bXc5Ulo4SlBIWk56SXpERFl4VnY3VEdZZVZyeDVuZ3JIcTFhdzdMUF90NDJiOER2WGky?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-05-30-012",
+    "date": "2026-05-30",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods Inc. (TSN): One of the Top Lab-Grown Meat Stocks to Invest In - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWJjNlZiOTlxLU1OdVg1aVFSRWdVdzNhQlVoTjVtR1prenRCdFk2Y2FWSlRhMnoxNmdzdzVoa2hmdE9udzcyUTRPb0FNQXZodDNVMTdIRUV2alhGM3NwUzJUNDgwSDQ5TzFhVXVZUF",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWJjNlZiOTlxLU1OdVg1aVFSRWdVdzNhQlVoTjVtR1prenRCdFk2Y2FWSlRhMnoxNmdzdzVoa2hmdE9udzcyUTRPb0FNQXZodDNVMTdIRUV2alhGM3NwUzJUNDgwSDQ5TzFhVXVZUFl4aExUc0hTSVNBWE1XdjlYc3NCMDhfSDVORWQ1QVp0RVNYdw?oc=5",
         "type": "rss"
       }
     ]
@@ -4156,6 +4819,26 @@
       {
         "name": "tyson",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOW5uX0hNbmozZVJfSzFTS2QycmJrTmNuTWp2YXZneV8tbUZVTmJDSTRoQmJ0QzFib0cyNnNvbzR2YW5PM0VJS2VkQ0lzdXBPQU5OWldKRm01cUs0TnhYTkdZR2w4MkVraE9EUHdQbzVNbmQwc3VuNEszcmhjMnZ6dTVLUTlPaW0ycU9OWG5ycVNQblB2QW9yaXpmMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-05-28-070",
+    "date": "2026-05-28",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods hands CEO role to director - Global Food Industry News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5vOWh0aUpsbWtMMEtkT3hjbzlrX0RQVGVoV24xQ042RzZTdGNZQXpEQTN2dV82Vm43amVUTE1YUWFveWtrUG41MDJrOGxvNm9JQVZ6NzhXc0hpamJDbVpzbXptekxndzhiREdLSkxpZG",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vOWh0aUpsbWtMMEtkT3hjbzlrX0RQVGVoV24xQ042RzZTdGNZQXpEQTN2dV82Vm43amVUTE1YUWFveWtrUG41MDJrOGxvNm9JQVZ6NzhXc0hpamJDbVpzbXptekxndzhiREdLSkxpZGY2LXRZQ0FUd3RB?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 5,
+  "gate2_fail": 19,
+  "passed": 36,
+  "gate2_samples": [
+    "Archer-Daniels-Midland CLO on Resilient Leadership - WSJ",
+    "Bunge: Correct To Be Careful In 2026 (NYSE:BG) - Seeking Alpha",
+    "Mondelēz International Appoints Ayman Fahmy as Managing Director for West Africa - hrtoday.in",
+    "Mondelēz International appoints Ayman Fahmy as West Africa Managing Director - Milling Middle East &",
+    "Walmart Marks Millionth Drone Drop-Off Amid Increased Delivery Focus - PYMNTS.com"
+  ]
+}
