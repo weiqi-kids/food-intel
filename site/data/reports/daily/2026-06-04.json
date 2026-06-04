@@ -1,0 +1,241 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T10:55:56.883607Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "costco-2026-06-04-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What Costco Wholesale (COST)'s Gasoline-Fueled Q3 Earnings Beat Means For Shareholders - Yahoo Finance",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOempGcm1jazE4WmgyQUNWMFlDSV9RWThPQnd5Z2ZfXzlySDl4NTc0Sk8ycXdzNjRneGQ1aFc0MGNXY3NTTkhUVXI3Zk9YV0h1eFkyTS1fa0x3U3BNdmJDemNucHBvWEQ2RUdkSmh4b0I0QmliY0otSk8wSUR1bmVZU2tvV0pjNkwtc0E3UGhaWk54MGt2Tk5EbG0xVTNMdm9mcUVPSw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mondelez-2026-06-04-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Mondelēz International R&D VP Ian Noble: Food must innovate or decline - FoodNavigator.com",
+      "companies": [
+        "mondelez"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYnlhbWd1Y09iZ2hqR3FxS29udl9aSW1KbHZ3eVJCNlNYWTR3VEJlbjA3UzhrWXYtX0xsZ2stcWJRQkxQSHlnOVBZQXJrSnBxLXVvNjl3Q2xsSUpMWmZBSWIxOVN5dUhaM0FwcE04TGNlSFlXX005SFNiaEY1WkJGb24wcWJKRHdPT0ZsUFlkQnlQZHhpV0xBdkVvQzZzcE5wUDFSd3RHN1FTN2xkU053SUU0M0dvM0t4aFYyZWFNZWlFUkwwYTNTX0FqNFA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-04-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Low meat thermometer use prompts barbecue warning",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/low-meat-thermometer-use-prompts-barbecue-warning/"
+    },
+    {
+      "rank": 4,
+      "event_id": "bunge-2026-06-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global Cash Strain Raises Dilution Risks Despite Valuation Upside - Yahoo Finance",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUU5UN0pfUnlaNldKRkNRbHpIdUtVMFdJcV9jczc3bGFnczVvTWtKLUdmSGstNjlHSW95Um9VZm9OSlMzbVBDYVZBdjNjNmNQeDFLLWdOZmhFZGxRV3ptZFJOX0ZTMDJKaGZXbV9kS25hQnFzZjgwV3k4OUZGRWhaRmRXS3ZyNmZpeVRRMURTVmJXTHFkMU5ramRPYjY?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-06-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods Stock 5-Day Losing Spree: Stock Falls -13% - Trefis",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkJhRVVSUmdLaTl4U1VXdDJ5UEl2OGVXd01qRXdqcnJCQ29wal9QZ0ZZTXVKSW9VUUpfMGZhc0hOUWR2amVmQnhWOTJNWnI3MFQtaFZtMlJEMlBiRGNPaU5FYUthUEJXQ1p4amMtWmlscVMzX3pjTzhHaURrZHI1Y0IzM001X194M3BSaW9uOFc0YXljR0doVWJYV05QZkVzZ3ow?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 83,
+    "too_old": 90,
+    "gate1_blocked": 9,
+    "gate2_blocked": 19,
+    "passed": 66,
+    "pass_rate": "35.9%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland CLO on Resilient Leadership - WSJ",
+      "Mondelēz International - Britannica",
+      "Mondelēz International Appoints Ayman Fahmy as Managing Director for West Africa - hrtoday.in",
+      "Walmart makes a move to challenge Lowe’s and Home Depot - thestreet.com",
+      "Walmart Looks Offline for AI Shopping Data Advantage - The Information"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為好市多、Bunge、泰森食品相關動態：「What Costco Wholesale (COST)'s Gasoline-Fueled Q3 Earning...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "What Costco Wholesale (COST)'s Gasoline-Fueled Q3 Earnings Beat Means For Sha...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Mondelēz International R&D VP Ian Noble: Food must innovate or decline - Food...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

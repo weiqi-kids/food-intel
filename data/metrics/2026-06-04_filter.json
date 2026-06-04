@@ -1,0 +1,16 @@
+{
+  "total_raw": 267,
+  "dup_title": 83,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 9,
+  "gate2_fail": 19,
+  "passed": 66,
+  "gate2_samples": [
+    "Archer-Daniels-Midland CLO on Resilient Leadership - WSJ",
+    "Mondelēz International - Britannica",
+    "Mondelēz International Appoints Ayman Fahmy as Managing Director for West Africa - hrtoday.in",
+    "Walmart makes a move to challenge Lowe’s and Home Depot - thestreet.com",
+    "Walmart Looks Offline for AI Shopping Data Advantage - The Information"
+  ]
+}
