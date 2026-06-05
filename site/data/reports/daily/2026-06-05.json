@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:19:50.953071Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-06-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Tyson Foods (TSN) One of the 10 Oversold Dividend Growth Stocks to Buy? - Yahoo Finance",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdXNJX0RVUF82d0NveWN2Vm1sSWp2YkNyMURhY01Vd3RuSDdCSjVmMGFBOVpYc3JpQWZ1QkR3MGpIenRvQXBodEdaWmNfRktWMFBPUTZLbjJiRDYwNGZvOEhsRkxJbDZlZUFEWHpTRDM5TTBwZ0FXSkE5RXlDTFdGRmE2TC1TdDNTT1gydEdIZVg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-06-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods Summer Grill Push Tests Branded Growth And Valuation Gap - simplywall.st",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS3Rlb0J2MGs2bjFBRDlEUW1zMjl5MDQ5QzFSekdUM1pCdUtLZGxRclNrb3dUaGxtQ0tVd2R5UFE3UnRPdGdUZ3lWU0c2OEc5bVJwZGVudVZsZ3RBYm4zY05oYU5OZWdON1M5SGVRa2M5bG8xYkEtNDNQLUZFYWpiQ0Ywd2pBUjVPbmNVMlFkeXR6SDdxcVAyYXowaFY3T2dwNUZaZHZvaThzN0NpZFROQmpzSTNYSzE3SVJBSERGdElYbWdNLVlGV3QyLWVKMjJjeFNsTDY3Y9IB3AFBVV95cUxQa2hZVkcxT0hGRnNBZDdOcFljYURuYnhtelZBX3l6V25sQUJXMy13ZGZ2VlBpUnNnYjI4ZGpWYi15NTAzdVFiSi1NUy1PbDhSQ0VTN3hSS0o3N01qMVhuR0VEbi1uZ3drX00tY0czUXp6T2ZIVG5MZ1hFZE9WaUxrbEVPY0NzajdCSGxxLXAwNy1QcGlualV6eUE1b0lzYnFBSTZuSmhLeHRUY0IzS084SzIydGZQcWxxTXhNbWdNcmtlZEphZnRrZkU3WWJCNm1PUENuMHBQdmhlV0lJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mondelez-2026-06-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Andrew Johnson exit Mondelēz International for Director Logistics Transformation role at Sainsbury’s - Retail Technology Innovation Hub",
+      "companies": [
+        "mondelez"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONEl4eTRzbE1zZWFlc1Z3bVNoMV9TbU12SnRSa1Q1N3JrMmV0bmQ3Qnctc0dPZXIxZVhRcDV0TnJzaWNKdlJHSnBOcTFVMWtOQkdLbWZEQ0NFZ1hEcEtGOGx0Qk1yRFJWZTc2RHJwRXY1Q0J0cElST2lSOEVuVWpfWXFhWGpsUWZIS0hPUndRTUVGM0lVZG5XUVlpZ3RWaHZlcWNMZjRrbjFYXzhLTlJPQXhobS1FMkdrejl5UVZKb0E1QThKSWl1LXJLS2ZIdE1yMW5DaWllUXBfWWY1a2p2Slo1d1I?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-06-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart warns higher prices may be on the way - AOL.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON3hrRTRzTnFHQWN6NWh6cU4zNjlZRjkwbjdyM0JvSGpqXzBWLVVkd282U2w4Zk9CQXEwWFpUWnotdjNkNWZLeUVPRm53Z2lRMS1IcG9Fc2YwQ0tZVm8tNkZJTERvdS1rTGkyTXR4eWt0ZGJXVFpWZ1ZDOVhzemZCeg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-06-05-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco Wholesale Corporation $COST Shares Purchased by Prudential PLC - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZlF3ZnBnZW1DNEVMX2lXeGtfX01ob1hSbUVONmxfQU1NQWJuZkJ4RS1lTnBTWS1lYk5Sb0ZBTm56a1lmempkeDhScW85RVZtcDh2bGhDVDI1bDFFSFdrd0FUVGV6dlhENXlDRHpRUGxUV2FoODN0WjRCUDczanQwNWRlRnN5U25OV0MtQ0I1eVVMVE96S2pfVV9aajdMTVgxd0NCQlBRcWlyWDRyX0dTSnJfTHp2ZnMzWnhGdXhzVzZ2Q3BWYUJfQg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 6
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 99,
+    "too_old": 92,
+    "gate1_blocked": 8,
+    "gate2_blocked": 11,
+    "passed": 58,
+    "pass_rate": "34.3%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland CLO on Resilient Leadership - WSJ",
+      "Mondelēz International Appoints Ayman Fahmy as Managing Director for West Africa - hrtoday.in",
+      "Man accidentally shoots himself in groin while shopping at Florida Walmart: SCSO - FOX 13 Tampa Bay",
+      "Walmart Looks Offline for AI Shopping Data Advantage - The Information",
+      "Agencies Race to Snap Up Amazon and Walmart Specialists - ADWEEK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為好市多、泰森食品、億滋相關動態：「Is Tyson Foods (TSN) One of the 10 Oversold Dividend Grow...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Is Tyson Foods (TSN) One of the 10 Oversold Dividend Growth Stocks to Buy? - ...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Tyson Foods Summer Grill Push Tests Branded Growth And Valuation Gap - simply...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

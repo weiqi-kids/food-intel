@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 8,
+  "gate2_fail": 11,
+  "passed": 58,
+  "gate2_samples": [
+    "Archer-Daniels-Midland CLO on Resilient Leadership - WSJ",
+    "Mondelēz International Appoints Ayman Fahmy as Managing Director for West Africa - hrtoday.in",
+    "Man accidentally shoots himself in groin while shopping at Florida Walmart: SCSO - FOX 13 Tampa Bay",
+    "Walmart Looks Offline for AI Shopping Data Advantage - The Information",
+    "Agencies Race to Snap Up Amazon and Walmart Specialists - ADWEEK"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-05",
+  "total_events": 20,
+  "by_company": {
+    "tyson": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "mondelez": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "walmart": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "costco": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": 0.08
+    },
+    "food_safety": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
