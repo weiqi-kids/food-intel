@@ -1,0 +1,221 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T09:55:15.239387Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-06-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Look At Tyson Foods (TSN) Valuation After Earnings Beat And Goldman Sachs Conviction List Addition - Yahoo Finance UK",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa1gxM2ZZVlc1R3Q5VTVxWHFEc1RtR0lnMzJnekloRWRpSVJERmlqTjlqUmVpeG5iUTEzcFNlVWxvdUZtNElLS0s5eFdPMzBPc295eUt1dXZKODB0MXhlTjRXdGlMeHBSem1wM21VNmkyU3hmVThhdXF0UkMtYi0wZXpxYzJ5UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-06-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Shares Purchased by Bank of New York Mellon Corp - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWEtLa3dZWlU1aEtNZ2NVdm4ycm5HTUV1R2VxUDlxUy1PajNJNFVaR0Y4RV9nTnBSeFRLQTEzdEhjLXJLeDNHQWJsZW9HaWJyekpiVjB1aGxKMk1PcVlBamhRYXhqNEE4Z1BLUWVOMERTN2JTX0NkeDNsS3VVUWhKR29oMlFQVFAtcklmTk1JYXpyOWlETTRhTFkwanV4R2MwSU1FNFdRYXJzdWNNOXU1YXlWM280TlZPSk50N3RENHR2NnliOVRxQ2xBR0FhaW5IRE0tVThGaXFwaklU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-06-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Shares Purchased by CIBC Asset Management Inc - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRTAzb0Jvb29VNTVsS1J0Z01fbGtTWE8zNlN1WHpUVFgxN2xHbDdseUxWS0x4X0p3U2JUdGlJSVNpd2lRZWZVdk5wMkRPdUlhalo2VkZqaC12NWxtN1luSFphNHNsY284WGFBT2tFNERFOHMwNTBJQ0FuR1dfQmJtTEpXR0h2eXFudHhoem1NVlkzX2JKRC1WZTJQdzlVSHRCNFpqYl9zNGFpVnVnY21wZkhVSUtCNWgtNkI4UE96cU14VkFFaGQ5b1dBbEczc25oZlotT1hFTWM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-06-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "111 Capital Sells 1,365 Shares of Costco Wholesale Corporation $COST - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVHYwUEMtcjZuaDNTRjNBN2FZYlVKc1RKaHl0UEZETzF5eGZLZGI5OFZXaHVpSjF2d3E1dWx1THZRLTJhbzgwY1d6eUcyUmhzbDhkcC1xdjdIMGhISDlya2tXZC1CX1FvaW5hQjlkMU5VeE1VQ2VENXNkRWxNNVVjeUJoOWY5Y3JEU2pfZUtKV1FwanR3VjROX0hESmZ6ck0yVVVwWDJhZ2pNenktMDZGc1pMNkVIS0ZwLWVHdHd2d0VWMDQ2cEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-06-06-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "2,046 Shares in Costco Wholesale Corporation $COST Bought by Arsenal Capital Advisors LLC - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSzZPU2JnWE1PemczcVB1XzgyakpYTnZId2dHUENXMEd1OHVFY0pkWVNWZWZzdl9MdGNPbHpibTU2dk13Tl9QMGdQbkJZNkhWLXFvSVJWVndwSDZPVjhjR3RyWU94cEVCaTVydnBvdm1ra2JkWk51ZGVZenpfNWdxWG8tTkVmbzVjeU9MVG52OGJ0Mmg5cVJpR3huVVVuV3dhTmFzc1E5cHNsZUVaY1otNU5xRkFKOG5vZkxEblJUTF9BN3AzOHZES2JCRlc4SW4ycGhiX2dlTGE0Q3VBTEJjcnlR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 116,
+    "too_old": 90,
+    "gate1_blocked": 6,
+    "gate2_blocked": 16,
+    "passed": 40,
+    "pass_rate": "26.3%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland CLO on Resilient Leadership - WSJ",
+      "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -",
+      "Cargill Eyes Major Shake-Up as Metals Exit Signals New Ag Strategy - Agrolatam",
+      "What's the Work-Life Balance Like at Mondelēz International 2026? - Built In",
+      "Mondelēz International Appoints Ayman Fahmy as Managing Director for West Africa - hrtoday.in"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為ADM、好市多、泰森食品相關動態：「A Look At Tyson Foods (TSN) Valuation After Earnings Beat...」。主要關注主題為產業通用、法說會、健康趨勢，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A Look At Tyson Foods (TSN) Valuation After Earnings Beat And Goldman Sachs C...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Archer Daniels Midland Company $ADM Shares Purchased by Bank of New York Mell...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
