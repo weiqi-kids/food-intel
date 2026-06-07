@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 6,
+  "gate2_fail": 20,
+  "passed": 24,
+  "gate2_samples": [
+    "Archer-Daniels-Midland CLO on Resilient Leadership - WSJ",
+    "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -",
+    "Cargill Eyes Major Shake-Up as Metals Exit Signals New Ag Strategy - Agrolatam",
+    "What's the Work-Life Balance Like at Mondelēz International 2026? - Built In",
+    "Mondelēz International Appoints Ayman Fahmy as Managing Director for West Africa - hrtoday.in"
+  ]
+}

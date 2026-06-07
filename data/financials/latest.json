@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T09:55:12.000997Z",
+  "updated_at": "2026-06-07T10:22:53.165061Z",
   "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "好市多",
       "ticker": "COST",
       "currency": "USD",
-      "ar": 3782000000,
-      "ar_prev": 3231000000,
-      "ar_qoq": "+17%",
+      "ar": 3750000000,
+      "ar_prev": 3782000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 18991000000,
-      "inv_prev": 21141000000,
-      "inv_qoq": "-10%",
+      "inventory": 19418000000,
+      "inv_prev": 18991000000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-02-28"
+      "quarter_date": "2026-05-31"
     },
     {
       "id": "general_mills",

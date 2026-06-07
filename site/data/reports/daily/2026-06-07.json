@@ -1,0 +1,212 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:22:56.470190Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mission Produce (AVO) Reports Earnings Tomorrow: What To Expect - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUd1cEpTMmFwZW5YcFRrMjJadzdTblotM1RoTDQtVDdVU2JmdzdIUGRYRzRuZUdIcl9ESzEyamVTZ19vV2NXQ1pETGI5eGNCandIa2hLOWh2QV9HeWdEVnFRMWtOUzZKSHlIWUxLT2liZDZVUEFCOGlETjBLWkdseG5QX3pKaHFka19PZFZzQWFRMnAzeU5UdFd2QWFuY0NNMjR3Wm05ZUVESE9tS0E5dHNFWS05OFFYV3gxNkFn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-06-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Prudential PLC Boosts Holdings in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNWx5NHRQTm8wenFqMmdmZk5BWjJQUmFIa3E5Y1RBeXBDWHJ1SHdicnpENTUzSVlOY0xwUzBSSmkyQkJ1U2FvTjBXR2JTamdVdk1ZaDc1aFAxdkdWaXR0bXZxa21HOUlaRmlJNkxNb3ZTXzFXYVVNdGttdG82Wkh1bWdXZEFLcEhyR0JmQ1FGbGc4WlhoUnl4MGZIVGtiSjJTT2JuWU0xN1ZGLU85Nkk3SmpJZVJleG5fRWRTMXJfbGczbGVncjQtcg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-06-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco Wholesale Corporation $COST Shares Acquired by Capital World Investors - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNclBPbjN2UldXaVBWWVNmSVY5N2ViaVF2cE15UEc2dGdURWlVaWk0cGphM0pSSHlLNUFGTnkyNnNhVlBVTWRmWUxUWElhVXRUYUdJRndjemFMT1I1bEp5bjBaUU1Ia1FIcDhsZmFMaUhwZXBvbUdWZEJHMXFoNzRzT1VNM0hwc3dVUElkcEJFSWlybTVoUWxTeG5jdVFONWs2M3RMVEtSNllSMUh5QnEtbHYxSFFNcFhwRVZuVU41eDc5OWFZbzN4NXkxX2tVZERFUjY0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-06-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco Tariff Refunds And Wellness Push Reframe Membership Value Story - simplywall.st",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdXMtWVR4X2VzcVlpbXpXSWhVYU9BREUzejlhZUJ4X1VzWE8taWZrYnN3WmVPMGZXcTU1cVljX1d4eGhhdXhTN2o3WWJFV3Fja2xPOGRteU0yM2t5RFRLd0hrSk4tR0J0Vks4QU5FUzNLLU0tTGtOck1HZHRwMlg5V243N2RCeTI5YnNTZFJCbTMzVDlEcURycHpJQjc4NFl1QUNBbmxDbTZpV0RTeFAtMjZaWldoVlVYMXM5N3hvcGNWbnNRV1VGZktoY3FSSEdRR2ZXS1JuZzlDMWtsZ2fSAeMBQVVfeXFMUHQ2ZWZyTE1ta2pWOC1fVmxGTG5IQXV2V2N4N0RwUnI0ZFcwRTVtNzY2Vm9HblFPeXZhdTZ4WUNtOXNwelVWU3hhMU50ekQ3cE5nNkZQWHpYbHg5ZzFodnNQX1ZoTF9RQ2FqMmpadEdjbC1waG9NRlJTTkdZLUxTc3FKbk0wOFZXZGtzRE9LYmVlUXIzUzJ4dmJ1X1gtZ1RzTWVFUUJ2OWdubTZxOURDRFZIYWxpNEVaeTVJd3o5T2RxUkhiazJKU2lCSDNMaXZtanozQ3JVSDd5UlNjeTYxYTdxWVk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-06-07-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "3,104 Shares in Costco Wholesale Corporation $COST Bought by DB&C Advisors LLC - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMXVURm93eF9wSDdxby1pNEJRQXUxdVJpUWpab2h6SzE2ZXk5Y3Y3cWZRSjA3eTV3X3ZfeXZ2bUhUMFQweDRuN1JfN2w3TGo2ZGxvc1RqVXVwdTlVUFhaUlQ2MTVZa3FHUzkzTXl1N1BjN0tneXZwWVc4YUlDZUVyMERHX3BOYU0zajZkejI3TmV4bk9tSWZpaU5EcnRVOXdtQkYyWmxuTy1JeEhLcWFDeE5kQi1UTHhsbTJqZWxFSEIzRXlrZnFNTmVvU25SZ1Frc1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 129,
+    "too_old": 89,
+    "gate1_blocked": 6,
+    "gate2_blocked": 20,
+    "passed": 24,
+    "pass_rate": "17.3%",
+    "gate2_block_rate": "14.4%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland CLO on Resilient Leadership - WSJ",
+      "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -",
+      "Cargill Eyes Major Shake-Up as Metals Exit Signals New Ag Strategy - Agrolatam",
+      "What's the Work-Life Balance Like at Mondelēz International 2026? - Built In",
+      "Mondelēz International Appoints Ayman Fahmy as Managing Director for West Africa - hrtoday.in"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為好市多、ADM相關動態：「Mission Produce (AVO) Reports Earnings Tomorrow: What To ...」。主要關注主題為產業通用、法說會、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mission Produce (AVO) Reports Earnings Tomorrow: What To Expect - TradingView（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Prudential PLC Boosts Holdings in Archer Daniels Midland Company $ADM - Marke...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
