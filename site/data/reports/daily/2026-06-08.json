@@ -1,0 +1,240 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:23:08.183549Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-08-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "United Natural Foods Earnings: What To Look For From UNFI - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2JCZi1YajUzS2ppaS00SnNPbG41dEpnOWg5azFiTGgxOVlHV0JrcV91TDlnR0RLVjd5dDExa0pzYS1ZNDhqeXIzOGg4eWlOeFphMWJPZVVkZ2tTMURRZTBhNlV2VFgyMmh1WTY3am40V2c2U2Y3SUVDY1ZNbE1zMjVxdzBQdmZ4VG0tN0VxRjM4X0gyZFNScWFrTElUQ1VaYmdIeVVsNDdPQTZucGZLbERyd1pWandP?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-06-08-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Costco cuts Kirkland Signature prices Q3 2026 earnings - qz.com",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XTk9NVWpJa1lKNVhtenp2REM5OHBXc1JiM0VsV1pIdmNYSDdYMUZwUUVHdk5ucW9aeTRlcktEaHlLeEg3TVA0N1o0S0x3YV9NWDRuTUFuMGFENGhHMUYtVW1qOUswbVNpZXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-08-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA warns bakeries after finding undeclared sesame in rolls, signs of rodents and sanitation failures",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/fda-warns-bakeries-after-finding-undeclared-sesame-in-rolls-signs-of-rodents-and-sanitation-failures/"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-06-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BI Asset Management Fondsmaeglerselskab A S Purchases 85,169 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWGhLdWNGNkdvOV9xQlhkV1FpZUlqQUpFakZyRmlTZGVvR0oxbEdoU0ctYlVCczhiTE5fSlU1LWU5akxhSnFmc0tscDVTeGNEWFRFZU54V0hyeUxnTXpUZzB1UC16ZHZYb3FYNkZDUVVaMTVMelByUlpEN1RkaFFyaThudVVFN09lcWFGLTVzQVpzZGNibnp1Q2hDbEdFRDdtSkNRb21RaU5MNXVlcTg3XzFUWWptRHZTeEc1cWlxX2hOQ2wtZnBYS3pCdVZmSzFRbFc4SVFkakZRc3BjWUVyOVpyR3JxMGhWLVZ6ZU1iV2tCeHRFYkQycw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-06-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods: Beef Remains A Drag, But The Long-Term Thesis Is Intact (NYSE:TSN) - Seeking Alpha",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZXpuTXFROEFDYlFaOXQ3cHc4amVGVldCWkNDNG1FbGs4WjBva2lSWHBKNHByQzkxV1RraWdHZ1M3ZEY3aXNtRi1GTlY2QXBxR2dDWFRPMFpQVjBhNm5FUVVic3VUVjNoaXpiSXJjYUhrenZTc3NJak43UEVZU3RXa2QwOE9VRElvWlNjcmRZb0xKLUVXS3BSWlM3VDZYMmZJZUw2a3laQW1JZlk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "consumer_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "food_safety",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "consumer_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 117,
+    "too_old": 93,
+    "gate1_blocked": 7,
+    "gate2_blocked": 20,
+    "passed": 28,
+    "pass_rate": "18.9%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Havemeyer Place LP Invests $901,000 in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -",
+      "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -",
+      "Cargill Eyes Major Shake-Up as Metals Exit Signals New Ag Strategy - Agrolatam",
+      "Mondelēz International Appoints Ayman Fahmy as Managing Director for West Africa - hrtoday.in"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為泰森食品、ADM、沃爾瑪相關動態：「United Natural Foods Earnings: What To Look For From UNFI...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "United Natural Foods Earnings: What To Look For From UNFI - TradingView（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Costco cuts Kirkland Signature prices Q3 2026 earnings - qz.com（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

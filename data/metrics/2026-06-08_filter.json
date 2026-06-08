@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 7,
+  "gate2_fail": 20,
+  "passed": 28,
+  "gate2_samples": [
+    "Havemeyer Place LP Invests $901,000 in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -",
+    "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -",
+    "Cargill Eyes Major Shake-Up as Metals Exit Signals New Ag Strategy - Agrolatam",
+    "Mondelēz International Appoints Ayman Fahmy as Managing Director for West Africa - hrtoday.in"
+  ]
+}
