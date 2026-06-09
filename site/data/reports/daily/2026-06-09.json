@@ -1,0 +1,232 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T10:53:27.496644Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-06-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "‘It’s not our approach’: Walmart COO says digital shelf labels aren’t for surge pricing - Modern Retail",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmVzbHduY3RmSHFQSVJ1clZxS290RGxCSEUyVnA1VXRLVFBobGMtUnh0NmFlLWMyUU1uNFZoSDhjTVFNNFRMRXllMUNfdUtTNkNWWm0wMFo1OV8xNnduYW15Z1p2YjJCLXQ1Z3A1RUR3elpOdm0wazF3MlZ0TFlDVmMzT2RMbWJVYW01OGRUOEdpZ0NYNXYwZ3hERTE3aDZrUXN4LXdONmJ2alFMbmlIWmRubG1LMk81aTRCYVRxWQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-06-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "After Reporting Blowout Earnings, Costco Just Gave Investors Even Better News. - Yahoo Finance",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQam9BdzVoYWE3TVZEclNGY0tDSE9hUEJPaXVfNEMtdDBxVlByODN3SWhQczNsQVdNczBYNVFPMEFiZmxjZlI0d1NmbTBla1dyQjBwck9NbVRPTF9kSjF6b2NURFpVenVQYl96WER4YXQtNUE2YU40Mll4N1RuSlRiWGl4azMzNHRIbklXWC1vY1B1R2pPblNvY3dGRG1iSnJNckJYM0N3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-06-09-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "After Reporting Blowout Earnings, Costco Just Gave Investors Even Better News. - The Globe and Mail",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdTRCVU9icDZPbDFzaG84Ql9hQVctcnNNVUMyZUwydU8xTG8xaFNtWmNMNmVYMFM4N0VXRjBjem92T0VEUk9DaHFfcDdaS1A1OEdTOGhwM2piSEFKbUdMWjhyY0FWSjNxSlVaeXYxUXA4enlJM2JrY2RSSXQwYmFxT3FpU0dvb290V1BfVldkWi1HLWtnaklxOHB3NmhBTy05Z3B6VzRtaTVDR1pWdFJkYW9PeGpIb0ZXR1REWmFNeDBZc0pLZDlYQWFRSm90b2lWUzZJOW5hdm1BNXBpVTBUTjhpT1FqUVlyaDJsdzROYV96MUtS?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-06-09-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "After Reporting Blowout Earnings, Costco Just Gave Investors Even Better News. - The Motley Fool",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQamkycWlULWV3bkxmMXpOZVllenduaXlCdWd2TEMtTDdPUktkWDAxeFo1N3VxMjY3S2ZZcDlUUzlucEU0eWtTc2hwQ3V2c0V3SkJVWkh5QUJEanBwMS1KbmRVQUJ1S2VCNWFMZmtxNDRHb3dabEdscWlTbm51RnBwSXNGOGQ4S1Z5b3ZJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-09-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI analytics sharpen pet food pricing and forecasting - PetfoodIndustry",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaU92c1EwSGFjVUwzYTV1RlAtai0wdWFOYlYwbzFoV3BiUzJmNjlFVTdueEcyVC16U2ZZOFJLZXh6UmNVd2ZuLVpGZEFLaDRPckRwaHdkc1BEVFRpdEZ3TXQ1TVJpTmZFTm1DcGlHdnFwRC1idEVoSXdlQ2xKM2pma3puNUNKRTQxQmozbi1CallEWERzendsOXRCUTZiZWRNZnNDdUdtdFJKejBob1NYUlM0cElMMkxGaHM0ZQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 91,
+    "too_old": 94,
+    "gate1_blocked": 8,
+    "gate2_blocked": 18,
+    "passed": 54,
+    "pass_rate": "31.0%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "Havemeyer Place LP Invests $901,000 in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -",
+      "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -",
+      "Cargill Eyes Major Shake-Up as Metals Exit Signals New Ag Strategy - Agrolatam",
+      "I went to Walmart's HQ and saw how AI is changing what people see, buy, and how fast they get it - B"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為好市多、ADM、泰森食品相關動態：「‘It’s not our approach’: Walmart COO says digital shelf l...」。主要關注主題為產業通用、法說會、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "‘It’s not our approach’: Walmart COO says digital shelf labels aren’t for sur...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "After Reporting Blowout Earnings, Costco Just Gave Investors Even Better News...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

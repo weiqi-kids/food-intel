@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 91,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 8,
+  "gate2_fail": 18,
+  "passed": 54,
+  "gate2_samples": [
+    "Havemeyer Place LP Invests $901,000 in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -",
+    "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -",
+    "Cargill Eyes Major Shake-Up as Metals Exit Signals New Ag Strategy - Agrolatam",
+    "I went to Walmart's HQ and saw how AI is changing what people see, buy, and how fast they get it - B"
+  ]
+}
