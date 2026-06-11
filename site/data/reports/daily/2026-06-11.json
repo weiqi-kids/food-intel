@@ -1,0 +1,216 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T12:04:49.763864Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-11-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nomination period for food safety 40 Under 40 now open",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/nomination-period-for-food-safety-40-under-40-now-open/"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-06-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "O Shaughnessy Asset Management LLC Purchases 70,134 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSnhfelF4NHdlak12V3gycUdBdGVDb1NFVmFLbnN1RGZyU2ZSRktkRzVNek14Q1M1T2lyNTRiNHhQMm1GZ2M5UG1rcmdBMnlVRVhGaE9RLW8wMVNScjVBWUhXYkdadnVyUnVBemE0dC1qOG00ZnY0aWpxR201VDRGbzBvU0xSb1NucFBLSjhxWjVaNVNRZTVwSi12ZE13OTI2dU5Ya1Q1VmxZOHdhX3NzNTlKNmtnY3hjTHZodjlXdFQ3UkFaUlZORGFGUk5naHVWMzFJNXZ6MkoyVF9VbHFSUWpnX09PN1JMbDZXeg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Springdale City Council OKs poultry plant rezoning - Northwest Arkansas Democrat-Gazette",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSVpRcE1SYzR3MExYZzZTUmlBQkpjWHVZTU5BaTlmTWJiaTFaSGcwM2g2MDEyVFBVTGg5aW9WZkRQd1ZMZXJHQkVldU93VjI5bDRuUnJXVjFYWmVrN3ZSWW15dWNpdVdmZXh4WDNrQ3hjY3BRWktlOHRfQlhjVnVoRHJ5SXhlcGpUTk42TjN3YmZoTjlDb3N4TlFR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-06-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart Challenges Amazon With New Google Deal - ADWEEK",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0Jzcm1KVGhoNDFCcGlYRi1JeTVMMlFoelhEa2dTbUYybzlFS25jalRXc1N1WEJ5alZ5UTcwNEJkb0NmVjh5b19wcG02c1o4clJxRWQtSDFyc29OaUlRZ0lhZkNCcS1LME42M3RWamJJU1pNZFJKM0oxdXNjXzlDUg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-06-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart is training store-level employees to use AI - Modern Retail",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHZKek4zRW9nbkNuUEFkMk1HTmFhNEU3dU5NaTZTZEQxM3B6M3dqeWVyNXUxN1hVaVZIVUhzVTZMSmFtLXV6azBLc01IU0FyTkQwRjBPTFN5Q1JmWjV0UEVHRENWbm5lY2lFM1lxeE14SHh1VFBwTEFUeE0tbTA3YTNnVlBqcUc4Y2NnbDR4Q1I3WVRDYXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 3
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 90,
+    "too_old": 97,
+    "gate1_blocked": 10,
+    "gate2_blocked": 23,
+    "passed": 44,
+    "pass_rate": "25.3%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+      "Havemeyer Place LP Invests $901,000 in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -",
+      "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -",
+      "Return on equity % of Bunge Global SA – XETR:Q23 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為好市多、沃爾瑪、ADM相關動態：「Nomination period for food safety 40 Under 40 now open」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nomination period for food safety 40 Under 40 now open（食品安全、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "O Shaughnessy Asset Management LLC Purchases 70,134 Shares of Archer Daniels ...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
