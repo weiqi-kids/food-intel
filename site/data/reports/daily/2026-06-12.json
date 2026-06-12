@@ -1,0 +1,200 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:36:43.977660Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-06-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Barings LLC Sells 73,984 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRUNYUjhvenI3MU8wdTVldzFDcE9XNTYwYXBHeTJ5UHd4VllXU0ZmNFFrVmc0NHJlLTNiaDZreVcyOEtSNVdnWlI0Y3FxcGM5NmxPcUxCMzRUVC14b29qM0toQnhDc3VqMGhfYUFrVmdpWU9wQUVsVlhMZ0VHZGt4VWJxRGJyQ0dVRDUwOExZcnJ2MWxOUXp5WnZjU1VLMWVDWllvVUlaX1dhMkdYbDhfQkFlWFNWc0RXRWFpeEFrNVdIaVFZSk9ySg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-06-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart price tags go digital; here's how Ocean County store uses it - Asbury Park Press",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVBtWGtudUV3Ymt6bW1sVUhtcFF1N2oxTEVfeG9jTW80YWZUbVp4a0FNMXNPVktOZ0hZVTRvalA1MGdLdnlKMnhOeFg1NG9vS3hYMjRCazl5ZTd2eElMbWxSYkFNVGNKOUk0VE1Jdi1jT0tvNGcwak82VkRWWEhCVkluaFktVDJYZy0yYm84YXRkblFpN1E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-06-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart launches exclusive premium beef line - thestreet.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUlNpVFU5b3NCMDFWWVJleHFMZmNSRG81RElnS0lRcXQ0bE02VktiRExzSW4xbHhISGU3eUpfZ1lERmpCc0NTZDZodWU2b0U0Z05wcFdocXhkR2xYd3VId29YQ0xNQVlyVHNNc0pQdkdoRGRNc2FPRjNmMGhDbS1MNHRWTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-06-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kovack Advisors Inc. Purchases 5,102 Shares of Costco Wholesale Corporation $COST - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb19xZGJsY2N0bDR0eDA5TXN5Qkw1UzZTNXl2ZW1nZFFvaG93NWlCY1lxaDZfUXUtR1JiUVN0NkJCcjdLZk9aRjYwS0pDa1VJUVJsbXFMYXF4VzBPLW9XemRRME1NOElfZUpRVzdsODBVOGxBdWU5TS1Yc1hNd2VWLXR6TS1YSFdoN29ScGs4OURhaF9TMGlFeTBEaUttemRHYU9kOV9lOTk3T1YyM1lld1ZPQzVGb0VDWmtoWDl6LUk4OEUzZnZLS1A2ZC15aDl5dXVyTVB3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-12-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Canada debuts food security strategy to foster local production - Global Food Industry News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZjN0ajg1dEhCMDJQeWZSU3k2cGlHV19EbDZBS2NQUUFMQUFCal9UZE5PQWg3U3BicG1manNWb2FoNF84aGFCaHhYbXB0cDd6djRITFI1bjdybzk5ZEFkekdfR1JndU5BbUpxcTVtbVh0ZHJtek9lemZ0UDBsSUJ2Z09BWjluazY2LUoxcy1VRXRQcXNoRGN3eEpoZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 262,
+    "dup_title": 97,
+    "too_old": 96,
+    "gate1_blocked": 7,
+    "gate2_blocked": 24,
+    "passed": 38,
+    "pass_rate": "23.0%",
+    "gate2_block_rate": "14.5%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+      "Havemeyer Place LP Invests $901,000 in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -",
+      "Return on equity % of Bunge Global SA – XETR:Q23 - TradingView",
+      "Should Negative Free Cash Flow And Dilution Risks Require Action From Bunge Global (BG) Investors? -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為沃爾瑪、ADM、好市多相關動態：「Barings LLC Sells 73,984 Shares of Archer Daniels Midland...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Barings LLC Sells 73,984 Shares of Archer Daniels Midland Company $ADM - Mark...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Walmart price tags go digital; here's how Ocean County store uses it - Asbury...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
