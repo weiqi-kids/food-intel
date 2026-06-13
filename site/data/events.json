@@ -1,5 +1,106 @@
 [
   {
+    "id": "walmart-2026-06-13-001",
+    "date": "2026-06-13",
+    "companies": [
+      "walmart",
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "If Gas Prices Stay High, Costco Stock Could Be a Better Buy Than Walmart - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNanUtUGxobS0yMi1OcUsySFpfcXpHWHFveW5nM2dTZTJVbFFkcUhDOWMtNlJSSFZNeTZBYUJhWk1PWHAwLVJfUjRFaGlOMG04bmpyMmFQWHZRZXB2U0tpZXZlQS1zVTdKTHZ6dFFYZ2",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNanUtUGxobS0yMi1OcUsySFpfcXpHWHFveW5nM2dTZTJVbFFkcUhDOWMtNlJSSFZNeTZBYUJhWk1PWHAwLVJfUjRFaGlOMG04bmpyMmFQWHZRZXB2U0tpZXZlQS1zVTdKTHZ6dFFYZ2V2SEJNN19NOWVRcmFucXE1aXNWYnE2YzZQNVp1N29WenFIVnFucTFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-06-13-002",
+    "date": "2026-06-13",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gould Capital LLC Purchases 2,762 Shares of Costco Wholesale Corporation $COST - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDR1MDloSUJybDF2S0xwZ2ZMLV9iVURhZmRRY2x3R1hMNFdVZ2t2bXFpSi0xeDNxck0yODdVbndNUWluMzJKcXYzYk1jcVhEdi1WanJFRWNsdWxfSU5YYlhIUkZNaUMxRXpzZk4teX",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDR1MDloSUJybDF2S0xwZ2ZMLV9iVURhZmRRY2x3R1hMNFdVZ2t2bXFpSi0xeDNxck0yODdVbndNUWluMzJKcXYzYk1jcVhEdi1WanJFRWNsdWxfSU5YYlhIUkZNaUMxRXpzZk4teXlxdHZNWkVON3FWUnRlSGU3ZXZXRmdvWFhjZEJOekU4Y0lDSVVmLUNPY1M1RVBrWndCSWVrcHljQTlDTG04VW5rWkFEOWRRalpiT0dPTmJfN09TRFdybTBpWXBSUnpSNktRLUMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-06-13-003",
+    "date": "2026-06-13",
+    "companies": [
+      "walmart",
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "If Gas Prices Stay High, Costco Stock Could Be a Better Buy Than Walmart - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdS1vVmloLVRtZklvQVlwdW5oZ1BzVU1VcFhqSTVLQmFjeW5Xa3Z5WUtyVGFGX0hWMHFhcW44TEMyMVVJR1VSTG5JaWs1d3ZNMjRSQ2hfVlljNjRFSmkwVno4Z3pVY0tJLXRnOTNfMz",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdS1vVmloLVRtZklvQVlwdW5oZ1BzVU1VcFhqSTVLQmFjeW5Xa3Z5WUtyVGFGX0hWMHFhcW44TEMyMVVJR1VSTG5JaWs1d3ZNMjRSQ2hfVlljNjRFSmkwVno4Z3pVY0tJLXRnOTNfMzhrWWF0MGtHUWRrODNzOGVXWkFQWUpsRnEtT2NlM1ZfcF9rYURSOXV0UHQzblV6bnhfY09lV3hsX0lyTlZFelgzVjFudy02dUNUTnRvUjVSdHJ6dzFRcWtsaXo3aGZFQVNVcHZCQ1UyNEtyX292R0RQVGg4cWFMcFhVbGI4cg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-06-13-004",
+    "date": "2026-06-13",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "positive",
+    "title": "Recall of moringa capsules implicated in Salmonella outbreak expanded",
+    "summary": "The recalled product was distributed nationally through the online platforms, Amazon, Walmart, TikTok Shop, Target, and the company's websites, tnvitamins.com and doctorspride.com.",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/06/recall-of-moringa-capsules-implicated-in-salmonella-outbreak-expanded/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-005",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wasabi octopus recalled because of undeclared allergen",
+    "summary": "<p>Azuma Foods International Inc. U.S.A. of Hayward, CA ,is recalling its 3-pack, 5.3 ounce Azuma Foods Brand Tako Wasabi-Seasoned Octopus with Wasabi retail packages, because they may contain undecla",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/06/wasabi-octopus-recalled-because-of-undeclared-allergen/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-06-12-001",
     "date": "2026-06-12",
     "companies": [
@@ -182,6 +283,702 @@
       {
         "name": "food_safety_news",
         "url": "https://www.foodsafetynews.com/2026/06/fda-increases-enforcement-of-import-rules-on-cheese-juice-canned-food-and-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-12-011",
+    "date": "2026-06-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland (ADM) Stock After 64% One-Year Surge Is There More Upside Ahead - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbGpja2hZVm15ZEFNbFExLVR2a1VhY29WTTlCNGQtUHBQUC1aeTAwYzgxNUdhMFg2ZGg3aGIwZjE0dTBGX3JjUjBCaGZCcncyYnFuNTJ3UF9VY0RPTXJLZlF1OFZ3UVI1SDU3U2NFQU",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbGpja2hZVm15ZEFNbFExLVR2a1VhY29WTTlCNGQtUHBQUC1aeTAwYzgxNUdhMFg2ZGg3aGIwZjE0dTBGX3JjUjBCaGZCcncyYnFuNTJ3UF9VY0RPTXJLZlF1OFZ3UVI1SDU3U2NFQUppb0RyMENQS19YcTJTdVVkLWZQZTBFTkhnSk5heWhydDRkbk1iTmNqenlwQkdWLXNWUGlURG5sZVdIVTByTlhzSzVLYmdqX0E4YWZNcG1LZUI0cThCU2VtdUxoVGdCTEhkVjJKTVluVmdxM2hDR0g2OElJT0HSAeoBQVVfeXFMTzB2ZzB0alVBQl9rQjJTcjQzN1hoai1oUkJtYXBaazRpNDQ1SUJiVlJ1QUhqdVJORlNORE5EbUxBSFhPUDFLWjYtRUNDTTlMU194RGlaTU42d0V1YzRTYUoxcGpKa2plZ1ZWdURHc3NDWUJZbVk3ejk2UEZ4dzllN1lGeThzRVNDYWJBZUsxTVJZUUhRa3AtV1NKeXc3WFIyX1AyUDdfMndpdld0bFJMY1ZINGt1eEhRd3Rib2FTdGl5UFVsSUt1eElYa3VtUmJPbDV5WkVOTHR1Y2tQaGJFak1peHFaYzFvZG1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-012",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland Co. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQalBPc3pVZGNaMmw2THNfZm1XeUlKdG5hY0dUWjE3U1VwMzRLbGZwVWk4dDBWNjhYUzdSM2ZqT1loemowME9sSFBsODJldzB1Mmk5NVFiOEhPdF81M2hFa243NEt5LXkxUzc4aXBTMW",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQalBPc3pVZGNaMmw2THNfZm1XeUlKdG5hY0dUWjE3U1VwMzRLbGZwVWk4dDBWNjhYUzdSM2ZqT1loemowME9sSFBsODJldzB1Mmk5NVFiOEhPdF81M2hFa243NEt5LXkxUzc4aXBTMWQ5NmZDTzJuU2t0YlVscWY0TEpyalMwaVhscXBmcE5ucllnTldyWF9HUVpXLUNkRUw1NHRNNWxZdFZKMnFiQkhxNC04WVdKVThUb3RMM08yblFESzBGYTdlb3llazZ6RWFBd0daUFVacjBYTmNEWWtxci1IUmp6OW1pU2VNcFVQVjRib3FyTl96T2lCUXlub1dfVnZwV2pIaFpwd0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-013",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zacks Industry Outlook Highlights Corteva, Archer Daniels Midland, The Scotts, Miracle-Gro, Adecoagro and Mission Produce - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdGdJQlN3WXZpa09yUFU1LUJ0dEJWZnJySWhfRnZHYms0TVdvSGh4SzUzenFXZ1hCbnZWalFRY0V4cF9oeXFhZUdELUhzMEtFb2RsRmIycXdDdVpFd3JEcHJ6WlZfb04wclJ1T09iMH",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdGdJQlN3WXZpa09yUFU1LUJ0dEJWZnJySWhfRnZHYms0TVdvSGh4SzUzenFXZ1hCbnZWalFRY0V4cF9oeXFhZUdELUhzMEtFb2RsRmIycXdDdVpFd3JEcHJ6WlZfb04wclJ1T09iMHhRTHF2VmQ3UEprYTdBeW00dURoUV9CS0pha2tmYk5Ga05MdHp1M2RPNXo0X1hnakdQSTIwek5sTU56dTJZUVVUeEdkTDU5WUVxa1J6eExlQkpMMURjVWd1VndIbXZWZFZqWUU4WVlpNExVT3I3bWdxQ3NLMUkwSFh4OFE4SnotQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-12-014",
+    "date": "2026-06-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ADM (NYSE: ADM) director Colbert credited with 112 stock units under board plan - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXNxMEVITmtLTW1lOXRILUYwX3VwVXdCcVZUX2hwS2wzcTRuTU84cGhlQl9MZWlXaTN0aTVnMUtsQ2pOaXJXdHRSMnQtS050cW9JVndkdmtKM0NkRUlDR2JhN19GcEZEM2ZuZTRxNX",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXNxMEVITmtLTW1lOXRILUYwX3VwVXdCcVZUX2hwS2wzcTRuTU84cGhlQl9MZWlXaTN0aTVnMUtsQ2pOaXJXdHRSMnQtS050cW9JVndkdmtKM0NkRUlDR2JhN19GcEZEM2ZuZTRxNXk2Mm0xUldmNFVRY25oMjB4TUFWSlpDS0ZqQVJ3cVMwN240emtHN3RhTGV6LWtuT0R2RWlUZEc5MmliQUUzcVc0Tm0xSFdKLUJzLXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-12-015",
+    "date": "2026-06-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland (ADM) director credited new stock units - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOT1VuRkttOUJvYlR4aFRBUVpPd19Qa1UwZzVaanFpR2ZTaWlKUXBJZkgtS0xTdGVOSkVBYlpWWGg4R29LclFiWno5dkxldUdaMDMxbVJkOFI0Y3M3V0VTb3dCMFliUzh5VFZ3VWtOTD",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT1VuRkttOUJvYlR4aFRBUVpPd19Qa1UwZzVaanFpR2ZTaWlKUXBJZkgtS0xTdGVOSkVBYlpWWGg4R29LclFiWno5dkxldUdaMDMxbVJkOFI0Y3M3V0VTb3dCMFliUzh5VFZ3VWtOTDVFM2hRcG1jcVBHR0Y3dWV0N0ZFYnZWZDZJLXpMUm04aWJ6R29UMmJDNlU4dW9oUjF0S0ZDdlI5ZXlCdDYzRzAxYWtWcnNSbXVFM2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-12-016",
+    "date": "2026-06-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland (ADM) director credited 188 stock units via dividends - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWNtdjMyYWxKSlBuWW85RXUzT2JleDlmRkJxZ00wWE5MbVFXSTVyTUVMYk03Q0dWMkxyQ2ZyVk1yWmVjUW9HWS1qTWJ0TGc5cjV3SlJpSm9BdEhpNXNPR3lralh1ZVAzWW1YT0Fib2",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWNtdjMyYWxKSlBuWW85RXUzT2JleDlmRkJxZ00wWE5MbVFXSTVyTUVMYk03Q0dWMkxyQ2ZyVk1yWmVjUW9HWS1qTWJ0TGc5cjV3SlJpSm9BdEhpNXNPR3lralh1ZVAzWW1YT0Fib2kzWlhYR2RVUk1aaGE5VTQ3cGhwcVp0UmhfT0VFUzU1UzV1cGtxdGJIVVJ3c3pCNXEwTWZYeldoaHQ5RzZnOVpCWE14SEdjZ3I2QXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-12-017",
+    "date": "2026-06-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ADM (NYSE: ADM) director Kelvin Westbrook receives 220 stock units as board compensation - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGlvQ0tndzZRMVlrQWJsbVNUel9sbW13QmJXQUhWel91Z2sxbklkeGZEdktSQXN6WktfX0RybW9KVzVrSzQxMXdPN3lFVWpvY25DVldDbHV4QW9JLUpsNmpENGRwTFRDdng0M1B4MU",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGlvQ0tndzZRMVlrQWJsbVNUel9sbW13QmJXQUhWel91Z2sxbklkeGZEdktSQXN6WktfX0RybW9KVzVrSzQxMXdPN3lFVWpvY25DVldDbHV4QW9JLUpsNmpENGRwTFRDdng0M1B4MUx5TDlaWnF4NVZLSWsyRWsxVW5wYnRic1JpYlo0VS1GMXF5OERvN2VDZDN1eGY5aXhBbG96aGo5VVNzV0RlQzBRcUtQUEUtUmVldFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-12-018",
+    "date": "2026-06-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ADM (NYSE: ADM) director Suzan Harrison credited 121 dividend stock units - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnpTRHRGVjhZd3AwRzJDQkx5Y0tDQlNwN0h4SlU4MFotcTZNb3FlUHNoejlVZ2tfUjVfbVBHVHlsZ05SSGJKOEluTWl4YWtUVWxfcjh4dHhEODYxeGFubWVoRjktUTBGMlhzSWZIdn",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnpTRHRGVjhZd3AwRzJDQkx5Y0tDQlNwN0h4SlU4MFotcTZNb3FlUHNoejlVZ2tfUjVfbVBHVHlsZ05SSGJKOEluTWl4YWtUVWxfcjh4dHhEODYxeGFubWVoRjktUTBGMlhzSWZIdnlwR19keTFGdjdkRWNyZjNvTVJtbk1JQ1VBajQzaTI0cHBUT2hPWTNVRmVDMlFXTWVCOXlmVjBIbFJOVnZPSkRiWFZVOXg2YV9tTmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-12-019",
+    "date": "2026-06-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland (NYSE: ADM) director receives stock unit award - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3ZNSDNCN0t5bG0weG00UWJrS05QNXJja0lWSnNmVUY3aDR4bVFtWGJ4eDdMekhodWFrTTAyWi1mSTlDcXZpYkNFVWtSUGs4ZE1ydGVUT1o1dGctMkNxcXRMZWlxN1JnYzFHcVkxYW",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3ZNSDNCN0t5bG0weG00UWJrS05QNXJja0lWSnNmVUY3aDR4bVFtWGJ4eDdMekhodWFrTTAyWi1mSTlDcXZpYkNFVWtSUGs4ZE1ydGVUT1o1dGctMkNxcXRMZWlxN1JnYzFHcVkxYWxDOFlhU0Jjb2Y3NWRSOTlmcFFhQ0wtY2VwMjZ5QVlFb0lXMnZmTHRJaGQ0NUVGcFBTQnpRNDlrMnVCRUhoOWtKWXdVN2JRaUphVFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-12-020",
+    "date": "2026-06-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ADM (NYSE: ADM) director McMurray gains stock units via dividend equivalents - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPeERqVlcxVUVRdUFqOWtIYTBsLWhBcVNHQUs5VWU5MVZSd2YxUldyZ0p1T3ViWG1PcDhKcVptRjlJVXBzbEt2ZlNMMVJBbnBxNVA4d1hoX201UzZjT1lqTnQ3cU1lR2NXdHRHZ0JJbl",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeERqVlcxVUVRdUFqOWtIYTBsLWhBcVNHQUs5VWU5MVZSd2YxUldyZ0p1T3ViWG1PcDhKcVptRjlJVXBzbEt2ZlNMMVJBbnBxNVA4d1hoX201UzZjT1lqTnQ3cU1lR2NXdHRHZ0JJbl8xam9zOXBMUjR0N3BBTllrdmcyTTA1RGhveDJiM3JDQTFhMnNnM1pMclNMX0VrVk5UYnRVWkJiWjd5Qnl1S3dlSmdobnVHWnlKX2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-12-021",
+    "date": "2026-06-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ADM (ADM) director Collins credited dividend-based stock units under board plan - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHlrNERVZXBwUF9na25uam5rYlV3dmkzWDJsVGVGcERVaXlhcGVIUzdOOE95enJDWVJpU3hlWjFZVFlOU05sN3huZWVPNmZrWEhnUFVCMjJERTZvUkxneUNVZWtwcGdRS0xxQ3liV1",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHlrNERVZXBwUF9na25uam5rYlV3dmkzWDJsVGVGcERVaXlhcGVIUzdOOE95enJDWVJpU3hlWjFZVFlOU05sN3huZWVPNmZrWEhnUFVCMjJERTZvUkxneUNVZWtwcGdRS0xxQ3liV1QxS3h4aFF2eDhSWXpGMExjaktYdjRIcDBIaHJEZHdvMUljMFNpaVdJejE3UGVya09wZ2d1T0NpWGdIbmFFb19EQTJ0YzktV0FELUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-12-022",
+    "date": "2026-06-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dividend equivalents add 427 stock units to ADM (NYSE: ADM) director - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNcXVEWkFKVlh6d3VpMTRuQ2ZwT294ZXRtbno2R29uRUw3eHJaTUZHS3JkaERMZjlTMGZMMUNoX05KM003YzRfNmhqVzZiTmdULTJldDJSNVE1aTVHWUJod1FMejQ0d25xNHhyS042R1",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcXVEWkFKVlh6d3VpMTRuQ2ZwT294ZXRtbno2R29uRUw3eHJaTUZHS3JkaERMZjlTMGZMMUNoX05KM003YzRfNmhqVzZiTmdULTJldDJSNVE1aTVHWUJod1FMejQ0d25xNHhyS042R1JVVW50WmU5OFZLZS1iZHNTNHVHS1B5WUFJWjBibm5CTWZCWEZqZWlfaXR3SXBfS2JaaFJ6SkFPbTF3ZUVnbGF3bTB2T0Fud1VlT1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-12-023",
+    "date": "2026-06-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ADM (NYSE: ADM) director adds 121.933 stock units via dividend equivalents - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGdLM2ZzQ1dYYUUtMUhVbWRDeGgzM1hfejNiQkZ6ZXZLZmpQRlQzaXNrSnNoeWNoc0ZxLUhWdkMxNEZyWmdtQXV5clU3ZlVQeGFfemg5aU9YYjlLajFza3JmYlBHNlZTR1NIVXhoQ1",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGdLM2ZzQ1dYYUUtMUhVbWRDeGgzM1hfejNiQkZ6ZXZLZmpQRlQzaXNrSnNoeWNoc0ZxLUhWdkMxNEZyWmdtQXV5clU3ZlVQeGFfemg5aU9YYjlLajFza3JmYlBHNlZTR1NIVXhoQ1NPWmJrNjQ2OEptX0cyOUZnbUhLV1BzX1hrT2tSZUl0RGxCVFNXUXhCM2pCbkF2Qk5YSVZ6WGk1YmdhMlM5d3YtNWZLYjJBNW8yZHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-12-024",
+    "date": "2026-06-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ADM (NYSE: ADM) director gains 33.748 dividend-equivalent stock units in board plan - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNU3NfaEJhVTVZUkJ0azNIVm1QYzVCVFdxc2hXRE5VbWVBN1VNYnZOZ2h0Z2VHZnczSXk0dXY5NERNSEhHeEEtZ1hiUzhzem5VUE1JMTFRa3dpcUJiTElkSFlDV0VvSVRUOHhNZnpxWW",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU3NfaEJhVTVZUkJ0azNIVm1QYzVCVFdxc2hXRE5VbWVBN1VNYnZOZ2h0Z2VHZnczSXk0dXY5NERNSEhHeEEtZ1hiUzhzem5VUE1JMTFRa3dpcUJiTElkSFlDV0VvSVRUOHhNZnpxWWMzVnk3R1Zpclk2U2Y2QXRyOGlRdkNKVDR3VGNsaXFSVXJmNjhDRHVWMWFUbzROR0xwOTZoNWRoRm1LTFVYNmZvUEdkbkdrcThnV3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-12-025",
+    "date": "2026-06-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dividend equivalents add 110.386 stock units to ADM (NYSE: ADM) director - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOMzYteVJrZG9HbUViajhlQ1RfSUU4ZTdJVi02bnFmSUVieXlUMXJyQnZyQmRldzVERjlOd3oxczJ6MW9RSXRoc1hqdGdWRTktU2Nia0gxNWtSNElUejVya0w2bm5tcTFURVMtLWJNNl",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMzYteVJrZG9HbUViajhlQ1RfSUU4ZTdJVi02bnFmSUVieXlUMXJyQnZyQmRldzVERjlOd3oxczJ6MW9RSXRoc1hqdGdWRTktU2Nia0gxNWtSNElUejVya0w2bm5tcTFURVMtLWJNNlZrM2FXOVY3ekFvbFd5QW1oay1uMjBJN0ZMMU9EdGNpNHVkWHpFTlFreFMtdVhPdzJjY0V2Sko4bWp1SldHU1JhdEZyVWZTREpQMmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cargill-2026-06-12-026",
+    "date": "2026-06-12",
+    "companies": [
+      "cargill"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kernel, LDC, NIBULON and Cargill among leaders in grain export revenue for 2025 - Latifundist.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONVNfRnZBUUd3ZnhCVXZXZGw2elh2djk0Q1FTLWkzd3pOQkVnSHpBUmk4a0p2YV9XZm5kdmFPZk5HeUJpNThKMURYcEp1M1VGV0N0bzRRckk1cEN4MGtrVjhkWWg2b1BZYVdLVVJxTj",
+    "sources": [
+      {
+        "name": "cargill",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONVNfRnZBUUd3ZnhCVXZXZGw2elh2djk0Q1FTLWkzd3pOQkVnSHpBUmk4a0p2YV9XZm5kdmFPZk5HeUJpNThKMURYcEp1M1VGV0N0bzRRckk1cEN4MGtrVjhkWWg2b1BZYVdLVVJxTjBTeFUtQ0M5ajlUS0JpZVprUGVDdW5WVkVrU01jaVZrUHhiSzBqT0ZVXzJzMHM2d2RqX2h2YlZIMWF4OGszSkZKd3pPS2hxUjhF0gHAAUFVX3lxTFBfZzhnaW52ZUhrTWZVVnJzYkNmQU5Nb2lEcTdseEdoVVQycm9CSGh5ajVMNmdlVENHeG1uNTJaT05GRVl4S29IRW84bzlSVFo5VW8xeUdjSHhrLUtjVC0tMHR0Z19RTngzVjhGSkNTQnh3aElUTndZajc0WlZzM251NEV5Q3hVSGg5UlFnZlB2WmFyT2VNY0pUX3ZNNTJmX1ZaSmFSTFhyVEdOQWF0Q1lRcnliSHkzT1laRW5iV2xsdg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-06-12-027",
+    "date": "2026-06-12",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods Installs New COO As Beef Woes And Valuation Discount Persist - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXRRX1FuSkZzcldfbFEtMEdxT2ZiX3hZUWRWZG5TOHgwcW9KNXY0WG12V3g3RXEwQ1htTnZmNWZsVENIRkQtYS1idVV1eVNHS0xLSHlJYVBjXzlBV05acWVPOU5hOUxpVUs0bWprRU",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXRRX1FuSkZzcldfbFEtMEdxT2ZiX3hZUWRWZG5TOHgwcW9KNXY0WG12V3g3RXEwQ1htTnZmNWZsVENIRkQtYS1idVV1eVNHS0xLSHlJYVBjXzlBV05acWVPOU5hOUxpVUs0bWprRU9zaEVTZHZDa3NnSEEzMVAtMUxxbDF2ZzJqemk2c05Hb2ZSNE5IMkI0V1R3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-06-12-028",
+    "date": "2026-06-12",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wes Morris Named COO of Tyson Foods - Arkansas Money & Politics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nQ1c2TzFvenpDczdGdkRXX0tpSTBHVVFsZmZOZ2otbE52TU12VnNkYUgxc3BKaXdFM0t4OW9JcTVRVTYtc091bmVBeDljeVJJbnh4VnhhSUd0Tks2VE8tT0Rn?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nQ1c2TzFvenpDczdGdkRXX0tpSTBHVVFsZmZOZ2otbE52TU12VnNkYUgxc3BKaXdFM0t4OW9JcTVRVTYtc091bmVBeDljeVJJbnh4VnhhSUd0Tks2VE8tT0Rn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-06-12-029",
+    "date": "2026-06-12",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods Names Wes Morris as COO - foodengineeringmag.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPZTZtWkFYSERXZFFIMVJBcmpvMS03N1N3MVlKQzNyTFBaXzhtOW0zZExLNmpNVGs3RTVfRUNKWUd6djN4Um9tS09QRVhVNFFZYlU0d3BHdFN5bjJTc0YwWnJQREl3OXFmcG12SUZtOW",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZTZtWkFYSERXZFFIMVJBcmpvMS03N1N3MVlKQzNyTFBaXzhtOW0zZExLNmpNVGs3RTVfRUNKWUd6djN4Um9tS09QRVhVNFFZYlU0d3BHdFN5bjJTc0YwWnJQREl3OXFmcG12SUZtOWpoM1Bpa2JETXI5YU52WWxPb2JvRnU0WDU0aC1NbnVDNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-06-12-030",
+    "date": "2026-06-12",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Tyson Foods (TSN) Poised for a Rebound Amidst Sector Headwinds - Kavout",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWhabFJvU25wNXQwcTVtdjRGYllCYUpLa3YzcTNybVExaUxTaGtBQWNubzFfZk9tTlRDTEEzWk9KcDVoZ2xPVGhCOFpKMEZhMjh1aTlEMG45YmNFNHl4OTBHd2RaNFVaVDFqb2FfVm",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWhabFJvU25wNXQwcTVtdjRGYllCYUpLa3YzcTNybVExaUxTaGtBQWNubzFfZk9tTlRDTEEzWk9KcDVoZ2xPVGhCOFpKMEZhMjh1aTlEMG45YmNFNHl4OTBHd2RaNFVaVDFqb2FfVmJsQ2ZwUXJSWm9kaGJDZTNJOC05UzdIUmVIMlpndWFDZVdTLThzMGNNcWZrOFV6Sjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-06-12-031",
+    "date": "2026-06-12",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods, Inc. (TSN) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQcC0xaHRIZWNJa2Y0V3c0MjdsVEl3MVFjMHFHZG55ZmRITEdDalR6UUFlZ2hSd0YtbkVWZDVxLUU2QnQyVHpxZFlZRm1MT3E4Qk5ES1NXTHQ3SzFlc00yQVNfSUdFS0dmZi01UXZ1U2",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcC0xaHRIZWNJa2Y0V3c0MjdsVEl3MVFjMHFHZG55ZmRITEdDalR6UUFlZ2hSd0YtbkVWZDVxLUU2QnQyVHpxZFlZRm1MT3E4Qk5ES1NXTHQ3SzFlc00yQVNfSUdFS0dmZi01UXZ1U2liZUp6RmtqUjRka0thVS1JNlFYRW00dmtGMDQwai1xS2YtTTM2bEVNRGpoTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-06-12-032",
+    "date": "2026-06-12",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Uni-President China Holdings (SEHK:220) Stock After Dividend Approval How Does The Valuation Stack Up - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOamV5YkRpRDltQVRta2JGTXdWU2dLM3QtY2NzNU9IX3hhQlA0N3RoU1Z3RzJralpaTWZNTXZuTkhlTTI0ZW5xYkh4akNpUzRkd0tlTG13bWgwaE9SUmJpbVhUSmdWMzUzTHhUcGRsMW",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOamV5YkRpRDltQVRta2JGTXdWU2dLM3QtY2NzNU9IX3hhQlA0N3RoU1Z3RzJralpaTWZNTXZuTkhlTTI0ZW5xYkh4akNpUzRkd0tlTG13bWgwaE9SUmJpbVhUSmdWMzUzTHhUcGRsMWQ3SzdndFNuWEk1c2pOQjVQOGtRZThCOFhqcnQzZlBLdWxPQnVRd2stOWEwb2ktem5TdzlPS0Y3UzVkbUxfRjJoMDUtZGJEWkNQTk96RnF5NGJGTUdpMnA2NkM3cVFaTHVhWGtuTE5LSzRPYUpjZmJPZEZ2VkxjbkxjMW91UTdnd1FwWXQ5NkHSAfsBQVVfeXFMUFJhMXRtZk1TajZwYjd1WHg5QkE1SzhPOVZpY0d2em43MTNvTk0xY1lDQjhiOTlfcktNQWIxblhBX21reWplZmRSU2F0ejlLakFLVnE4QmN6YWhObmdIN0NzNUtZd3dkbTZVdzE5RDBtMjR1MXZpTUJiaGJjdzJqU01ldE4zTV9fbEhlLUtSd2tDZEQ1SHAxTm5FRG5OcGFqS0loQzhxX2ZsTkZ6VldVeDRrUmdrSjY1aWFuMU5RaldYQXN6djRuRHFxcnN3YnFaVkR6Q2ZZdDkyazRtWV9rdzFjOFVOSFZZUWVraTl3cXZqMWtXVGJpeW1EZzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-06-12-033",
+    "date": "2026-06-12",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart Brings Louisiana Carrot Initiative to All Its Stores in the State - Progressive Grocer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFFGai1xSGlLVDFsZ1BmdnVraW9qWFNHcjZTRGdLLXFtbDdwOXVaa1ptOTNnQk5aMUMwcFlIbmctWnFscVFZU085RkNPcktvU29nUlRPOFNyOUNSMURHNGF3akxuaGFsUTlpOWV0OX",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFFGai1xSGlLVDFsZ1BmdnVraW9qWFNHcjZTRGdLLXFtbDdwOXVaa1ptOTNnQk5aMUMwcFlIbmctWnFscVFZU085RkNPcktvU29nUlRPOFNyOUNSMURHNGF3akxuaGFsUTlpOWV0OXVnVk1GTnZsWG5Ubm8yUHRDM1dzUEMwNWhSQVByeXNnb0F5TnV3OHlNaA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-06-12-034",
+    "date": "2026-06-12",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart takes notable stance on tariff refund spending - thestreet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTdjVEN6RHg2R0M5SFVrQWIwdHpPUFpuUE4yV05uRXdPZVdrNHJLZ3RDVV9ObEFmTnpRdkZaLXFMeEFyVXNlRU5nbEpNTlh3TWsxSWpoUTV3LWI2RWZjei1HT0xjWmp0Qnljb29JT2",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTdjVEN6RHg2R0M5SFVrQWIwdHpPUFpuUE4yV05uRXdPZVdrNHJLZ3RDVV9ObEFmTnpRdkZaLXFMeEFyVXNlRU5nbEpNTlh3TWsxSWpoUTV3LWI2RWZjei1HT0xjWmp0Qnljb29JT2lRaEdTY0dldkhhUkRIYmZDTG54SktYVWppeFUtTHd0VElDMHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-06-12-035",
+    "date": "2026-06-12",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco Quietly Announced Changes to Kirkland Signature Products - Allrecipes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1jV2tnOFZxQWpsX3ZpeXFXUXRZVkV2cm1nMXcxbkpLaWd0a09aOFdQRVBSbHN5UUNLdTdCM0pOVWVqZURLOS1acjc5R1BSTnZWVC1aOG94RG0yUjJFaDlaZ0NvMWhYSE40M1h1WVhIRl",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jV2tnOFZxQWpsX3ZpeXFXUXRZVkV2cm1nMXcxbkpLaWd0a09aOFdQRVBSbHN5UUNLdTdCM0pOVWVqZURLOS1acjc5R1BSTnZWVC1aOG94RG0yUjJFaDlaZ0NvMWhYSE40M1h1WVhIRlVIMVlmZ1JlLVc2ZzYyazA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-06-12-036",
+    "date": "2026-06-12",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco Fires Back at Lawsuit Alleging False Advertisement of Its Rotisserie Chicken as Containing 'No Preservatives' - People.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOd1I5NGFQYV9HdGtkcVZaZWFQem5VYnNyQmZSSURjZ1A3WXgybFdDTXhLYk0wV2JFWlZ4bDNWNkNCVDRETEc3RHN0dFliVGxVNm5md0R5ektqZDhZbC0yTWVuMUczbEEtZEQxQkQxeG",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOd1I5NGFQYV9HdGtkcVZaZWFQem5VYnNyQmZSSURjZ1A3WXgybFdDTXhLYk0wV2JFWlZ4bDNWNkNCVDRETEc3RHN0dFliVGxVNm5md0R5ektqZDhZbC0yTWVuMUczbEEtZEQxQkQxeGZSYnJObjVkUVZrbDFfd3ZHVjBacWNpRHN2VGdCY3c5ZG1ndjllQURSWEoxNkN3ZEVqMlFlQnBxYTg0aXAwS0JybVNCd2w0RXVuSjZIVlNrVDJRVnc4LUdFdnpCclRHUDBkTnl5UWV1RE1mT015RGRnNTQ2WHpYb3M5b1V0YjBhY3A0WHlNZVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-06-12-037",
+    "date": "2026-06-12",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco Recall And Lawsuit Test Food Safety Controls And Investor Confidence - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0dfMTJCcjhTX1otbWMwSDJIN19EQ3RIQ1JId2NiSlF2b1hKNHAwQU54eDFNWHdDWDduY0wzQlJZbjFqUTJVVnEwNGZDTXdtNFdVQmI4dTJnUkVVaW9kRjlBVlpSZHFmT0JqZENXQz",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0dfMTJCcjhTX1otbWMwSDJIN19EQ3RIQ1JId2NiSlF2b1hKNHAwQU54eDFNWHdDWDduY0wzQlJZbjFqUTJVVnEwNGZDTXdtNFdVQmI4dTJnUkVVaW9kRjlBVlpSZHFmT0JqZENXQzdxRVN1VHNiSWNiYnNGQzZSeWlXb1dMclJBa19lOWFjU1lNNGlIQ2hiMk0teHo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-06-12-038",
+    "date": "2026-06-12",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco Product Issues Test Premium Valuation And Customer Trust - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxON0lIbkVJbWxlSlJLZlVUSHNid19zVk5xMUdjT1BZNGUtTWJJN0FlakVfcnJrUGNnajk1bmlvX0ZqUXpHUEFYb0hKMG01UlBHRWNBWDgzT2M1c29hS1ozZGdYQVhSOXh1OFh0VGpwaW",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON0lIbkVJbWxlSlJLZlVUSHNid19zVk5xMUdjT1BZNGUtTWJJN0FlakVfcnJrUGNnajk1bmlvX0ZqUXpHUEFYb0hKMG01UlBHRWNBWDgzT2M1c29hS1ozZGdYQVhSOXh1OFh0VGpwaWdNWlNKWmVDZnBaWjU4bDFxRjNMYnFIVmNsbTFQQktpNzAtOGE1NUlhaDlTQWtKTVZFeWJfbGtmaDNLNjJucHRHclZCQ185M0EzWHRQMk9ockZnTkJqV3BHNng2NzZYX003eWN4Qjl2RHprcUJYTkHSAeMBQVVfeXFMT2wweWZoVjNYWlhwWmQ3dlh4UnVRbTdtZnQ0MnJXVU5BeTk1dU5ZY2dXYmdWT1gzLWt6Tk9odEd1c2NFMWRuLUIwQWllcWs3akpHc1F6UmpkRWp4SzhSbHhvbDRfaU5BZ2N0RTE2NTkzOEpCZWxBeG9xbHluN1c3Y09LNUI0N1ZTSmFRdWNDTmJnQ0pIYnhjVEJTM0tzYTV6LVNvUnZiWlU5UHlaQVZtMkh5TmtfcTNzdEk0WUV1RzZvYmRIM3JtTkZiRk8yeXFfTHRURncyTExxaXhUeThhNVVOaUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-06-12-039",
+    "date": "2026-06-12",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Here's how much Costco paid for a planned Irondale site - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmtjVmY3d0hMYjA2OHFBaFJKU2RSclBiT2Q1OGJoRkoxWXpVdFp6bnFIbjZXbkg3RlBsWkw5Rkg0OWNDRExPWktrNjdKWmxnNnJ2Z1gwZ1hWYTQ4S2hNbS04ZTB3TVFfemlJVm1SUn",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmtjVmY3d0hMYjA2OHFBaFJKU2RSclBiT2Q1OGJoRkoxWXpVdFp6bnFIbjZXbkg3RlBsWkw5Rkg0OWNDRExPWktrNjdKWmxnNnJ2Z1gwZ1hWYTQ4S2hNbS04ZTB3TVFfemlJVm1SUng1MEFrTWdyckVqeWlJSjFjVTJJNHJqYWs2ZUcwQzlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-040",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Jelly Belly is repositioning its brand for ‘social epicureans’",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/SeAQ5zvnKmfzsf4LdR3xg1LJhm7Q0kY3q6E2dN7A5NA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9KZWxseV9CZWxseV9Ucm9waWNhbF9QYXJhZGlz",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/how-jelly-belly-is-repositioning-its-brand-for-social-epicureans/822774/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-041",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Listen first on processed foods, group says - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOQy1JblFyVmdnRGlmS2tkR085d3ZGNy05X2VMMm4xU18wNEo2ZXhYWFJYTUdTelY0cEh1YnRBZmdITXp0N3NEUnViOGM2S2NlRDI1MG1NNHpLU3ZINzlKczZaUmlCVFVJQl9jRWRqR2",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQy1JblFyVmdnRGlmS2tkR085d3ZGNy05X2VMMm4xU18wNEo2ZXhYWFJYTUdTelY0cEh1YnRBZmdITXp0N3NEUnViOGM2S2NlRDI1MG1NNHpLU3ZINzlKczZaUmlCVFVJQl9jRWRqR2dwS1FhTng5VXNjWGtHQml0V0l2U0xkR1JTVnQwSDlIcEJmeWNF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-042",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Food Exec Brief: Prices Accelerate, Hormuz Hits 100 Days, and Ingredion Closes - Food Industry Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOWk83NUdXd1VoWm4wVlg0dXUzbmFNWWk5R2JHX0xza2xkQS0yWFRnMk04WXVObk1XRzNQcFVNZ1FDOHhQVV81bTZjblZaTzZLRDNST3Z4QUNEdTlsX1g3SUdRMVVmWnZ1NUQxZ2I4YX",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWk83NUdXd1VoWm4wVlg0dXUzbmFNWWk5R2JHX0xza2xkQS0yWFRnMk04WXVObk1XRzNQcFVNZ1FDOHhQVV81bTZjblZaTzZLRDNST3Z4QUNEdTlsX1g3SUdRMVVmWnZ1NUQxZ2I4YXNaSmt0YjlDNEVYUFE2R3VJN2lTS1ZwYk9rR0hDQllCZlBmUGwybG9kLXI3UW9UcFVQM29sRGZwbVNjaFdJcGhXRjI2dF90TjV1Wnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-043",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Natural Food Stocks Gain From Health and Sustainability Trends - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkJGd3l2MFN6eWRFYXJoMGlWYV9tSzE3NGRSOG9rMW53MjF1enFrbDBmeXNiS2hQSE5INFlNOGYtX1FwUzEtYzdRVlJUMEFINW9fZnA3MUlMVTVCVTBCQnhkSlNlWk5HSnNJU3I5VV",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkJGd3l2MFN6eWRFYXJoMGlWYV9tSzE3NGRSOG9rMW53MjF1enFrbDBmeXNiS2hQSE5INFlNOGYtX1FwUzEtYzdRVlJUMEFINW9fZnA3MUlMVTVCVTBCQnhkSlNlWk5HSnNJU3I5VVBiSDNmRVdiRnpUbktoOERFMGVSSkVlRkQ3UHlhNnRQdHFNZzZ5Z2RhNkZGQUZNUXFWYXk2YWJJTGdUR3d2XzB4eU15M25aVncwUnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-044",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beyond Labor: What High-Velocity Warehousing Really Means for Food Manufacturers - Food Industry Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGdldXdwak5Ib1ViZXpZbnVKbkNDa2xCQXJ2Q0h1RHhGYXpiRE1Qc1g3dEUzcDR6cmhSRzBnNXZjLXVRWVJNVTVpQjVoVWUwWWVHM2VReFNVbkc2ejZxMjczU0FqQ21mRUUxeGVxRX",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGdldXdwak5Ib1ViZXpZbnVKbkNDa2xCQXJ2Q0h1RHhGYXpiRE1Qc1g3dEUzcDR6cmhSRzBnNXZjLXVRWVJNVTVpQjVoVWUwWWVHM2VReFNVbkc2ejZxMjczU0FqQ21mRUUxeGVxRXR5UzA0RG9hZkhlUWtNLWQzNW4xb05VSjREV0NTVkZ4aWY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-045",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Campbell’s, Buffalo Wild Wings launch soup collaboration - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3FGZV9XOFJ5bTRCaV8zWURySDFxZUdiV19sRm5IQ3o5NFVzV0dZZXd0YzVTcTR0cFBpT1l2SGdpRjgtbmVkeGdYRnBXYXVfOUZCUmQxZFpWUzhnNHZRaWNST19HNF92X0sxUGx3NU",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3FGZV9XOFJ5bTRCaV8zWURySDFxZUdiV19sRm5IQ3o5NFVzV0dZZXd0YzVTcTR0cFBpT1l2SGdpRjgtbmVkeGdYRnBXYXVfOUZCUmQxZFpWUzhnNHZRaWNST19HNF92X0sxUGx3NUI4enNQa3lpUERkMWMzaGNKaEY4a1JsbVFaa2pBalNMczlGTUdoYXplOGJYSHoxeHBHWmwtcQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-046",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "'Eat the invasives': A killer David vs. Goliath brand strategy - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdkRRN3E3N0lHVEYwWDZJTEsyZW5wcngxa3hHV1ZZR1huUzdFbkVZeTU3X09fMlhCZDlDLVRwMXZhQUpicGZJTC0xSUlEX0dhNGRHaW5qSVo1emR4YXpjcmJ3WkNJNmlhdUlBU29qT0",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdkRRN3E3N0lHVEYwWDZJTEsyZW5wcngxa3hHV1ZZR1huUzdFbkVZeTU3X09fMlhCZDlDLVRwMXZhQUpicGZJTC0xSUlEX0dhNGRHaW5qSVo1emR4YXpjcmJ3WkNJNmlhdUlBU29qT0ZjY3hDVTB1dTZmMWM1NERrWlllSTI5VW5OdXlDN3BvRUZUbzJfOXVOcW9FMTNtelBQcDEwclRMaExweEpnaUhNeUtqM0x1T3NYMVZoSThsaDRZT0ZSQjJ0Sy0tMUpDd0locFE?oc=5",
         "type": "rss"
       }
     ]
@@ -856,6 +1653,82 @@
       {
         "name": "google_news_food_industry",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUHJaV2E1V3MtMmg5UWhvVk9JNU9WUW9MSHl5YzRWd2c2aWk3eG9KUVRTVlRmNjRsYS1qLXdONk9ua0RfUDZWTmJVT1JPR0M0THZ1UmIwTUFMbUpwb013dlRQQ1d3cmlaTmRRUHhWRkJMYmVkdTFWZ3pPclFoZFVNSkVfanJhYXhQRXNHQkhoZWpuTzhnOUdKaHRHTnl0THZHNUJSR2lhdmtGbXpm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mondelez-2026-06-11-037",
+    "date": "2026-06-11",
+    "companies": [
+      "mondelez"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mondelēz International Scales Up Human Rights Due Diligence Across Own Operations and Supply Chain - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOYUxuN0ZGX2tqSVRod2JZN1JheFFiTGp3YzBsSXpVSmdJTWVadDNLeWp3dTY3WDhCOEJpUzRBWGxpOEpTOTljY0xwak9uZW1KdHU0QlFlQ0xMZ0xPbjF0TV9FbC10cFRCYkNQZGU3TF",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYUxuN0ZGX2tqSVRod2JZN1JheFFiTGp3YzBsSXpVSmdJTWVadDNLeWp3dTY3WDhCOEJpUzRBWGxpOEpTOTljY0xwak9uZW1KdHU0QlFlQ0xMZ0xPbjF0TV9FbC10cFRCYkNQZGU3TFY5OE5Ud0hWMjRoS1JONjMwd2tkVlNuU0pSX19jVUNyU0RmcEJqWjVHLW13QWpRcFRrbFBudWpYRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mondelez-2026-06-11-038",
+    "date": "2026-06-11",
+    "companies": [
+      "mondelez"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mondelēz International achieves near 100% human... | Pluang – Crypto, Stocks, Gold & Funds - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVRqSEJqZ2tmSWpxT0l2M1kxZmlfVHZqQVFsUV8wdGFJTGdYdjMzLVhpWi03bTJxMzY1X09Ock55U2ozNGl3TmxYcWdJQXBjT2tOMlU1WVg0UEstU3dqTTVGTWlTQ3VQZWhmNHROTF",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVRqSEJqZ2tmSWpxT0l2M1kxZmlfVHZqQVFsUV8wdGFJTGdYdjMzLVhpWi03bTJxMzY1X09Ock55U2ozNGl3TmxYcWdJQXBjT2tOMlU1WVg0UEstU3dqTTVGTWlTQ3VQZWhmNHROTFJvRE0weHlxOGk2bkY5REpFNDlUeFhUcW9Cd3Y5eEJpOTZmOUlyNmVjeDdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-06-11-039",
+    "date": "2026-06-11",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Major grocery chains like Walmart and Kroger are cutting prices on thousands of items - the-independent.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOem1GVkRmcVd5U0RHRU5ab1RHaTc5RTZEb3ZwOXNkMUpjVHlVQ1JJLVpRdzd5dnlRX2tWUEtSa29OU3Mtekdhc1pleEFEZzViUVEzTDlkTy1NR3FJNXloZ1NhYXJjSTU5M3ZPZFVscm",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOem1GVkRmcVd5U0RHRU5ab1RHaTc5RTZEb3ZwOXNkMUpjVHlVQ1JJLVpRdzd5dnlRX2tWUEtSa29OU3Mtekdhc1pleEFEZzViUVEzTDlkTy1NR3FJNXloZ1NhYXJjSTU5M3ZPZFVscm8weUxWTGxxcUVEM2JqRDNjaDU4ZW5YUDBBdUY0UURnXzJlbHg4ejZOMndzakRFVkdSNU1vTVZfNzY2SWY0RnIxenJwbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-040",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Petfood Industry News Quiz May 5-11 - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTJtRHc1WldiSUJoY3VqcUhTRWp5cmJ1R3ZpejhHS0k5NzNES3p6SXVoZ19mY0RHZVRDZnJQWGR3YkUxZFpiNU1jMTQzQ2hTWks5dXJ5VnI3X21DV1NfX0xXUEd5LWlUUGF6V0pIWS",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTJtRHc1WldiSUJoY3VqcUhTRWp5cmJ1R3ZpejhHS0k5NzNES3p6SXVoZ19mY0RHZVRDZnJQWGR3YkUxZFpiNU1jMTQzQ2hTWks5dXJ5VnI3X21DV1NfX0xXUEd5LWlUUGF6V0pIWS1IZzY4ZW5oZExIQnNiYVgyMHJ6ZGhkajkwaW5JUmh6VGlfdkNpcmNKMzY2YUlNZzFnOEY2SDdBVGI?oc=5",
         "type": "rss"
       }
     ]
@@ -1547,6 +2420,24 @@
       {
         "name": "walmart",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRm5fMk51enRyUUtXZUpQUlNIZUcwRmVhNjJ3NGJoWmJwWXBZNkhKZzc0WTc4dXlkbGVuSG9iUlJqdTlkR0xvRkJPcmR3M0lsd0hHU0dJRVlQVG1kR2RQaC15ZWdCRXlsX3hIQlNqdlJuWDRQRGhwbmpURXJNQ0o4UEVJUU10OGxyc3JBWS1iUGxNb3QwT0JzNldRQ0VrVnBpemhN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-037",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Branding for Buyout©: A New Playbook for the Food Industry - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUdfdUVwU1RXVjNWTXZGVEx6Mi1PeHlsVms1V0t4MTJDUkNnNWxDelFWYVJTNUwxUUdxbnFUZFlzVmdoblhSeUpBdHNjTVBVakpxejVEMkN2RVdKWS1jSDlvaGtMR19SYXlINzNvQj",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUdfdUVwU1RXVjNWTXZGVEx6Mi1PeHlsVms1V0t4MTJDUkNnNWxDelFWYVJTNUwxUUdxbnFUZFlzVmdoblhSeUpBdHNjTVBVakpxejVEMkN2RVdKWS1jSDlvaGtMR19SYXlINzNvQjFwVXpkVE5uT1RFU2tBdHFEUHRrcDI2YUdSc0FJYWhrRFBvbkVSeUdmT2UzTkdXTXZEVDZNZVRn?oc=5",
         "type": "rss"
       }
     ]

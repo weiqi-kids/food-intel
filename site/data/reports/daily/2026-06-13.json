@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:22:45.985256Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-06-13-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "If Gas Prices Stay High, Costco Stock Could Be a Better Buy Than Walmart - Yahoo Finance",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNanUtUGxobS0yMi1OcUsySFpfcXpHWHFveW5nM2dTZTJVbFFkcUhDOWMtNlJSSFZNeTZBYUJhWk1PWHAwLVJfUjRFaGlOMG04bmpyMmFQWHZRZXB2U0tpZXZlQS1zVTdKTHZ6dFFYZ2V2SEJNN19NOWVRcmFucXE1aXNWYnE2YzZQNVp1N29WenFIVnFucTFB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-06-13-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "If Gas Prices Stay High, Costco Stock Could Be a Better Buy Than Walmart - The Globe and Mail",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdS1vVmloLVRtZklvQVlwdW5oZ1BzVU1VcFhqSTVLQmFjeW5Xa3Z5WUtyVGFGX0hWMHFhcW44TEMyMVVJR1VSTG5JaWs1d3ZNMjRSQ2hfVlljNjRFSmkwVno4Z3pVY0tJLXRnOTNfMzhrWWF0MGtHUWRrODNzOGVXWkFQWUpsRnEtT2NlM1ZfcF9rYURSOXV0UHQzblV6bnhfY09lV3hsX0lyTlZFelgzVjFudy02dUNUTnRvUjVSdHJ6dzFRcWtsaXo3aGZFQVNVcHZCQ1UyNEtyX292R0RQVGg4cWFMcFhVbGI4cg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-06-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Gould Capital LLC Purchases 2,762 Shares of Costco Wholesale Corporation $COST - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDR1MDloSUJybDF2S0xwZ2ZMLV9iVURhZmRRY2x3R1hMNFdVZ2t2bXFpSi0xeDNxck0yODdVbndNUWluMzJKcXYzYk1jcVhEdi1WanJFRWNsdWxfSU5YYlhIUkZNaUMxRXpzZk4teXlxdHZNWkVON3FWUnRlSGU3ZXZXRmdvWFhjZEJOekU4Y0lDSVVmLUNPY1M1RVBrWndCSWVrcHljQTlDTG04VW5rWkFEOWRRalpiT0dPTmJfN09TRFdybTBpWXBSUnpSNktRLUMw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-06-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Recall of moringa capsules implicated in Salmonella outbreak expanded",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/recall-of-moringa-capsules-implicated-in-salmonella-outbreak-expanded/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wasabi octopus recalled because of undeclared allergen",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/wasabi-octopus-recalled-because-of-undeclared-allergen/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "costco",
+      "to": "walmart",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 3
+      },
+      {
+        "id": "costco",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 100,
+    "too_old": 91,
+    "gate1_blocked": 6,
+    "gate2_blocked": 17,
+    "passed": 46,
+    "pass_rate": "28.7%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+      "Cargill Eyes Major Shake-Up as Metals Exit Signals New Ag Strategy - Agrolatam",
+      "Uni-President Iced Green Tea: Ready-to-drink classic for on-the-go refreshment - AD HOC NEWS",
+      "Walmart pushes back as New York lawmakers scrutinize electronic shelf labels - Times Union",
+      "Salt Lake City next up for Walmart drone delivery service - KSL News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為沃爾瑪、好市多相關動態：「If Gas Prices Stay High, Costco Stock Could Be a Better B...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "If Gas Prices Stay High, Costco Stock Could Be a Better Buy Than Walmart - Ya...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "If Gas Prices Stay High, Costco Stock Could Be a Better Buy Than Walmart - Th...（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
