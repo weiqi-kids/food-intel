@@ -1,0 +1,170 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T10:45:43.017224Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "costco-2026-06-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Costco Wholesale (COST) Stock Valuation After Strong May Sales And Growing Digital And Gas Volumes - Yahoo Finance",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlB5U2lxdWxqMGJGa0JrcmpCVUdlRUNSUGVnWkdLX0puelhuOXlmdGZuZ0Vqa3NyMkd4VncyUG95T3VuU1MwSmE1cDlfZFd1US1wYXdmbVdLcTJUcnY5WDM3Tk5ESUt4MnM2S1p0SmNJYVNTMDJ0Tkc3QVgxWDdsS1lwcmFDcERCdGVTSWNRV3NLSlpWQWFfV0RSSUJOMEw0OENpWQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-06-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart Tests Cross-Border E-Commerce Model With Mexico Access To U.S. Site - Yahoo Finance",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkJGUm1QRWhqWDN1bTdyaUFiMmNnQWlIMlBwRHl5MHNLcWVzNWxDWHdsb0hqYVhuTlRCR1lmcGRVZ3d0WGh3NkpNbXR3X3h1TndMczF3WmM1aml1Ylp5SmgxbTlTSFptUV9XcnFtY2J2OW9GMjVFVXlsVW9xODRYY3RxY25PRFhuUGFBRFRTUzVSZks1ZjlrXw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New infant botulism outbreak linked to imported organic powdered formula",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "health_wellness",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/new-infant-botulism-outbreak-linked-to-imported-organic-powdered-formula/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 261,
+    "dup_title": 124,
+    "too_old": 93,
+    "gate1_blocked": 10,
+    "gate2_blocked": 18,
+    "passed": 16,
+    "pass_rate": "11.7%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+      "Wingstop called out for serving Tyson chicken. Then a worker shows what they have instead - The Big ",
+      "Uni-President Iced Green Tea: Ready-to-drink classic for on-the-go refreshment - AD HOC NEWS",
+      "Walmart pushes back as New York lawmakers scrutinize electronic shelf labels - Times Union",
+      "Amazon, Walmart and Target Clash in June Sales Events - PYMNTS.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為沃爾瑪、好市多相關動態：「Costco Wholesale (COST) Stock Valuation After Strong May ...」。主要關注主題為產業通用、法說會、健康趨勢，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Costco Wholesale (COST) Stock Valuation After Strong May Sales And Growing Di...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Walmart Tests Cross-Border E-Commerce Model With Mexico Access To U.S. Site -...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

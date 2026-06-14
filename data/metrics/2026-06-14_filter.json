@@ -1,0 +1,16 @@
+{
+  "total_raw": 261,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 10,
+  "gate2_fail": 18,
+  "passed": 16,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+    "Wingstop called out for serving Tyson chicken. Then a worker shows what they have instead - The Big ",
+    "Uni-President Iced Green Tea: Ready-to-drink classic for on-the-go refreshment - AD HOC NEWS",
+    "Walmart pushes back as New York lawmakers scrutinize electronic shelf labels - Times Union",
+    "Amazon, Walmart and Target Clash in June Sales Events - PYMNTS.com"
+  ]
+}

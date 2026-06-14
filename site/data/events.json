@@ -1,5 +1,63 @@
 [
   {
+    "id": "walmart-2026-06-14-001",
+    "date": "2026-06-14",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart Tests Cross-Border E-Commerce Model With Mexico Access To U.S. Site - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkJGUm1QRWhqWDN1bTdyaUFiMmNnQWlIMlBwRHl5MHNLcWVzNWxDWHdsb0hqYVhuTlRCR1lmcGRVZ3d0WGh3NkpNbXR3X3h1TndMczF3WmM1aml1Ylp5SmgxbTlTSFptUV9XcnFtY2",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkJGUm1QRWhqWDN1bTdyaUFiMmNnQWlIMlBwRHl5MHNLcWVzNWxDWHdsb0hqYVhuTlRCR1lmcGRVZ3d0WGh3NkpNbXR3X3h1TndMczF3WmM1aml1Ylp5SmgxbTlTSFptUV9XcnFtY2J2OW9GMjVFVXlsVW9xODRYY3RxY25PRFhuUGFBRFRTUzVSZks1ZjlrXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-06-14-002",
+    "date": "2026-06-14",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco Wholesale (COST) Stock Valuation After Strong May Sales And Growing Digital And Gas Volumes - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlB5U2lxdWxqMGJGa0JrcmpCVUdlRUNSUGVnWkdLX0puelhuOXlmdGZuZ0Vqa3NyMkd4VncyUG95T3VuU1MwSmE1cDlfZFd1US1wYXdmbVdLcTJUcnY5WDM3Tk5ESUt4MnM2S1p0Sm",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlB5U2lxdWxqMGJGa0JrcmpCVUdlRUNSUGVnWkdLX0puelhuOXlmdGZuZ0Vqa3NyMkd4VncyUG95T3VuU1MwSmE1cDlfZFd1US1wYXdmbVdLcTJUcnY5WDM3Tk5ESUt4MnM2S1p0SmNJYVNTMDJ0Tkc3QVgxWDdsS1lwcmFDcERCdGVTSWNRV3NLSlpWQWFfV0RSSUJOMEw0OENpWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-14-003",
+    "date": "2026-06-14",
+    "companies": [],
+    "topics": [
+      "health_wellness",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New infant botulism outbreak linked to imported organic powdered formula",
+    "summary": "The formula was sold at Target stores and online",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/06/new-infant-botulism-outbreak-linked-to-imported-organic-powdered-formula/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "walmart-2026-06-13-001",
     "date": "2026-06-13",
     "companies": [
@@ -96,6 +154,184 @@
       {
         "name": "food_safety_news",
         "url": "https://www.foodsafetynews.com/2026/06/wasabi-octopus-recalled-because-of-undeclared-allergen/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-13-006",
+    "date": "2026-06-13",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland (ADM) Stock Valuation Check After Strong 1 Year Return And Mixed Fair Value Signals - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTmZGZ1NKSHpaajVSX2Nxckk3a19vYzRlX1BibUV0X0xxYlVTRWNRdnR3eGx3LVRCR1U3ZjItdEhIWVFtVGFLNi1vWFhGUWRVM213cEZxNlVybW5DZXRpUWFBLU83cjZLTmd5cWVTNW",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTmZGZ1NKSHpaajVSX2Nxckk3a19vYzRlX1BibUV0X0xxYlVTRWNRdnR3eGx3LVRCR1U3ZjItdEhIWVFtVGFLNi1vWFhGUWRVM213cEZxNlVybW5DZXRpUWFBLU83cjZLTmd5cWVTNWR5eTJLMExraDk5cGwtaU1oRXlQVER1TTRtOU5yTEVqRVJXUjV2NVVjemRNVktpUkNBRVRaeHE0ZDRZZVA2OUFFT016bGk2YmlNcEpobUhBZHYxMXFyM0Y4Q0VTN3Qxd0xJbVpIN01ETHpkS1QzVlliTTNUMTNHUdIB6wFBVV95cUxQRENEcWRJQ3pxZ2xKeG5QLUZtTXVxd2JOdXpEZktreEp1YkVHeFluNUlRcjJNOWhfcjMycGhEWHRKUUlVZnNkNUhGUW1YQnVXX0Vqc3ExVVlJVmZac01tZlI4MWgycWJPYXlCRk9LM0hCX3Bkc2ZFS2tnSTN0RjRkaFd0Vm1JaXZjTWVkLTlBU3hSZ3FyOUV0YUQtaXYxVk15ZmJDMGI1ZXhrZ0lFYVhLTV91UFQwdnVUcWdIaVI4MFVXZGFNNEFzSkRwRHk3NTE0cmhGZmsxSUVpaFZ3bGttRlo1WDdHS2ltM0t3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-13-007",
+    "date": "2026-06-13",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Is Archer-Daniels-Midland Stock Outperforming the S&P 500? - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTS00VGtQSTQxTExyWnpqVUhLREpyYnprZ1cwX0dCcFVjMDZtekRoSHZQbGx0djQ1UzNuWWV6U3V6d3JoWGJiY1RhX0d6ZmFMUk9GMjhyV19NRkI2RDdvckI2S1FDVF9Vb3pKUnI2Yj",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTS00VGtQSTQxTExyWnpqVUhLREpyYnprZ1cwX0dCcFVjMDZtekRoSHZQbGx0djQ1UzNuWWV6U3V6d3JoWGJiY1RhX0d6ZmFMUk9GMjhyV19NRkI2RDdvckI2S1FDVF9Vb3pKUnI2YjUxYlN4clc0OG96NDhhSDk4SW1QWWxPNzNvd2tNbERVdGktYzdXVjlDZFJiZ3BlTUJxVWF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-06-13-008",
+    "date": "2026-06-13",
+    "companies": [
+      "walmart",
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco vs. Walmart vs. Amazon: Which Stock Is the Smartest Buy in 2026? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjZHSVBGVDBvT2FtREFIV1hpYXNzTE9lYzY5WkxWaDdUOGJpNGJ0Q3FDQ3hHOHlqUDBjWFVxWGdzWUNULVVIOUdSUGtCMnVRNUl5NXh0S190eVFaeTZyWmNLTGZER0pET2RNUS03OF",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjZHSVBGVDBvT2FtREFIV1hpYXNzTE9lYzY5WkxWaDdUOGJpNGJ0Q3FDQ3hHOHlqUDBjWFVxWGdzWUNULVVIOUdSUGtCMnVRNUl5NXh0S190eVFaeTZyWmNLTGZER0pET2RNUS03OFV1XzVmTm9FTGFrRVdiMkxEREZaRVpHdmNGWWNzbEtMVVRCSGMyYUx3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-06-13-009",
+    "date": "2026-06-13",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Grocery Chain Is Even Cheaper Than Costco and Sam's Club When Buying Prime Beef - Allrecipes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAyVDhtdFU1dWRkcGJpQ3Y2QmxZQ1ZDc21FaXlUWFI0eG04QnU5YUFmZm0wNUdkWEstOXozSzBnMGlGWTBaU0FBaGd5ZTluNFdpR3pNWEZUYlF2d1R6TnVDY21JZF8yY19nM0FjUnlJS0",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyVDhtdFU1dWRkcGJpQ3Y2QmxZQ1ZDc21FaXlUWFI0eG04QnU5YUFmZm0wNUdkWEstOXozSzBnMGlGWTBaU0FBaGd5ZTluNFdpR3pNWEZUYlF2d1R6TnVDY21JZF8yY19nM0FjUnlJS01UekhhUFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-06-13-010",
+    "date": "2026-06-13",
+    "companies": [
+      "walmart",
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco vs. Walmart vs. Amazon: Which Stock Is the Smartest Buy in 2026? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQeG9ZZFVJeWUydVJIeE8yUVhmNi14cmx2YTE0REVsbUUyMjFuMm5xQl9WSUtmWjFLQU8wRE5zanpVNkRRUnhKcFZrVkFpdXhQUTFZM01jWHV4OG9FM0lxeElZazdQQ3VsaU9VUEN2LW",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeG9ZZFVJeWUydVJIeE8yUVhmNi14cmx2YTE0REVsbUUyMjFuMm5xQl9WSUtmWjFLQU8wRE5zanpVNkRRUnhKcFZrVkFpdXhQUTFZM01jWHV4OG9FM0lxeElZazdQQ3VsaU9VUEN2LW9oajlTWDhJbm9McmgtcFA5OTJ0bUYyVGVJWXlqZjJkYzcwMkI5SWRhZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-06-13-011",
+    "date": "2026-06-13",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Should You Buy Costco Wholesale Stock While It's Below $1,000? - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxONlQwMjl2MVdpVUdLWGEzX2hIdm1GV2tDWjZqYURCaTJxd0hsNWpHVUt3Y0lsbnBUS21kNnljUzRGU3JLUTVfUEZlaHZWN3hTWWJ6dTQ1OXVmeUpUZ0J4ZDcyc1QwZXlpZjF3N1RZeD",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlQwMjl2MVdpVUdLWGEzX2hIdm1GV2tDWjZqYURCaTJxd0hsNWpHVUt3Y0lsbnBUS21kNnljUzRGU3JLUTVfUEZlaHZWN3hTWWJ6dTQ1OXVmeUpUZ0J4ZDcyc1QwZXlpZjF3N1RZeDZSUGpXVEcycUZGb0NRSlRRRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-06-13-012",
+    "date": "2026-06-13",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wealthspire Advisors LLC Buys 3,979 Shares of Costco Wholesale Corporation $COST - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxONnp0R0dOQ3BMTGVKVmVnN3JRbEw0QXA1Q3k3dFpCM3RIRDBQSXFpNlhoSWpSZ3JBNVFmNWpKOUhXOVdCT2VjZnNzN09leUxLdGM4aWVydWNEZXh1dTk5SU5vUnJRYm9xbG9QVktNNH",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONnp0R0dOQ3BMTGVKVmVnN3JRbEw0QXA1Q3k3dFpCM3RIRDBQSXFpNlhoSWpSZ3JBNVFmNWpKOUhXOVdCT2VjZnNzN09leUxLdGM4aWVydWNEZXh1dTk5SU5vUnJRYm9xbG9QVktNNHRNN1FGNUdYYXBkZ3RFLXRjTmpTTVpibnB5STZRTVNqWU9Xc1lSdzA3dm95Q1owT2pvZDRrMVBOandoSW5zVTFDbUItU1NxSnJVVkZIVHVyaVZOUXB0dnItOXdlcGhBMVNXRmtFUmRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-013",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Edna Lewis Taught Me — and So Many Other Black Women Chefs - Food & Wine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9yMkhpeXRYTGY0by1KY0Zxc0d5NDNlbmxLdlA0RU9zT0dTOWVzT0x0SXhteEo5WDJkSEEzbHNDNVMyNDQ2X29hejNkNDk1VGluNlcwdTFtT2VmeU1Mb2VkMUIwM2huZ20xcy12RElKcE",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yMkhpeXRYTGY0by1KY0Zxc0d5NDNlbmxLdlA0RU9zT0dTOWVzT0x0SXhteEo5WDJkSEEzbHNDNVMyNDQ2X29hejNkNDk1VGluNlcwdTFtT2VmeU1Mb2VkMUIwM2huZ20xcy12RElKcERkbXBZUDBQS2NzYTE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-014",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mother-And-Son Startup Secures Funding To Modernise Food Industry Crisis Management - Minutehack",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3V1d2R4MHNHYTNYMnZGa2syYUY1U0pRbGRnRTR0VzRiQ0c1emNBTlRCM3lkNVpyZ0trODFPZlpscFh2clBCV1lBbUxTMTIyNk0zZDRQM01BVVdfX3pnYmU5REJpYTR1WDRkWUplQW",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3V1d2R4MHNHYTNYMnZGa2syYUY1U0pRbGRnRTR0VzRiQ0c1emNBTlRCM3lkNVpyZ0trODFPZlpscFh2clBCV1lBbUxTMTIyNk0zZDRQM01BVVdfX3pnYmU5REJpYTR1WDRkWUplQWF6TkpDOFA1OXptRml3Ukh5S1ExNWF3S2ozOUFKOUViSllZd1JwQXRVQ1B4TlBfN1Z2bjJuX1BvSnpicDNiaDYwRQ?oc=5",
         "type": "rss"
       }
     ]
@@ -979,6 +1215,78 @@
       {
         "name": "google_news_food_industry",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdkRRN3E3N0lHVEYwWDZJTEsyZW5wcngxa3hHV1ZZR1huUzdFbkVZeTU3X09fMlhCZDlDLVRwMXZhQUpicGZJTC0xSUlEX0dhNGRHaW5qSVo1emR4YXpjcmJ3WkNJNmlhdUlBU29qT0ZjY3hDVTB1dTZmMWM1NERrWlllSTI5VW5OdXlDN3BvRUZUbzJfOXVOcW9FMTNtelBQcDEwclRMaExweEpnaUhNeUtqM0x1T3NYMVZoSThsaDRZT0ZSQjJ0Sy0tMUpDd0locFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-047",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lotza rolls out sparkling soda - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTh2djk1azRxUkJoQlFMTjQxOFpWSHAzZElDdUJLOWVGamV5ejYtSVF6YlBLZWVIY1h6ZEdKZmYyODI5Wmx4VjRfb3NHOWtneFZpQlJ6RkNtMjlMeHlKMVBPYUpqNkFVa0NXWmJ4SU",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTh2djk1azRxUkJoQlFMTjQxOFpWSHAzZElDdUJLOWVGamV5ejYtSVF6YlBLZWVIY1h6ZEdKZmYyODI5Wmx4VjRfb3NHOWtneFZpQlJ6RkNtMjlMeHlKMVBPYUpqNkFVa0NXWmJ4SURBQUJrQkQxakR6eHNRWC1xSVFjVzY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-048",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FlavorSum acquires Beverage Flavors International - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPbmJIb0dNY1ZMYW5OQU90a3UyMUtZNTFEVncxSnc4Z0FVc0F2bjhVLWlSVENMaC1OZldoRUhhWENtcnUzOE5PWnNCenBQbkdadEo4aEN1UHY3T0N3N0VZX2ZlY080QVQ4Q21lb2lfN3",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbmJIb0dNY1ZMYW5OQU90a3UyMUtZNTFEVncxSnc4Z0FVc0F2bjhVLWlSVENMaC1OZldoRUhhWENtcnUzOE5PWnNCenBQbkdadEo4aEN1UHY3T0N3N0VZX2ZlY080QVQ4Q21lb2lfN3VvS2o4NkFHWU1GQm54QjhrSGFQckppRXVYUGlIRk1lS0VIMkc4YWVLSHFCZW1sZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-049",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ghirardelli launches first refrigerated cookie dough line - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3pmWVJlV1JjVHdZR3I0YzlWVVNPWHM0b1JnT21qUVhZQldKZjV2OHJYRU5EZm5CSEN0Z2dqNnUzSlJSRmFjb1poOEprcGtrdVdWUTRfTFFSbGN4Q3EzSnV1S0ViSlpVb3V3dnR4Tm",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3pmWVJlV1JjVHdZR3I0YzlWVVNPWHM0b1JnT21qUVhZQldKZjV2OHJYRU5EZm5CSEN0Z2dqNnUzSlJSRmFjb1poOEprcGtrdVdWUTRfTFFSbGN4Q3EzSnV1S0ViSlpVb3V3dnR4TmZFc1F3MkNqUnE4SzZRbHlxUnI3Rmx4RWh0WFFaRWtxTTVrZEVJdDVjNTlTOWNyRFo4d29mZzBTbkw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-050",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Goldfish key to Campbell’s snacks strategy - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMUJ5dUd4RktUVXRXQkFUSndXM1JhREhsbWlHOWZuSmNLUFR0MDdVNE54eDVzYUdUU3c4allVaDVLRTJfdS1YY2tKMWRGMy1Zb2FiQmxJMnhleE5STS1EV09yWG1HOUJ1SlJQc1Rxcn",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMUJ5dUd4RktUVXRXQkFUSndXM1JhREhsbWlHOWZuSmNLUFR0MDdVNE54eDVzYUdUU3c4allVaDVLRTJfdS1YY2tKMWRGMy1Zb2FiQmxJMnhleE5STS1EV09yWG1HOUJ1SlJQc1RxcnVtdkFGMGdIQ1lRWkxTT2Z6SFU4TW15dUNINTlOSTNOZmJrZE0?oc=5",
         "type": "rss"
       }
     ]
