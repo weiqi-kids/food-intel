@@ -1,0 +1,212 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T13:48:05.717088Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-15-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA warns seafood firms about botulism controls and import violations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/fda-warns-seafood-firms-about-botulism-controls-and-import-violations/"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-06-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hillshire Reserve™ Brand Redefines Lunchmeat for More Versatile, Elevated Everyday Eating - Tyson Foods",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR2s4a09nWHV6TDl3LUJFRjdQT19qTHc5V1hodWRBMERzYXdJX0NRQ1hOTXMwN3FvTGJ0T1pEc1JpMWpTM0pCakUtdDNuS2dsaHRDRlJnc0NGbFJPZGNHWW91LS1mVW85LXcwWkZsNzRhNU1pU2d6OTMyVmxndmh1NEc5YnFmdFhMcnJWcE1CSmtwWkJkeFd0NlgtcFBvWVp4OEV4elA0bXRJNDRSYVRhWTBHTEhUd2tMbkNoVlh0Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mondelez-2026-06-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Angela Marotti de Sciarra talks Shoptalk Europe 2026 takeaways as she swaps Amazon for Mondelēz International - Retail Technology Innovation Hub",
+      "companies": [
+        "mondelez"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMDJyVWRkSGtpWjlEcW5JSHNoQ24yUEgyd3ZvankxQkZ5bVZpX202NWpyNDJ0bkxKLUlzZWdsY0dyb242RGtLaHdTcEFMaUM4RzdfNE1nMmF0OWo0OHFZb3V5bVBYR0MxNWN3LVF0T0lXWl9FZV91T3ljVWt5SmdyYVN0OGlCR1QxWVdpMzVqYTdDUEt5TENGTC1rY25reEdOR2dreGRQeTRPb0RhaG9HRzcwaVp1VGNWemYya1lZTWM4MUJzalZIXy1LcEFGb25ya1NFVllDcS15M3BleTh3RDNBeU5FTC02amFVejEwSWpqUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-06-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China summons Walmart chain Sam’s Club over food safety issues - Financial Times",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa05fQ2J5TVVraDhVc2tvbndqVGc2YzVIV1RkcVh2QkEyeEJjRzF6d3pqY1pjdEFUZm10UGM4dTNvemR5d2g1ZjdmSWRGbC1rWnVLSmo2NlA0OHdqLU02cWpOalB5bXFNMUx5MERCejlxTFdTeGZBZEd6YlJod2xZekZOOGk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Retail Stories: How E-Commerce, Collector Culture and Creative Merchandising Are Reshaping the Home Entertainment Retail Business - Media Play News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIZXlJVE8tbWJHZWlQRXFLQ0dPNHcyTzktaUlWRXhpTllUQXMtNE5oU1FmLUJoSlN4aFI5c3lQZHhzWVdROFprclliSFkxSDdXM0JUbkVIbWJ3UlNSNV80?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 22,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 7
+      },
+      {
+        "id": "walmart",
+        "count": 4
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      },
+      {
+        "id": "nestle",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "food_safety",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 263,
+    "dup_title": 104,
+    "too_old": 90,
+    "gate1_blocked": 12,
+    "gate2_blocked": 12,
+    "passed": 45,
+    "pass_rate": "28.3%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Spruce Point Capital Management, LLC's Bunge Global SA(BG) Holding History - GuruFocus",
+      "Uni-President Iced Green Tea: Ready-to-drink classic for on-the-go refreshment - AD HOC NEWS",
+      "Walmart pushes back as New York lawmakers scrutinize electronic shelf labels - Times Union",
+      "Walmart has a message for its 2.1 million workers: AI is going to improve your job, not take it - Fo",
+      "Amazon, Walmart and Target Clash in June Sales Events - PYMNTS.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為好市多、沃爾瑪、泰森食品相關動態：「FDA warns seafood firms about botulism controls and impor...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "FDA warns seafood firms about botulism controls and import violations（食品安全、產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Hillshire Reserve™ Brand Redefines Lunchmeat for More Versatile, Elevated Eve...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

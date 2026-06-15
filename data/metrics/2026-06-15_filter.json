@@ -1,0 +1,16 @@
+{
+  "total_raw": 263,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 12,
+  "gate2_fail": 12,
+  "passed": 45,
+  "gate2_samples": [
+    "Spruce Point Capital Management, LLC's Bunge Global SA(BG) Holding History - GuruFocus",
+    "Uni-President Iced Green Tea: Ready-to-drink classic for on-the-go refreshment - AD HOC NEWS",
+    "Walmart pushes back as New York lawmakers scrutinize electronic shelf labels - Times Union",
+    "Walmart has a message for its 2.1 million workers: AI is going to improve your job, not take it - Fo",
+    "Amazon, Walmart and Target Clash in June Sales Events - PYMNTS.com"
+  ]
+}
