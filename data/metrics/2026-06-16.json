@@ -1,0 +1,49 @@
+{
+  "date": "2026-06-16",
+  "total_events": 21,
+  "by_company": {
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tyson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mondelez": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "uni_president": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "walmart": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "nestle": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 20,
+      "sentiment_avg": -0.05
+    },
+    "raw_material_cost": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "food_safety": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

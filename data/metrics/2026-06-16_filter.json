@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 11,
+  "gate2_fail": 16,
+  "passed": 50,
+  "gate2_samples": [
+    "A Look at Bunge Global SA (BG) After 3.3% Decline -- GF Value $1 - GuruFocus",
+    "Spruce Point Capital Management, LLC's Bunge Global SA(BG) Holding History - GuruFocus",
+    "Kroger makes play for Walmart customers with massive price cuts - thestreet.com",
+    "Kroger joins Walmart in controversial shopping change - AL.com",
+    "Walmart: Taking A Page From Costco And Amazon, But It's Too Small To Move The Needle (WMT) - Seeking"
+  ]
+}
