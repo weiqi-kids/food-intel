@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 93,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 9,
+  "gate2_fail": 16,
+  "passed": 49,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+    "Kroger makes play for Walmart customers with massive price cuts - thestreet.com",
+    "Kroger joins Walmart in controversial shopping change - AL.com",
+    "Walmart Competitors: How WMT Stacks Up - The Motley Fool",
+    "Walmart: Taking A Page From Costco And Amazon, But It's Too Small To Move The Needle (WMT) - Seeking"
+  ]
+}

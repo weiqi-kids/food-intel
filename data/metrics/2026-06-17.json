@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-17",
+  "total_events": 17,
+  "by_company": {
+    "adm": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "bunge": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "tyson": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "mondelez": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "costco": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 13,
+      "sentiment_avg": 0.17
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "food_safety": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
