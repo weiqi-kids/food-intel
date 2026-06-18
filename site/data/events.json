@@ -1,5 +1,61 @@
 [
   {
+    "id": "unknown-2026-06-18-001",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "German company made the infant formula linked to botulism outbreak",
+    "summary": "The manufacturer uses milk from 100 contract farmers who supply it with more than a million liters of milk every day.",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/06/german-company-made-the-infant-formula-linked-to-botulism-outbreak/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-002",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Litigated Dish: The supply chain is not a shield",
+    "summary": "<p>-- OPINION --</p><p>In food safety litigation, one of the most consequential, and often most contested, questions is not whether a product was contaminated, or even whether someone was harmed. It i",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/06/the-litigated-dish-the-supply-chain-is-not-a-shield/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-003",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "health_wellness",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Inorganic arsenic and lead top list of foodborne chemical hazards",
+    "summary": "<p>Dietary exposure to inorganic arsenic represents a major problem, according to an analysis of foodborne chemicals.</p><p>In 2021, nine foodborne chemicals caused 6.26 million cases and 1.12 million",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/06/inorganic-arsenic-and-lead-top-list-of-foodborne-chemical-hazards/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-06-17-001",
     "date": "2026-06-17",
     "companies": [
@@ -320,6 +376,24 @@
       {
         "name": "food_safety_news",
         "url": "https://www.foodsafetynews.com/2026/06/chocolate-raisins-recalled-because-of-undeclared-peanuts/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-018",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Anheuser Busch invests $20M in Michelob Ultra production in bet on beer rebound",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/aE0l8R2bpYYMM-cKTdph1A7xNVJ2_1oT1HUPNgGw3CE/g:nowe:0:134/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0y",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/anheuser-busch-michelob-ultra-manufacturing-investment-st-louis-20m/823134/",
         "type": "rss"
       }
     ]
@@ -1214,6 +1288,24 @@
       {
         "name": "google_news_food_industry",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT0lhMDlQWDhsV3ZyYWpkblh6WkFrczhzNTlOMlZXNlZzZjB2SUQ2cWxqd3lXQnc0Zzlya0xaV2Jlc0tNQ0N4YldfbEp1elNvZGlyQUNYSm15NkZVdUd4YmxoTDN1RHlVNmhwdjl1QVpzSjFtbzFJN1hMZ2UxckVLdVNGOFRYZUtwclpNel9CRW9qVHNKbmlVdkhTNjZVMjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-049",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chobani sued by Danone over high-protein yogurt claims",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/-gX7tX32EKNYap7Kbl7-vlvNEJaWNX6XI_-szAXE0p4/g:nowe:0:765/c:3099:1751/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDY1M18xLWZv",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/danone-sues-chobani-high-protein-yogurt-claims-oikos/823033/",
         "type": "rss"
       }
     ]

@@ -1,0 +1,154 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T11:47:59.028331Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "German company made the infant formula linked to botulism outbreak",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/german-company-made-the-infant-formula-linked-to-botulism-outbreak/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Litigated Dish: The supply chain is not a shield",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/the-litigated-dish-the-supply-chain-is-not-a-shield/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Inorganic arsenic and lead top list of foodborne chemical hazards",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "health_wellness",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/inorganic-arsenic-and-lead-top-list-of-foodborne-chemical-hazards/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 25,
+    "dup_title": 15,
+    "too_old": 0,
+    "gate1_blocked": 3,
+    "gate2_blocked": 2,
+    "passed": 5,
+    "pass_rate": "50.0%",
+    "gate2_block_rate": "20.0%",
+    "gate2_samples": [
+      "Former Red Bull exec tapped to lead turnaround at Zevia",
+      "Illegal cheese operation linked to Salmonella cases"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為產業通用、食品安全、健康趨勢相關動態：「German company made the infant formula linked to botulism...」。主要關注主題為產業通用、食品安全、健康趨勢，市場情緒中性。",
+    "signals": [
+      {
+        "text": "German company made the infant formula linked to botulism outbreak（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "The Litigated Dish: The supply chain is not a shield（食品安全、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
