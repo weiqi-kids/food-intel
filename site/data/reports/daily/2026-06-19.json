@@ -1,0 +1,248 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T12:00:02.855598Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-19-020",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Sea Change for Commodity Prices: Why Markets are Underpricing El Niño Risks - Neuberger Berman",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_cost",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0NQSzFZdV9mZGxqRVduZTc4R0xRbEhZRU43SzBFeVUzdVdNdHNLb1lrS1JfVGlSN3FfaGVtbWtDUHJFd29vRG05M0tFcW52anFldXllOGYyeldJV0g0aWZFTFJRUk5adkI5cnFGM1ZlZTl3NUhjUHpaUkxpNmtRM3c4T0lERjBMRGpLMDZ5Ukk2SmdUY3hCV1gxd1o4V0hHTWF4WWU0aDRCSXR2a19VNHdXVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-06-19-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Are stores open on Juneteenth? Holiday hours for Walmart, Costco, stock markets, banks, and more - Fast Company",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0tkR3A2elhuNWZOZzNzczlnRnQtaC1HMmlWTDNPeUFqTWVoMUV4Ql9BdHJhM3NMSmhTSERobm9scktCMWNYc19vc3lFNDduWEd5UURKTFYtNDBHM1hHSmozU2tYbFFsMWd2OGhlYXZBTG1qVlhkTzdMRTdMRTVJbGIxb09qemQ3Tjlrc3pUMU4zYUQ2dmlYWURPN3lwU1l6X1RFNFlpZV9WbXNqVTV2ZmhLRUNYbVpQTlFpU2xsVzRoa2kwNGlZ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-06-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pacer Advisors Inc. Acquires 179,889 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNFhDSHRFT05HUWo5cUtaVXlBRHhmZkFSTVJPVjFSNVNRZ21yMy0zeUlyQ2EzSk8xNFJYMkZwUDJnWmp6eUpxbHFaall6am9MN1VHT202ejY0ZTRMTjVvNmREUThKTEZSMGlDekdvN2dVTk9nQmVzV2hJU0RKS2p1TUVNUkRtTWQtT2ctLVdHOUJ6Znd0Ymx3QlBnSkNXS2o4ZXdpbmc5UTdPeW90Vm9aNkJRRnVXOWhOSzd3YUg0UUsydEQtLWYweGRLdVNtelVNd2w1WlViZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bunge-2026-06-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Is Bunge Global's Stock Performance Compared to Other Consumer Defensive Stocks - Barchart.com",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMlRicmw3cS02VWFKVU9mNjI4S2sxdDFPd0l4aGpPYkFDQXowUDVpY3d4d3N5SUZYV0xpXy1GZW5SeTJEV2M1dkVnR2lHZmRpaWdEMkxsSzNoTTJZeFhTc2h4VWdsQ1V0MFpMTDNaZ3pEek1MdzE4YVltNmNaWGRUUG56SFhyUGRFN25wZ1dqb0Uzb0tqdEptcTVXVHdyQlEwVVRyNHhlRWV3V0JwSXc1MGRpV2FtYU1yeHNkSTI0U29LNkZDMmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-06-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rare Wolf Capital LLC Purchases Shares of 35,875 Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWNCaHBRaGN2SmlFX01jWnVBdUUxVnVUYmZOWTZia3djdHY5eVBrcEtEa0ViMDliaXJ3VVVxRlhFNVpQbGMyWVBuazFCM1pQaVhqQ2pvb05jVlRrdGRWVDdzZU43LS1PeXRxdmR5MzFpLU1tNHRSbldkdElLaGtZY0NLQ1pxRURxQlhXMF96WkRjeGtibkE4Zkc1S1htX3JUcFJKRHUyRmJhUEVUSjJELS1EZTh5d3VjUDg4YTgyUEo2dTBkRzlz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 22,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 6
+      },
+      {
+        "id": "mondelez",
+        "count": 4
+      },
+      {
+        "id": "costco",
+        "count": 3
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "raw_material_cost",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 242,
+    "dup_title": 67,
+    "too_old": 67,
+    "gate1_blocked": 3,
+    "gate2_blocked": 23,
+    "passed": 82,
+    "pass_rate": "46.9%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Yahoo Finance",
+      "Allison Rivera Joins Bunge as Director of Government Affairs | June 2026 - News and Statistics - Ind",
+      "Tyson Family Foundation makes $500,000 donation to NWA Pride Weekend - The Arkansas Democrat-Gazette",
+      "Tyson names John H. Tyson in new employment agreement extending through 2029 - TradingView",
+      "Amazon Overtakes Walmart as America’s Biggest Company - Visual Capitalist"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為沃爾瑪、億滋、好市多相關動態：「A Sea Change for Commodity Prices: Why Markets are Underp...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "A Sea Change for Commodity Prices: Why Markets are Underpricing El Niño Risks...（原物料成本、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Are stores open on Juneteenth? Holiday hours for Walmart, Costco, stock marke...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "原物料成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
