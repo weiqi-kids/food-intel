@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T11:01:05.593378Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The food industry, which used to be mainly in the manufacturing industry, is speeding up digital inn.. - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DY2JTOUlRQ2dJVVhYbFJscEI4SG01VGIxS0NSN0RPT01sQ2kzNWRCNGZaNzlOYThGWGNvc2J0VWJFdjd3VHdEdG9qaHVHWU0xcWJJ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 242,
+    "dup_title": 124,
+    "too_old": 88,
+    "gate1_blocked": 7,
+    "gate2_blocked": 9,
+    "passed": 14,
+    "pass_rate": "11.9%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Yahoo Finance",
+      "Allison Rivera Joins Bunge as Director of Government Affairs | June 2026 - News and Statistics - Ind",
+      "Tyson Family Foundation makes $500,000 donation to NWA Pride Weekend - The Arkansas Democrat-Gazette",
+      "Amazon Overtakes Walmart as America’s Biggest Company - Visual Capitalist",
+      "Walmart Sells a $14 Cotton-Linen Henley Shirt That's 'Extremely Comfortable' in Summer Heat - Men's "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為產業通用相關動態：「The food industry, which used to be mainly in the manufac...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "The food industry, which used to be mainly in the manufacturing industry, is ...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

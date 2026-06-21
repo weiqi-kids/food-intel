@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-06-21-001",
+    "date": "2026-06-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The food industry, which used to be mainly in the manufacturing industry, is speeding up digital inn.. - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DY2JTOUlRQ2dJVVhYbFJscEI4SG01VGIxS0NSN0RPT01sQ2kzNWRCNGZaNzlOYThGWGNvc2J0VWJFdjd3VHdEdG9qaHVHWU0xcWJJ?oc=5\" target=\"_blank\">The food indust",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DY2JTOUlRQ2dJVVhYbFJscEI4SG01VGIxS0NSN0RPT01sQ2kzNWRCNGZaNzlOYThGWGNvc2J0VWJFdjd3VHdEdG9qaHVHWU0xcWJJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "costco-2026-06-20-001",
     "date": "2026-06-20",
     "companies": [
@@ -15,6 +33,103 @@
       {
         "name": "costco",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aYUpBRWJtUmdob1Y4T3ZfSDFId05lYzM0dW01NlFqN0NvSGg0SVFtcjlfaWd4LUZjT19tMVNELVNnU0RyN3hRcGFGLU5lVm1hTkR3T0VVZUlJZUpIMkN3OEd4bG9RRm92dG5SOUZSd2tTLWtUTDZz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-20-002",
+    "date": "2026-06-20",
+    "companies": [
+      "adm",
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jim Cramer Says He Likes Archer-Daniels-Midland and Tyson Foods Now - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXFJRGF3N0ZNZkZWR0xuS1ppcXduc1NmRjNidzFKLXZ6Um1BU1p0XzR2OHZCdzQ2Y2lFaHJOZUM5RnJRTTRhMmY4UXZWQjl2cXdHTDBtMFl2Qm43dEtnNVdlTVBqN1l4Y2thUm1sNn",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXFJRGF3N0ZNZkZWR0xuS1ppcXduc1NmRjNidzFKLXZ6Um1BU1p0XzR2OHZCdzQ2Y2lFaHJOZUM5RnJRTTRhMmY4UXZWQjl2cXdHTDBtMFl2Qm43dEtnNVdlTVBqN1l4Y2thUm1sNnF5UDdHem92SzNiOWdzdUM5MmFfTGxyenhBNFZ4VHJQaFVZMTFfX1hXSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-06-20-003",
+    "date": "2026-06-20",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Uni-President Stock - Saturday look at long-term business model and growth drivers - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOdWZTcnJUNk81cXlhQlo1ajFJUnItaDcwVFI0bWprQlBZSVZpNDhPWkN3QVFmc2JaSnN5a1RyQnREM3prVzFGOGlDcWFDLUJLYm1KZkJTZjUxTDVIVHZpV3VKRE1HLWJaR0FKY195ck",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdWZTcnJUNk81cXlhQlo1ajFJUnItaDcwVFI0bWprQlBZSVZpNDhPWkN3QVFmc2JaSnN5a1RyQnREM3prVzFGOGlDcWFDLUJLYm1KZkJTZjUxTDVIVHZpV3VKRE1HLWJaR0FKY195ckFuNnRSWVhYbjR4N1JacFkxUGI1T1hScndOa3RsUEZraDNaQXA0aGFWb2UxVzRCTjZ2aXkyRUh0MVVDRzd5RHhseFc2NTRxMVhnTWNJeTJaUVdMSzVjNUFRS0JtZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-20-004",
+    "date": "2026-06-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The biggest summer shopping week from top retailers is coming June 22-26 - WRAL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhaE1fMkFiSEs4R0xnZnNFWW04T3B0eFNhYTJOYUZ1TkRJMmhQU20tNXprMmxJcmw5RDgwVXNZYUt6T01vWWZDWEFUcGxobmpVd0pmaTZtcWUwcC1IRi1ISQ?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhaE1fMkFiSEs4R0xnZnNFWW04T3B0eFNhYTJOYUZ1TkRJMmhQU20tNXprMmxJcmw5RDgwVXNZYUt6T01vWWZDWEFUcGxobmpVd0pmaTZtcWUwcC1IRi1ISQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-06-20-005",
+    "date": "2026-06-20",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart, OHuddle grocery drive delivers 1,600 food bags to Wayne County-area students - Your Ohio News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdEx3R0pLYzE0dzBLTU5MN3psZDYxMFhuVVlST1BWWmlaSUo5SkxpYmhMa0gwM18weTJEUVJzdl9lLXdCUnZjMWlSaXdEVVhvNWpHOFk0T3RrVTFGblV1SlFDalhLdVdITXJ2ZEptT3",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdEx3R0pLYzE0dzBLTU5MN3psZDYxMFhuVVlST1BWWmlaSUo5SkxpYmhMa0gwM18weTJEUVJzdl9lLXdCUnZjMWlSaXdEVVhvNWpHOFk0T3RrVTFGblV1SlFDalhLdVdITXJ2ZEptT3gxMkxMTjREYU9ScHBkUDViTUVGU28xUnV5SDBPdlFpUkVRMmpQbHNnaFFNazVaWUZVWkRNMy01OEhWQVNLSHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-06-20-006",
+    "date": "2026-06-20",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart Just Dropped Crocs Prices - Shop Styles from $14.99 Before Deals Week - PennLive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGltMXpWVjUwd3JmNE10MERJX0QxVDh4Q0F4dzk2N0pWbzRWUzlIZzRzTFFlXzFrOGluNHdzNTl2c0pUaERNQnJ6Tms4cXpneG1YOGphZU9oU193LWJBS3AzTEdnVE5icDVrS1VoSG",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGltMXpWVjUwd3JmNE10MERJX0QxVDh4Q0F4dzk2N0pWbzRWUzlIZzRzTFFlXzFrOGluNHdzNTl2c0pUaERNQnJ6Tms4cXpneG1YOGphZU9oU193LWJBS3AzTEdnVE5icDVrS1VoSGVXbXoxd3RUbHVQaVc2TGtkZE1WTElXd1ZJWWlCNklBeHFYYzJIVUVPTUV5QVpBRjVsckVIc19TWUdScERybnJaNGdnTm96clRaRFhoNUpVZ0tPV2hG?oc=5",
         "type": "rss"
       }
     ]
@@ -938,6 +1053,80 @@
     ]
   },
   {
+    "id": "tyson-2026-06-19-049",
+    "date": "2026-06-19",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods renews employment agreement with chairman John H. Tyson By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPVUtVTHZfWDY0OHFPX3pUa1R2dndSdkhYSTllMzNlLXVrT3J2U0Jnc1F1bjhNN2FrcFZPemo2aHNLV3REam93R3dOSHE0RW56MVZCZzBxSmI1a1VpOERkN1hpYUhaWG45dndlUk1sSE",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVUtVTHZfWDY0OHFPX3pUa1R2dndSdkhYSTllMzNlLXVrT3J2U0Jnc1F1bjhNN2FrcFZPemo2aHNLV3REam93R3dOSHE0RW56MVZCZzBxSmI1a1VpOERkN1hpYUhaWG45dndlUk1sSEs1VnU4WGpQaktmVkZqZ3V0OHRleTJwTm9UNkNLVzl0VFZzd050SWF4T3U2R3ktSXo3ajJJM2J1dEo3ZVllRWlkZE92N3JTM1RQOFlYQ0Nn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-050",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What's open and closed on Juneteenth 2026? Find out if banks, USPS and stores are operating. - CBS News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB6YldneklEM3dhNFNmbmI2Smg5aC1lNWtqaE9YY2JzY2t4MkwtdTk4M1lScExOXzFQVFJJQVZ5UW1RVnpiZmQ4TWc4c0JYQjhaamNKU3ZiM3lDTjVISHBqRm0tLUF4MmJDd2JIOHI4dl",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6YldneklEM3dhNFNmbmI2Smg5aC1lNWtqaE9YY2JzY2t4MkwtdTk4M1lScExOXzFQVFJJQVZ5UW1RVnpiZmQ4TWc4c0JYQjhaamNKU3ZiM3lDTjVISHBqRm0tLUF4MmJDd2JIOHI4dlJsMGp5Yk9N?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-051",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Turning a Short Season into a Business Opportunity - totalfood.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1Uajk3Ukl3bHJ3M1NxZzNFZVNjS0VrcHZvVkNINjhrWlVmYmFCQkpvcjl6R1F0VGhFUVo5NUpRSDJ6WHJvZkdpMmFtRXVYV1JlNW5qXzdfckhBc2FqNXdzaHhpMG51UWpnYjg4b2RTc1",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Uajk3Ukl3bHJ3M1NxZzNFZVNjS0VrcHZvVkNINjhrWlVmYmFCQkpvcjl6R1F0VGhFUVo5NUpRSDJ6WHJvZkdpMmFtRXVYV1JlNW5qXzdfckhBc2FqNXdzaHhpMG51UWpnYjg4b2RTc1RsWWZDZTlzWWZlTGphZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-052",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Campbell’s promotes two in leadership changes - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPSXdzMTJqdWpMZUQ1OXM2bmpmZ2ZWaTh4TF9TeWQ2azZ0d3ZxQVJIcm90VVY0d2RuSlprOFV0Umh5WFNJTzBobzZURlBVbnVmSUZ6YnhlVlkzUTgtNllGZUlSTXJreHBPV2ZUcU5oQl",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSXdzMTJqdWpMZUQ1OXM2bmpmZ2ZWaTh4TF9TeWQ2azZ0d3ZxQVJIcm90VVY0d2RuSlprOFV0Umh5WFNJTzBobzZURlBVbnVmSUZ6YnhlVlkzUTgtNllGZUlSTXJreHBPV2ZUcU5oQlNadzBMWWtrS0VHRlM4djNSeGI5R2VNWVBIaDJBTzdfNkNqeUpEaHFr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-18-001",
     "date": "2026-06-18",
     "companies": [],
@@ -1809,6 +1998,24 @@
     ]
   },
   {
+    "id": "unknown-2026-06-18-047",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "M&A activity helps propel tortilla category - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNU11X0V4ZU1Gc1pERnd2bGhUa1lJeXpSaGhMUVY5ZE56Q3FGdkl3UXA3N1doYWNoNG5EVWtvQUJaZ3h0U2FzR05PYXdycmhnazRaNmRPVFJMRkxTMWhlcEt5Uk1SMHZQUkUwUlh1Uj",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNU11X0V4ZU1Gc1pERnd2bGhUa1lJeXpSaGhMUVY5ZE56Q3FGdkl3UXA3N1doYWNoNG5EVWtvQUJaZ3h0U2FzR05PYXdycmhnazRaNmRPVFJMRkxTMWhlcEt5Uk1SMHZQUkUwUlh1UjVrV1JsWXZwRkp1Zkd0XzVSQ1FCbEFwTU55eDFabWdzQ0dEbEJPQ2RpRFRHUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-06-17-001",
     "date": "2026-06-17",
     "companies": [
@@ -2592,6 +2799,24 @@
       {
         "name": "costco",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1FkT2NXSGpQaGNkWHUtV1BlT2tObUtaN0NLejloVEVXMzVRX2VVSWxEX2Yxb01oUWhnZnJsWG01VE4tcl9Zb3lwVjVUamFQMUxjX1c5el9lX21GanpERmRPdWtrNnJrdE9UOEtIQkZId0tWZ0lLSUR3ZXVwY2F4V0pOaUp4RE5CUXNYVng5eU1qQW9SMVVQWHVaUEVPTWpyYWRqeUtmbkZ5RUtaZnBobVludFBXaDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-042",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Community Coffee, Dolly Parton to launch coffee brand - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxONVdrN1Y2YXpwNEZkVGFLQzVRZU9qWUMxNXkwOFYxT050RWJ2RkhvMGxKcS1fWVN0Q05DdXlGTkt0U1pLejgwZS1Ub2Zwa0U3QWdZcmpPSDg5SjIybVZuTm93VFA1N0owWnlya3pzTm",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONVdrN1Y2YXpwNEZkVGFLQzVRZU9qWUMxNXkwOFYxT050RWJ2RkhvMGxKcS1fWVN0Q05DdXlGTkt0U1pLejgwZS1Ub2Zwa0U3QWdZcmpPSDg5SjIybVZuTm93VFA1N0owWnlya3pzTmZHdmlBajc3NF9KM2lZS1Vlb1l1RG9fVTlHcHc3R1lIWVg4S2IwamZZSmlqd0k2aFFDYmc?oc=5",
         "type": "rss"
       }
     ]
@@ -3524,6 +3749,44 @@
       {
         "name": "google_news_food_industry",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYlhKa202am01MlRvc3g5dkZaclpBVm1ZUENYMHE3V2FDTG00NVRyellIQVlrNG16RmVxNWR6SzRwUDhnZTloY3F4X0NaMW42Y1RuQXRBbEpyOWE2N251Rkd5T3p3SFVQOUlQSXZsbHpSdXpNYnhxXzZTSDVRaDV6ZlNkX2Fjd0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-06-16-051",
+    "date": "2026-06-16",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "This Bunge Global Insider Reduced Their Stake By 21% - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDktSzh4UUVCWWNfeHFhNFpIenZEdVJLWV9GbVBtOGUzR1FDSWR2cHFRcjJIVHBfOWt3YWtCdzhGMldpNzhGS1BjelBVSTZnRHZvS214dlJCZk4tZDNjdGxaWkxhbnJUZUlLS0MzaH",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDktSzh4UUVCWWNfeHFhNFpIenZEdVJLWV9GbVBtOGUzR1FDSWR2cHFRcjJIVHBfOWt3YWtCdzhGMldpNzhGS1BjelBVSTZnRHZvS214dlJCZk4tZDNjdGxaWkxhbnJUZUlLS0MzaHFEVllZZmRMemFfTzJJUGtzYm9DSU55amotNzFQMG1jT3d5ejFIamxNNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-06-16-052",
+    "date": "2026-06-16",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart (WMT) Stock After Recent Retail Sentiment Shifts Is The Rally Justified - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZWRSQzBtOThDOXdUUDRlRHV0NzloR2MwbDd1RWRqYzBHaHRzZW1jSE1DblNLTGg4SW53SmQ2LWhXcU9yd3ZuNk4zRy1KckRYdE9GdmxPei1nR2N0Q1duYVN6dllxVGgyc2tCRURqUz",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZWRSQzBtOThDOXdUUDRlRHV0NzloR2MwbDd1RWRqYzBHaHRzZW1jSE1DblNLTGg4SW53SmQ2LWhXcU9yd3ZuNk4zRy1KckRYdE9GdmxPei1nR2N0Q1duYVN6dllxVGgyc2tCRURqUzhfWFNlS01IQUc5b2l5VEZpOHc5ZXd6UjNsNFlYc1ZMQUxqSFdZSWVQUlQyZFQ?oc=5",
         "type": "rss"
       }
     ]
