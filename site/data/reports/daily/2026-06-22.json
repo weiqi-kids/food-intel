@@ -1,0 +1,201 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T13:28:38.648581Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-22-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA cites four importers for verification failures involving produce, dairy ingredients",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/fda-cites-four-importers-for-verification-failures-involving-produce-dairy-ingredients/"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-06-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods Expands Tyson Chicken Cups with Three New Flavors Amid Strong Consumer Demand - Quiver Quantitative",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVBMUVR0RktsOFoxTzFYcm8xYkcxbkhHeW03YmdxdlpRR2ZkdVN6WUozaUsxd1JmeEZROHlRSTlXSUozRnliMk5mdmFDUUtIQjRNeXpCTnduYmZ1cXBGSHN6OUtXODdWeTlkMkVRb2RodzM1Xy0zZlZfaFZCQmwyemRGU2NabkJUU0M2bV80X2xkYWNSend2V09INy1YX2FFTm91VXZza1ZTWXVXX2plcDMxdWlsZnhSTDJFaVJvYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-06-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson® Debuts New Garlic & Herb, BBQ, and Harissa Chicken Cups - markets.businessinsider.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYjhCZnBuM2lhWlFBejhLblhSSGxqdy1kTmtoNDNoQmhlSVN3amhfS2tTMldwYmVHM19KN0dBRzE0Tk5uZ0JoNFNDbVlIQjVlNEdRVnBSaWxtTGV4OWw0TGprcTctRTF3ZEJheVJMbHo1U0dJUkx0LWJ6aHBRcFNHUW9OanBUNFpkSWVpVW5HcENfLVhuMmhQMGx4WUdjQTJpNENvOUtOaEF5b2JXX0xkNkZaNXlwbFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tyson-2026-06-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson adds three flavors to its Chicken Cups lineup - Stock Titan",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXJWaFVqOWM1b1gtQ3ZMMGtnSExERHJtUVl2dUFEMVQ5ZEp6TkNjSlRwV0VLeWZXT1ZxRHAtNXB2OWZvNmJQeThJTlMweURfaHRzQng3blNGQjhnTzBkTHh2RXdLLTZsQTM0UzBiaDUyMHU2cHpFclprTFlQd2ZsT1VCOXhBcm0wVXRqV0dLSmF6OEV2UzhpX3lZU1FBXzhQS1NJOXVpby1Odw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-06-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson® Debuts New Garlic & Herb, BBQ, and Harissa Chicken Cups - Yahoo Finance Singapore",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOckMzbnd3dWRWTS1lZEcxNlVyQ0xzQmlVNlBWQnlfMS1KX2Z3S0xMOEFDZnk4YWlnZUhwYzZzZjFjV2xRRzB0THNGUlROdlUyV0JqX0hGQUU3VEpnZnAzRzdvdDVuTlJvQ2lkaUpydnhRY3FrS3BuS3RCS0lFSWdDSXBRMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 24,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 6
+      },
+      {
+        "id": "tyson",
+        "count": 4
+      },
+      {
+        "id": "costco",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 262,
+    "dup_title": 107,
+    "too_old": 95,
+    "gate1_blocked": 7,
+    "gate2_blocked": 11,
+    "passed": 42,
+    "pass_rate": "27.1%",
+    "gate2_block_rate": "7.1%",
+    "gate2_samples": [
+      "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Yahoo Finance",
+      "Allison Rivera Joins Bunge as Director of Government Affairs | June 2026 - News and Statistics - Ind",
+      "Mondelēz International - Britannica",
+      "How Appleton-area shoppers can access Costco products without a membership - The Post-Crescent",
+      "Downey council to consider $10.5 million agreement aimed at bringing Costco to city - The Downey Pat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為沃爾瑪、泰森食品、好市多相關動態：「FDA cites four importers for verification failures involv...」。主要關注主題為產業通用、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "FDA cites four importers for verification failures involving produce, dairy i...（食品安全、產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Tyson Foods Expands Tyson Chicken Cups with Three New Flavors Amid Strong Con...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

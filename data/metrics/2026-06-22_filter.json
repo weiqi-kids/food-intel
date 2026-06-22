@@ -1,0 +1,16 @@
+{
+  "total_raw": 262,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 7,
+  "gate2_fail": 11,
+  "passed": 42,
+  "gate2_samples": [
+    "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Yahoo Finance",
+    "Allison Rivera Joins Bunge as Director of Government Affairs | June 2026 - News and Statistics - Ind",
+    "Mondelēz International - Britannica",
+    "How Appleton-area shoppers can access Costco products without a membership - The Post-Crescent",
+    "Downey council to consider $10.5 million agreement aimed at bringing Costco to city - The Downey Pat"
+  ]
+}
