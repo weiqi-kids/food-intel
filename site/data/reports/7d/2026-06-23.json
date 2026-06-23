@@ -1,0 +1,159 @@
+{
+  "date": "2026-06-23",
+  "date_range": {
+    "start": "2026-06-17",
+    "end": "2026-06-23"
+  },
+  "generated_at": "2026-06-23T10:55:46.982901Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "bunge-2026-06-17-004",
+      "date": "2026-06-17",
+      "title": "Bunge Global SA (BG) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
+      "importance_score": 0.75
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "adm",
+      "company_b": "tyson",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 66,
+      "last_week": 79,
+      "week_over_week_change": "-16%",
+      "sentiment_this_week": 0.04
+    },
+    "earnings": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "food_safety": {
+      "this_week": 14,
+      "last_week": 14,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.03
+    },
+    "health_wellness": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "raw_material_cost": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "adm": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 5
+    },
+    "bunge": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 6
+    },
+    "tyson": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "mondelez": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "costco": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "walmart": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "kraft_heinz": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 232,
+        "last": 278,
+        "change_pct": -16.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-17",
+      "event_count": 45,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-18",
+      "event_count": 49,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-19",
+      "event_count": 54,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-20",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 12,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 55,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-17 ~ 2026-06-23）共 232 則事件，重點為「Bunge Global SA (BG) Revenue Breakdown: Busines...」。Bunge表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "ADM",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Bunge",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "泰森食品",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
