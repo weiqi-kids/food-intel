@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-24",
+  "total_events": 11,
+  "by_company": {
+    "costco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 11,
+      "sentiment_avg": 0.09
+    },
+    "food_safety": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "health_wellness": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
