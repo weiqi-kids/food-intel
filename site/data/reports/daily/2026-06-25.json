@@ -1,0 +1,192 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T10:35:17.460941Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-06-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart’s $1.4 billion Vibe.co deal is a direct shot at Amazon’s booming ad business - Fortune",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0dhWUpvZHpKS09VcmVJcU42eHdxZXhnQ29QTHpQOTlMU0hnME80ZjczQ05wa01lQU1iNm1ZVy1YUE9iMmg1cWFLNlN6YnhHT28ydFUtYkhnWGlYTG9HclBXSGFEMHVySC1HSzdhNl9VdTBaLVBrZWdXYnlNNFJCYkQzbVlxQ2FMcmJScA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-06-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart gets bullish on advertising business with Vibe.co acquisition - Retail Dive",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFRNT0trYy0zVU8wbkxVUHBXUlo4SENqR0ppakNkeUVWOEQ0NG5JRHphYk5hUUdMWnJla0ZzbjFhYVY4Rm1nZ3RrVUR4NEVvZ01BeThhR0t1a1Y5MkVBS1J1RnFPbjFsSzBkYlVSNmdvS1V2U0ZjRHdJcXNnblFJTllwUUhZY3NXQk9ZSVB2Y01mLUFnYWFLTFprOUlzQ1RTaTdfQg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-06-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco's Cash Pile Is Building. Is a Special Dividend Coming in the Second Half of 2026? - The Motley Fool",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXFZZXo3Wkp5OF9scXVIYTBNdlR4a0hnRHBTNXAzbmoxRHFBempnSFVJMVZqeWlsb241el9Hc1NKRVpieUs4MFdTb19iNXE3ZjlRV3lJMmUyTTQxOEdXWEEwdzZPZzZjOTZVZ1BVYldZamhlWVBDaXp6SG5uY2liT0lOX1ptOUgyNGJsWWdLN1RRSkh4OUtuVw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-06-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco's Cash Pile Is Building. Is a Special Dividend Coming in the Second Half of 2026? - The Globe and Mail",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbi14THBMNlZxSy1VNXlLaF9SbEprY1B0Q3I2QktSNGRwb1NrQzR0WF8wWGpvcWR4el9QZE5SSkxtYWsyWl8tTjFuMDl6emNnZXRjZnAzTldUWlpmdmFPU0hicEhSRWF1bDZaWVJZUS0xUTByMDR0RVh4by1CNERlcWhpT2xYczNNT3FjUVFOR2luQTMxcW9BdDYwcTFKb1QtUnhtWUx6RHoyMlFQRW9CWk14QVk4ZUtwOU1uX01jS2w5NU9rQjVsOUN4NDNvWTYzSG1maWFpZHlVM0ZOU0RnVUxGemNiaWRGY2RTZ2J0TDZnem5VV2E0dQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Acting President Rodríguez Highlights Surge in Domestic Food Production and Retail Growth in Venezuela - Orinoco Tribune",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS254NVlaZnVnWkdTY0ptSWNVeTZpal9MUzBQZkF1TlJOR1ZMXzJyZURrZzJEbHNUZVcybTNHMHlCbkNYWWZPbk1SSjlFbEtBSERZclBJWHFXazZ0aVc5dFVyejV4U0hYeUVIM1VXdWdoODAyd0p2VGNjTmd4ZEt4X2RodWhOazFEU0o2SDFjZ2dpUFdPaU4yREV0SFJxSzd2TEFuUWJ1Ulh0dEJiN1pnNklwQktEa1BIN0c1Wnk5VTZzT0pLMDZCT2xn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "costco",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 261,
+    "dup_title": 109,
+    "too_old": 92,
+    "gate1_blocked": 7,
+    "gate2_blocked": 19,
+    "passed": 34,
+    "pass_rate": "22.4%",
+    "gate2_block_rate": "12.5%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+      "BG News | BUNGE GLOBAL SA (NYSE:BG) - ChartMill",
+      "Tyson® Debuts New Garlic & Herb, BBQ, and Harissa Chicken Cups - Yahoo Finance",
+      "Rakuten Monkeys vs Uni-President live score & predictions - Sofascore",
+      "How to save during Amazon, Target, and Walmart sales this week - WMUR"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為沃爾瑪、好市多相關動態：「Walmart’s $1.4 billion Vibe.co deal is a direct shot at A...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Walmart’s $1.4 billion Vibe.co deal is a direct shot at Amazon’s booming ad b...",
+        "level": "green"
+      },
+      {
+        "text": "Walmart gets bullish on advertising business with Vibe.co acquisition - Retai...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

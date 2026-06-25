@@ -1,0 +1,16 @@
+{
+  "total_raw": 261,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 7,
+  "gate2_fail": 19,
+  "passed": 34,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+    "BG News | BUNGE GLOBAL SA (NYSE:BG) - ChartMill",
+    "Tyson® Debuts New Garlic & Herb, BBQ, and Harissa Chicken Cups - Yahoo Finance",
+    "Rakuten Monkeys vs Uni-President live score & predictions - Sofascore",
+    "How to save during Amazon, Target, and Walmart sales this week - WMUR"
+  ]
+}
