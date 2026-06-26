@@ -1,0 +1,227 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T10:44:45.450134Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-06-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings Upgrades And Zacks Rank Boost Might Change The Case For Investing In Bunge (BG) - simplywall.st",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVWc3b1kwaWNjdERYenVkenhqLWhlc0hSa0VWeUluOGJMenkwS3UtSDUyNzRrb0tzbXFKb1ZaWEtWYTNKVG1HRGdZd2F3S19HWGRSclJzVWlueXluWjdvai11VEFSNU5BSWY1dnBTOTdlcGFfeDZsemNDdzZDdWhlQUFuclN4aVROakpCdThLbjBqcTZGakVyTTUzUHFPcENnby1VWWwxS3A2ZmQyREgxci1mSXQzT1VrN2x4dDA1ellGalRvbHRKdEhsaUJ2RUZNSndIVHEyb9IB3AFBVV95cUxNMXNmY3MwS3F1WDhtOE5mSzFCU2lPNkJsbG5CVXJIclhEMHZZdl9UVUJXeUs5WEcteExmdzNtY0xwS3p1S0d1OU5RVTVHckNnQXpnS2taOTNZQmpZcFkzSWNETnV5a3NKbUJmaVpuLTlNZkxTVkRrZTI3bE90aXpNUUZGd09ENGhrNUJTdUVXa0hlVEZkcmNHUzZfdUJrdUozbll4b3B0R1pkRl90N2wyY1hmaTdqQWlFeDcxT2tDc2taMXhpV0VFeUZ3TGJyeEFnTGVWQnVFUU9hQlMy?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-26-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "USDA issues warning about chicken wraps contaminated with Listeria",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/usda-issues-warning-about-chicken-wraps-contaminated-with-listeria/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-26-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "USDA issues warning about chicken breast products with undeclared allergens",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/usda-issues-warning-about-chicken-breast-products-with-undeclared-allergens/"
+    },
+    {
+      "rank": 4,
+      "event_id": "bunge-2026-06-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Bunge Essential Shortening from Bunge Global SA - quiet workhorse for bakeries and food brands - Ad-hoc-news.de",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmxFUk5tR3Y0UzZ2SzFXMTVzVTFPZDh5QVV0RTFJbTNDYjFmVlZoMTNIQ3l1Z0RVTVNyOFV5a2RVYTIzd1FxOGltVnFfdVhUeUU5LWdJUU1QbllZODVfMGVCYkFiRGJ6QW1HejJVaUFMdkd2Y3N0R21Qei00Nm1HU1RybGhWRjdWMXB0ME1NSmZHWjFLNko3RWRlWE5XUG94b0dIeWwzaUNXSGp0SGJNTnZjNTkzeE04MVYxRVhCN0xpTzJXSUIzYjJ3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-06-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Q1 Rundown: Tyson Foods (NYSE:TSN) Vs Other Perishable Food Stocks - StockStory",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmhaRGxsSi1NMnpkWHRTamF3d0NuQTIyZ3NDYXNyUEc5WVRIOHMyNlZlUDZaa2JJQWRyTFJvX3NIamZaY0FNWkpKeVpSMWlJa09GdUlEdG9TRWdnZEwtVFdiQXVKZENfTzd6ZjV3TGtJSW1SSTZfR3Z6STY5NDI1NGVxcjJNM1ZaVzRCUDRJM3ptMFRMRllja191aGp1Q0MxRXlKald3eWNJc1htS2ExOTdqaDBxYTFLUHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.4,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "bunge",
+        "count": 2
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "food_safety",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 106,
+    "too_old": 89,
+    "gate1_blocked": 4,
+    "gate2_blocked": 16,
+    "passed": 45,
+    "pass_rate": "29.2%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+      "Building a Career in Category Insights at Mondelēz International - Mondelēz International, Inc.",
+      "Brick Walmart seeks to grow, as shoppers look for pickup, delivery - Asbury Park Press",
+      "Walmart cutting hundreds of jobs in Silicon Valley - KRON4",
+      "How to save during Amazon, Target, and Walmart sales this week - WMUR"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為Bunge、泰森食品、沃爾瑪相關動態：「Earnings Upgrades And Zacks Rank Boost Might Change The C...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Earnings Upgrades And Zacks Rank Boost Might Change The Case For Investing In...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "USDA issues warning about chicken wraps contaminated with Listeria（食品安全、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

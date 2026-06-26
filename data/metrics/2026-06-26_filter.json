@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 4,
+  "gate2_fail": 16,
+  "passed": 45,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+    "Building a Career in Category Insights at Mondelēz International - Mondelēz International, Inc.",
+    "Brick Walmart seeks to grow, as shoppers look for pickup, delivery - Asbury Park Press",
+    "Walmart cutting hundreds of jobs in Silicon Valley - KRON4",
+    "How to save during Amazon, Target, and Walmart sales this week - WMUR"
+  ]
+}
