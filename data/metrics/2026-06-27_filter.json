@@ -1,0 +1,16 @@
+{
+  "total_raw": 261,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 1,
+  "gate2_fail": 18,
+  "passed": 36,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+    "Archer-Daniels-Midland Company Shs Unsponsored Brazilian Depository Receipt Repr 1 Sh - TradingView",
+    "Building a Career in Category Insights at Mondelēz International - Mondelēz International, Inc.",
+    "Rakuten Monkeys vs Uni-President live score & predictions - Sofascore",
+    "Target Tries to Win Back Gen Z Back-To-School Shoppers from Walmart with a LoveShackFancy Collab - i"
+  ]
+}

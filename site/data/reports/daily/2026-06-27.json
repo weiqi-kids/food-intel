@@ -1,0 +1,197 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T09:57:33.827603Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-06-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to EBIT forward of Archer-Daniels-Midland Company – NYSE:ADM - TradingView",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZHptVm92TnhHR25BWE8wSnlfQTN1aHkyTF90bDg0alc4SWxya1NybVNGU2ZkMWZyd3hWNTJaWUlJMHhzV3ZFbDhyU3dhZUJVUUtzcGlFV292elZSWElVRG5iOGtJVTBGUGt1endRazlsLUQ0MUpYbjg0Ym9MVzRyR29HV1UxX1p4WnpEbmZfdzFXemNvSFZRdkFkRVNsN25PY2FjMzd5aw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ttet-2026-06-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to book forward of TTET Union Corporation – TWSE:1232 - TradingView",
+      "companies": [
+        "ttet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU1RNMkR6LU0wMzFPRXVRMlhkOV9mQXhQV0VZZnNEVmlsOWtmTktXU25SbFBsY0JFT2tLT0xkanNVQUQ4bFN1OFNmemFKT2Fyc0h1TUhkaWhHNzh5a1BRX3V0aVpYVTN2OXUxNnJVSmpUZVdIcFVweE5CUDBJZVNFNDRodmhiS3BOMjhoMVdwdVp4VXZhT2YtMjFR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-06-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Tyson Foods (TSN) Using Convenience Snacks to Quietly Redefine Its Core Brand Strategy? - Yahoo Finance UK",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0d2a3hvUkJFZnhxeEhtZk1WQVkwZ3AzZGJDLUZkWXBNYkZHMEdWbThuRDJMdDhaeTNMcHhnR3JVU2JINmVnQWw2cVQ3VUpFa2JNTUpKdUxyVXFXa3RXMFVTS0tRMUhRMkVZdjJwczZaYVBjZ0t4bEwxMTFRdlZyUW1sbTRGX2FTTVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chocolate covered raisins recalled because they contain peanuts",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/chocolate-covered-raisins-recalled-because-they-contain-peanuts/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FDA knew of deficiencies at foreign plants that produced infant formula",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/fda-knew-of-deficiencies-at-foreign-plants-that-produced-infant-formula/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "ttet",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 261,
+    "dup_title": 120,
+    "too_old": 86,
+    "gate1_blocked": 1,
+    "gate2_blocked": 18,
+    "passed": 36,
+    "pass_rate": "25.5%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+      "Archer-Daniels-Midland Company Shs Unsponsored Brazilian Depository Receipt Repr 1 Sh - TradingView",
+      "Building a Career in Category Insights at Mondelēz International - Mondelēz International, Inc.",
+      "Rakuten Monkeys vs Uni-President live score & predictions - Sofascore",
+      "Target Tries to Win Back Gen Z Back-To-School Shoppers from Walmart with a LoveShackFancy Collab - i"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為ADM、TTET Union、泰森食品相關動態：「Enterprise value to EBIT forward of Archer-Daniels-Midlan...」。主要關注主題為產業通用、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Enterprise value to EBIT forward of Archer-Daniels-Midland Company – NYSE:ADM...",
+        "level": "green"
+      },
+      {
+        "text": "Price to book forward of TTET Union Corporation – TWSE:1232 - TradingView",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
