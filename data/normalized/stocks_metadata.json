@@ -1,63 +1,63 @@
 {
   "adm": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   },
   "bunge": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   },
   "ttet": {
-    "earliest": "2005-12-23",
+    "earliest": "2005-09-26",
     "latest": "2026-06-26",
-    "count": 5025
+    "count": 5089
   },
   "nestle": {
-    "earliest": "2005-12-07",
+    "earliest": "2005-09-08",
     "latest": "2026-06-26",
-    "count": 5173
+    "count": 5237
   },
   "coca_cola": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   },
   "pepsico": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   },
   "tyson": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   },
   "general_mills": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   },
   "mondelez": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   },
   "uni_president": {
-    "earliest": "2005-12-23",
+    "earliest": "2005-09-26",
     "latest": "2026-06-26",
-    "count": 5025
+    "count": 5089
   },
   "wei_chuan": {
-    "earliest": "2005-12-23",
+    "earliest": "2005-09-26",
     "latest": "2026-06-26",
-    "count": 5025
+    "count": 5089
   },
   "standard_foods": {
-    "earliest": "2005-12-23",
+    "earliest": "2005-09-26",
     "latest": "2026-06-26",
-    "count": 5025
+    "count": 5089
   },
   "kraft_heinz": {
     "earliest": "2015-07-06",
@@ -66,23 +66,23 @@
     "history_complete": true
   },
   "walmart": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   },
   "costco": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   },
   "etf_pbj": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   },
   "etf_vdc": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   }
 }

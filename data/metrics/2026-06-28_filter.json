@@ -1,0 +1,16 @@
+{
+  "total_raw": 261,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 1,
+  "gate2_fail": 18,
+  "passed": 22,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+    "Price to book forward of Archer-Daniels-Midland Company – GETTEX:ADM - TradingView",
+    "Archer-Daniels-Midland Company Shs Unsponsored Brazilian Depository Receipt Repr 1 Sh - TradingView",
+    "Price to sales forward of Bunge Global SA Shs Cert Deposito Arg Repr 0.2 Shs – BCBA:BNG.CI - Trading",
+    "Voya Global Insights Portfolio's Bunge Global SA(BG) Holding History - GuruFocus"
+  ]
+}
