@@ -1,0 +1,201 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:24:33.402373Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-29-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China’s pet food imports decline amid tariffs and domestic competition - PetfoodIndustry",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdUFHNGxUNFdfejdZOHpHNnYxTGNEU3VuSmdfLWFwNWN1UDZrLTF0dTlUVlItc2pMUVE2SXc1WmtxZEtwdTJPSjl5Qmp1c1diSUtORWJJV2lUS1FzUTlnM3pLeDRwODJ0ZFBSbk1adG0yVGM0eUdocFh0QlhpN1hpY1d3RmdwckFEaEx6Wnc2S2YzVjM5MmV4YWFxWXk2Y2NadVEwaG9ZMEZPU3hYQmk4LXk4UnBIbEs4WkRfZndQYTJXTEVmd1kzREI2U1Z0Vjg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-29-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA warns four importers about safety verification failures",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/06/fda-warns-four-importers-about-safety-verification-failures/"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-06-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OP Asset Management Ltd Takes Position in Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNME94RzNWYVVJRWxPZzhvRFlzMTNYYWRtN1VRVThEeWJ1UHVWeUp6Z21DR1JtcUtfVmQ4cG1TT0ZMWGVESEl4NnVCUGhLOGZXMWZZcHdxTzduWWs0VlEyT1E1OFI3VEUzTGxMLWZlYWp3cElNbnpNTFpoalhrSk03a2o0Mjk0QnQ5bTM1ZVU1VHpkNEtvTEhwc3JnSG9Vd3pveV9TeGpfd3ZaeGtSVDVOdmVCbkRPODBFRENKM2FiTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-06-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How digital price tags are spreading at retailers like Walmart — and sparking ‘surveillance’ fears - New York Post",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWEzUFZDeDZHS3ozZzJGYldwWnFTZXd3MGstTFpXRF8ySXBFTEd3MUZTSXhfOThDb2lfQVVkU2tkMzdoNTF3QUdpbnpjUVRUZmJLT3lsWDgtbzV3UWNleEljNUREZHhmMmZfZUZZcGREV0JzYkJfTmJOLUFqSUdBaUFxaUFVTm1kbVJySk9lY2JvdFJfZVBQQWlvd0tRVHZmcHZXaV8xVmpvUEhDN3ZKSjh3X1BFN2p4cWJsa1U1UFMzVzdqWU9VWkxB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-06-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Streaming is the next frontier for Walmart’s, Kroger’s ads businesses - Modern Retail",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUjFHX0lwaTBZaE96bUpRU0dMbHFLajQzeTZyaWdGREtwVTN3M0VieC1qMGtoc0hoLThlZFJXYlNTNUZiLXA2YlByUml5Mm51RW1CUHdXS0JiYzhHUVIyM3JfeDd6aDY5RU1vNUQzanUyWVYyS0ZLYVdUZE04Rl9RLXVRZURpZDY1X0lkRFRRUlNYcDhPRHQzTmhmUXRvRTIyZ19nb2NXVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 128,
+    "too_old": 87,
+    "gate1_blocked": 3,
+    "gate2_blocked": 18,
+    "passed": 24,
+    "pass_rate": "18.2%",
+    "gate2_block_rate": "13.6%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Company(NYSE: ADM) dropped from Russell 1000 Dynamic Index - marketscreener.c",
+      "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+      "Price to book forward of Archer-Daniels-Midland Company – GETTEX:ADM - TradingView",
+      "Archer-Daniels-Midland Company Shs Unsponsored Brazilian Depository Receipt Repr 1 Sh - TradingView",
+      "Enterprise value to EBIT forward of Bunge Global SA Shs Cert Deposito Arg Repr 0.2 Shs – BCBA:BNG.CI"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為沃爾瑪、泰森食品相關動態：「China’s pet food imports decline amid tariffs and domesti...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "China’s pet food imports decline amid tariffs and domestic competition - Petf...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "FDA warns four importers about safety verification failures（食品安全、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
