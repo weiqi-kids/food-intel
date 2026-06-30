@@ -1,0 +1,210 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T10:49:57.212328Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New brand names for Carrefour stores unveiled - Taipei Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PY2U4T0Jpc0RBWFZ2czgwLURZeFlZYWNCMnlydWU4VmQ4MEJlaGpfMDFxcVBqaVpBb2dJVWI4QmpNcGFOU1Racm5ZdUtIT1RnZ0RweTU3aGxNVloxNHlYNldOZXY5WTM1Mk5lMjhaMVFmdGJLcEZoZnhB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Carrefour Taiwan hypermarkets change name to Prosperity Plaza - Taiwan News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wekFVYWgxYXBjc2xLU1NYeDFhT0ZzSWh2eW1XSkplVFFvR1lidklRM25tRk5IdHo1bWlQR21CV1NSNzV4SVlhOGVDWGpzSVNZUGVjZG9HVlg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-06-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deputies Say A Walmart Stop Led To A $6K Retail-Fraud Case Across Michigan Counties - Yahoo",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVFloZ3FyLThKOGVCRHU1cDRCNjVKQmFwLXlqeF9mTFpnbWlVU0pvODhMeEQxQUhTZ0JjWkFlbk9PNE9acGhzWVhRaV9qbEo4dUsxY1ZMOTliQmQwR0dSNFdPUjJTX3Y1SWdocExLRlI1SjFkaVlESG5QUTZBZzM2WHZpY2xBckhzMFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-06-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart launches optician career path; ups pay for general maintenance techs - Chain Store Age",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX21saXBvY3oxbGxrTHR5blF2S2FScmdfOTVrWEVabTVqWFFoSURla21UZzVkeVg4cllndEgySm1PcGg3Y0NFSERUaVB3RnRNRTQwcF9UUFdtc19EWVVGa2V3d2gxQ21wUExHS0FabmtfNl9OeG5oSWVpYmVaWGlKbF94Z0ZIWm55QWN2WFk4UnUwa3NhbEpyWThrRlhSQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-06-30-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco made several changes to get members to its warehouses more - thestreet.com",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWW93N1RKZUd1VTg0VXZqZl8td1d6UDJmZkU2UEI1aTdRUXNkUDczNG5zMUdFdnpubFpuY3NodjFvUHdnT2FpZkhLVHNqYnlJVnF3cS1Ld2kwV3llWUVDOUVwcFJxc1pKSnlCWTR4M2FnYW9XUTFXQmgyT3JQcFowTHFDSHZOR3dUMWtTUFY4Q0dQVkczYnRZamw2a3h6QUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 3
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "food_safety",
+        "count": 5
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 101,
+    "too_old": 91,
+    "gate1_blocked": 6,
+    "gate2_blocked": 21,
+    "passed": 41,
+    "pass_rate": "25.8%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+      "Archer-Daniels-Midland Company(NYSE: ADM) dropped from Russell 1000 Dynamic Index - marketscreener.c",
+      "Price to book forward of Archer-Daniels-Midland Company – GETTEX:ADM - TradingView",
+      "Archer-Daniels-Midland Company Shs Unsponsored Brazilian Depository Receipt Repr 1 Sh - TradingView",
+      "Enterprise value to EBIT forward of Bunge Global SA Shs Cert Deposito Arg Repr 0.2 Shs – BCBA:BNG.CI"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為好市多、沃爾瑪相關動態：「New brand names for Carrefour stores unveiled - Taipei Times」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "New brand names for Carrefour stores unveiled - Taipei Times（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Carrefour Taiwan hypermarkets change name to Prosperity Plaza - Taiwan News（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

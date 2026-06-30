@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-30",
+  "total_events": 15,
+  "by_company": {
+    "walmart": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "costco": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 14,
+      "sentiment_avg": 0.04
+    },
+    "food_safety": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "health_wellness": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
