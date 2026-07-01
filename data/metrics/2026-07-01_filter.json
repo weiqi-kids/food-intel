@@ -1,0 +1,16 @@
+{
+  "total_raw": 261,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 6,
+  "gate2_fail": 18,
+  "passed": 39,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Company(NYSE: ADM) dropped from Russell 1000 Dynamic Index - marketscreener.c",
+    "Price to book forward of Archer-Daniels-Midland Company – GETTEX:ADM - TradingView",
+    "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+    "Enterprise value to EBIT forward of Bunge Global SA Shs Cert Deposito Arg Repr 0.2 Shs – BCBA:BNG.CI",
+    "Lexington workers are commuting for now, but the city is ‘more empty’ after Tyson closure - Nebraska"
+  ]
+}

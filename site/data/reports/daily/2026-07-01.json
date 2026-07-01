@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T11:18:38.702464Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-07-01-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "How Long Can Target Stock Continue To Crush Amazon, Walmart, and Costco? - Yahoo Finance",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT0c1Ql9rSmtjLURNSXFhclhPRGpZVUtmajdKTmp1b1hRUmJwUGpCY2xESnN5RmJsUU1yUFU5OUkyNmNrMzJPQ3BveVNfT1lsTUNZVG9qd3lJSlpxcGs3NTFxV2RiVGkzUTJvSEZEV3pnRTBsS3RIZkowYXZBeG15c1RyTjdNY1RMNU9SdHRaMjZaamJrYWhUUnhPMEsyZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-01-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Publisher's Platform: Letter to the Committee on Health, Education, Labor and Pensions",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "health_wellness",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/07/publishers-platform-26/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-01-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Allergens dominate as recalls drop in New Zealand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/07/allergens-dominate-as-recalls-drop-in-new-zealand/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump Rolls Out $500 Million Lifeline for Smaller Meatpackers as Beeflation Spirals Out of Control — But - Benzinga",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQQjJ0NmN5bWU4TlBTbzhCUTFlY2lOYjJzaEJIYXBDZEpDWWhxdkZMcDZ3elpsMFJCYW1rZFZnc3ItZTlJZFpzbkRVemNoSEhGQk14aTZwUVg5Z2MzSVdLQUd5UmpReG9Rc1BHRkwwQ0JRYlM5QkNwTGNqVFlWcnlKZmt3VjBueWFxNnUwU3FUT3EybDIzTDF6dU9aUG9CY1RYMFdRUUVYSlFITldIMW9rTnFyZVJYM0IwUmN5d0Z6SE9kTTBSTDJQZ2EzVXNQRzBwMllCcWxXNjZueWphR2NfSTJzTmd3VUdJV0UycEFnUmxzdDliWGxJa3UyNXp5dVBORzVkTmxiaUx4NjJueFpTTHhQQ01lYl9hQVdONzVaUnlFZlZOQ0ZoNWJBUWJuQllGQXZMbjVhZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-07-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco (COST) Is Using AI Online As China Executive Memberships Start Strong - simplywall.st",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSFZLYUxvQmZRcS1hTEVsd0gxNlliNVd6akx0ZlVwUHk1N2U4dnRFWGN2SXdha3M4dmxPeS1QUHF6QjdFRDZPSE4xSFhHbks0cG1zbmhyZ016S1BOWmJXZXRkSDFrVmgyQ1ZtT2F3WTFDbEdsaWw2aW5hbkRZbzI2OUxQeWcyb2hRWnpHeDJwaldROXJrb3N6Q29TSnBQMzBXeFBxZWE0QzhUUVNqRXZNcVlPeEFvbnFOME9fYW9idGl5MVJnS2NEVTVtOFdWUXhCbF9rdlpFamJKYlV5cXfSAeMBQVVfeXFMT1RqNDU1SXJhcEFCXzVxOVZEVzBFY05penZIOW9WSDY1Y1dZcmFMd3lUZmdQZUJPSjZST1ZZSUNRaFZCRWhmTGJqVWZETW43dDFPV3RsWGRJczJic3IwY3lzYWtXWjdicmVHWnZZV3locTktdGVnby1CaHB2cmtXd0hMQnNiU2F6cE5fRlNvWVEtalhYellVQnFTcnZzd2RMN09uX0VIcmtOQUdEbUlrLWFDdUJhLXJ4OFR1bm1FTktFVlFyanUwVTkxaUx3OFctclRybHJpYjlUVW1QeHo4b1ZBTzQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "food_safety",
+        "count": 4
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 261,
+    "dup_title": 106,
+    "too_old": 92,
+    "gate1_blocked": 6,
+    "gate2_blocked": 18,
+    "passed": 39,
+    "pass_rate": "25.2%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Company(NYSE: ADM) dropped from Russell 1000 Dynamic Index - marketscreener.c",
+      "Price to book forward of Archer-Daniels-Midland Company – GETTEX:ADM - TradingView",
+      "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+      "Enterprise value to EBIT forward of Bunge Global SA Shs Cert Deposito Arg Repr 0.2 Shs – BCBA:BNG.CI",
+      "Lexington workers are commuting for now, but the city is ‘more empty’ after Tyson closure - Nebraska"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為好市多、沃爾瑪相關動態：「How Long Can Target Stock Continue To Crush Amazon, Walma...」。主要關注主題為產業通用、食品安全、健康趨勢，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How Long Can Target Stock Continue To Crush Amazon, Walmart, and Costco? - Ya...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Publisher's Platform: Letter to the Committee on Health, Education, Labor and...（健康趨勢、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
