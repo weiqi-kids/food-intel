@@ -1,0 +1,16 @@
+{
+  "total_raw": 262,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 8,
+  "gate2_fail": 15,
+  "passed": 44,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Company(NYSE: ADM) dropped from Russell 1000 Dynamic Index - marketscreener.c",
+    "Price to book forward of Archer-Daniels-Midland Company – GETTEX:ADM - TradingView",
+    "Lexington workers are commuting for now, but the city is ‘more empty’ after Tyson closure - Nebraska",
+    "Crist|Kolder Places CFO at Mondelēz International - Hunt Scanlon Media",
+    "Building a Career in Category Insights at Mondelēz International - Mondelēz International, Inc."
+  ]
+}

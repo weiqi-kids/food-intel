@@ -1,0 +1,195 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:29:41.425248Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-07-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods expands chicken cups range with three new high-protein flavours - FoodBev Media",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWU5TMHB3eF8zMm1vd2YyRFZ1LUEzV290SGNVVU54emhzYTZEQmNtekZ6NEFZbmVvTUxCX2FwVWRtTnhZaVVIcXJILVRCSEhPS2NubmN1Zk5FUGQ4R0NmMTlXMkdab3g2b0l0Zzh1ZGQybzg0dUhRT055X3dhMHBlTUZ6R0dGUlVCRjJiY0pzMVFxLW9oMldiN2k3SWtZTktNV0JFc3NZcw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-07-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Growth Stock Showdown: Is Costco or Amazon the Better Buy Right Now? - The Motley Fool",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNXFFbGRuQzhDX1RmSzFNNERpOHlKZDdTcVNDNk1IX0J2OUxSS3BOZ0VFTlRjeXVUYXVCZWtodngyQl9xdDZDRW50bkVTdjVZRTJFWWhPUmkydldwME95ZHdTSk4zLXFLUU9IaTVSUXhIMkx6U19LR3JtMkNDYlZLTV8tczU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Aging And Declining Births Reshape Italy’s Food Industry - ESM Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0gyN3lVWjY3WjgwR0ZZZTlJVjNJOTFQZ2hKU2F5azZFNjhlMHZ1S2dBMlBiRWZOLWRBRlJoOGtQQVowcW5CakdCRjVaN2lncm5KeVo0QVl2NjBPcHJpMG9tZ0N5VUdXejhkako5QVZJR1FiVzdrSWlHblJSUWtQTzY4VHg2c1h3VGwxSHd0a3k3enFzRHM2UUtid1pqeFR6YXN0d1BwU29VbGNmdHVMRk5BeHg0d19oNHFYUmI2QW5Uc1k?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Seafood safety researcher awarded at NZIFST Food Industry Awards - FoodProcessing.com.au",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM1VWTFU2dkdQdE1EMDNzVVo4VkdwaGRhZzVnckwtb0VVbVpqN0YwQ21Dbm1yV2hUWDNseG9kRHNfeVNPYlFjc1VQU0NfUXJsbVJLd2g4SGRKSlE3Rmg5d3RYMnNZWm9WSUZoUmJDVFlNd2hZLWxqWG9XZUtfeUYzVkNzbkdTYmhydzdubDMzWGFkaTkzbFJXQnBpcmhSd2tQZUhubEUzNUlkaExNWDU4dUFObkxmWmZocnhpMnlxWEhmeHdXMk5PUVEySzA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "More than 100 sick in severe multi-country Salmonella outbreak",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/07/more-than-100-sick-in-severe-multi-country-salmonella-outbreak/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 262,
+    "dup_title": 100,
+    "too_old": 95,
+    "gate1_blocked": 8,
+    "gate2_blocked": 15,
+    "passed": 44,
+    "pass_rate": "27.2%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Company(NYSE: ADM) dropped from Russell 1000 Dynamic Index - marketscreener.c",
+      "Price to book forward of Archer-Daniels-Midland Company – GETTEX:ADM - TradingView",
+      "Lexington workers are commuting for now, but the city is ‘more empty’ after Tyson closure - Nebraska",
+      "Crist|Kolder Places CFO at Mondelēz International - Hunt Scanlon Media",
+      "Building a Career in Category Insights at Mondelēz International - Mondelēz International, Inc."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為泰森食品、好市多相關動態：「Tyson Foods expands chicken cups range with three new hig...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tyson Foods expands chicken cups range with three new high-protein flavours -...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Growth Stock Showdown: Is Costco or Amazon the Better Buy Right Now? - The Mo...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
