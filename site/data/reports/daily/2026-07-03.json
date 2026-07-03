@@ -1,0 +1,236 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:27:26.915755Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-07-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings Snapshot: Archer-Daniels-Midland tightens EPS outlook after mixed Q2 - MSN",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQU3dIcndzR0p4b1BTSzBjRHVmOGVVSnlMTEZXYld0TDNlbUxzX05OSUpuSlZ2ZUJ2R2xRbHdpOHBCNTZzbW5UYWtRRWY3WUE5Rml0YkVDRVVFRkNxc1hKclBGMzlpc3hmTXJzT2k4RE4xdnU5M3ZzMWpoR21Ea1duRklYdkwtMW0tYmZ4YTBlUWZJZENUVTFWaEF6NC1MUVFJTUNtRHJlSGZFQlQxQjFjc3dTNHAwdFJDXzBJcE9aRHpWVUxtRlJfNW42MWFxV2dsNU9jUXVjM0phSXRUYmNJNzRsSXlwY1dMNGNkU1ItVWZYM3pYc2pJdWhvbEpDNW9JQXl0VEdSVmFzNDQxUUUxSmRocnRvcGllemNMeXpHTnpFRF90bURIN1p2WHBwNkMwb1hRZHJDQktwX3dEVDE3dVFTN1owMV9yTHN5VWFvbnJMRS1zMndoUzNDUzE4SlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-07-03-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Are stores open on July 3, 2026? Holiday hours for Walmart, Target, Costco, banks, stock market, post office, and more - Fast Company",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaHFZYVBnZHAwdnVDam9zenlYRGJBNDJjR1plcG1oQkZNVXhmUjBDdElLcnhxQlM1bm5tX25EMjJSaEN1TmlkenFmbzVPT0ZYd0Q4WEdJZVZJNF92XzZfM2RzMThOLW5FMl9OU0lYeE1EYVY1Szkyc3pTakJRekxqMmYzUk84TVNEaGZYblV4d0YxcVlYQWJQbFNRQTZvM09oR2dEZUVseEhSUWdfYWJuOHJrcENnTFdjWU90YW1USUlrMEVMaUZDVzdVdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-07-03-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "I Compared Meat Prices at Costco, Sam’s, Walmart, and Aldi—One Store Clearly Offered the Best Value - AOL.com",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmFjazRUc2dNRFVUSktEeGlGMGtTekhCa2I1MElpRllETXZJN2o0U1B2RlRDNXFhcjlGS2pBb1RLWk5iVllYZWc3dldKTzVpUUw1dHIwOVAzcml2eXVoUlpiXzdzbkY1TDZuWm1SRGE2aDlYU1MwckNEYmZnd0xxcQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-03-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Moldova and Malta report food poisoning incidents",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/07/moldova-and-malta-report-food-poisoning-incidents/"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-07-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart and Amazon remain at the top of US retail in 2026 rankings - Retail Insight Network",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTIyb3JPN0laZ2JHamNCNmxHY1MzcGhhTWlzYVNkNXFJY29yTU1pc0VxQ0daUmxMZHFQWlV5SzVxUVJXdnE1eG9EVkZoSW0wdlFxbk1GNHFPSlhDdkhBTVFyRW83QVd6YUQ0ZzJpRmc3QU9tZlBFMkxVcnc1V0dxTndUeklzNnFQVXNuLUwyMENWUjc3VExla0ozY2k3cTBTdXRFWmJxS0gtOURjcEFRbw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "costco",
+      "to": "walmart",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "walmart",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 262,
+    "dup_title": 98,
+    "too_old": 96,
+    "gate1_blocked": 6,
+    "gate2_blocked": 12,
+    "passed": 50,
+    "pass_rate": "30.5%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Company(NYSE: ADM) dropped from Russell 1000 Dynamic Index - marketscreener.c",
+      "Lexington workers are commuting for now, but the city is ‘more empty’ after Tyson closure - Nebraska",
+      "Crist|Kolder Places CFO at Mondelēz International - Hunt Scanlon Media",
+      "How Walmart Unexpectedly Became One of the World Cup’s Hottest Tourist Attractions - inc.com",
+      "Amazon and Walmart’s Summer Sale Wars Deliver a Win (With An Asterisk) - PYMNTS.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為好市多、沃爾瑪、ADM相關動態：「Earnings Snapshot: Archer-Daniels-Midland tightens EPS ou...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Earnings Snapshot: Archer-Daniels-Midland tightens EPS outlook after mixed Q2...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Are stores open on July 3, 2026? Holiday hours for Walmart, Target, Costco, b...（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

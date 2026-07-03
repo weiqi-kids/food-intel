@@ -1,0 +1,16 @@
+{
+  "total_raw": 262,
+  "dup_title": 98,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 6,
+  "gate2_fail": 12,
+  "passed": 50,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Company(NYSE: ADM) dropped from Russell 1000 Dynamic Index - marketscreener.c",
+    "Lexington workers are commuting for now, but the city is ‘more empty’ after Tyson closure - Nebraska",
+    "Crist|Kolder Places CFO at Mondelēz International - Hunt Scanlon Media",
+    "How Walmart Unexpectedly Became One of the World Cup’s Hottest Tourist Attractions - inc.com",
+    "Amazon and Walmart’s Summer Sale Wars Deliver a Win (With An Asterisk) - PYMNTS.com"
+  ]
+}
