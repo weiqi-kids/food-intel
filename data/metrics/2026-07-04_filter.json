@@ -1,0 +1,16 @@
+{
+  "total_raw": 262,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 4,
+  "gate2_fail": 18,
+  "passed": 28,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Company(NYSE: ADM) dropped from Russell 1000 Dynamic Index - marketscreener.c",
+    "BG - Bunge Global SA Options - Finviz",
+    "Lexington workers are commuting for now, but the city is ‘more empty’ after Tyson closure - Nebraska",
+    "Crist|Kolder Places CFO at Mondelēz International - Hunt Scanlon Media",
+    "Is Walmart open July 4th? Holiday schedule for 2026 - AL.com"
+  ]
+}
