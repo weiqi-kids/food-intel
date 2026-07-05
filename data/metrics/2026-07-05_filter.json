@@ -1,0 +1,16 @@
+{
+  "total_raw": 261,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 3,
+  "gate2_fail": 16,
+  "passed": 27,
+  "gate2_samples": [
+    "Price to book forward of Archer-Daniels-Midland Company – NYSE:ADM - TradingView",
+    "Archer-Daniels-Midland Company(NYSE: ADM) dropped from Russell 1000 Dynamic Index - marketscreener.c",
+    "BG - Bunge Global SA Options - Finviz",
+    "Crist|Kolder Places CFO at Mondelēz International - Hunt Scanlon Media",
+    "Amazon and Walmart’s Summer Sale Wars Deliver a Win (With An Asterisk) - PYMNTS.com"
+  ]
+}
