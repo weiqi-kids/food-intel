@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T10:04:32.738342Z",
-  "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
+  "updated_at": "2026-07-06T11:56:01.319003Z",
+  "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
       "id": "adm",
@@ -75,17 +75,17 @@
       "name": "通用磨坊",
       "ticker": "GIS",
       "currency": "USD",
-      "ar": 1857100000,
-      "ar_prev": 1892600000,
-      "ar_qoq": "-2%",
+      "ar": 1646800000,
+      "ar_prev": 1857100000,
+      "ar_qoq": "-11%",
       "ar_period": "QoQ",
-      "inventory": 1755700000,
-      "inv_prev": 2051500000,
-      "inv_qoq": "-14%",
+      "inventory": 1917900000,
+      "inv_prev": 1755700000,
+      "inv_qoq": "+9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-02-28"
+      "quarter_date": "2026-05-31"
     },
     {
       "id": "kraft_heinz",

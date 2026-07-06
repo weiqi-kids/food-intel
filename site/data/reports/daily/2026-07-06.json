@@ -1,0 +1,230 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T11:56:05.152622Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-07-06-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zacks Industry Outlook Highlights Walmart and The Kroger - Yahoo Finance",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV0ctcnNZTWF5V2p1OVFuTXlNRGprSFZqaWh2ZmpPVlRkYkhLMlRmMl9RSTJ0SFkzb0VIc0x6QThzczMtbFRSMWdXb1ZEbEdZcG9BYUVnRnpXYjBlWGowRTRuOFVCSThMbXFsUHd2MG90UmhwWFN0WWpSMlV5Y0tCYWIzSUFWNU9keVR1d2Q5R2VOSWpJMFFHQVJOZlI5QzMwU1NlODJJUHRPdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-07-06-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zacks Industry Outlook Highlights Walmart and The Kroger - TradingView",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSExaSkpPY09iTGNJMVI3VEg1WjBGa3dlb1Bva0xndmh2R0V6aTY0eWw3Y1NRNHdxQkx6bWJ4bUZjcVZlZ1hkTWpxWk9JcFpScGFOZmZoRHhiMnprbXJKRTBOdFFwQkxqLW5KVGRzRC05bVpFdXRtNElxdGZuU1BMRVQ0N2xyMlE2VXF0YVJwMTJ5N2VkQnptLWV6VFJneUhHcmgzcEhCbFNCNmYwb25FYUln?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-07-06-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Costco makes AI pricing change members did not see coming - thestreet.com",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbnBLdFlqdjZJNTR6RXZRWV9fQmo5a2NWdzZGM0N0Qm0xSXNacTk5YkNmNFNxUjE4OFlBeXhHOTN0RkhTVTRHUUFGdEJCcWh5a2FCMFYzUjZnVE5xMlVOMlFlOU94eXJBWUxEOU1PM01raXUxUzVGS2JTTWVpOENFYVcwdWx0dXhVc3Jr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-06-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA warns six importers in five states for food safety failures tied to tea, produce and sauces",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/07/fda-warns-six-importers-in-five-states-for-food-safety-failures-tied-to-tea-produce-and-sauces/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-06-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ireland records rise in consumer complaints",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/07/ireland-records-rise-in-consumer-complaints/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 5
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "food_safety",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 261,
+    "dup_title": 119,
+    "too_old": 93,
+    "gate1_blocked": 4,
+    "gate2_blocked": 19,
+    "passed": 26,
+    "pass_rate": "18.3%",
+    "gate2_block_rate": "13.4%",
+    "gate2_samples": [
+      "Price to book forward of Archer-Daniels-Midland Company – NYSE:ADM - TradingView",
+      "How Is Bunge Global (NYSE:BG) Expanding Its S&P 500 Presence? - Kalkine Media",
+      "BG - Bunge Global SA Options - Finviz",
+      "Bunge Global SA focuses on agribusiness scale as investors watch margins - AD HOC NEWS",
+      "Crist|Kolder Places CFO at Mondelēz International - Hunt Scanlon Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為沃爾瑪、ADM、Bunge相關動態：「Zacks Industry Outlook Highlights Walmart and The Kroger ...」。主要關注主題為產業通用、食品安全、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zacks Industry Outlook Highlights Walmart and The Kroger - Yahoo Finance（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Zacks Industry Outlook Highlights Walmart and The Kroger - TradingView（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
