@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 4,
+  "gate2_fail": 23,
+  "passed": 43,
+  "gate2_samples": [
+    "Crist|Kolder Places CFO at Mondelēz International - Hunt Scanlon Media",
+    "Mondelēz International extends UK comms brief - PRWeek US",
+    "MONDELĒZ INTERNATIONAL ADDS LIMITED-EDITION SOUR PATCH KIDS MONSTER HEADS TO HALLOWEEN LINE-UP - c-t",
+    "Walmart, Sam's Club slash prices on thousands of products as Trump says move came at his request - F",
+    "Walmart Lowers Prices on Thousands of Items, Including Beef and Coca-Cola - WSJ"
+  ]
+}
