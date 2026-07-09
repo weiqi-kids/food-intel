@@ -1,0 +1,233 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T10:47:40.796006Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-07-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Bunge Global (BG) Undervalued Following Strong Q2 Earnings Expectations? - simplywall.st",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYVZuMWJvU2k0b3hULU1uRzlaUHE3d3NkTk12bWkzRno3dmdIX0ZGRkstMzNOQkVIckptZHhQblB5SzNtRnBsVVJWaTczeFhLSm1CeVdmOHFDSGdheDQ4UDE0MXFmLThxYUdsYmlhN3hTTUpISFIzb0UwUWJPUEdjTGJicEFPMFVnQ1RyQXkyZHpIb3htNGNlQ215eWY4UHFFNE16c1RmbUZueTZCQU9UVGhNWjFSOWhSQl9la3A3WEJ3bWtPWU43ZW5GUmszNDg2OFQ2R2l30gHbAUFVX3lxTE9MS0FzOTktT21ad1VPTGNpMWltejdjQkhXSnQwY1h3YnBfY1VXOEVYLXAzX2xVZ3BRbTY3dUxBTXRVUXpBOE14aFhheVREUDJGTjlyWUVOenVJRTItNUlteWVKT2drM29HMFp0aW5VQURGaF9sSkY5ZnFHSUFzVzgzSW5CeDgtVHowSkJJXy14bTJIbmlTV1o0VHgwbGtIX0NmeGRwSVFqQkI3eTVZMV9kclZkYzFzX1hfaUlGNmM0VHBiRlNBVjVEWm1CaVlXUUNkLV9SWFlHWXEzYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-09-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FDA names produce safety director",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/07/fda-names-produce-safety-director/"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-07-09-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "The Zacks Analyst Blog Highlights TJX, Costco Wholesale and Walmart - The Globe and Mail",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVWdick9UOGczMU81Wk9RdzNKbFJvRmVBbk1pSGNhbXNuY0kybGdvRFR0V3RmSzliWklwdHJwVnIxWFE3d3ZhZlZ1UHRjVDFhTWRjRlJUMUJiYUJ3cVdBb2k3RkxJLXhfUWxEc3BrUG16YXBsajZDMGpWTWlzZTBlYjRxa0ZaUXlmcnJOcmVGc1NsaXdUcV9pSkFJQ1I4eDBVTmdHd2xlbjI5STVFeHhfdnlFeUg1eXl2RFhDZy12UFZabF9uLXVkVHVlaHNDcV9PR2lYR1I2R09tV0xIOUJEVE84aXNFQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-07-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Munich Reinsurance Co Stock Corp in Munich Sells 395,355 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOXBuZTlWaFA0eFAyTDFFUlN4a2pRd3I0cnJYRHJxVXZDZW50MnF2MEdickpUZ3JaZVZZOF9ibE5mMmxTT0RUYkFUZERTd2QtblRZUTJIYlk3RUZWODNUeXZjUXlnQWsyMngwVE9WbWpyaWhRT3Q2Y2xIaDhVaGlObkhVS2J1SXUwaV9CbUFtQS05VDNSa29NUUNQZjFzZnV1Ulg3VDB3MkxwenhzY2V4ZmtYZ3pMdzNvN3EwMmloMU53aUZLbzRmVjcwUDhobTFzbVJQTzdDRVM2bVlMdVM3cm05Szg2b3FwUUc5QTV2bG5zaHc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-07-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Burney Co. Takes $1.29 Million Position in Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa1NwQ3ZCbXk0bzJBUEFNWTFIcXViVTVaQm1IT3pMUHZ4c0tlU1dISGRTc1d6cUM2T05RMGVpV0dZX21UVEZxZGlGbm9KUXFZczhVZ3BjYXNlWXNRTWF0eHpjWTgzUVNPaE5rRHVpSC1YNVVURUZEWWRsa0FYWVRNRE9YempfbkF1RmtSUTM1ZkVHdkFjbG1LQ0lhalBneDhyWUl3Rm1DakJsR0Q3SVY0Ynp6ZVhJa2VCZGRKWg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 262,
+    "dup_title": 105,
+    "too_old": 82,
+    "gate1_blocked": 5,
+    "gate2_blocked": 23,
+    "passed": 47,
+    "pass_rate": "29.9%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "Price to book forward of Archer-Daniels-Midland Company – NYSE:ADM - TradingView",
+      "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $109. - GuruFocus",
+      "What Has Bunge Global (NYSE:BG) Investors Watching in S&P 500? - Kalkine Media",
+      "MONDELĒZ INTERNATIONAL ADDS LIMITED-EDITION SOUR PATCH KIDS MONSTER HEADS TO HALLOWEEN LINE-UP - c-t",
+      "Mondelēz International extends UK comms brief - PR Week UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為好市多、ADM、Bunge相關動態：「Is Bunge Global (BG) Undervalued Following Strong Q2 Earn...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Is Bunge Global (BG) Undervalued Following Strong Q2 Earnings Expectations? -...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "FDA names produce safety director（食品安全、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
