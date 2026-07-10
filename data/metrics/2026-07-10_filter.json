@@ -1,0 +1,16 @@
+{
+  "total_raw": 261,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 4,
+  "gate2_fail": 18,
+  "passed": 42,
+  "gate2_samples": [
+    "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $109. - GuruFocus",
+    "What Has Bunge Global (NYSE:BG) Investors Watching in S&P 500? - Kalkine Media",
+    "MONDELĒZ INTERNATIONAL ADDS LIMITED-EDITION SOUR PATCH KIDS MONSTER HEADS TO HALLOWEEN LINE-UP - c-t",
+    "Did Walmart roll back prices because of Trump? They won't say - USA Today",
+    "Walmart Rolls Back Prices On Over 250 Items—And Trump Quickly Claims Credit - Forbes"
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T10:45:23.407559Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-07-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Elevated Capital Advisors LLC Buys 15,767 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObEwxRE9fcHptOFZBZzhkYXBqb2k4YkR1aXNQQ1RxcXpRdWF1R1gyTnoyS3NCdExuT2hjcE54d1FicXM3RG1UVnNCOURUTFdMX2ZtV0RxdS1JYV9FQmpjSEFTWjZkY045UU0zcWV5aHNyaEZGcVZIZDhPVlE4ZUpCdEhidERncF9McXpaT3o5aWVONGxZOTBCbk9NZllUUWRXYWU0TDdyV09jX3hRaFNxcUZqRHBoYUVidmpaMEdodGk4X3RNSjhZSF9oMDF6UjdvTzVwWGtmR01RVGUyVTdV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-07-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global stock reflects the company’s pivotal role in global agribusiness and food supply - AD HOC NEWS",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVlFjdnFJTHRnSjY1LWJmNnE0UklmdUxST2VJYnJMcm5MVVlNbFZ0ZUV5TmUyajZiZ18wN0dpYTRTdTE5MmhGbDUzOGlnRENUU0dYeDF1NUFGXzhEMUJpNFNSMUtadzRXMlVTQkRqdUpVWTIwVVVwUEJsVmhMQURzaWJhcGtCbnEyeEdhUThmUnprc3N5ZE9XS3d0ektOOU1QVVJlZEthZ2hPX1hHeWdjSDFjZzBvNW9fa09UOUZydzE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-07-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Go behind the scenes of Walmart’s overhauled Charleston-area store. One customer is ‘obsessed.’ - Post and Courier",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZDVhbEtqM1EwTi1rb3RhNERVVFRUOGtmSVNZVG5IdnJxVkRhQ285cmp0REZkQldXbUppbVhxVG1xV3ZZQUtESmJPWGJyQWZ5Qkdaa09NYU9Gbk5hWFNZSHdiZTMwZXdBYmQ2Sjk5NDNVRUpvLUhZSDNYcXVfUXA4V3pqWkJONjBsNUo4VXo3UWVPVDR1Z011ZDVzcXpOSFRkbXVIbW5fNkFfWEhmcGZ0Z3Y2Sll6emRaNmtLS1ZOekdqOEhGNV8wUFYwTVB2MDdqQkc4S1MyZVBOcmNPdndybms4bDRudXFB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-07-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Costco Stock Fell Today - Yahoo Finance",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa01VazRmTzYzbG9wM0liem9tdDBlS3l1SGNLQzRNdFNncS12U29xdXFNVTBZU2xxRmxVNmxuSHBvS3V4bkF6a1Y1U1Jzb1dJdkhCdzdNcDdRemRQRW9PRG0yY0cybDVMRzRZaXJ0NlRkMWZlQkpMQlNSa0lfMUp5ZXBkNTJIc1JCOTN4bGE4MFl1a2ZqZmF3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-07-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "These Costco Memberships are $65, and they come with a $50 Digital Costco Shop Card* - Macworld",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjVfYUVabE42UC1HRk1MbTl4UEVEUWdZU2hDOFNDcGU4WWdCN3BMdktIYndiWG9ubzBQaWczdzI0bmNPZVQ2aTFZd3V4U1psOUEtRXVvNnNPRzA1eWxiYkMxUzU1LV9ra1Y1UkRXaFpIMlh5djczRmU0WDhrYWxlUzBiRUc4aXRobDEtZVJJYVlpaXBjWUlySkxKNi1HYzJEZlBJTDc4WHZQcU03RDVzZ25XaFhpYzJYQllHc0h3TEZCR2oz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 261,
+    "dup_title": 113,
+    "too_old": 84,
+    "gate1_blocked": 4,
+    "gate2_blocked": 18,
+    "passed": 42,
+    "pass_rate": "28.4%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $109. - GuruFocus",
+      "What Has Bunge Global (NYSE:BG) Investors Watching in S&P 500? - Kalkine Media",
+      "MONDELĒZ INTERNATIONAL ADDS LIMITED-EDITION SOUR PATCH KIDS MONSTER HEADS TO HALLOWEEN LINE-UP - c-t",
+      "Did Walmart roll back prices because of Trump? They won't say - USA Today",
+      "Walmart Rolls Back Prices On Over 250 Items—And Trump Quickly Claims Credit - Forbes"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為好市多、ADM、Bunge相關動態：「Elevated Capital Advisors LLC Buys 15,767 Shares of Arche...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Elevated Capital Advisors LLC Buys 15,767 Shares of Archer Daniels Midland Co...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Bunge Global stock reflects the company’s pivotal role in global agribusiness...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
