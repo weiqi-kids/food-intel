@@ -1,0 +1,16 @@
+{
+  "total_raw": 262,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 3,
+  "gate2_fail": 16,
+  "passed": 37,
+  "gate2_samples": [
+    "Bunge Global (BG) Is Up 6.7% After Big Q2 EPS Beat Expected - Has The Bull Case Changed? - simplywal",
+    "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $109. - GuruFocus",
+    "MONDELĒZ INTERNATIONAL ADDS LIMITED-EDITION SOUR PATCH KIDS MONSTER HEADS TO HALLOWEEN LINE-UP - c-t",
+    "Did Walmart roll back prices because of Trump? They won't say - USA Today",
+    "Walmart seeks to use former Bloomfield Rite Aid as delivery hub - 90.5 WESA"
+  ]
+}

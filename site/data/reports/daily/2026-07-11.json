@@ -1,0 +1,120 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:18:15.056966Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-07-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global stock reflects a diversified agribusiness and food ingredients profile - ad-hoc-news.de",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWdDYTE5empuSURjX0hydXNjZ2RRU1ZGZzVmc0pvMkhDV3BQa21VY2FrM1JVN0swcXIzUjg4M182YVZHbnBkVFE2TFlaSzV5RDVmdDRfbERGek4wM3VGQ21fZnRoMmVjRjh0LTBVZGFMTk8xZmZpejVqMmFIbWlLYmFEeEhKZ2I4TEd4QnlFdGhacWdGVmk1MXFydXhvUXVEbEpsSG5mZGo1X3lpcmF2UlNnaXJDV2ZvLUxUY1FtQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-07-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods stock holds steady on its protein business mix - ad-hoc-news.de",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0hKNmdwTGs2cVQza3d4Z21rTW5icFFNMjM2WXZsU1VEN0Q2NklKYmktMi1mTXl0cGJadWdhM0ZQWjhweFNHYTdFRGUxZmxPVW5FdmxLRmk0bldTVXROTDVHcnZ6d1FmVnJ6b0VraUVqS21kb05KZkNzRzlpVFhxOUZpdUhpdi1GYlBHNndRcVBGWGk4WmRTNnk3Q2hKQWp2NFNURFVXdTlkOS1pSUUxaU5PeExLYWJx?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 262,
+    "dup_title": 117,
+    "too_old": 89,
+    "gate1_blocked": 3,
+    "gate2_blocked": 16,
+    "passed": 37,
+    "pass_rate": "25.5%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "Bunge Global (BG) Is Up 6.7% After Big Q2 EPS Beat Expected - Has The Bull Case Changed? - simplywal",
+      "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $109. - GuruFocus",
+      "MONDELĒZ INTERNATIONAL ADDS LIMITED-EDITION SOUR PATCH KIDS MONSTER HEADS TO HALLOWEEN LINE-UP - c-t",
+      "Did Walmart roll back prices because of Trump? They won't say - USA Today",
+      "Walmart seeks to use former Bloomfield Rite Aid as delivery hub - 90.5 WESA"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Bunge、泰森食品相關動態：「Bunge Global stock reflects a diversified agribusiness an...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Bunge Global stock reflects a diversified agribusiness and food ingredients p...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Tyson Foods stock holds steady on its protein business mix - ad-hoc-news.de（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
