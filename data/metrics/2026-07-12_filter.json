@@ -1,0 +1,16 @@
+{
+  "total_raw": 263,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 5,
+  "gate2_fail": 20,
+  "passed": 24,
+  "gate2_samples": [
+    "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $109. - GuruFocus",
+    "Bunge Global (BG) Expands Global Reach As Viterra Integration Reshapes Its Network - Yahoo Finance",
+    "MONDELĒZ INTERNATIONAL ADDS LIMITED-EDITION SOUR PATCH KIDS MONSTER HEADS TO HALLOWEEN LINE-UP - c-t",
+    "Walmart seeks to use former Bloomfield Rite Aid as delivery hub - 90.5 WESA",
+    "We compared Walmart’s new prices to Target and Kroger - thestreet.com"
+  ]
+}

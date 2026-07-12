@@ -1,0 +1,177 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T09:44:11.314822Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-07-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Tyson Foods (TSN) Undervalued As Earnings And Legal Risks Stay In Focus? - Yahoo Finance",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2ExQjlvNUhYVFJXcHM2dElmMW1NeUVtRzBYSDNlZVMxQnJrekRwVTJ0M3JaSzVtNUF6ZmkzdlQxc2ZJUFh5aFlKenZBM3BjNUNiYXlqOTJ0R1U1R1RKMWJOUnBjT1ZwNUcyZHpQQWRpenp3bGZmT0pxWjdnT1dDOFFyZ0RaSUVTVm9VaHM2TEpNVXZteEJ3X2xKdG9nXzRXYVR3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-07-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge (BG) Stock Still Looks Undervalued After A 78% Run - Yahoo Finance",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcE1CRTF2ck5qa3pFMGNwSjlKdFlyTGtiUFZhVW5UQllvMm1TZmJSWE1pOFRWa0VhLUJyNlgyb0JBRUp2S01kRlNLNTRTaURyTkExajN5Zmt0eTFCQ09lSzgwa0xnYVF1LTBrMmxHQ1hld2FlMGcyLTFjT3ZuVG01S2FtRmtlR05hekZXRUgyUDRjR1YwT0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Russians strike food industry facility in Dnipro - Yahoo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaFBNTFY1ZHdUdHRmem85cUVxNUtJek9RNDY1cDVEUmZvWThueXhEYjBfR0U5SUx2Rll1M0tqUExManR4NlltQXAxaXNmLWV3d1oxOVk1aHdqVzdLLU9YX3ZESHVrTENyZU51Q2czNE1PWWo0WEFsZUZSYzBkckI0MDl6emtPSVExc2lMdHl6WVNZbmpPcldOZVhiMA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Russians strike food industry facility in Dnipro - Українська правда",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vTHNzNVNtSXNCZGJRcU56UlNJRmdGNHdjaThVcmtDMTNyRF9WbVRvRWJibUxPWFl2eFJfWTlybzVmM2tUZ2xIUkctektDWUtqejhtM1pNZkZ0d081ZjQxYVE0akTSAXBBVV95cUxQU3NFSnEtRVlMcDdvQ01DNjFTckxaWXpoTkFWNHBGSWw5M3h5cUl4MTVkdUJ6QW92ZXVsWThtczZueVBoY25aVEI5SmZDeU5NM201WmF0aDczc3Z0MWVEYkFreGluZzZITm1zUkhQaWJ0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 263,
+    "dup_title": 123,
+    "too_old": 91,
+    "gate1_blocked": 5,
+    "gate2_blocked": 20,
+    "passed": 24,
+    "pass_rate": "17.1%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $109. - GuruFocus",
+      "Bunge Global (BG) Expands Global Reach As Viterra Integration Reshapes Its Network - Yahoo Finance",
+      "MONDELĒZ INTERNATIONAL ADDS LIMITED-EDITION SOUR PATCH KIDS MONSTER HEADS TO HALLOWEEN LINE-UP - c-t",
+      "Walmart seeks to use former Bloomfield Rite Aid as delivery hub - 90.5 WESA",
+      "We compared Walmart’s new prices to Target and Kroger - thestreet.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Bunge、泰森食品相關動態：「Is Tyson Foods (TSN) Undervalued As Earnings And Legal Ri...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is Tyson Foods (TSN) Undervalued As Earnings And Legal Risks Stay In Focus? -...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge (BG) Stock Still Looks Undervalued After A 78% Run - Yahoo Finance（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

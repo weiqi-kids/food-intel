@@ -1,5 +1,82 @@
 [
   {
+    "id": "bunge-2026-07-12-001",
+    "date": "2026-07-12",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge (BG) Stock Still Looks Undervalued After A 78% Run - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcE1CRTF2ck5qa3pFMGNwSjlKdFlyTGtiUFZhVW5UQllvMm1TZmJSWE1pOFRWa0VhLUJyNlgyb0JBRUp2S01kRlNLNTRTaURyTkExajN5Zmt0eTFCQ09lSzgwa0xnYVF1LTBrMmxHQ1",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcE1CRTF2ck5qa3pFMGNwSjlKdFlyTGtiUFZhVW5UQllvMm1TZmJSWE1pOFRWa0VhLUJyNlgyb0JBRUp2S01kRlNLNTRTaURyTkExajN5Zmt0eTFCQ09lSzgwa0xnYVF1LTBrMmxHQ1hld2FlMGcyLTFjT3ZuVG01S2FtRmtlR05hekZXRUgyUDRjR1YwT0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-07-12-002",
+    "date": "2026-07-12",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Tyson Foods (TSN) Undervalued As Earnings And Legal Risks Stay In Focus? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2ExQjlvNUhYVFJXcHM2dElmMW1NeUVtRzBYSDNlZVMxQnJrekRwVTJ0M3JaSzVtNUF6ZmkzdlQxc2ZJUFh5aFlKenZBM3BjNUNiYXlqOTJ0R1U1R1RKMWJOUnBjT1ZwNUcyZHpQQW",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2ExQjlvNUhYVFJXcHM2dElmMW1NeUVtRzBYSDNlZVMxQnJrekRwVTJ0M3JaSzVtNUF6ZmkzdlQxc2ZJUFh5aFlKenZBM3BjNUNiYXlqOTJ0R1U1R1RKMWJOUnBjT1ZwNUcyZHpQQWRpenp3bGZmT0pxWjdnT1dDOFFyZ0RaSUVTVm9VaHM2TEpNVXZteEJ3X2xKdG9nXzRXYVR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-003",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Russians strike food industry facility in Dnipro - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQaFBNTFY1ZHdUdHRmem85cUVxNUtJek9RNDY1cDVEUmZvWThueXhEYjBfR0U5SUx2Rll1M0tqUExManR4NlltQXAxaXNmLWV3d1oxOVk1aHdqVzdLLU9YX3ZESHVrTENyZU51Q2czNE",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaFBNTFY1ZHdUdHRmem85cUVxNUtJek9RNDY1cDVEUmZvWThueXhEYjBfR0U5SUx2Rll1M0tqUExManR4NlltQXAxaXNmLWV3d1oxOVk1aHdqVzdLLU9YX3ZESHVrTENyZU51Q2czNE1PWWo0WEFsZUZSYzBkckI0MDl6emtPSVExc2lMdHl6WVNZbmpPcldOZVhiMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-004",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Russians strike food industry facility in Dnipro - Українська правда",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vTHNzNVNtSXNCZGJRcU56UlNJRmdGNHdjaThVcmtDMTNyRF9WbVRvRWJibUxPWFl2eFJfWTlybzVmM2tUZ2xIUkctektDWUtqejhtM1pNZkZ0d081ZjQxYVE0akTSAXBBVV95cUxQU3",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vTHNzNVNtSXNCZGJRcU56UlNJRmdGNHdjaThVcmtDMTNyRF9WbVRvRWJibUxPWFl2eFJfWTlybzVmM2tUZ2xIUkctektDWUtqejhtM1pNZkZ0d081ZjQxYVE0akTSAXBBVV95cUxQU3NFSnEtRVlMcDdvQ01DNjFTckxaWXpoTkFWNHBGSWw5M3h5cUl4MTVkdUJ6QW92ZXVsWThtczZueVBoY25aVEI5SmZDeU5NM201WmF0aDczc3Z0MWVEYkFreGluZzZITm1zUkhQaWJ0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "bunge-2026-07-11-001",
     "date": "2026-07-11",
     "companies": [
@@ -35,6 +112,283 @@
       {
         "name": "tyson",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0hKNmdwTGs2cVQza3d4Z21rTW5icFFNMjM2WXZsU1VEN0Q2NklKYmktMi1mTXl0cGJadWdhM0ZQWjhweFNHYTdFRGUxZmxPVW5FdmxLRmk0bldTVXROTDVHcnZ6d1FmVnJ6b0VraUVqS21kb05KZkNzRzlpVFhxOUZpdUhpdi1GYlBHNndRcVBGWGk4WmRTNnk3Q2hKQWp2NFNURFVXdTlkOS1pSUUxaU5PeExLYWJx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-07-11-003",
+    "date": "2026-07-11",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland Company $ADM Shares Sold by Sumitomo Mitsui Trust Group Inc. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZDlIRWRudE5uYjhDQnYzRzBySUNoVk9GTmZaZkpjMk9CNTR3cm1ZOGg5U2lYOFRpN005dXlsanFVdzI4RkktTllGXzlPVjgtVFZOTjMyS0VlcWxGcl9GSng4b1dJTmdWNnZEY1YzVn",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZDlIRWRudE5uYjhDQnYzRzBySUNoVk9GTmZaZkpjMk9CNTR3cm1ZOGg5U2lYOFRpN005dXlsanFVdzI4RkktTllGXzlPVjgtVFZOTjMyS0VlcWxGcl9GSng4b1dJTmdWNnZEY1YzVnlLT1JDYjFWZ1g4MXd3WkVCaUZMdURQTjBuVXVCM0t6V0FEdlE0Nnp5eWdwanJjZGE1X0JCS01Pd0lJYm9OMEU0bGpLeHZCOU1KVWY3b1cyMjlSSFRycnRwaXlpc0UzYjFfREJlTHlESWpwZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-11-004",
+    "date": "2026-07-11",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bunge Global (BG) Is Up 6.7% After Big Q2 EPS Beat Expected - Has The Bull Case Changed? - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOSWVRQ2RCUmVmZFp1TDFBc0h0UWY0WWk5MUR0cEFIWkxNTjN4aFRVa1otcFViOEFxVWZsUjN6M2tBdFpoalVFSzl3ckhTRWdDTmZpbWl1cjV6NDNqOExiWDM3YW84UnRYMTNMeExxTm",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSWVRQ2RCUmVmZFp1TDFBc0h0UWY0WWk5MUR0cEFIWkxNTjN4aFRVa1otcFViOEFxVWZsUjN6M2tBdFpoalVFSzl3ckhTRWdDTmZpbWl1cjV6NDNqOExiWDM3YW84UnRYMTNMeExxTmQ5blpzU2dETFRma1NlWFBza1NHbHNhSjN5TC1xV3B2ZXcydGItRTFNNk5XRWVhbEZtQzFrREdJaGpCLWdYd1dXWTZXZk5tbV9rZmxMWjVUR2dWUlMtYnZqbU9ydnhyQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-11-005",
+    "date": "2026-07-11",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (BG) After The Zacks Upgrade And Rising Estimates Looks Undervalued - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0NyUy1fTlhRZ0U3emdYREI2R2l2T2Z4dktZbVRyWHQxVVNLMjRaMlNrLUJ5ZkdSQVZaYk93Z05XdFNUOEdnQjFEbDJDNUFlMW11eDJ4MklvOVpaSVJPY1I1R3d3ZnZBaF80Um9LVE",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0NyUy1fTlhRZ0U3emdYREI2R2l2T2Z4dktZbVRyWHQxVVNLMjRaMlNrLUJ5ZkdSQVZaYk93Z05XdFNUOEdnQjFEbDJDNUFlMW11eDJ4MklvOVpaSVJPY1I1R3d3ZnZBaF80Um9LVElybFpKV2dDMHJYeEdEQ0pIcFVkbXhaNVpKb3NZdFhkcHM1UDNFdV9hSGF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-11-006",
+    "date": "2026-07-11",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global stock reflects steady agribusiness role as grain trade evolves - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaGZaaVFFc3hUYjlmWU40LURRVUx2dWd3aWFyUTBmcDJ5RFp3OEY3endZaW5oN3JGVWhqTmZMYWo1cG9KQnBXU281WGhvdFlTN1p6Nkp5TWJwMXptYUpwOWJsM1BfZTNvWTFjUkhnWT",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaGZaaVFFc3hUYjlmWU40LURRVUx2dWd3aWFyUTBmcDJ5RFp3OEY3endZaW5oN3JGVWhqTmZMYWo1cG9KQnBXU281WGhvdFlTN1p6Nkp5TWJwMXptYUpwOWJsM1BfZTNvWTFjUkhnWTAxcGd2alpkUnVrcjdiQkRDeXJwb3FLeUdiZlVTTTQyV0lnMlVKQUg5RGZGWFd6NGx2cUM0SDNyd3lMN3FfeGFCSnUtclluTExXOUlMdzhEclJPWGJG?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-07-11-007",
+    "date": "2026-07-11",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Tyson Foods Stock Faces Fresh Pressure From Arkansas Tariffs - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdGc4OXBubFhmLWo5ekVGY3VhVHoxZnhpZm9rWDRPSnplTUc3dUM4d3oyUnAyVzRBMkVlVzFWUjBZNmdIeW1iXzRSR0RuZnUyOTByWWVuQmg4U1BTMU9fV0J1STJMUUdVUVk5SGxWSm",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdGc4OXBubFhmLWo5ekVGY3VhVHoxZnhpZm9rWDRPSnplTUc3dUM4d3oyUnAyVzRBMkVlVzFWUjBZNmdIeW1iXzRSR0RuZnUyOTByWWVuQmg4U1BTMU9fV0J1STJMUUdVUVk5SGxWSmktVV95SXh4a0hsYWhqNWxVY2NWaVNnMHBEekZmM0VJbjh6OVZaNlJhNnRJZ1hPMTVZR2pPMTVlOGx2RkJIanRNdnVfNTJhdktWMnlGQ3duc05xQVZqTjFlNXlHdHJGeENEZ09KRmFxMNIB3AFBVV95cUxQaGtucUxqV3J0UzJzX3BiLVYzLWMxNGJlenVXcWRZVC1sTTdXUUtBMFFHbkQ4N0thM051UWJlTEJDU2JPRkE4LWNpMTBTdkFHQk5jRXc2eFRVT0o4V0JxZmdDdDdzeGlxTXpVdThCV25mMUllM043UnlXWVJrcDdDSmhnMktBeno0bFpfaUdfVG53WVlBRkFZM0J2ckVpckl3ellQSGJCZE9XMjdyVWJpS1BfbF9JeVQ5WVpwUnZWcUpvbEpmRVE2dmpfVHdHRlBuYnRFVDRvNTJWbTFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-07-11-008",
+    "date": "2026-07-11",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods (TSN) Stock Still Looks Discounted On A 23% Three Year Gain - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVdzdVdWN3FUZ3B2ajI2TTl1TFNlWEVZMkxJa01sSXdGdWk1NHUycHVYaUxqZVA4MjZ6U3doRjJHTmp0OUF6ZzVFSk1KSWZrUkJNZ1VCdFNPenZycUJkZjU5NlVwb3JTbW9sNkZvOF",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVdzdVdWN3FUZ3B2ajI2TTl1TFNlWEVZMkxJa01sSXdGdWk1NHUycHVYaUxqZVA4MjZ6U3doRjJHTmp0OUF6ZzVFSk1KSWZrUkJNZ1VCdFNPenZycUJkZjU5NlVwb3JTbW9sNkZvOFhWMGw2SzZMcEpGV1NoR3d0ZWMwMlEtU201eERHVVJpY2QzbnBJYmdr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-07-11-009",
+    "date": "2026-07-11",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods Remains in Crosshairs as JBS, National Beef Strike C$8 Million Canada Beef Price-Fixing Settlement - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE94R3BZMXZHTGF2bzBjckhSVkt6dWpCR2pHUG5lVE1RN3VYYTI4LThFbG9EZXdzNkFkS0FLOThyTXFPLTFCc2V6VDZsdEg3eHBJUjhpYzNiM0lFQXp4VkZZRHFJNHZoTVpucTFuZFZ6cW",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94R3BZMXZHTGF2bzBjckhSVkt6dWpCR2pHUG5lVE1RN3VYYTI4LThFbG9EZXdzNkFkS0FLOThyTXFPLTFCc2V6VDZsdEg3eHBJUjhpYzNiM0lFQXp4VkZZRHFJNHZoTVpucTFuZFZ6cWdaZk9tUHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kraft_heinz-2026-07-11-010",
+    "date": "2026-07-11",
+    "companies": [
+      "kraft_heinz",
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods and Kraft Heinz lead US hot dog mar... - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBEQm5GTThaMjcyM1FhTDQyaEtqbkZ4LXJOMTU2cHo4ZkpVUGZqQ0tTaUNpREdtZS01NkRUQURlXzVtNHFEOFZBUTRKcnczcDJFYmQyWnh0ZzBPazdWaWlFcm9OQTBhbUtya01Ha2dhZ0",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEQm5GTThaMjcyM1FhTDQyaEtqbkZ4LXJOMTU2cHo4ZkpVUGZqQ0tTaUNpREdtZS01NkRUQURlXzVtNHFEOFZBUTRKcnczcDJFYmQyWnh0ZzBPazdWaWlFcm9OQTBhbUtya01Ha2dhZ0U2aEx2QnBDOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-07-11-011",
+    "date": "2026-07-11",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods (TSN) Faces Ongoing Canada Beef Price Fixing Class Action - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2kxZkNiMGUwZTd3bnY1akx0SmNXZThBYkF2RUZRaFJlang1U01BaTd6SzNBbGgyQlFUdnkwVEVsX3BqbGpwSEZyR3JvRzUxekhnRXJRX0taeDdLdlFvN1hGWFJDUWsxQ2VHQlR5bk",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2kxZkNiMGUwZTd3bnY1akx0SmNXZThBYkF2RUZRaFJlang1U01BaTd6SzNBbGgyQlFUdnkwVEVsX3BqbGpwSEZyR3JvRzUxekhnRXJRX0taeDdLdlFvN1hGWFJDUWsxQ2VHQlR5bkc0WXlmSWtKZ3EteWlDVDNPelFTRHNYMU1NUmVnd2Z0Zzlma2poNTMzeHVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-012",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Major global treating trends revealed by Mondelēz’s State of Snacking report - Confectionery Production",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQOG9QelF2dHJtYnZPRm03aGt5cFhfcy0xcHJOYldnUEtqNEU2OEFLU1pKblhZazhmR1pvS3FNNXFpUUF3TUdrcXdST1FpTVI5VEpGZ05TTW1relFnWGJsOUROWHYtS3hMSGMzdTY3cT",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOG9QelF2dHJtYnZPRm03aGt5cFhfcy0xcHJOYldnUEtqNEU2OEFLU1pKblhZazhmR1pvS3FNNXFpUUF3TUdrcXdST1FpTVI5VEpGZ05TTW1relFnWGJsOUROWHYtS3hMSGMzdTY3cTgyeVBqUTcwektGOWk2SGZJcW9HU29pRUZHcGNSdExldFFPRkNZdUJQelpSVV8tVFRRbGpkaUFTa3hFbS1ZTTY3Z3d3cU9qMUVLQkhPbTJkem9wSlNicUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-07-11-013",
+    "date": "2026-07-11",
+    "companies": [
+      "costco",
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco and Walmart capture grocery-store crowns - thestreet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2pzOHd6N1VneEpta21SLWdUSHo0ajh0U1VLSXF1aDdRUmdRRlNoM0dCeTFEQTN1RFBraWgtNmRHQkY5Y0JFZFZqYXZGZWtMZC1GMEpyelFOLVk2Y1h3UTFTdzVjemFHMlJNZVlpZF",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2pzOHd6N1VneEpta21SLWdUSHo0ajh0U1VLSXF1aDdRUmdRRlNoM0dCeTFEQTN1RFBraWgtNmRHQkY5Y0JFZFZqYXZGZWtMZC1GMEpyelFOLVk2Y1h3UTFTdzVjemFHMlJNZVlpZFBtZks5YVFqNU5lRi14aS15dGJscDJRaUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-07-11-014",
+    "date": "2026-07-11",
+    "companies": [
+      "costco",
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco and Walmart capture grocery store crowns - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNYy10SU9TUU9UY1hBYXRKblpPY0VvZ0xxd19TdTlsOGdmWHFmUDdLd0xNTHd5d2tOc0NlR2hJMTBWSEFQV09sUDQ2MnVqczZzU2c2NzJaZkh1d2llS0NwTFBsLVE1X0ZNY3pqdWdSek",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYy10SU9TUU9UY1hBYXRKblpPY0VvZ0xxd19TdTlsOGdmWHFmUDdLd0xNTHd5d2tOc0NlR2hJMTBWSEFQV09sUDQ2MnVqczZzU2c2NzJaZkh1d2llS0NwTFBsLVE1X0ZNY3pqdWdSek1DeERHUXJxdDZKakFJZHlUV1U1X0s1YlFJQkVJZ2dn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-07-11-015",
+    "date": "2026-07-11",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Water You Should (and Shouldn’t) Buy at Costco, According to a Water Sommelier - Food & Wine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGVRZjZaUlJvMFNxbU1xRU90V29aYUFsbmZMLVRfN3JpYk5tM1lkNFdwV0FiZzQzbUw2VWs4VzBlX1dia0JUNWFtaVdEM3dwdnRjNkFwakJXOWpMQy1Kd0c2emJEZjZhUUpYQWxUNj",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGVRZjZaUlJvMFNxbU1xRU90V29aYUFsbmZMLVRfN3JpYk5tM1lkNFdwV0FiZzQzbUw2VWs4VzBlX1dia0JUNWFtaVdEM3dwdnRjNkFwakJXOWpMQy1Kd0c2emJEZjZhUUpYQWxUNjU5bTBsNlhJWUNjNmtkNk9FdWwySE1QdHFyWjQtUW5B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-016",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Midera Food Processing (MFP) Starts Life Alone With A Spin Off And Index Debut - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVJkN1JaZnZ6QUl1dHZOOFk5X1h4XzZsb1BpcU40MXM5RDlfbkFpUEJfVmZfSTAydmVmVXdQeW9qTk1rR0dyRHJTVzRpY09Ba0lCRXdHSFZxNHh1UDA5ekRGVFgwT3JPOXFrYS1aSk",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVJkN1JaZnZ6QUl1dHZOOFk5X1h4XzZsb1BpcU40MXM5RDlfbkFpUEJfVmZfSTAydmVmVXdQeW9qTk1rR0dyRHJTVzRpY09Ba0lCRXdHSFZxNHh1UDA5ekRGVFgwT3JPOXFrYS1aSkpaRWZwYy1GOGJZSmJJUmNNNHlHRVVDWEZMRjJGSEJPSFUtMXZKS2NRbGJ1cVBaZFE?oc=5",
         "type": "rss"
       }
     ]
@@ -804,6 +1158,64 @@
       {
         "name": "food_safety_news",
         "url": "https://www.foodsafetynews.com/2026/07/publishers-platform-they-stopped-counting-and-now-they-say-they-cant-see/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-10-042",
+    "date": "2026-07-10",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "All You Need to Know About Bunge Global (BG) Rating Upgrade to Buy - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0NkT3FRempWdVRNRENiaGVDem93X2tBZ0dLYW92Q3pDcVpETmF1b0t4NVhQUXNyRWlOTkFYTnczLUw2cjlmOHhBam9jd3BGeVc4ZFJQVkJoSFExLXBaaTlZOC16NXBRNzI5OC1CNm",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0NkT3FRempWdVRNRENiaGVDem93X2tBZ0dLYW92Q3pDcVpETmF1b0t4NVhQUXNyRWlOTkFYTnczLUw2cjlmOHhBam9jd3BGeVc4ZFJQVkJoSFExLXBaaTlZOC16NXBRNzI5OC1CNmJOT3d4U0NiNkstRTBFb1hNRmF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-07-10-043",
+    "date": "2026-07-10",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Walmart announces nationwide recall of popular outdoor appliance for injury risk - SILive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQME1qd2h5NFJvYzliRTZ4SVRMX1d0Um9TeGpodGw1UVZ3cnkzeV9Tdkk4X3dqTmN5dkdwVkRmcFd6TzlsR2hLdGh4TzNJdFViZ050UkZzMjRsQVdqUlR6VGltV2ZRRDdtQmFLQTNaZ3",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQME1qd2h5NFJvYzliRTZ4SVRMX1d0Um9TeGpodGw1UVZ3cnkzeV9Tdkk4X3dqTmN5dkdwVkRmcFd6TzlsR2hLdGh4TzNJdFViZ050UkZzMjRsQVdqUlR6VGltV2ZRRDdtQmFLQTNaZ3dQYURXS2RUZ25XbEgySVl6SjFMRmdLaXVKYVBjZUF2d1k3WGM5Ri1Ydl9sMVNIUkp6ZTZ4SWtEXy1McDgwU2JDNkVJek1tRk54MUR4TURR0gHSAUFVX3lxTE1La1ZFcC1FTTNEaTVEM0Y5blFtMWZsbUVrWkRJY2oyN0J3OTlJSGRtWkthTFpJRXF5TnZNMkFyOTN4X2FZNGwwTlF1R2dlWkdYaGxMcGFRY3E4Z195ZndiYTBKQ2hHYUNRNmdPdmlndWZXSXVJT3ozS2hkWDRpZ2VJOGlOU25pR0t1RW9SME1jMmVGNV80Nnh0S1EzY0VFeElOeC1LUUdKOVBuMm9EVTBPZXVXRlNLczQwMmZtZU9uT280Z0tWY3Y0NUtKYnpGcHZ5Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-10-044",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Middleby Completes Spinoff of Food Processing Business - foodengineeringmag.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzhub0pSS2lMX1VNN2RNVkFpM19XVUdDUDhkSk1KNlhyaFFoMVR1RnhqWTNXQjVrYlM3dG8xYXJHQzI2R0ozQ3JDQi1oQ1JCVk5GdTJibC1nenJRMEJ6emMzZXFROGpxYks3WGY1aE",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzhub0pSS2lMX1VNN2RNVkFpM19XVUdDUDhkSk1KNlhyaFFoMVR1RnhqWTNXQjVrYlM3dG8xYXJHQzI2R0ozQ3JDQi1oQ1JCVk5GdTJibC1nenJRMEJ6emMzZXFROGpxYks3WGY1aEdpaUthdHZGVEF4ekpkTWVtb1NoWDRxUWQxSXRjd1N4dGRYamNsZDUwNGQwOFFQOGJRbWdra0tjdWg?oc=5",
         "type": "rss"
       }
     ]
@@ -1674,6 +2086,44 @@
     ]
   },
   {
+    "id": "adm-2026-07-09-047",
+    "date": "2026-07-09",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Y Intercept Hong Kong Ltd Makes New Investment in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYmVxZ053UldCdVVsNHNNMFpVUWMzc0ZjZTI4WGhleUg5SUtQekdXaWNXNWUwWGRfUWtBV0NGa3lrT3ZPdExTRFJiS1lLV25qclhHdGR6SzdKeTY4Q2VfQUlBQzJtRnp3UmtoU0hhZG",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYmVxZ053UldCdVVsNHNNMFpVUWMzc0ZjZTI4WGhleUg5SUtQekdXaWNXNWUwWGRfUWtBV0NGa3lrT3ZPdExTRFJiS1lLV25qclhHdGR6SzdKeTY4Q2VfQUlBQzJtRnp3UmtoU0hhZGVWdmNEWlRzY3hiLTB3ZVpLRTJlVUZ3QXRIVUVZM1FYdVpDRHNnd3plVVNuRGdEa01xZ2xFd1VDbWExOGIzdzI0TGIxSkRYd1hWQ1p0UWV2X3RLMjQyRnRaUy1LTVk2cnV4M1BHemtCeDk3OWIybVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-07-09-048",
+    "date": "2026-07-09",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco hit with lawsuit alleging protein powder sold in stores contains 'dangerous' levels of lead, arsenic - Fox Business",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOOHFvcG5BajI5RWozN25fUy1zUFFFTm9sek9yNXd4RllOZEd5dFp6SE10OUhTZGlfbWNPWDZmT2NrVTJFX2ltMDJ1MExCZVFnaEVTQUdIWGRoeVRQRGFLMm1YSjl3WDk5Tl",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOHFvcG5BajI5RWozN25fUy1zUFFFTm9sek9yNXd4RllOZEd5dFp6SE10OUhTZGlfbWNPWDZmT2NrVTJFX2ltMDJ1MExCZVFnaEVTQUdIWGRoeVRQRGFLMm1YSjl3WDk5Tl9aUjhUSE9xSURJTlVtMFRSdFYyeF82eFdoMVZvRkFfd09QNkpQZUJ0Q1ZoTWRIcGFhQ2E3S0VpdzdOR08tbDBPTTE1Z1VKYjc2dUtxSE16bFZtVFVwaVFnclFuSTNJ0gHMAUFVX3lxTE9JVVdPRzAyNER2X3pTMjdHV0NVSllqdzZOalZ2MktlM1RZVUlINDBGMjFHbTVvUFNiSHplSUJBR1M0VHM5a2tHS3Jodk9YcVNIUWlUVFpSNGlFazZ4LTNlYUtwenlDZjE1ZnREV2pSeXN4YkJOVmpWVVZ6ZzJ5WHE4TFh3Vy1yRWZnNUdFOGJRN2hkWG8yYzZXUzhwRlhsVjR6X1dXdno5ZVJrYVM5WjZBTnJsTzI1cmFObVJsUjJyUWp1N1RsM2d0VlIzbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "bunge-2026-07-08-001",
     "date": "2026-07-08",
     "companies": [
@@ -2415,6 +2865,26 @@
       {
         "name": "walmart",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV0V3VGFERDU4VGtqVVhUdmxqQ2tUYWd6X25VeTBnZDV6M3BtYURHMlNjUHBvV1pPRENYN2hfSDhmU0FQNjVKdnljYlRLX0pMZzlTUUNKR0t1WWtiS2ZWVkRYOGtkSFFjLXFBLS1vdi1XY2JlV2d6UzRHYlpFOEE5RFBoWFZCSThaT0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-08-040",
+    "date": "2026-07-08",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Here's What to Expect From Bunge Global’s Next Earnings Report - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQdU9SNm1qb0VtOEZQVnFKYzJER3F4dXRiRFNQcV82dVhSNzk5aXhGbUxyUWtjUjlkbGY1eUM2cXk2WHJEVjJpMVFZT0NjRzB0QlFEa1dmRlV2UEZPYW82LTg2TDBBUkNzcFJrdGp1WF",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdU9SNm1qb0VtOEZQVnFKYzJER3F4dXRiRFNQcV82dVhSNzk5aXhGbUxyUWtjUjlkbGY1eUM2cXk2WHJEVjJpMVFZT0NjRzB0QlFEa1dmRlV2UEZPYW82LTg2TDBBUkNzcFJrdGp1WFZxU3hmSkIyd3gyLWYwQnJycThobU0xSXEyWHhOOFc1OUtmRnl5QV9taTJTbw?oc=5",
         "type": "rss"
       }
     ]
