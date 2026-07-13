@@ -1,63 +1,63 @@
 {
   "adm": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "bunge": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "ttet": {
-    "earliest": "2002-04-19",
-    "latest": "2026-07-10",
-    "count": 5995
+    "earliest": "2002-01-21",
+    "latest": "2026-07-13",
+    "count": 6060
   },
   "nestle": {
-    "earliest": "2002-04-03",
-    "latest": "2026-07-10",
-    "count": 6143
+    "earliest": "2002-01-03",
+    "latest": "2026-07-13",
+    "count": 6208
   },
   "coca_cola": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "pepsico": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "tyson": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "general_mills": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "mondelez": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "uni_president": {
-    "earliest": "2002-04-19",
-    "latest": "2026-07-10",
-    "count": 5995
+    "earliest": "2002-01-21",
+    "latest": "2026-07-13",
+    "count": 6060
   },
   "wei_chuan": {
-    "earliest": "2002-04-19",
-    "latest": "2026-07-10",
-    "count": 5995
+    "earliest": "2002-01-21",
+    "latest": "2026-07-13",
+    "count": 6060
   },
   "standard_foods": {
-    "earliest": "2002-04-19",
-    "latest": "2026-07-10",
-    "count": 5995
+    "earliest": "2002-01-21",
+    "latest": "2026-07-13",
+    "count": 6060
   },
   "kraft_heinz": {
     "earliest": "2015-07-06",
@@ -66,14 +66,14 @@
     "history_complete": true
   },
   "walmart": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "costco": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "etf_pbj": {
     "earliest": "2005-06-23",

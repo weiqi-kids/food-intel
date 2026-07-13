@@ -1,0 +1,16 @@
+{
+  "total_raw": 263,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 11,
+  "gate2_fail": 14,
+  "passed": 26,
+  "gate2_samples": [
+    "Bunge Global (BG) Expands Global Reach As Viterra Integration Reshapes Its Network - Yahoo Finance",
+    "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $109. - GuruFocus",
+    "Shoppers are fleeing to Costco and Walmart for one reason - thestreet.com",
+    "Why Is Amazon so Much Cheaper Than Walmart and Costco? This Is the Only Answer I Can Think of. - Yah",
+    "'Are we serious?' ask Walmart shoppers after spotting first fall items on shelves including 'apple p"
+  ]
+}

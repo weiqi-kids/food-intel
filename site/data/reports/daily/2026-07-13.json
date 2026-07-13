@@ -1,0 +1,229 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T10:50:52.018879Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-13-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "New guidance for cell-cultivated and novel food businesses - Wired-Gov",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRFhCUkl6UW5DUjE4RmVYLTBuM1VKWkw2NWFDVjFkbWpMOVc5cUViX1k3X3hIX0xzVnNUNTdGY3p3bFdIZXZfZGhQQTg3T3V1dVczby16WjlqeGRJaXdLbHI1NVFVV3VpSC16cWFQczQ0Yk9lT1RVb3hlRk9IWWxuYVBlZUl0OElYbFhIRDg5emFvb0N6dzMySkFCY2dXeDJjTHNLLTRtQ0RvSnpvN3lHRUk1WlRaU0llYTdOVGNLY0diQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-13-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA warns Florida supplement maker about sanitation and allergen risks",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/07/fda-warns-florida-supplement-maker-about-sanitation-and-allergen-risks/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-13-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Incidents up as Ireland records biggest Listeria outbreak",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/07/incidents-up-as-ireland-records-biggest-listeria-outbreak/"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Procyon Advisors LLC Has $3.97 Million Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdDBsXy1jOFFuVG9qT1d3ZTZrSi1KVWItQmhGOF9UUk55dHVsN3BROGNTdWxMOVlOSVRMX0hpZjh6alNRb18yclZQZW9lMWh4YTR4QTVob0RDb09neFJ0QjMyRElsVGlCRmRRTnZNVmdBZXZBeHV0aHA5a3lUSzdLeTh4eDJncHVPRmdYRWVMZ0p2Zmx4bG9VWk1rLVpjVmRFenRvelBHbEJHTG5fRm1iQ1ZIV3EtYmtNWjdHMC1zYVpnNWhXeWNvcnNYemptZE9DRFZrVjFrM0cyaEZI?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-07-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods, Inc. $TSN Shares Sold by Sumitomo Mitsui Trust Group Inc. - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTTlLREw0Ulk0UG9RdlB1bjY5Rkx6Z0h0M0QxYTMyVUdrYkpxeWpWYVJEMHBMdTQxVUNndm5MZjc5Z2lCZFdrNEUySDdNN2dYWnRNMnE5U29lODI5cWRNYnFmV2ZSQ2xaNG1KOXM3OXkzWmNCWnI0Sk1mTUNoMUl1UUJSeEd1TmhjVzkzQjFPWW0zTjZISFFjSWF4c1ZPN0NMZlYyQWZPZ19MTU9FVDRlNE5NN21Cekl3UHBWdkdYMi1OcTRvSFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 263,
+    "dup_title": 121,
+    "too_old": 91,
+    "gate1_blocked": 11,
+    "gate2_blocked": 14,
+    "passed": 26,
+    "pass_rate": "18.3%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Bunge Global (BG) Expands Global Reach As Viterra Integration Reshapes Its Network - Yahoo Finance",
+      "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $109. - GuruFocus",
+      "Shoppers are fleeing to Costco and Walmart for one reason - thestreet.com",
+      "Why Is Amazon so Much Cheaper Than Walmart and Costco? This Is the Only Answer I Can Think of. - Yah",
+      "'Are we serious?' ask Walmart shoppers after spotting first fall items on shelves including 'apple p"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為沃爾瑪、好市多、ADM相關動態：「New guidance for cell-cultivated and novel food businesse...」。主要關注主題為產業通用、食品安全、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "New guidance for cell-cultivated and novel food businesses - Wired-Gov（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "FDA warns Florida supplement maker about sanitation and allergen risks（食品安全、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
