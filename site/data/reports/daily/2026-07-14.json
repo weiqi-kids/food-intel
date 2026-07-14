@@ -1,0 +1,221 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:47:39.670176Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-14-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Taiwan convenience store operators report record revenue on expanding networks - Taiwan News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MX2g4S2N5ckN4WEVKaFlvTHpvYWhGcmpDMXFUbko0Qmp4cVBJTEI3QXRacF81eFJ4YVlXV1ZmNzRIVDlzQzVNX0hCcnBFLW9VRUtvQkUwM00?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-07-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Here's What to Expect From Archer-Daniels-Midland's Next Earnings Report - Barchart.com",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0lmb1V6TWFsSlktak4taUVNaGo0Rk9vWFUtS2lBRlQ1MmNFNWVJZFhNekZ5WWVoMjdnQ0tROXNUWlg5NTRtaHhidXFlSFExUkI1MHJXZUZpcHhUTFc0Q1lGdk5kZnFuTW8xN3JUeHRSWXc5VDZnTXVFNVpPbDdaZkJaRUlmbFpHUHE1UWJpMWJNZUFxVUFKZjNKREwyUERPQ1EyZ3BPTGlDdHF2cEM2V2ZLN1FBTzA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-07-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tyson Foods stock reflects a steady protein business outlook - Ad Hoc News",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlhZTjAxY1haU0VyNzNoekpfeHZZYnJoVHcwd3BYTFJHeDdjNWNuMlVTWHJEVWJBSmhRRFQ2VGlHcy1IcWxYMGNRWU1RUS00cUVJQ2dsU3NHR2NsNHlWT1ctYTZWd0J4b1pfeF9KOFg4MWpVWTJ5Y05fYnhWUC1yZ3dtT204MWdlNnM3QmYtSWNuTnBDM2VRN1E2YjRtRWhwS3dmcUJ4cjFqOEVhdFZnNktZbnJHNzZ5RTFn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Could Mondelēz finally get its hands on Tim Tam? - Confectionery News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT25hNUp3MW50T0JKbjMtc3VqckI3QWtURm5XdzI4RTdiVWRSN1VSTGs0X19qN1FPdm9NcTNnaFVVZG1rWjRhT2lHZDRJNncwTUhlQkh4RXdTTm14T0tkT29rRFBPNU9zOFR2NDhiNFpRUUpfd1FNalJBS1ZQeTFlWlRMWHlPdXpzOXU2NmxfNlE1WTNONHFhTHpKaHA0bFZPSlU4Qzc3YTdYX2ZkX3hscHhXZzgyTjdK?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-07-14-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A hidden pipeline brings Amazon and Walmart to African shoppers - Reuters",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGhZWmRvSkswSFdwVnJVVjdYNTZNNXNkVFV6bUxHdzBxb2VtVV9KYXJGdy1pYTJHOUdoTy1xajVrRHpfczNhUnRjVVFZY2M2T0ZvNnVIN3l3RXRFLWxYYVg2WFhvV0hobmRUamE0WmVzZHR4aTRnclZBOFJ5V0VVSHItbWd6ME1CTFRnM0Q0ckZCeWFPQzN6NzVCRXpGXzBsdE1YR1J3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 5
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 263,
+    "dup_title": 95,
+    "too_old": 88,
+    "gate1_blocked": 11,
+    "gate2_blocked": 17,
+    "passed": 52,
+    "pass_rate": "31.0%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Bunge Global (BG) Is Up 6.7% After Big Q2 EPS Beat Expected - Has The Bull Case Changed? - simplywal",
+      "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $109. - GuruFocus",
+      "Bunge Global (BG) Expands Global Reach As Viterra Integration Reshapes Its Network - Yahoo Finance",
+      "Walmart remains ahead of its rivals as it continues to slash prices - Yahoo Finance",
+      "My favorite Caraway cookware is at Walmart for its lowest price ever - USA Today"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為沃爾瑪、ADM、泰森食品相關動態：「Taiwan convenience store operators report record revenue ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Taiwan convenience store operators report record revenue on expanding network...（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Here's What to Expect From Archer-Daniels-Midland's Next Earnings Report - Ba...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
