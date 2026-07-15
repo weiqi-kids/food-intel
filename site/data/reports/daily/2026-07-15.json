@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T09:51:17.774188Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-07-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Avantax Planning Partners Inc. Sells 14,124 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT1RmcVA5bGd6YklRVURmbmcxLW81R0steTRBcDkxYzRnUGVjdGM0SkZNOFpERGhRbW1ON3ExM1A5RkpLSjdVNGV6M2RaMl9FTy1Lbml4T09QLTdWenpqNUxJb093WWdSQy03dUxSNWxiQVJFZ2xNZzdsNkpYUGR1WGN0WUk2LVo2LXZ3TnpYNm5OVFM1d3Nsdm5zcVczaTVRNkR6R0FkQlJxNjlYM3VxNDhLckt2Q0Z0OEZFX08yR0thbEVkVHB1Nzh4ZDJiMXVwSXR1UGJ4QWdNMWR4bFczVA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-07-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Chicken Nuggets by Tyson Foods Inc. - frozen classic under sustainability pressure - Ad-hoc-news.de",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWs3dzRJOW5kNkYxNXp1anhKelhuWGZKNEw4eFhCOE0yLXhncmJBQ3R2bkhwYVdZLWYwVmJZbnp6RFVhdGRLV3JHNFpOTVcxZkxiWnQ4a0N1cnpSaVlVS0dwMDF4TEF0WGxuOGNEX3U4dFJkbl9Fb0dKdVJMbjhZWTkxQVpDOGZ6OG1mdGxFSGZiSjRpSy03NF9ZZjFGLUVuQ3hxQVJOaTVqUjNSMXdGc19ZaG84VXZQaHdOZA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "wei_chuan-2026-07-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to book forward of Wei Chuan Foods Corp. – TWSE:1201 - TradingView",
+      "companies": [
+        "wei_chuan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObEthSktzaVgyWW5faVkzbUtWVnhxUVBzUkctT2M0TXdlTWprcUJFaVVfTTlQUU1KS0NvYzM3WTlNS0JXUkVLSEFYaGJ0amlaRjNRRmRJWk1zcG1kRXZtSkJuOVlTdnQ5SjlxRUdhM0huSWl3TzR0c1hOVExqVVBzanZvamtkZDFxazhESEZlYkNoclE0MXhQbFlB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-07-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart reveals soccer fans’ World Cup shopping habits - Modern Retail",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVJuVEpDUlg0NEI0SVgxVExDTGxFN1FGZVJ3MWxRT2ZZUV9YR0syVzF5QkF1ekczTThXTjBiNW1uZlJwZG1sMlM1YlZGU2RzdEVjTWpfMUhuRmIyTWtXalBVdkJPUExPY2VobGgxdVBuZzlEY2hIU2QwMFdidXJYdEYwTlg5T2w1UUpsMUhUWFlpVm1wZlNtVQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-07-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "7 Changes I Wish Costco's Bakery Would Make - Tasting Table",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4bVVHUGpGMHpjMDAxbTA1SDhPbXZtMnNNNHV1SWFQa3BCU2JCZ0JoOTM4U1ZWaS0zbWpVeHMzVUloRzNTUno5SmE0Ny04XzkwckcxOEhnejJWeUZYUjZrZE13bV9TWEFwVDBZRHBtZVhMZlpfZ0JlQzdJbTBnazA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "wei_chuan",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 87,
+    "too_old": 85,
+    "gate1_blocked": 11,
+    "gate2_blocked": 14,
+    "passed": 68,
+    "pass_rate": "38.2%",
+    "gate2_block_rate": "7.9%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Advances While Market Declines: Some Information for Investors - Yahoo ",
+      "Bunge Global (BG) Is Up 6.7% After Big Q2 EPS Beat Expected - Has The Bull Case Changed? - simplywal",
+      "Bunge Global (BG) Expands Global Reach As Viterra Integration Reshapes Its Network - Yahoo Finance",
+      "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $109. - GuruFocus",
+      "Walmart makes another move to win higher-income shoppers - thestreet.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為好市多、ADM、泰森食品相關動態：「Avantax Planning Partners Inc. Sells 14,124 Shares of Arc...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Avantax Planning Partners Inc. Sells 14,124 Shares of Archer Daniels Midland ...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Tyson Chicken Nuggets by Tyson Foods Inc. - frozen classic under sustainabili...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

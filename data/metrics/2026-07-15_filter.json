@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 87,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 11,
+  "gate2_fail": 14,
+  "passed": 68,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Advances While Market Declines: Some Information for Investors - Yahoo ",
+    "Bunge Global (BG) Is Up 6.7% After Big Q2 EPS Beat Expected - Has The Bull Case Changed? - simplywal",
+    "Bunge Global (BG) Expands Global Reach As Viterra Integration Reshapes Its Network - Yahoo Finance",
+    "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $109. - GuruFocus",
+    "Walmart makes another move to win higher-income shoppers - thestreet.com"
+  ]
+}
