@@ -1,0 +1,228 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T09:57:59.973123Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-07-16-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bunge Secures Record Soybean Oil Deal for Brazil SAF Project - ChemAnalyst",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXlES3JuSUk4Snh4THZobTNaTENuV0JjTi1ZMzhMTUc3RFBkbXJ5SXZsS2lPV1ptVXZGZGlhZjVpUUtzM3RzYmFETTVENEdROGRiSnIyLURBUU9aLTM3M0VQclRib3RjODZCUU5pN0paT0dKSHVycGhSX0RjbXFuNnZsZTdFNDJ3UTlCdEg4ckFYSXhQbHYxQTg4UHhwempDLWtoM3I4MDZ0N0VWc1hNWVRzdENMWE9xQ3BV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-07-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fifth Third Bancorp Boosts Holdings in Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmh6OW10bzZMTmRiZE9GVWxZVGRqMjNFTFpYa2FiOXN2eEJrZkZyT3kzaXg3S0MxaW9QcWJqeUdtSEVmYWZIbE5IM3phM01haTlkeGtfT2JiWHp5RUptcDNSR01iQzhReHAtSXN6elljZFY1R1p4dHdCc2hSSHd6M3pUYkl6dUtzTVhxZWZfVHFVSm1ONHRrVnpzM1NFWmpLNlFBX0NERFR3aUkySjl5YXFoaEMwYmtPdnI0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mondelez-2026-07-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Member insights: Mondelēz International Brazil shares their decarbonisation journey - The Consumer Goods Forum",
+      "companies": [
+        "mondelez"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX1dvd2VqTVVvSzRzMmFVS3BxZDlJYl9nOGNUNkpac2FzTWR2NlpqWS1PYkR0NlBmbFktdUVkWXN1V25JTldlLXQyNWF3Mk9XZlFPS0xzdDlPS1k3Tnpsbm9NMEdlRkRvTFFGa0l6cWgtS2RHRnAtcmZvQVBCM1pRVmI3UTZ2S3preDloOE9zMW5Ic0FqdVlmZzZsOElWcVJHTEcyRmpya0QyQ2dxMDdZZU5qYVVFVGRaRDZGRk5B?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-07-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Prattville woman arrested after $1,500 retail theft investigation at Millbrook Walmart - WSFA",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQW5Ya0VnNVducHRIWTNEbFNGT3l0TGxlcWxqYUw4NHpXbHRlOVN0ekJQRmVPRF9tbXUzTFQ3WS0tdFJwYkpQSE5ibTBIT19aaDdkVUt1M0RZSFViUU8xejBIU1J1UUpnLU50dTZ3SGtQc0dLZmVTQ3AyNmxmeUNnMGhnWko5NGctOHJNTjNkelE5WmFOMS1BMHp6VVY4UmlPWHBySW00VHdoY3Z1SlM5TThCOTU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-07-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Prattville woman arrested for retail theft at Millbrook Walmart - WAKA 8",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNREpkZ1NpbWdxZU9LUUdRXzJvWUNFY0NlbzNMMVZmdFZ5MVgwNDVmYWducHdwYkpxNy1YMVJkX2RXeUV5RVpZUGI2RzhvMzBIRElHZUhPOWliSVlCSVBlWUp4ZW5KYWZxclhiVE5qVGhLV21oNHVYN1c1VDRNZTV3WFFlSXhxdkhqZGI4c1VjREFPSi1scXNsMndsdV8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "food_inflation",
+        "count": 3
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 102,
+    "too_old": 84,
+    "gate1_blocked": 8,
+    "gate2_blocked": 16,
+    "passed": 54,
+    "pass_rate": "33.3%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Advances While Market Declines: Some Information for Investors - Yahoo ",
+      "Bunge Global (BG) Is Up 6.7% After Big Q2 EPS Beat Expected - Has The Bull Case Changed? - simplywal",
+      "Bunge Global (BG) Expands Global Reach As Viterra Integration Reshapes Its Network - Yahoo Finance",
+      "Walmart makes another move to win higher-income shoppers - thestreet.com",
+      "Walmart's people chief says these 10 jobs are still hot in the age of AI - Business Insider"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為沃爾瑪、Bunge、泰森食品相關動態：「Bunge Secures Record Soybean Oil Deal for Brazil SAF Proj...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bunge Secures Record Soybean Oil Deal for Brazil SAF Project - ChemAnalyst（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Fifth Third Bancorp Boosts Holdings in Tyson Foods, Inc. $TSN - MarketBeat（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
