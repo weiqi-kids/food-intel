@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 110,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 6,
+  "gate2_fail": 18,
+  "passed": 50,
+  "gate2_samples": [
+    "Update On Archer-Daniels-Midland: The Reasons Higher Highs Are On The Horizon (NYSE:ADM) - Seeking A",
+    "Archer-Daniels-Midland rated Buy with price tar... - Pluang",
+    "Archer Daniels Midland (ADM) Advances While Market Declines: Some Information for Investors - Yahoo ",
+    "Bunge Global (BG) Is Up 6.7% After Big Q2 EPS Beat Expected - Has The Bull Case Changed? - webull.co",
+    "Bunge Global (BG) Expands Global Reach As Viterra Integration Reshapes Its Network - Yahoo Finance"
+  ]
+}

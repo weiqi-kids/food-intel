@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-17",
+  "total_events": 11,
+  "by_company": {
+    "adm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "walmart": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": 0.1
+    },
+    "food_safety": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
