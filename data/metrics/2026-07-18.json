@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-18",
+  "total_events": 9,
+  "by_company": {
+    "adm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tyson": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "walmart": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "costco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

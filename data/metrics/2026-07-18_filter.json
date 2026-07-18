@@ -1,0 +1,16 @@
+{
+  "total_raw": 263,
+  "dup_title": 115,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 7,
+  "gate2_fail": 20,
+  "passed": 39,
+  "gate2_samples": [
+    "Archer-Daniels-Midland (ADM) Is Up 6.8% After Regenerative Farming Pact With Walmart and General Mil",
+    "Update On Archer-Daniels-Midland: The Reasons Higher Highs Are On The Horizon (NYSE:ADM) - Seeking A",
+    "Archer Daniels Midland (ADM) Advances While Market Declines: Some Information for Investors - Yahoo ",
+    "Archer Daniels Midland (NYSE:ADM) Hits New 52-Week High - Should You Buy? - MarketBeat",
+    "The Bull Case For Bunge Global (BG) Could Change Following Potential Dilution Concerns Learn Why - s"
+  ]
+}

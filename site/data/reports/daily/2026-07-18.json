@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T09:17:17.145581Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-07-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tyson Foods stock steadies as cost pressures and demand trends shape outlook - ad-hoc-news.de",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONS15TDBkNUZxWS1Vamd3TnVublVMWFltNVpfNWhoQnlKaWRZVXpGNGluTlZIazhwQzJEVUQxbjYtVERnM1Zrci15Y09GTHJVTnZIcnNXa25fbmlYOURKWlBOTU9YV2VqT29pN3A5d0Q0UFRZQVdzTXluR01tV2FOWUNuLUV6bkE0RksxbTJWSWhwa01iczdUQ0l3c0FmMW9vYWU3em1MR2FnZTNJVi0wWUotRFZiOUFYOWhvQkh2c2lqMWJYMkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-07-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Shares Acquired by Principal Financial Group Inc. - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYzRVUkJLVWI3UnFMTjdaOTREcnlLLWRBOG5waGRmU0M2MlZvZDlTdVlETE9zRi1nTnB1dEt4ZFZldTJBWlFCQnZnYk16dGd4eERzWlNVXzh6cDRBZ29LOEI2WjIzdVV2dVBqRUZOeHpOODVaX2MwRTBCZF9LSGlwREVpUFQ0alpUVEMxSzlKVFk5S3JxQndzMWx3V2dzS2k5aVJra2NFOS1lRG5zUHhnUWlUZUZaZjdPaEhRdUZSLUVFV195aHBxYWNjM2ozbHp5Yld0ajQzcVIwM3ln?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-07-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of New York Mellon Corp Purchases 414,170 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOREE2RFhIX3hUWTRLLUU0V1BiVElqWGpjSXNVMmxGZjFLalNWV0wxa3pQRmtibE93MHRIVWRPRTdpaHBOZ3JZT3dHZ2taQmVRbktrVTJHSXdRQkhOOHdCZ3B1QmN4dHMtNDNaNDBzRGdoTGdPbzFKRThYXzh4TXJPXzVFVUtGYUhNTnhvU2tqbWZXQ2ZodlAwRmJfcnp1QzBZNVI0TW1VQlh6cG5OanRGR3lpVzRQdTRSMERoQ1pFelBqY3dPZ3Zyay1XSkdrbEpQVUdydkphUG04by12aHN3MGZHeTdFdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bunge-2026-07-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global stock trades steadily as Glencore deal reshapes agribusiness scale - ad-hoc-news.de",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTHl1UmpVWkUxVDdlUjBpMWQ2NXh3Y3JVSGRrUmREbFZRLTIzXzNPd2JYSnNuUjVnNEhDLWJxbVZkb3Bmb0U2eERlLXVFNm5nbFRFZjd1TERYclVuYWtmN0NVcndNZUJYTk84Z19kRnA4a3QtMlpMTjdPY2V5bDBpRGxYTWhtUkpQZWhURTVQR0h3LVA3Uk95Q1lPVjg3MTJXcENPY3IzbW9OLUNUM0tFekxmUHZhaktxY2VDb0FuWlNneDRxRWgzQ1NtRzE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-07-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chewy vs. Walmart: Which Consumer Stock Is a Better Buy in 2026? - The Motley Fool",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEg3VXJ3NWhKREIwZGQ1VTJnS052RkgwWEhMY2RITkpfbFJ5RExLUmkyUDRBeUhfT3lGY0o0cWNyeTRjOXl2eU1BNGFQbVcxMW9zWFRNVXBPMHJSX1dnc2hFUXFSdllORXNVajN3Zkc1Zk5HcXFibWVXRXNRU3l3NEk3cFJJNGRSMmp5TGhBRkpWUUx4QU8wMWluWlg4LUhwd3MxYVp0a3pQbVVIRkNZLWQ3Vk0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 263,
+    "dup_title": 115,
+    "too_old": 82,
+    "gate1_blocked": 7,
+    "gate2_blocked": 20,
+    "passed": 39,
+    "pass_rate": "26.4%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland (ADM) Is Up 6.8% After Regenerative Farming Pact With Walmart and General Mil",
+      "Update On Archer-Daniels-Midland: The Reasons Higher Highs Are On The Horizon (NYSE:ADM) - Seeking A",
+      "Archer Daniels Midland (ADM) Advances While Market Declines: Some Information for Investors - Yahoo ",
+      "Archer Daniels Midland (NYSE:ADM) Hits New 52-Week High - Should You Buy? - MarketBeat",
+      "The Bull Case For Bunge Global (BG) Could Change Following Potential Dilution Concerns Learn Why - s"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為沃爾瑪、ADM、Bunge相關動態：「Tyson Foods stock steadies as cost pressures and demand t...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tyson Foods stock steadies as cost pressures and demand trends shape outlook ...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Archer Daniels Midland Company $ADM Shares Acquired by Principal Financial Gr...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
