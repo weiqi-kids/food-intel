@@ -1,0 +1,226 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:45:50.706599Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-07-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global stock holds after 2025 earnings and merger update - ad-hoc-news.de",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSU5kbkNoU0NQYURKM3BaUjE5b2lmaXpOZGZReWVMNHJkdy1ZZUgxWGMyaEJ4Znk5UlFoNllTS2VZaHEtREVab1VvTU1OSU5JdzAwSEtMQ0ZRcU5FallFN3ZoY3ZFVXhEZ25Mdm5BZkZZWlVSLW9QcUM2SGdUakpZV0dlZm9QU3k3T3pNa3lpeUVHS280cHM4UFZSX0JDRl9VQ2pfREFobV9rTDdFZFZtcFRtME5WY1dVU1BRamln?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-07-19-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Costco Wholesale stock trades steadily after solid quarterly earnings and membership growth - ad-hoc-news.de",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZkJOSDRaWGI0VzQ1V3NWLURXWFdCb3VLNVhzYkc1YlVPSFBMcVByRmJ5LUNERi1vQU04ZGwwRmhMZ2hRbVo2SkhFRHdnWFRKNWRkVWE4dU1wOTRtYUhiRndNNDdTUXdEbEtKR1RRMjJQem5BWG9JOG1SUGRCVkN6ZW8wMmtabElPdG1rOEFEc1pXNTZRdV91NktCZ1lFOUFVWGg4U0VRTlpYdDNBbjBlV3FOTWM4LXoxNTNvMkpuZnVQSWRZYXpmQWd6TUY?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-07-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sanctuary Advisors LLC Has $5.34 Million Stake in Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR2c0MlhhQnAxTWVLQW1PN1l5cXNBS3ZLTUpDeVdTWmtoS0ZEcWJmbkNhVGlVNXJIeTNEMS1La0wzcC1IM3RJTzJWVHYwTGFZY2hBM0RYR3dfR3Rkc1VodnQtNHc2dEpsNk0tZEpqYnNkVmw3MDY2WEQzbmQyUU9WNnRhN25GWnhiOU1oYlk4VTQwakt2VnNqNVJObmhMTjVhOWZ3Q19yWEhLa1FVYVdEZmJUREczZDF3WVdkdVVvUmxBdUQ3LWNr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-07-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart recall: Check your refrigerator for lettuce linked to cyclosporiasis outbreak - AL.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHQ4OTJPb2NUZEY3WUZoX3RyVEV3cl9jOG01ODBwMm15cldKRWFMdnBhcHZqS2xNcHg5aWxaUmNLLXVWandXaTFwMkZKYUJvUWdQNGZwLVZFM0I5MU5xZ3hqYldDR2dtRlZ6WE5FMW5PekE0X3Zrd1J2blFpOUlPdS1xODhfYXF4S0pQUTVnajllSXRYZnJ4bnlBYnNEUkdMR1dRdjJlaG43SUxuTXdtYzdmR2lva0FjNTZGZFJR0gHSAUFVX3lxTFBHRTFBQTVGSFM3dXZ1ZGlOaUMtaHc3ODVkeUpkbUNwMVpHNi0tZjl4QXdWcl9qeGRSX3k4TnBRMjh1Ul9oazAxSFBScjBDdlV0MnlKX2x1OGsxbTVISjJRZWFHYzl3OFZnUFNsZ1ZLNzJOQ0JtRExrbXJJV1I3M2Nubm9qbEZzak1aMUF0UFFNOGNvWXdSejJoaGYxUHBWRHRkaGZGaUVjWjhIbl9QMVZEdkJmMzFEbWJ1Yy1SZWdRMWxXLWJvVTZYTTdVcjVRVXRBUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak - The New York Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNWxnRmtDYzF4M3lvbnM1eWdrcTJBbUl6TThYRTh5bGM3SjVqdHdKcDUxY0JhZVh2WDdFSC1KaU5QTGR3aW01RTJnOVpXU0ozdlNMNk5IZzNtM01hTmdyUk0zY1RlcFh3RlNkRUpYazdvRXcyeUVkWVRVSXpCZG1qM1FEV2U2WTRWYnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 3
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 263,
+    "dup_title": 129,
+    "too_old": 84,
+    "gate1_blocked": 5,
+    "gate2_blocked": 21,
+    "passed": 24,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "15.7%",
+    "gate2_samples": [
+      "Update On Archer-Daniels-Midland: The Reasons Higher Highs Are On The Horizon (NYSE:ADM) - Seeking A",
+      "Archer-Daniels-Midland (ADM) Is Up 6.8% After Regenerative Farming Pact With Walmart and General Mil",
+      "Archer Daniels Midland (ADM) Advances While Market Declines: Some Information for Investors - Yahoo ",
+      "Archer Daniels Midland (NYSE:ADM) Hits New 52-Week High - Should You Buy? - MarketBeat",
+      "The Bull Case For Bunge Global (BG) Could Change Following Potential Dilution Concerns Learn Why - s"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為好市多、沃爾瑪、Bunge相關動態：「Bunge Global stock holds after 2025 earnings and merger u...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bunge Global stock holds after 2025 earnings and merger update - ad-hoc-news.de（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Costco Wholesale stock trades steadily after solid quarterly earnings and mem...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

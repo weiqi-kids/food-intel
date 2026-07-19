@@ -1,8 +1,8 @@
 {
   "adm": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "bunge": {
     "earliest": "2001-08-02",
@@ -11,34 +11,34 @@
     "history_complete": true
   },
   "ttet": {
-    "earliest": "2000-10-30",
+    "earliest": "2000-08-01",
     "latest": "2026-07-17",
-    "count": 6384
+    "count": 6448
   },
   "nestle": {
-    "earliest": "2000-10-12",
+    "earliest": "2000-07-14",
     "latest": "2026-07-17",
-    "count": 6532
+    "count": 6596
   },
   "coca_cola": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "pepsico": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "tyson": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "general_mills": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "mondelez": {
     "earliest": "2001-06-13",
@@ -47,19 +47,19 @@
     "history_complete": true
   },
   "uni_president": {
-    "earliest": "2000-10-30",
+    "earliest": "2000-08-01",
     "latest": "2026-07-17",
-    "count": 6384
+    "count": 6448
   },
   "wei_chuan": {
-    "earliest": "2000-10-30",
+    "earliest": "2000-08-01",
     "latest": "2026-07-17",
-    "count": 6384
+    "count": 6448
   },
   "standard_foods": {
-    "earliest": "2000-10-30",
+    "earliest": "2000-08-01",
     "latest": "2026-07-17",
-    "count": 6384
+    "count": 6448
   },
   "kraft_heinz": {
     "earliest": "2015-07-06",
@@ -68,14 +68,14 @@
     "history_complete": true
   },
   "walmart": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "costco": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "etf_pbj": {
     "earliest": "2005-06-23",
