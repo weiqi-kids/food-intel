@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 10,
+  "gate2_fail": 17,
+  "passed": 31,
+  "gate2_samples": [
+    "Update On Archer-Daniels-Midland: The Reasons Higher Highs Are On The Horizon (NYSE:ADM) - Seeking A",
+    "Archer Daniels Midland (ADM) Advances While Market Declines: Some Information for Investors - Yahoo ",
+    "Archer Daniels Midland (NYSE:ADM) Hits New 52-Week High - Should You Buy? - MarketBeat",
+    "ADM.GH Bond Risk Profile - TradingView",
+    "The Bull Case For Bunge Global (BG) Could Change Following Potential Dilution Concerns Learn Why - s"
+  ]
+}

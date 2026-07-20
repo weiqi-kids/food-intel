@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T09:45:50.015330+00:00",
+  "updated_at": "2026-07-20T10:41:25.834223+00:00",
   "companies": {
     "adm": {
       "name": "Archer-Daniels-Midland",
@@ -144,43 +144,43 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 618472,
           "pct_held": 0.02,
-          "value": 52910281
+          "value": 52551566
         },
         {
           "holder": "Atlas Capital Advisors Inc",
           "shares": 1100,
           "pct_held": 0.0,
-          "value": 94105
+          "value": 93467
         },
         {
           "holder": "Gardner Russo & Quinn, LLC",
           "shares": 11130,
           "pct_held": 0.0,
-          "value": 952171
+          "value": 945716
         },
         {
           "holder": "First Manhattan Co. LLC",
           "shares": 1957,
           "pct_held": 0.0,
-          "value": 167421
+          "value": 166286
         },
         {
           "holder": "Burkett Financial Services, LLC                          ",
           "shares": 160,
           "pct_held": 0.0,
-          "value": 13688
+          "value": 13595
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 20707,
           "pct_held": 0.0,
-          "value": 1771483
+          "value": 1759473
         },
         {
           "holder": "Chickasaw Capital Management, LLC",
           "shares": 4250,
           "pct_held": 0.0,
-          "value": 363587
+          "value": 361122
         }
       ]
     },
