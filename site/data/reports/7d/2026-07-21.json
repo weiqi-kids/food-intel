@@ -1,0 +1,146 @@
+{
+  "date": "2026-07-21",
+  "date_range": {
+    "start": "2026-07-15",
+    "end": "2026-07-21"
+  },
+  "generated_at": "2026-07-21T10:16:02.345675Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "general_mills-2026-07-16-056",
+      "date": "2026-07-16",
+      "title": "ADM joins General Mills and Walmart in regen ag effort - Food Business News",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 77,
+      "last_week": 65,
+      "week_over_week_change": "+18%",
+      "sentiment_this_week": 0.02
+    },
+    "food_inflation": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.17
+    },
+    "food_safety": {
+      "this_week": 13,
+      "last_week": 8,
+      "week_over_week_change": "+62%",
+      "sentiment_this_week": -0.0
+    },
+    "earnings": {
+      "this_week": 3,
+      "last_week": 7,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "adm": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "tyson": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 4
+    },
+    "wei_chuan": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "walmart": {
+      "event_count": 16,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "costco": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 2
+    },
+    "bunge": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 5
+    },
+    "mondelez": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 245,
+        "last": 295,
+        "change_pct": -16.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-15",
+      "event_count": 47,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 57,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 42,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 20,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 18,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 49,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 12,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-15 ~ 2026-07-21）共 245 則事件，重點為「ADM joins General Mills and Walmart in regen ag...」。Bunge表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "ADM",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "泰森食品",
+        "reason": "本週出現 8 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "沃爾瑪",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

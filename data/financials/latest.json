@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T10:41:22.945180Z",
+  "updated_at": "2026-07-21T10:15:58.386033Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -177,17 +177,17 @@
       "name": "大統益",
       "ticker": "1232.TW",
       "currency": "TWD",
-      "ar": 1070819000,
-      "ar_prev": 951830000,
-      "ar_qoq": "+13%",
+      "ar": 1076248000,
+      "ar_prev": 1070819000,
+      "ar_qoq": "+1%",
       "ar_period": "QoQ",
-      "inventory": 3072094000,
-      "inv_prev": 2949706000,
-      "inv_qoq": "+4%",
+      "inventory": 2835936000,
+      "inv_prev": 3072094000,
+      "inv_qoq": "-8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "tyson",
