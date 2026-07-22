@@ -1,0 +1,202 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T10:15:44.060500Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-07-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Fully Cooked Chicken Nuggets by Tyson Foods Inc. - kids’ freezer staple faces quality push - Ad-hoc-news.de",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcklOTkRmUm54QVExZHNOaHl5OGY5TFkxUkItcnhQZkwxaUtNdVlIWHM2RmE0QXJFTG5PeHB1NnR5eE5JcV83WUdHSjk3eDlER1RSYjNGbW5UMjVLTEdJRG5QZlFGVUg2Z0xtOFJseUZSNmIwOHNiVmRGV1RMYmpPVy02d3AwblYyMFJia0xCQWl5TVJRVHRjTTBvMFAzUmFoUnc3OThUaUpIbmM3Zm1JQUtfQTV4M3o5cXZvVDNUQ3RhdUU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-07-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Police kill man outside Las Vegas Walmart; 1 critical in store gunfire - Las Vegas Review-Journal",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb2o4amVKRjdlY2NQbGs1ZjZ6R1ItN2Myd28wenBNUm1RT0lIaEFlVm9IWHRWUVdHY2hXUFVoQ25qbW03cE9Md1AxTTRPdmM5NGxGRXY5NGNLeWlCcTdsYlV2YkxsVjZiMnMwNWkzRmVUN3BMcEQ4dDJkdTc1LVdUWXpEb2tpOVJ6NGswWUpEQmxCMmU4R2xKZ2tWUnVodlNXSXJWVkhpZWl5MmNhU0hPVjNTSnVKSThwaWNhR1B3SUJXM21MdlE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-07-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Operating income of Costco Wholesale Corporation – BCS:COSTCL0 - TradingView",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZmVVeldNSkY1b2ljTmNWV3BCMEVLWU0zVUh3ZU1PVVZBdTVJU09JRWp5M3E0WUJpSFpOb3NIRTNvMGxnamhJRzhTUFV0T3Ftd0V1NzlJZnpGcWVQdGdUUzVaNnhlelhHemU4dkllV3lUVEQ1eV9PakJTYkhoODJ0a24zUmY2VEVkQkx0dWNUbTNSZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Survey finds growing concern over food safety risks",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/07/survey-finds-growing-concern-over-food-safety-risks/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Limited hepatitis E knowledge in pig sector hinders assessment approach",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/07/limited-hepatitis-e-knowledge-in-pig-sector-hinders-assessment-approach/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 98,
+    "too_old": 94,
+    "gate1_blocked": 11,
+    "gate2_blocked": 21,
+    "passed": 40,
+    "pass_rate": "24.1%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "SEB Asset Management AB Invests $12.51 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Update On Archer-Daniels-Midland: The Reasons Higher Highs Are On The Horizon (NYSE:ADM) - Seeking A",
+      "Archer-Daniels-Midland (ADM) Is Up 6.8% After Regenerative Farming Pact With Walmart and General Mil",
+      "Archer-Daniels-Midland (ADM) Appoints Jeff Rowe as COO to Enhance Global Operations - GuruFocus",
+      "Archer-Daniels-Midland Benefits From Stronger Crush Margins, but Bunge Offers More Upside, Morgan St"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為泰森食品、沃爾瑪、好市多相關動態：「Tyson Fully Cooked Chicken Nuggets by Tyson Foods Inc. - ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Tyson Fully Cooked Chicken Nuggets by Tyson Foods Inc. - kids’ freezer staple...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Police kill man outside Las Vegas Walmart; 1 critical in store gunfire - Las ...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

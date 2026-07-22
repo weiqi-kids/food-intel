@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 98,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 11,
+  "gate2_fail": 21,
+  "passed": 40,
+  "gate2_samples": [
+    "SEB Asset Management AB Invests $12.51 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Update On Archer-Daniels-Midland: The Reasons Higher Highs Are On The Horizon (NYSE:ADM) - Seeking A",
+    "Archer-Daniels-Midland (ADM) Is Up 6.8% After Regenerative Farming Pact With Walmart and General Mil",
+    "Archer-Daniels-Midland (ADM) Appoints Jeff Rowe as COO to Enhance Global Operations - GuruFocus",
+    "Archer-Daniels-Midland Benefits From Stronger Crush Margins, but Bunge Offers More Upside, Morgan St"
+  ]
+}
