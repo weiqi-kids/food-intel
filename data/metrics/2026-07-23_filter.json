@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 97,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 11,
+  "gate2_fail": 18,
+  "passed": 48,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+    "Archer Daniels Midland (NYSE:ADM) Sets New 1-Year High - Time to Buy? - MarketBeat",
+    "SEB Asset Management AB Invests $12.51 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Archer-Daniels-Midland Benefits From Stronger Crush Margins, but Bunge Offers More Upside, Morgan St",
+    "The Bull Case For Bunge Global (BG) Could Change Following Potential Dilution Concerns Learn Why - s"
+  ]
+}

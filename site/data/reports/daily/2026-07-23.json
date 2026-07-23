@@ -1,0 +1,229 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T10:12:23.770268Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-07-23-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart (WMT) Stock Looks Overvalued On Cash Flow But Fair On Earnings - simplywall.st",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUFdXRzhCYlF5dGk5a1hrVWYtVlR2bjV5czV6WEF6V2hxMnpFMmdYT21zYXNtZWExY0tBWlViRWV4V29SZkdSWmNPRjBYbE9NNm1mdEhVaHpZWE1YNS1fWnFpd3JQMjZWRm8wTkZxb0dsWXlaWHVSUHRqMzIyeDZHeWlFR1NINHVkd3ZWZTA0NU1rY2pXdWxCMEltM1lWX1JMQWFSQW01eERISGo0U1pvWjBLYlY4a0VERm01LUNJQ3dfVGFaRWRPaEFHWk82UGfSAdQBQVVfeXFMT3Azc20tTXJzQ3huS3JvZnVRN3k1OUZrYmxkSTQ5eHZDa2FkUVRoRnNnZzlkS0RaR3F2TUx0ZXhiZ1VwSV9HTTJDdmdIOUlhcVlBMVIzWEkyc1JDWWlQRnFZWFExQzRhNk1WaVFZc3pnVVd4aldfdkZWRkdVcmFHTl9OajFWZVZ0SXFhbTdKZDVWbUJxakZMUXV2Z05Ycjc0Nm9xbU4wR1ZkYm1RVTg1NmQyZDFZZ1VDV0U1dG9ES1RycXlTNjJmNkVXNUxlV2QydkZYajI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-07-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Shares Acquired by Dimensional Fund Advisors LP - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWTF4SGdMRGFNUC16TjFMUUY5VVlhU3BYWEZYQ1dGMWVjeW9WTGQ2cks3RXVIWlN0cFF4d1FWbm5HZmxndE1ZYWRWNEtaM3RDSFlzbFVzRmhYdDNuZ1l2Q0hETFhQX1paYl9lYmhfV3JxaU5zRnMxeUJlZVh3bExyQ2g4aFFBSUNGZEt3ajdyMmxZbmRualRtbUw0TVFZRlFHMXBURVBpYTFmTGQ3QzBnQVVwLWFQOHNIbFlnRVNwODdFRktQbWt1eWFDZHc0Mkpid1JWUWo0cXFOUVk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-07-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Employees evacuated after ammonia leak reported at Gadsden Tyson Foods plant - WBMA",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVFsUlpJaWQtb3VQazYxTDhiejV6ZjNTVnd5TFA5Q3lnQlBPYmNNM1NOdnJRTzRITWtQSGJXOEF6QW9DaGlNWlkwMnRTa1FQY2ctWE1DelM4Y09vWGZkUzBUZ0FLcF96a3hkM01LdXFHX3VxM1RjSnNkRjdvQUhzSW0yRzMwcUVSeG83d05LdVFuUWVmc1hodXFhT0wwdHdKUlhOMHI5NVB6MHM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tyson-2026-07-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods holds sweepstakes drawing for Packers home game tickets - WFRV Local 5",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYUlNN0NDNkZnWG5yaWs1ejV3c2UwZFplYTRLWUVKTllGRWdEY1MzTFZGakhFV213b1RuOWcwZXdkaHdZZUFneGVEVDRvd1JBMXJWRmJ5Y21nQzNUNWJWVmZyZGZ1TTRmaDRrX3AxVmNnT0lMVS1zZlpTVmVCQjBGbVdJNm1OOTl1SzZ1aEVpdUR0c0lYSkxxa1FjUlhwWHZVNkJXTjBPS0VJMHlpb2J3a1ZDQVXSAboBQVVfeXFMTVVRYU1uS2xOcGJ4NHZHVTVWdEpsWEdRTG96RTNibEpUZUZiSGFGSlB2MmVRY1NRX3FZdnVrWFZLZFhvaTlCTFlpZ3VneHU0bGtLWjhiTXNuTDhxSWpoTmphc25adklPVHB1ZW1jYlVCenIwbDdyVGQ1Q3hZQmRpZldhVUpkNXppT2tWa09wVDlKajBQanJRbk1jLUphNnJEQU9WeDlwZ1FNSkdpZlF3VnFLSjV1bG9LVVV3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-07-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods, Inc. $TSN Shares Acquired by Swiss National Bank - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV1M5dE1IMzY2cjJLX3dYVDNqTHlYWjUzeGhGbEZNR1VEZXdVa0s4Ty0weFhlcmdsZGRfM0RHTFYzT2VTVlJYVEE2SmU1MHh2N3l2eUZpX1pzcFVfdWYzVy1WcTlsalFMS1Q3UmpMR3VUcTdKQ1djWEZZcXpCSzROVnVPTExmLS1LUWg3SUpkdUpJWUVJNExrWE1NTHNybXlXOGdIYllWRENzdFdvaVZpX0pRTENuUDIteGY4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 4
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 97,
+    "too_old": 91,
+    "gate1_blocked": 11,
+    "gate2_blocked": 18,
+    "passed": 48,
+    "pass_rate": "28.6%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+      "Archer Daniels Midland (NYSE:ADM) Sets New 1-Year High - Time to Buy? - MarketBeat",
+      "SEB Asset Management AB Invests $12.51 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Archer-Daniels-Midland Benefits From Stronger Crush Margins, but Bunge Offers More Upside, Morgan St",
+      "The Bull Case For Bunge Global (BG) Could Change Following Potential Dilution Concerns Learn Why - s"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為泰森食品、沃爾瑪、ADM相關動態：「Walmart (WMT) Stock Looks Overvalued On Cash Flow But Fai...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Walmart (WMT) Stock Looks Overvalued On Cash Flow But Fair On Earnings - simp...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Archer Daniels Midland Company $ADM Shares Acquired by Dimensional Fund Advis...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
