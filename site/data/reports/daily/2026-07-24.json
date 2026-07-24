@@ -1,0 +1,203 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T10:08:36.074745Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-24-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Chicken noodle soup recalled because of lack of import reinspection",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/07/chicken-noodle-soup-recalled-because-of-lack-of-import-reinspection/"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-07-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland Company (ADM) Appoints New Executive Vice President and COO - GuruFocus",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOXJqVVJwUTVsN29BWVRiME1JTXp3cktZMDdHd19acVpzRERZYnoyd1l1MmZGazFlcWxhUFI5UzdYTXVSR2dROVE5WnhfdG1qSjQ2N29DRjdwYXA1QjhIV2g1THRadXhocjk1ZDluZHp3cHB3QThoLXRiZjk4VmpYOUhZTjRQelRRM3JhNFpPT2YtQXduVV93VjZhWFhiZ0J5NWZDdGd6NTRrOWJoNm1kejNLbUJSeTM1Z0VVYUQtSlB3SXhva0VvLQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-07-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods stock trades steadily as cost pressures shape margins after mixed fiscal 2025 performanc - Ad-hoc-news.de",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXE5OE05bkdUSlBEM21lS1lBWXZlX01VNDE4NUxNVkZLQlBKRW1qSm9hRDEyZ0kwQUlUTFE4TjFTNkVwZDYxSlVLdXRqbjBkbFVSS1Rza29weVpRVGYtTkZBaDJuRXdQd2FYVkxkMkZHYTlfdnNDM0NoMnRMazVVSUVMSWYzUzQtbEJWZldYLWZfdFlxcUJRVlJ5bUNPR2t2dFVrb2p2clRPYXJHeHZGZUFxSUttc1BuOTQxcS1rWDF2aDJWc1dYTW1n?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-07-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart shares its quiet plan to take down Amazon - thestreet.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWlNuTms4Z0xDTXI4elJjZmtwYkdxblZlOGptOUdpSUV3UFBoVWd1RzJaejJfemNCN25NQ0NHX09JMjlhdWRsd3hVS0pMa0w4Njl5Qldoa2dlS0FHekROYjY3SVRxR2lzaVFTTFprMG5Rd0pvemZXRm1pXzBLZVhVS1lPRl9xdGFYN2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-07-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart (WMT) Expands Retail Media Reach, Is The Stock Undervalued Or Overvalued? - simplywall.st",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYl9GSlQ1LXBfMkxnNExzck5KS2VodnM0d3M0b24xNHVya0IzQkI0dk9QYnY5MS1NM2lJYVJ4bEg5N3V6T094OVpDa2xLbGpURUhWMEhRVzU4dmF2c2E5Tjg2QW5nbTVGZzk5SlFRUVkxMzZoejU4M0ZIVkhWMXMxOWI1eGZrNkpNaGdaWWsyRXRaVjgya05oQlJ5OU1Uc0trWnRiZjFOZGxUTXlzNmNrWm5fcVBOV3JpaFVjaENfVXdrUDdDWExXS3NnR2pSM1FG0gHWAUFVX3lxTE01S0xUdVdHZEw3dkIyMFNIblozMWtiWExCU2I4Znlfc01IdmFINERuZ0FfLUJrVXp5SEJYWDNMc2xmc2Z0RHQ5VEFmNHhGQmRGeUkzY3lYamZ4LS1KRmJmelM2aG1jeERubjVTNlRDY1ZIYjlTd0FfS0RSZTN3X0VoZ3p3aXhjakxyQ090dzBCRU9hZWt4b0ZXclRMaXdTaGdUOU4xZTVZb2hfRVZkblBGcmNhT1c3a3pMQnBHNjE4M09vN0JpU0w2eWNKX1NsOXF3RDlwZUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 4
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "food_safety",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 106,
+    "too_old": 90,
+    "gate1_blocked": 14,
+    "gate2_blocked": 18,
+    "passed": 37,
+    "pass_rate": "23.3%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+      "Archer Daniels Midland (NYSE:ADM) Sets New 1-Year High - Time to Buy? - MarketBeat",
+      "SEB Asset Management AB Invests $12.51 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Archer-Daniels-Midland Benefits From Stronger Crush Margins, but Bunge Offers More Upside, Morgan St",
+      "The Bull Case For Bunge Global (BG) Could Change Following Potential Dilution Concerns Learn Why - s"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為沃爾瑪、ADM、泰森食品相關動態：「Chicken noodle soup recalled because of lack of import re...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Chicken noodle soup recalled because of lack of import reinspection（食品安全、產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Archer-Daniels-Midland Company (ADM) Appoints New Executive Vice President an...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
