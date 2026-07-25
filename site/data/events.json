@@ -1,5 +1,139 @@
 [
   {
+    "id": "adm-2026-07-25-001",
+    "date": "2026-07-25",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bank of Nova Scotia Purchases 446,326 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeVljbE1YMGdkRExTRjNvcVFaTHdTRkpTMk9KLW5IS3phLWVqb1ZVQldTWlp5bjZudk9OQUY4WjRUYXdnX0JQZVQxb1R2eWc4M0t1SnIwRnRYa0ZVcld6VGZBbWZxMENWUTQ5WFhsSk",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeVljbE1YMGdkRExTRjNvcVFaTHdTRkpTMk9KLW5IS3phLWVqb1ZVQldTWlp5bjZudk9OQUY4WjRUYXdnX0JQZVQxb1R2eWc4M0t1SnIwRnRYa0ZVcld6VGZBbWZxMENWUTQ5WFhsSkViVFZfY25zYUJ3bnZ3ZTE2YXdzSnYwTVZ0NlczUnlySkxEeWJDOW1oSFo5QTMtQ0pBU0JGd216aGtMRXQ4Si14c1NiVkdmb3NjQ1dyVUNxOW5ucW4tN1poQ2piRG51NV9LNUxqTVJ6V0xSdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-25-002",
+    "date": "2026-07-25",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global SA (BG) Shareholder Structure: Major Shareholders & Institutional Holdings - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FMWdwLW9EUG9MdHc4UzNKWnlvcjdVQ3BTbVFrU1h5VkRUSnRaMFpVeWprYThPQ0NJVmFBdVRDYUxhbHpyTzlmeWNiQnc5S3djZnpiSFZ5dnpZMGtkQkM5dENtbjY?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FMWdwLW9EUG9MdHc4UzNKWnlvcjdVQ3BTbVFrU1h5VkRUSnRaMFpVeWprYThPQ0NJVmFBdVRDYUxhbHpyTzlmeWNiQnc5S3djZnpiSFZ5dnpZMGtkQkM5dENtbjY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-07-25-003",
+    "date": "2026-07-25",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABN Amro Investment Solutions Buys New Shares in Tyson Foods, Inc. $TSN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNUswT1RwbG5uTUFMUEltdmhOQWdSMnVsWnlNb182V05NcjhONU5xMTNSRkN5OXRNbk93al85WktqOFdzMkN3TmsxTGpBelZaelFQdWZ6TVlqWmZ0bk9ZcjhkeFd6WWtoRDZBRlhwRX",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNUswT1RwbG5uTUFMUEltdmhOQWdSMnVsWnlNb182V05NcjhONU5xMTNSRkN5OXRNbk93al85WktqOFdzMkN3TmsxTGpBelZaelFQdWZ6TVlqWmZ0bk9ZcjhkeFd6WWtoRDZBRlhwRXhKcE5CTGxRSmVxTWdvWl90VmxvZHBpWFVhT3FCUWI4MGtabHJlZmpiOTZlUHp1X0d2NW5YcFFkTEJkTnNYTDNqTVpsTnI1TW9sSjMzMFdJdEdxc1VfSWZRNQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-004",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How cyclospora outbreak impacts the food industry - CBS News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOek1RdkQ3U21aWXYtZFhHcGlidllyQ3VHUzJ6VWV6U3BqaTBObUZmc2NKem00Sktzem5JcFRON19Lckd1Vi1NYjAweTV3WHVUa1MyODdKWGVnMjFhdy1xZ05ycTl4UlBxZWpJUWhNNW",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOek1RdkQ3U21aWXYtZFhHcGlidllyQ3VHUzJ6VWV6U3BqaTBObUZmc2NKem00Sktzem5JcFRON19Lckd1Vi1NYjAweTV3WHVUa1MyODdKWGVnMjFhdy1xZ05ycTl4UlBxZWpJUWhNNWRGSENzdmczME1qUDRQNFFEbDBXcmtCTEE3bDU0dXVoLVBic3NTcWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-005",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Asheville BBQ event sparks mental health talks in food and beverage industry - WLOS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLXNDWXRUcDN4TXBRVHpJSzZadUVyOERHTzg2eTdlZ25TU2dnZmJHUnZrRkZzdWFvWTA1cUtycENXQkl6c2dmVlN1ejB6LVo5c2loamVGMHVVRVNnZWE0dVdkN0VjTXBBeWsxbWJrU2",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLXNDWXRUcDN4TXBRVHpJSzZadUVyOERHTzg2eTdlZ25TU2dnZmJHUnZrRkZzdWFvWTA1cUtycENXQkl6c2dmVlN1ejB6LVo5c2loamVGMHVVRVNnZWE0dVdkN0VjTXBBeWsxbWJrU2I1aThaMFZxSDVWakU5blNiUm1ENTZnWWV6NVFMbW9oVnV1V21YcFE2czJJQWVpaWJvNXJ5Rnp4WTBvNmptaTZFM0pnN3BZSG5vdmZCVk56Rk92QnlDS3Zlb1pfaFlMeDZJWG1nNnJtQ3JIZ1REWkMtN3c1cUQ3UzRpeHprQU5ablE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-006",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Two bacon brands recalled for lack of reinspection at the Canadian border",
+    "summary": "<p>Maple Leaf Foods Inc. of Lisle, IL, is recalling 12,036 pounds of not ready-to-eat smoked bacon products that were imported from Canada without the benefit of import reinspection into the United St",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/07/two-bacon-brands-recalled-for-lack-of-reinspection-at-the-canadian-border/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-007",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Recalled eggs linked to Salmonella outbreak spanning 17 states",
+    "summary": "Midwest Poultry Services L.P. has been identified as the producer of the implicated eggs. On July 21 the company initiated a recall (see link below). ",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/07/recalled-eggs-linked-to-salmonella-outbreak-spanning-17-states/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-07-24-001",
     "date": "2026-07-24",
     "companies": [
@@ -243,6 +377,523 @@
       {
         "name": "food_safety_news",
         "url": "https://www.foodsafetynews.com/2026/07/chicken-noodle-soup-recalled-because-of-lack-of-import-reinspection/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-07-24-014",
+    "date": "2026-07-24",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland (ADM): Buy, Sell, or Hold Post Q1 Earnings? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQVDBVWm9SdEUyRUVsM3R0NnNFYzA1SlBqOHYxRldzQXhFajBlMTdlaTg3c3UzZFdyM0Foek5VRDdocWJBOW92bVpxRDZDR0EyTERtTTd1TFpRZnptUUlpdDNKSkhMaGY2b1dQRDJvT0",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVDBVWm9SdEUyRUVsM3R0NnNFYzA1SlBqOHYxRldzQXhFajBlMTdlaTg3c3UzZFdyM0Foek5VRDdocWJBOW92bVpxRDZDR0EyTERtTTd1TFpRZnptUUlpdDNKSkhMaGY2b1dQRDJvT0ZLRXRhaFRaeEw1TlNseWV4TnNaV28zSGVpYXBwZjJYZUtsS0std1dvZ19WWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-07-24-015",
+    "date": "2026-07-24",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods completes Lexington plant closure Friday with final round of layoffs - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0NFeXFCNTFVMm9JVzBHN25EQ01MZ1lKZVdoaXdSMkxGS1MyT01kSXBWNjk5a2dzM3NRV0VEUjd2NDdHNWNYVzBrNkl3M21PWEhSNkFhUlhxbkF5MnROX05uV2tHVG1RYnl6NU8zNU",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0NFeXFCNTFVMm9JVzBHN25EQ01MZ1lKZVdoaXdSMkxGS1MyT01kSXBWNjk5a2dzM3NRV0VEUjd2NDdHNWNYVzBrNkl3M21PWEhSNkFhUlhxbkF5MnROX05uV2tHVG1RYnl6NU8zNURRV2F3aUQwUnZmUjR6c3ROWGpGMFBwb2lReU5KRUlJamhocEdNWVcyLTZ4dzlyajR5ckJIMVU5T1JFNjE0djlLdW1vNNIBxwFBVV95cUxQeVpsX2l2eWRGbFhXWHI5a3NXai0zdnlVTVFNdk9jNW1GYld6ZUhpU2w2TGdrcHV4ZTNCX1FDeG55bFFQMjNPR2RBaTJvWV80SzZIRDlqLVVOSk9XRmNCNFB2V2d1QzdrQkNPWWItOUVFc1ZJbkI0VG5PZkc5OU1LOF94aGw0aWlyQTdjVGJ5LWFPZmRueWVDelI2RkNOTGpDVlZCSkhILWZCVTVpdW9OM3E0M2UxRGw2TjI0LURxRGtva01HclZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-07-24-016",
+    "date": "2026-07-24",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods launches Broncos season tickets giveaway (how to enter) - Broncos Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQamxpeVhRaDhiVVVweUoyZnFfTkQ1d3VGMEI0cHNMSW9jb3Ayc2hMWlVRUGk5RFdlOTFIS0pVV3BOXzhaMlQ0ZDFvdTZLN2xfOVJEVXRSVWZkVVFtZzRLOTJuUkVuMFM2VWR3eU43Z0",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQamxpeVhRaDhiVVVweUoyZnFfTkQ1d3VGMEI0cHNMSW9jb3Ayc2hMWlVRUGk5RFdlOTFIS0pVV3BOXzhaMlQ0ZDFvdTZLN2xfOVJEVXRSVWZkVVFtZzRLOTJuUkVuMFM2VWR3eU43Z0xJelBBZ1hoUC1yeDlSN3g2N2czdXBTeTdCMW5uZ2d2SXhJVmwwZ0VhM2lma3lBYnl3SGp0RHVfTl9FNzdpcVo2eTN3U3Uya2dQNDlDQzdOVzJITmdnSlBES2JoREw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-07-24-017",
+    "date": "2026-07-24",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here is What to Know Beyond Why Tyson Foods, Inc. (TSN) is a Trending Stock - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2JsQXJsZjJUbEJvZ05TeWpvTGUxTjI3QndtaVppeE56TDRmS01zZjlJY0M4V2t4ZGpSUjREbmt3VHQ1TDRUUmVkdXdUOE1nRUxBVC1vV203aDBQZXkxcVBmTUJlMHM3X1ZrMFpvV2",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2JsQXJsZjJUbEJvZ05TeWpvTGUxTjI3QndtaVppeE56TDRmS01zZjlJY0M4V2t4ZGpSUjREbmt3VHQ1TDRUUmVkdXdUOE1nRUxBVC1vV203aDBQZXkxcVBmTUJlMHM3X1ZrMFpvV2dmTms2THZyQnhkdmxPc2FpTkk3eGdTekZzVWNLLWZXZkJ6Tk10bGQ4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-07-24-018",
+    "date": "2026-07-24",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Liberty One Investment Management LLC Purchases 22,815 Shares of Tyson Foods, Inc. $TSN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNakFnemMzZXpKZEJnbmFWWHJvVXM3UWxFTVJqdXNQZGRsT1JoV0phV3NiRjcyMXFiUEJwN2t6X1V2Q3oxLXJKc29BTHdfOE13b1VHWGE5LXlaY1FISV8xMFhRaGxLeXZLdVJJNDVkZ2",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNakFnemMzZXpKZEJnbmFWWHJvVXM3UWxFTVJqdXNQZGRsT1JoV0phV3NiRjcyMXFiUEJwN2t6X1V2Q3oxLXJKc29BTHdfOE13b1VHWGE5LXlaY1FISV8xMFhRaGxLeXZLdVJJNDVkZ25YMGZfMGFPYWQxd2dIclR6OWRrNWNIN0pwSmRIV2YtbnZHMmg2SzFISW51NU9ieWhCLXRjUkFRZTc2NkZqUlNhc1V6MFN3RUNLbE1rQkVXUjNFY0VzSHBTM0JrbFllYklxQmlIcFczY0FlQ0tt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-07-24-019",
+    "date": "2026-07-24",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart on the Trail for More Vietnamese Suppliers in Global Expansion Push - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFRuUVEyR1B2d2xpRnpYN1B5OXFFQW04RU9ER3luSVBLR1JCNDM0Rlo1MnVMVWRCbVJYSk92QU1rUG40eS1OSW9rWlRGeXk4cnA1OWlaMUhBZ2ZuLU04cExkRmhUbVJweWMxVzNjMF",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFRuUVEyR1B2d2xpRnpYN1B5OXFFQW04RU9ER3luSVBLR1JCNDM0Rlo1MnVMVWRCbVJYSk92QU1rUG40eS1OSW9rWlRGeXk4cnA1OWlaMUhBZ2ZuLU04cExkRmhUbVJweWMxVzNjMFNlSV81TjJiZDNBUFUyYUpWQVJWbzhtOFFEbEhRMi1jRk1PbTFJaVRGVkNBakxjQm9USkhYYWxDdTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-07-24-020",
+    "date": "2026-07-24",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart hosts annual summer wellness event at stores statewide just in time before new school year - Big Island Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVGlXZE8tLWxiTGk5WlNKajZqcXFyLThneUdMcjVDSVc5cnFreU4zMGdIMDlNTlMxc1ktWnFPN3JlMDJxTU9KYlFSSnBJU09zWHVacEQ0ck9IVVJrUmh6LVYydVZSMFB0MGROcHdyVG",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVGlXZE8tLWxiTGk5WlNKajZqcXFyLThneUdMcjVDSVc5cnFreU4zMGdIMDlNTlMxc1ktWnFPN3JlMDJxTU9KYlFSSnBJU09zWHVacEQ0ck9IVVJrUmh6LVYydVZSMFB0MGROcHdyVGUxSjRKejBWSk5TQ2dqMlNPR0NFRnJRalZzWC1jd1I3ZDk5aEpCcUt2MnprSl8tRFpkVUZYQ1ZpSlpJLVVNREd1NWREU1pDM2hqQ2MzQjA5akFLa0lKUV9XcUpFZHRkcFNF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-07-24-021",
+    "date": "2026-07-24",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart’s stock split history (& prospects) explained - thestreet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUU4zRXlOdzRaVXRWcVEzc09BOWllZndHbGV4c1dpY0ZuWU9PM2hSei1QeTJfaHZFYUx1TENiRGxCb3UtM3lnRTY1dG4xeWptc2ZTWVREMWV6RGYwdWNHdVRpUll6ODRDXzBKdlVZLT",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUU4zRXlOdzRaVXRWcVEzc09BOWllZndHbGV4c1dpY0ZuWU9PM2hSei1QeTJfaHZFYUx1TENiRGxCb3UtM3lnRTY1dG4xeWptc2ZTWVREMWV6RGYwdWNHdVRpUll6ODRDXzBKdlVZLTk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-07-24-022",
+    "date": "2026-07-24",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Costco keeps gas prices so low—it's 'straight out of the retail playbook,' expert says - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBZNEtiZkloQ0tQWERZVHVXWHVRdERuWW9RNS1JalZ5LVVUemNWanc2QVFfRDl5N0JBMTZJcnRoM3RKZWpuQ0tzM3FZV0NUQlZ2NVNYbndldHVqNHNxTm1HX0NGSjR3V0xBY08tQ3hubG",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZNEtiZkloQ0tQWERZVHVXWHVRdERuWW9RNS1JalZ5LVVUemNWanc2QVFfRDl5N0JBMTZJcnRoM3RKZWpuQ0tzM3FZV0NUQlZ2NVNYbndldHVqNHNxTm1HX0NGSjR3V0xBY08tQ3hubGZhakQtUU81SFhFd9IBgAFBVV95cUxOSVNjUk5NMFMtNVFlRXVwN2F0Wlk1V3FYNUd2TG1zcWUyQS1aSzVKc3I4STdWMjRWLUpta3J0VmRRS3VuMVE5MjdNTDNsWlV3M0lmRU5scWl6OWhUQWVKREhteGEzTDBWR0x1QWlJVkJFNDdDV25YZVdWV3NUY3FzYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-07-24-023",
+    "date": "2026-07-24",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Former Upstate NY mall getting a second life as a new Costco warehouse and retail hub - NewYorkUpstate.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMWFKOFcyQU9KVmhSM0YteklVYkpnUGwwR3lJXzQzV196TUpOR1hCeHVQT1Rid2hIaHJVVXFiWmJ0a2VrVkhERGJiblVyT1NjVGVmN1pZdEM3VTdfSFNrSjRkNU1nUkxIUXJvZmoySn",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMWFKOFcyQU9KVmhSM0YteklVYkpnUGwwR3lJXzQzV196TUpOR1hCeHVQT1Rid2hIaHJVVXFiWmJ0a2VrVkhERGJiblVyT1NjVGVmN1pZdEM3VTdfSFNrSjRkNU1nUkxIUXJvZmoySnowMDFBdGNOSk9nQ0x4RE1MTnVrdzFIX2ItZE84VWtHZWswVVdlWjJ6REtwTGMyNDVNc3JsSHZJRXN5QlpLWUpjUmV1UXFPWmxpa3JyemdYOGs5bFdwcV91c2tIVmpCZlM0TWNXYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-07-24-024",
+    "date": "2026-07-24",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ready for Costco? Here's what first-time shoppers should know - Times Union",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zZkF5X21wV0RiSmhHSXpjc2FkaGx2cWlTQ20wNDltc0hUeUtHd2ZDdkhrRk12eVVsY3ZpYWxmT0dod2w1TVZVTnNGcVl2VkJGOUw4UjVFVmFCaDZGdGV1RnFR?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zZkF5X21wV0RiSmhHSXpjc2FkaGx2cWlTQ20wNDltc0hUeUtHd2ZDdkhrRk12eVVsY3ZpYWxmT0dod2w1TVZVTnNGcVl2VkJGOUw4UjVFVmFCaDZGdGV1RnFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-07-24-025",
+    "date": "2026-07-24",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is This Condiment the Secret to Unlocking Costco’s Food Court? - Sporked",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVNuMUQzNGlOVzVVY0xnUTl1bkVaTlN4MDRhT3FySXJLSHdDbXJMV2c4ZmxnY1R0SldOOVJPemtEdXdndjkyaThfV3FiTzMwUkRzeXpGX2pscHhMVTNKMF9hdUVYMktSNDg2TW05bU",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVNuMUQzNGlOVzVVY0xnUTl1bkVaTlN4MDRhT3FySXJLSHdDbXJMV2c4ZmxnY1R0SldOOVJPemtEdXdndjkyaThfV3FiTzMwUkRzeXpGX2pscHhMVTNKMF9hdUVYMktSNDg2TW05bUx1ak9DcUxqaWdKNm41NG96aDY1bEpPbkU2S0owRE4waVNWckE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-026",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Naperville reigns as ‘retail mecca,’ producing $5.7B in sales last year - Chicago Tribune",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeWd5ZVA1Rmhpa09QdGRfNl9zSjd2U0U1NFF2YzJyR0VoTkFjN1NJbTkxazRKYVhSc3V5WVc0aFpwaFhJaTFPQmVhclFqTkMxRHA4WEY4TDJfdUFtVEItZWRHX1dDZ2t5WEhwYm1SeU",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeWd5ZVA1Rmhpa09QdGRfNl9zSjd2U0U1NFF2YzJyR0VoTkFjN1NJbTkxazRKYVhSc3V5WVc0aFpwaFhJaTFPQmVhclFqTkMxRHA4WEY4TDJfdUFtVEItZWRHX1dDZ2t5WEhwYm1SeUREaHhKalNGSzhVZEd5OHZScUxxWlVwZEw4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-07-24-027",
+    "date": "2026-07-24",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Costco Wholesale Corporation Revenue Breakdown – BOATS:COST - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdktYeWg2ZGNrWWxBQ0JDbHVEVjV2VmttUzlVdVBSUTYwSmJqUVR4QU1nMzNaY1BoQzBJZ2hJU0ZWUmtrd04tejBqWlNpQnV5M3RDU2EybUVXSWZBQUdtekFkeEZFanBVdTlKYnRJZW",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdktYeWg2ZGNrWWxBQ0JDbHVEVjV2VmttUzlVdVBSUTYwSmJqUVR4QU1nMzNaY1BoQzBJZ2hJU0ZWUmtrd04tejBqWlNpQnV5M3RDU2EybUVXSWZBQUdtekFkeEZFanBVdTlKYnRJZWlqcXpsTWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nestle-2026-07-24-028",
+    "date": "2026-07-24",
+    "companies": [
+      "nestle"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Nestlé to sell half of waters business in $3.4B deal",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/fVVuukj6RZGj5co3UcDta-sLuHKoG71eWZJB_rbmjng/g:nowe:0:0/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MT",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/nestle-sells-half-water-premium-beverage-business-Peranel/826150/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kraft_heinz-2026-07-24-029",
+    "date": "2026-07-24",
+    "companies": [
+      "kraft_heinz"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Leftovers: Philadelphia rings in lactose-free cream cheese | Cheez-It launches first beer collab with Coors Light",
+    "summary": "<p>The Kraft Heinz brand is positioning the innovation as a cheaper alternative to other options on the market, while Pringles collaborates with Buffalo Wild Wings on sauce-inspired chips.</p>",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/philadelphia-lactose-free-cream-cheese-cheez-it-coors-light-beer-cheese-pringles-buffalo-wild-wings/826141/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-030",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How the cyclospora outbreak is impacting the food industry - NBC News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUJwQUxWdlgydmJrbzJMdmtoNWRBR3lTZDhiV3BqTTFxb3UxVG1seUNfTTcwTFczY3hxN1VuLXFZd2w2ZVpIZkJFNFI5OEY1czdNLUdlc2JTXzNSY25nclV3MHEtVTVFRTM0LW9WR2",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUJwQUxWdlgydmJrbzJMdmtoNWRBR3lTZDhiV3BqTTFxb3UxVG1seUNfTTcwTFczY3hxN1VuLXFZd2w2ZVpIZkJFNFI5OEY1czdNLUdlc2JTXzNSY25nclV3MHEtVTVFRTM0LW9WR21qczdDZHhRUFEydE5MUGFRSlF0MU1RWXJJdm9yNXF2Sm5kZG9lbjdwY3ZvQkxOWXNZWjZkNUxYMU4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-031",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TÜYAP Foodist İstanbul to open the door to Türkiye’s dynamic food industry - EQS News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRHJKeXpVakZXRHdBa1FCSEgwTWdldF9HemFwRzd1ZFlOXzdudUlFX21YWnpoN0VQbUc1OWZkeWxFQXpiMWxXcndSMnpyT1pLS0toTnVudmhibnFOX0dBZkhLUFA0ZHpld21mMUx1am",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRHJKeXpVakZXRHdBa1FCSEgwTWdldF9HemFwRzd1ZFlOXzdudUlFX21YWnpoN0VQbUc1OWZkeWxFQXpiMWxXcndSMnpyT1pLS0toTnVudmhibnFOX0dBZkhLUFA0ZHpld21mMUx1amUycDhxUFQ1emxTVXdrM0V4X09zT3B6aHU5bExpMGRKcmg5dWhXZ3BsbVBRZDI0LVVTb0hsMVRCLWpwWGd3enpoeG5NUHF3MVY5Q3J5SlUwNURENEpUaWRZbDB4aXdTbm1HckNXSWRnbTR6QjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-032",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Listeria Recall That Started With One Cheese Plant - Food Industry Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOWmp0ekVNWlVJLXRsN3JQX2Y0RVlTMjk3Z3FEZGppSlhvbHNwQkV2UlZlMWNJQXo3TFJvOENTaml4SDJ5TTJEY0YybU4wcWNpOThZRVhzM1gwOHVqMTBzei1kM05ublNDWVBOVGJpSW",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWmp0ekVNWlVJLXRsN3JQX2Y0RVlTMjk3Z3FEZGppSlhvbHNwQkV2UlZlMWNJQXo3TFJvOENTaml4SDJ5TTJEY0YybU4wcWNpOThZRVhzM1gwOHVqMTBzei1kM05ublNDWVBOVGJpSWVQN2JVTjdEU2IteGx4dm9oc21IUmRCbEZUSGlLeGxrb3RfQ1BQOEphbHNCMmxnQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-033",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Quiz July 17-23 - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPWVpLaUhlM0UzMm5CTVJ4cjlZOFNMaEJPdVNzTGE5MWtqOUdiWVdrdjJ3UnRfM05qbmgtUHBiYzFsbDRtTWx0R1llZ1pQNU1HekpzSG9iN3dDbmkzRFBVNm1JS3BEeG1NMG8tczZ6R0",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWVpLaUhlM0UzMm5CTVJ4cjlZOFNMaEJPdVNzTGE5MWtqOUdiWVdrdjJ3UnRfM05qbmgtUHBiYzFsbDRtTWx0R1llZ1pQNU1HekpzSG9iN3dDbmkzRFBVNm1JS3BEeG1NMG8tczZ6R0ZYbURzSVMzTUZwUTRIRXhhTlF3eUZWODVOT3BIVDNZUmFfSzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-034",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cyclospora in Lettuce, Salmonella in Eggs, Amy’s Lentil Soup Spoiling: Why Are So Many Foods Being Recalled? - U.S. News & World Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxORzNNX3lzNVJmX3kwaGIzdmtwTGdtc3BpT0txRjJRZ2RBVEZpVDJoVnJkYml2Tnk2VzQtN2xNWS1TcWtXOWJrblVEMDhKc1hLdEdxdmdVT05xUExNa0ZuZW1IazJmUnZ0TTNLQjBGQj",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORzNNX3lzNVJmX3kwaGIzdmtwTGdtc3BpT0txRjJRZ2RBVEZpVDJoVnJkYml2Tnk2VzQtN2xNWS1TcWtXOWJrblVEMDhKc1hLdEdxdmdVT05xUExNa0ZuZW1IazJmUnZ0TTNLQjBGQjN1VEhBM0pNTkFXNGNZWmVfWkZyaVdzaG9xQXhOWTRwYjNDM0ZXNmVFR0phd0hpb0p5S2NObHBBUDE1U3pqWWF0NTFYS0VUOXN0ZjBYdEFmSmRLSlZGelhKSVJEZ2FSa3dkSmQwSTVkRkhCM3VBNkZPLUhScThxalBkM3hFMWt1a2xoT3E4WVVfag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-035",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Food Exec Brief: Fairlife Goes Dark, A Lettuce Recall Gets Bigger, and FDA Signals a Busy Fall - Food Industry Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQX2RXbmtDUUNJcExabGZ1WlVVOTAtYmlWT2cxMG1mUzVPZy1xaDI0UHExcDdINVlpY3RMdFlQQzFPenAtS0c0dW9va3k4bHA0LXZtc2dCeWFjV3lWMWVTUENDeWtwYzJNcVhaYWNXSD",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX2RXbmtDUUNJcExabGZ1WlVVOTAtYmlWT2cxMG1mUzVPZy1xaDI0UHExcDdINVlpY3RMdFlQQzFPenAtS0c0dW9va3k4bHA0LXZtc2dCeWFjV3lWMWVTUENDeWtwYzJNcVhaYWNXSDdma05EWFpUb3ZsWnhFNzJJcmMzWGszN2hXN19YaC1tUkUxcGxXUkJaZGFGVzRjYmRmbXNPQlExNW52SGJyd3MxU3I3T3E4by02V2NHTjEzQWduZy1BbGhRV2xDVUVZZWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-036",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FDA GRAS rule timeline pushed to December 2026 - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0xNSF9CRDFsUnVmWjY3R3RnTU5uYXNZSThLZ0E1ZTBZQmFxaTgwS1gxalNMNS1aekFzdUJFaEZiQXVmUmlTTTBZalZiS3VKejhlUjlyODRfZ3lJdkJINmMxTy0wSEtFZGc1MEFCdl",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0xNSF9CRDFsUnVmWjY3R3RnTU5uYXNZSThLZ0E1ZTBZQmFxaTgwS1gxalNMNS1aekFzdUJFaEZiQXVmUmlTTTBZalZiS3VKejhlUjlyODRfZ3lJdkJINmMxTy0wSEtFZGc1MEFCdldsWE93SWNOUFM5cUd4N2N1YzFiMGhaUFpOMUtETnpJOWZHb0pxY1doYXladFlHaVhBd2V1ZVQ5bHVFWHlaYWs2X0dqV1E4dmQwcmpSSW9JYVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-037",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tractor Supply to close 75 Petsense pet stores - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVdud19QbHhsQVYwWk9XTnFpb2NjS0c2U2l0Nl9aNzFCQmFNZHJxQ1hqX1JNV1NkNlRlQ3BEM01tWjNwdTB0cFU1cURnNzV2ZkpXNkhGRjA0a205cHVrNkk0Q2FSMzNPaHUtc056RE",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVdud19QbHhsQVYwWk9XTnFpb2NjS0c2U2l0Nl9aNzFCQmFNZHJxQ1hqX1JNV1NkNlRlQ3BEM01tWjNwdTB0cFU1cURnNzV2ZkpXNkhGRjA0a205cHVrNkk0Q2FSMzNPaHUtc056REdRSmNIVGotU3FKR1JqQjlyU3N1YTJnRnRZaVI2a0o0elppSFRHQlB3OWVIVGNESGEyNVdWdzFxY1paSWc1UHVac2xpaWJvbzRMWkk4cXFHdHY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-038",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bain report cites ‘genuine volume contraction’ for US grocery - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFdsWnRtbWNtRktTeldhWUh6MzdoWmVBelgzUEdvM2ZaN1ZVZ2Y5YnZmY0RtM1NEWktkNEViMGQ1TTlnenI4aTFoYmV3VzBsNUtHQmxuN2ViSUNxWEVMbmZfTi1qQm5yRjM5WkJ3RV",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFdsWnRtbWNtRktTeldhWUh6MzdoWmVBelgzUEdvM2ZaN1ZVZ2Y5YnZmY0RtM1NEWktkNEViMGQ1TTlnenI4aTFoYmV3VzBsNUtHQmxuN2ViSUNxWEVMbmZfTi1qQm5yRjM5WkJ3RV9UTkxpR1Z6ZnJwb2JnOUFwV283R0FQVlZpd29XZ0JJQ0l0NFFrVTg3MmZjWmt1OXhZLUxPeEt3bHktejg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-039",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Slideshow: Confectionery-centered innovations - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNaG9zLXo2NEMxM3FVbHl4R2MtV0o0OHFWVmY0eWc0cGdiODMxUXZnd0FBYnNkbFdNSkFUb1RYRDZiZ3hEWHVrOXVFQlpiaGdYWHZ0ZS1YZDdXN3NVbUZPcFc2SVctTGpwQVpxcERDRV",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaG9zLXo2NEMxM3FVbHl4R2MtV0o0OHFWVmY0eWc0cGdiODMxUXZnd0FBYnNkbFdNSkFUb1RYRDZiZ3hEWHVrOXVFQlpiaGdYWHZ0ZS1YZDdXN3NVbUZPcFc2SVctTGpwQVpxcERDRVMzb2JhSEJXUExVNDB0bWFtcXRDR0RjbGdUR3pocDV6ZHlmcF9wN2NZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-040",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Visit FSN at IAFP in New Orleans",
+    "summary": "<p>Food Safety News will have a booth on the exhibit floor at the annual IAFP conference July 26-28, 2026, in New Orleans. If you are attending, please stop by to say hello. <a href=\"https://foodprote",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/07/visit-fsn-at-iafp-in-new-orleans/",
         "type": "rss"
       }
     ]
@@ -910,6 +1561,46 @@
       {
         "name": "google_news_food_industry",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTVuY203U0NIdUJJdGZUMW1vNnpIM3BaUFpqTklrcW5wOTVjMEZlamg0c0ZQaWlnbnpCU2dkU0dvZjJMa1B4ZWprX1hZdVNTRE5YQldaVXVlek5ISWVGbmx2UlhKN0VQdkE3WVJLMy1GUm10djdnOEh2dEZxU0JWOEowSnFoa010QnRqU0JHRHFBQXlXMWd3andlR1hjOHZ5WTFLSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-07-23-036",
+    "date": "2026-07-23",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to book forward of Uni-President China Holdings Ltd. – DUS:58U - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3hEZktpclZDS0gwQWpwcjFzS1VTenBjZHJaaExiaU9McFpEcFBfMloyd2o0eHBsNWtxdmhBa2kyRFpHdktSM2FyYTdnTGdrMTJMdEhabldtTi1NaldzWFJURkpkdER4TE5mRW5zSn",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3hEZktpclZDS0gwQWpwcjFzS1VTenBjZHJaaExiaU9McFpEcFBfMloyd2o0eHBsNWtxdmhBa2kyRFpHdktSM2FyYTdnTGdrMTJMdEhabldtTi1NaldzWFJURkpkdER4TE5mRW5zSnBlbkJLM2VMZ3NySUQyTzMtVEdUWUNLaVNOOHkyXzgzUGM1SHRqLXV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-07-23-037",
+    "date": "2026-07-23",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Costco Midtown store conversion vote delayed as Kansas City customers say they want store to stay the same - KSHB 41 Kansas City",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNHRsY1RrWHprdXVScVNQY3RQLVVXcy0tLWJoR3p6cWxXa0pYRlJCcmtaRl85RGlkdERVOWxEM3ZCR2xVV253VzVVbmFRTXB3VWNXTG9LWUJYRmpKNC11T1pfSloySlUyS1FhRURmWH",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNHRsY1RrWHprdXVScVNQY3RQLVVXcy0tLWJoR3p6cWxXa0pYRlJCcmtaRl85RGlkdERVOWxEM3ZCR2xVV253VzVVbmFRTXB3VWNXTG9LWUJYRmpKNC11T1pfSloySlUyS1FhRURmWHFpZGZlbDNpVS1seUVEcl9SZ1F5RUp2ODlOcGoySU9vOTJmWjZvUGk4NFAzLVdvN0RlYmJXNmx3b2hBcFNoMDZzVlduY05MNmdzWXN4dklzeTlzNGlFMmE4a0xRRGFxS0h5dGpxN20tcWFBWFZMLUp3cWpNS29JNHZGLXNrajBTLWtubXZIUGk4?oc=5",
         "type": "rss"
       }
     ]
@@ -1657,6 +2348,26 @@
       {
         "name": "google_news_food_industry",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNE5GcnpPZFJGS0dYQ01yRXVZMDAtd3VpMHVqcXoyYzVfajBidHQ3bmlUMmJtQmtMenAwM0VwRF9rc2xPU0NuX3lzLUx0ZUhjcEkwbDBFZ0FqSHRMSDVoT3NJaEEzNGNMRkpfUkdZMk4zY3JSU2c5Y0RtdFpTQlhBV01yZVNDS0NJYWcyZVNERTc5TTF1bnh4dDhPY3ZKZmYtdkg0emMycnR0UHV1R2hGVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-07-22-040",
+    "date": "2026-07-22",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "4 taken to hospital after ammonia leak at Gadsden Tyson Foods plant - WBRC 6 News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPb3kxcnVVdEFQZjhONWxNWm5QNzBVUkxieU8xRUp4cS1kcC1tZTJGcVFOdVNOa3p0S0NVVUlhRl8wY2pyWkEzUHY0QkNKbi1VaHpfY2tkNURHejl6UFlRQ1dOcHl5VVJqejNUdHZDbl",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb3kxcnVVdEFQZjhONWxNWm5QNzBVUkxieU8xRUp4cS1kcC1tZTJGcVFOdVNOa3p0S0NVVUlhRl8wY2pyWkEzUHY0QkNKbi1VaHpfY2tkNURHejl6UFlRQ1dOcHl5VVJqejNUdHZDblRYLXc3ZV9nYlFvZmdBT3E3Q0JhZDdsMEllOU5XNzhpYmFUMlpoQ1VjeFNB?oc=5",
         "type": "rss"
       }
     ]
@@ -2547,6 +3258,26 @@
       {
         "name": "walmart",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ2tidmVreVlXVGlwbkRKRDdsQVNTVDE1amQ0WEhEU0JQakZqRzh2NXE4Tkxzam1zSTBTUjdJdk9BbGxxM0l1M21tYlRrTWpBOHY1dXpSZmY2M09tamw1WDdRUWRDeEJfUk5OVVNYaFNZMXV6T3ZjSkR4UTJBV1ZLOEcwLUdqQThhRTBhVTRXR3A5UnhNN1RTQzBEQTZGYTl4NGJsU2xIOU1tM0I5YmhCSmtOTmZJbGhSZzJXS01hRjZqRVpGZTJjZ0RPV0VfQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-07-21-048",
+    "date": "2026-07-21",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Swiss National Bank Increases Stock Position in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMHRwdUdwR3o1MWl0WFhwczdWRWRETFRtWnhvSmdfSGlKeDdFYTBmZlZsMDB0N0llQVJtZmlPREF4MkE5RXA3R1FzUG40OVFmakRqcXlvdHhTbldQY0NYTktjcDZkSWR4TnhQRHBqUW",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMHRwdUdwR3o1MWl0WFhwczdWRWRETFRtWnhvSmdfSGlKeDdFYTBmZlZsMDB0N0llQVJtZmlPREF4MkE5RXA3R1FzUG40OVFmakRqcXlvdHhTbldQY0NYTktjcDZkSWR4TnhQRHBqUWpwS0FwbXdxb0VNSU9Sck1jOTdJRjg5cG9wSnZWMll3Zk16azJ0ZlBHMWpvZnVDSjNLZUIwWVl2UmJTOWRxM3BfdVFTeHhUWG14cThsMzJsVFNENlZYVTVrMDFWTE5ZX0N1cEY1VWh1ZEdqTjQ?oc=5",
         "type": "rss"
       }
     ]

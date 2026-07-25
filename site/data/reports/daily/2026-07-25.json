@@ -1,0 +1,200 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:28:39.191336Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-07-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of Nova Scotia Purchases 446,326 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeVljbE1YMGdkRExTRjNvcVFaTHdTRkpTMk9KLW5IS3phLWVqb1ZVQldTWlp5bjZudk9OQUY4WjRUYXdnX0JQZVQxb1R2eWc4M0t1SnIwRnRYa0ZVcld6VGZBbWZxMENWUTQ5WFhsSkViVFZfY25zYUJ3bnZ3ZTE2YXdzSnYwTVZ0NlczUnlySkxEeWJDOW1oSFo5QTMtQ0pBU0JGd216aGtMRXQ4Si14c1NiVkdmb3NjQ1dyVUNxOW5ucW4tN1poQ2piRG51NV9LNUxqTVJ6V0xSdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-07-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global SA (BG) Shareholder Structure: Major Shareholders & Institutional Holdings - TradingKey",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FMWdwLW9EUG9MdHc4UzNKWnlvcjdVQ3BTbVFrU1h5VkRUSnRaMFpVeWprYThPQ0NJVmFBdVRDYUxhbHpyTzlmeWNiQnc5S3djZnpiSFZ5dnpZMGtkQkM5dENtbjY?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-07-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ABN Amro Investment Solutions Buys New Shares in Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNUswT1RwbG5uTUFMUEltdmhOQWdSMnVsWnlNb182V05NcjhONU5xMTNSRkN5OXRNbk93al85WktqOFdzMkN3TmsxTGpBelZaelFQdWZ6TVlqWmZ0bk9ZcjhkeFd6WWtoRDZBRlhwRXhKcE5CTGxRSmVxTWdvWl90VmxvZHBpWFVhT3FCUWI4MGtabHJlZmpiOTZlUHp1X0d2NW5YcFFkTEJkTnNYTDNqTVpsTnI1TW9sSjMzMFdJdEdxc1VfSWZRNQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How cyclospora outbreak impacts the food industry - CBS News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOek1RdkQ3U21aWXYtZFhHcGlidllyQ3VHUzJ6VWV6U3BqaTBObUZmc2NKem00Sktzem5JcFRON19Lckd1Vi1NYjAweTV3WHVUa1MyODdKWGVnMjFhdy1xZ05ycTl4UlBxZWpJUWhNNWRGSENzdmczME1qUDRQNFFEbDBXcmtCTEE3bDU0dXVoLVBic3NTcWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Asheville BBQ event sparks mental health talks in food and beverage industry - WLOS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLXNDWXRUcDN4TXBRVHpJSzZadUVyOERHTzg2eTdlZ25TU2dnZmJHUnZrRkZzdWFvWTA1cUtycENXQkl6c2dmVlN1ejB6LVo5c2loamVGMHVVRVNnZWE0dVdkN0VjTXBBeWsxbWJrU2I1aThaMFZxSDVWakU5blNiUm1ENTZnWWV6NVFMbW9oVnV1V21YcFE2czJJQWVpaWJvNXJ5Rnp4WTBvNmptaTZFM0pnN3BZSG5vdmZCVk56Rk92QnlDS3Zlb1pfaFlMeDZJWG1nNnJtQ3JIZ1REWkMtN3c1cUQ3UzRpeHprQU5ablE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 266,
+    "dup_title": 107,
+    "too_old": 93,
+    "gate1_blocked": 9,
+    "gate2_blocked": 19,
+    "passed": 38,
+    "pass_rate": "23.9%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Archer Daniels Midland (NYSE:ADM) Sets New 1-Year High - Time to Buy? - MarketBeat",
+      "SEB Asset Management AB Invests $12.51 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+      "BG|Bunge Global SA|Price:120.800|Chg%:-1.500 - TradingKey",
+      "Mondelēz International to report Q2 2026 earnin... - Pluang",
+      "I shopped for school supplies at Walmart and Target. One had better prices for nearly everything on "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為ADM、Bunge、泰森食品相關動態：「Bank of Nova Scotia Purchases 446,326 Shares of Archer Da...」。主要關注主題為產業通用、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Bank of Nova Scotia Purchases 446,326 Shares of Archer Daniels Midland Compan...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Bunge Global SA (BG) Shareholder Structure: Major Shareholders & Institutiona...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
