@@ -1,0 +1,146 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T09:52:14.489255Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-07-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Shares Bought by First Trust Advisors LP - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYWI0WkdCRDZ2VF9FR0U0V0RQMlJNOElLcjdES1daUlE4SGRaRGUxdDkzeVp5bzFHY0JnV1lUaVNCclZjb2NNWXE1dVBHUmpsZ2VMMkl5YWRVUEpHcEJBbmVnZzJUM1hjbGtLMGdNTjlYT1AwckFJR0ZqNmhERFlRSm1tLUxXcTIzWk1ET2hNN0owbkppRjBZOGxNTVNuM2piMGdlQVR3ZWxyTEdCdm52aU1Kb1hsOGpRYmFfWGd3ZlkxNVFvbE96di1GWW1TWG5wb2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-07-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "KBC Group NV Sells 21,055 Shares of Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2Jud0xRMzh0S0d1a3VvblF2TG4xWE84RWNoT0p4Q3ZiTXVrRW52MVg0UGRrak1LakRNS1FNeUFVcENLbE1kLUxSUWk3ZTR6OS00MjlHY3Z0VFJQZWpDRnhRNkV1X0V4b2R6QlFQMmhfeW5SZ0VaeUM5Z3dPaVJYWjZWcHlaRUY3Z0hwVnlKZEJyd3hRSjQ5TElTYXpQMXNtTTM1SW5SUkZOZkZiNlZxaHZ4MGpnZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-07-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Face Shop lands in 1,600 Walmart stores across US - theinvestor.co.kr",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WSnl5MGlIOHJyTGZjNkdIRHVQMElEYXB0dGxEanM2SkxHa2xnOGhtdWZfSzlJMFpjVE1HRHdrWW5GZkJxQmJmU09QV0dIaFRfVHljdDJEVTRsdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 129,
+    "too_old": 95,
+    "gate1_blocked": 10,
+    "gate2_blocked": 21,
+    "passed": 14,
+    "pass_rate": "10.0%",
+    "gate2_block_rate": "15.0%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+      "Archer Daniels Midland (NYSE:ADM) Sets New 1-Year High - Time to Buy? - MarketBeat",
+      "SEB Asset Management AB Invests $12.51 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Mondelēz International to report Q2 2026 earnin... - Pluang",
+      "Amazon and Walmart Face a New Gatekeeper for Loyalty - PYMNTS.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為ADM、泰森食品、沃爾瑪相關動態：「Archer Daniels Midland Company $ADM Shares Bought by Firs...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Archer Daniels Midland Company $ADM Shares Bought by First Trust Advisors LP ...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "KBC Group NV Sells 21,055 Shares of Tyson Foods, Inc. $TSN - MarketBeat（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

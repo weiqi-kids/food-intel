@@ -1,5 +1,65 @@
 [
   {
+    "id": "adm-2026-07-26-001",
+    "date": "2026-07-26",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland Company $ADM Shares Bought by First Trust Advisors LP - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYWI0WkdCRDZ2VF9FR0U0V0RQMlJNOElLcjdES1daUlE4SGRaRGUxdDkzeVp5bzFHY0JnV1lUaVNCclZjb2NNWXE1dVBHUmpsZ2VMMkl5YWRVUEpHcEJBbmVnZzJUM1hjbGtLMGdNTj",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYWI0WkdCRDZ2VF9FR0U0V0RQMlJNOElLcjdES1daUlE4SGRaRGUxdDkzeVp5bzFHY0JnV1lUaVNCclZjb2NNWXE1dVBHUmpsZ2VMMkl5YWRVUEpHcEJBbmVnZzJUM1hjbGtLMGdNTjlYT1AwckFJR0ZqNmhERFlRSm1tLUxXcTIzWk1ET2hNN0owbkppRjBZOGxNTVNuM2piMGdlQVR3ZWxyTEdCdm52aU1Kb1hsOGpRYmFfWGd3ZlkxNVFvbE96di1GWW1TWG5wb2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-07-26-002",
+    "date": "2026-07-26",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "KBC Group NV Sells 21,055 Shares of Tyson Foods, Inc. $TSN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2Jud0xRMzh0S0d1a3VvblF2TG4xWE84RWNoT0p4Q3ZiTXVrRW52MVg0UGRrak1LakRNS1FNeUFVcENLbE1kLUxSUWk3ZTR6OS00MjlHY3Z0VFJQZWpDRnhRNkV1X0V4b2R6QlFQMm",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2Jud0xRMzh0S0d1a3VvblF2TG4xWE84RWNoT0p4Q3ZiTXVrRW52MVg0UGRrak1LakRNS1FNeUFVcENLbE1kLUxSUWk3ZTR6OS00MjlHY3Z0VFJQZWpDRnhRNkV1X0V4b2R6QlFQMmhfeW5SZ0VaeUM5Z3dPaVJYWjZWcHlaRUY3Z0hwVnlKZEJyd3hRSjQ5TElTYXpQMXNtTTM1SW5SUkZOZkZiNlZxaHZ4MGpnZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-07-26-003",
+    "date": "2026-07-26",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Face Shop lands in 1,600 Walmart stores across US - theinvestor.co.kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WSnl5MGlIOHJyTGZjNkdIRHVQMElEYXB0dGxEanM2SkxHa2xnOGhtdWZfSzlJMFpjVE1HRHdrWW5GZkJxQmJmU09QV0dIaFRfVHljdDJEVTRsdw?oc=5\" target=\"_blank\">The F",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WSnl5MGlIOHJyTGZjNkdIRHVQMElEYXB0dGxEanM2SkxHa2xnOGhtdWZfSzlJMFpjVE1HRHdrWW5GZkJxQmJmU09QV0dIaFRfVHljdDJEVTRsdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-07-25-001",
     "date": "2026-07-25",
     "companies": [
@@ -129,6 +189,64 @@
       {
         "name": "food_safety_news",
         "url": "https://www.foodsafetynews.com/2026/07/recalled-eggs-linked-to-salmonella-outbreak-spanning-17-states/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "general_mills-2026-07-25-008",
+    "date": "2026-07-25",
+    "companies": [
+      "general_mills",
+      "adm",
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland (ADM) Could Be 15% Overvalued After Walmart And General Mills Deal - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaWpVSkIyZi1TTzJ6dkl3VnktSTk4dnBvSXAzdE5aUjRUUW5YRzhnRVVNQ0VHVVl2aW9xWXJ5UXpvdEgzUmR3dDI2blR4cnRoSzd5b3VrbE1aRURfN2pJS2lyMmhrbGlQZFNOenptVE",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaWpVSkIyZi1TTzJ6dkl3VnktSTk4dnBvSXAzdE5aUjRUUW5YRzhnRVVNQ0VHVVl2aW9xWXJ5UXpvdEgzUmR3dDI2blR4cnRoSzd5b3VrbE1aRURfN2pJS2lyMmhrbGlQZFNOenptVENOTVl6Tjg3WFkwbjNpQklaaGhlZnZoWVJOcFNxQzUxNXNwVExLY1QwcXotYUh2X2dtSW5jcUluWlltQkNaVkdiT3VuMlotVTFMSUJDREVsVGMzRVFveV9UUlFSTFlIZGQyNmluRWxaU1NoTW82OU52WjhGelNOZUJnSGpJ0gHrAUFVX3lxTFBpalVKQjJmLVNPMnp2SXdWeS1JOTh2cG9JcDN0TlpSNFRRblhHOGdFVU1DRUdVWXZpb3FZcnlRem90SDNSZHd0MjZuVHhydGhLN3lvdWtsTVpFRF83aklLaXIyaGtsaVBkU056em1UQ05NWXpOODdYWTBuM2lCSVpoaGVmdmhZUk5wU3FDNTE1c3BUTEtjVDBxei1hSHZfZ21JbmNxSW5aWW1CQ1pWR2JPdW4yWi1VMUxJQkNERWxUYzNFUW95X1RSUVJMWUhkZDI2aW5FbFpTU2hNbzY5TnZaOEZ6U05lQmdIakk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-07-25-009",
+    "date": "2026-07-25",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco Just Settled a Major Class Action Lawsuit—and You Could Get More Than $500 Back - Allrecipes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFZzSFNrVjNMMGNWb0ZoRWdsMndrLWZ0dlBDYkhxdm1fdTdKR1c5aVk4MExQZHBIS091WHMwVE5HRV96dmNOS3IxRzVBWUNXV2NSdmR1V3htWHMtSTMzVm9HR1pySFhlLW8yQlcxYn",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFZzSFNrVjNMMGNWb0ZoRWdsMndrLWZ0dlBDYkhxdm1fdTdKR1c5aVk4MExQZHBIS091WHMwVE5HRV96dmNOS3IxRzVBWUNXV2NSdmR1V3htWHMtSTMzVm9HR1pySFhlLW8yQlcxYnRzZnhKRUVoS1pFdGUxSHpkRGRBREJrZGtGV3NMendibw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-07-25-010",
+    "date": "2026-07-25",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco Brings Back Beloved Bakery Favorite After Years of Fan Requests - parade.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc2dQM3ROTGFLeXRBQnNraTR0aTQ4UmZuVEVCRTRVZ244c1c5eGs4Qk1NNm5ySURuN3F6SFhyMzVlSWpHajdFMmtfdXVwNnItQ2pjM2JEQ0VHRko2WjA0OWp4RnRUODVCVGZqZXF4QU",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc2dQM3ROTGFLeXRBQnNraTR0aTQ4UmZuVEVCRTRVZ244c1c5eGs4Qk1NNm5ySURuN3F6SFhyMzVlSWpHajdFMmtfdXVwNnItQ2pjM2JEQ0VHRko2WjA0OWp4RnRUODVCVGZqZXF4QUVsTkFtUXVzWDdpQTJiRXVVbFZSTm5XMV9SYjU2TkZidGpPRGhjU2w2UnFrVkF2dUVNdmZfS0ZHOW52V3Q3aS1raWpKX2xhWlRJ?oc=5",
         "type": "rss"
       }
     ]
@@ -899,6 +1017,105 @@
     ]
   },
   {
+    "id": "adm-2026-07-24-041",
+    "date": "2026-07-24",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland (ADM) Stock Looks Above Fair Value On Cash Flow And Earnings - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE53VzVrbWlNN3c2SE52dks3dUNTRzl1T1F2dnhvUFd3NHZLWndIOXNFSkpSQXUtbHZhYlJYVFdtOVZUUzd3Q0lmeTJuejItUGdKT3BHX2M0V1U?oc=5\" target=\"_blank\">Archer D",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53VzVrbWlNN3c2SE52dks3dUNTRzl1T1F2dnhvUFd3NHZLWndIOXNFSkpSQXUtbHZhYlJYVFdtOVZUUzd3Q0lmeTJuejItUGdKT3BHX2M0V1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-07-24-042",
+    "date": "2026-07-24",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods completes Lexington plant closure Friday with final round of layoffs - WOWT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQQnQ3Q2F4Y2J1Ni11bmV4TklJYk5SUFdYaEhuSnN1THhFTENqWHRyRzA0TWczMDQzMGtBeVNKOFFjNjFadVNENTE1YURQTk5Wc3JEYkRyaFE0Tm5aZTBKNTV0UGFXWGEwMjdIVU5scU",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQnQ3Q2F4Y2J1Ni11bmV4TklJYk5SUFdYaEhuSnN1THhFTENqWHRyRzA0TWczMDQzMGtBeVNKOFFjNjFadVNENTE1YURQTk5Wc3JEYkRyaFE0Tm5aZTBKNTV0UGFXWGEwMjdIVU5scU5TXzFMYUlNNk44MEp4WGNIcW1kNzRyVUFBLWN0Um9vY0hBYm12V01CUm02LTY3UmRBdDhzLXl5VF8wWGNSa3VZ0gHDAUFVX3lxTE1zOTFPYmlfajVzU3VoTEhFbzJYSDRYSTZubHF1MVlMdllyS2hDdVRHNVI4VkZaSzlvSkJrUzVuZzhoZV9SNjRUTnhtQzd3SVd6OGtLSmRDSXA4NWFNeXZPZTg3SlR5S2QzRENXc2tIMGlWWlNHWHdMQ0szUy1Sd1NEZXNwZnFPT1o4enZySXpkdk1DcnpzNEZ0eUxYcjJUeE9HT0hkUnFGOVJubXVzV19vcVF3QUlGSUZIbjN4WW9RcjlWaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-07-24-043",
+    "date": "2026-07-24",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ammonia Leak Disrupts Tyson Poultry Plant (Update) - Meatingplace",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1tN2prajF6YlBpdGR2ZUxjckxZaTBsaEhUeDNhZUJiWmJrWFdCSjN0Q1hLVGpPZ3lBN3JjRS1Ldmp5ZGZQNFRpOXYyOVV1bHcxdkZwYm5Xam01NGpNMHl1YzIyUFVIVWtMazdVd2lnT0",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tN2prajF6YlBpdGR2ZUxjckxZaTBsaEhUeDNhZUJiWmJrWFdCSjN0Q1hLVGpPZ3lBN3JjRS1Ldmp5ZGZQNFRpOXYyOVV1bHcxdkZwYm5Xam01NGpNMHl1YzIyUFVIVWtMazdVd2lnT0pnU2lROHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-07-24-044",
+    "date": "2026-07-24",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart shopper films 'dystopian' and 'futuristic' video as her dinner ingredients are delivered by drone - the-sun.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNX0JpdFJYZXRuR2Q0QWVhWUtDenFsY21ndHJBODZ5VC1nUEJkVHlITkIyNXlzYVhDRF9BS3VFaVdTbHl5NzJ6M1VuSFpWbmdrNGtEZjZ3Vmc1TVBxSTh4SllpNXFCdnJScGRKNG1xcG",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX0JpdFJYZXRuR2Q0QWVhWUtDenFsY21ndHJBODZ5VC1nUEJkVHlITkIyNXlzYVhDRF9BS3VFaVdTbHl5NzJ6M1VuSFpWbmdrNGtEZjZ3Vmc1TVBxSTh4SllpNXFCdnJScGRKNG1xcGJYaG9SSkxILVI4MFFwVFVhX21YQVk4a0dsOVR0ZS1zdXhfVUZuNVRUSV90cHkwZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-045",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Senate advances MAHA-friendly bill for food warning labels and junk food ad bans - STAT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQRnJOWGVRaEtwc0lHN2NUR3pYWjRJczV3Z094MXRhTUYwYzZ0QmNCYU4zZGdydGVPWFcwRDktM1otUm9rdHhFTklqNlRDQ0xBa3NqMDJuYTJ0OXpZQkZJMzhFUDR0bkR4R19wZjBNbX",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRnJOWGVRaEtwc0lHN2NUR3pYWjRJczV3Z094MXRhTUYwYzZ0QmNCYU4zZGdydGVPWFcwRDktM1otUm9rdHhFTklqNlRDQ0xBa3NqMDJuYTJ0OXpZQkZJMzhFUDR0bkR4R19wZjBNbXRsNDhZdjlUTms3VXo0OVg0NGFDaU44bkViVVREeElCcmVnOTNQM3NWNE1yVG5UMDV4TEswU2xONUFTNzYwWjA4dERDSDlUZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-07-23-001",
     "date": "2026-07-23",
     "companies": [
@@ -1601,6 +1818,47 @@
       {
         "name": "costco",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNHRsY1RrWHprdXVScVNQY3RQLVVXcy0tLWJoR3p6cWxXa0pYRlJCcmtaRl85RGlkdERVOWxEM3ZCR2xVV253VzVVbmFRTXB3VWNXTG9LWUJYRmpKNC11T1pfSloySlUyS1FhRURmWHFpZGZlbDNpVS1seUVEcl9SZ1F5RUp2ODlOcGoySU9vOTJmWjZvUGk4NFAzLVdvN0RlYmJXNmx3b2hBcFNoMDZzVlduY05MNmdzWXN4dklzeTlzNGlFMmE4a0xRRGFxS0h5dGpxN20tcWFBWFZMLUp3cWpNS29JNHZGLXNrajBTLWtubXZIUGk4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-23-038",
+    "date": "2026-07-23",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Ready to Report Q2 Earnings: What's in Store for the Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSV9EUDJmazY2UFVkLUF0NkpUOGxnMDIxZE9OZ3pENVJYRjI0YlVVOG5FZW1TMEhXVGlfSXJpeDJ5MUZ3a1RkVXFmWHJJbDZfb1E4WnhyU3o5UUdOQkh3VVZ5T0pvNWFGN21SLW9Scn",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSV9EUDJmazY2UFVkLUF0NkpUOGxnMDIxZE9OZ3pENVJYRjI0YlVVOG5FZW1TMEhXVGlfSXJpeDJ5MUZ3a1RkVXFmWHJJbDZfb1E4WnhyU3o5UUdOQkh3VVZ5T0pvNWFGN21SLW9ScnBHcWdGZHVMV211RDllMzVtZFptSi1XS1E1TUpveDBFQXJBLUtmeGQ1RGxzMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-07-23-039",
+    "date": "2026-07-23",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Checkout prices at Walmart and other retailers will look different from July 31 to Aug. 2 - the-sun.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnB5bmpjcUFVZVNlaDMySEhQVFN3aE1HaHpmNHZENGxGRUlBY3BpYUJQZEtCZmRMVS1wd3ZmYnlyUU5ELVVFNHZhVm1tazN2azhjZDdVdWdobi1CSFI4VjRmREZqVkdqS0ZBRU4ybW",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnB5bmpjcUFVZVNlaDMySEhQVFN3aE1HaHpmNHZENGxGRUlBY3BpYUJQZEtCZmRMVS1wd3ZmYnlyUU5ELVVFNHZhVm1tazN2azhjZDdVdWdobi1CSFI4VjRmREZqVkdqS0ZBRU4ybWJ1VWUxZjhRYjMtZTVCVEJMZU9GNDNKVFNaRFRyVVQ1X0o4cWk5?oc=5",
         "type": "rss"
       }
     ]
@@ -3278,6 +3536,24 @@
       {
         "name": "adm",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMHRwdUdwR3o1MWl0WFhwczdWRWRETFRtWnhvSmdfSGlKeDdFYTBmZlZsMDB0N0llQVJtZmlPREF4MkE5RXA3R1FzUG40OVFmakRqcXlvdHhTbldQY0NYTktjcDZkSWR4TnhQRHBqUWpwS0FwbXdxb0VNSU9Sck1jOTdJRjg5cG9wSnZWMll3Zk16azJ0ZlBHMWpvZnVDSjNLZUIwWVl2UmJTOWRxM3BfdVFTeHhUWG14cThsMzJsVFNENlZYVTVrMDFWTE5ZX0N1cEY1VWh1ZEdqTjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-07-21-049",
+    "date": "2026-07-21",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Chinafication of Walmart : Throughline - NPR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yOVpkOWpDN1hoUUhvRjd6eDQwVnJnVjNxcng5aHlXakZlcEVNN0JqeWVIc1Juc3Zub2ZiRjVzcmIzY1dWQ1BMS0Q3aWpmVll4VVczTjZVR1U?oc=5\" target=\"_blank\">The Chin",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yOVpkOWpDN1hoUUhvRjd6eDQwVnJnVjNxcng5aHlXakZlcEVNN0JqeWVIc1Juc3Zub2ZiRjVzcmIzY1dWQ1BMS0Q3aWpmVll4VVczTjZVR1U?oc=5",
         "type": "rss"
       }
     ]

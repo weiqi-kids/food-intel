@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 10,
+  "gate2_fail": 21,
+  "passed": 14,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+    "Archer Daniels Midland (NYSE:ADM) Sets New 1-Year High - Time to Buy? - MarketBeat",
+    "SEB Asset Management AB Invests $12.51 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Mondelēz International to report Q2 2026 earnin... - Pluang",
+    "Amazon and Walmart Face a New Gatekeeper for Loyalty - PYMNTS.com"
+  ]
+}
