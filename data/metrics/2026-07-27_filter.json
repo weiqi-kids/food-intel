@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 8,
+  "gate2_fail": 17,
+  "passed": 36,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+    "Archer Daniels Midland (NYSE:ADM) Sets New 1-Year High - Time to Buy? - MarketBeat",
+    "Bunge Global SA (BG) Balance Sheet - TradingKey",
+    "Mondelēz International to report Q2 2026 earnin... - Pluang",
+    "Amazon and Walmart Face a New Gatekeeper for Loyalty - PYMNTS.com"
+  ]
+}

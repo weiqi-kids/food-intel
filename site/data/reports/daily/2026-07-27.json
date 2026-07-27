@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:11:17.384726Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-27-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Polarization is expected to become clear in the food industry ahead of the second quarter earnings s.. - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YOHBtX3l2Z1NKdHJZODUyczJhQ2x1OVpuQ05vWEpHc3dmV3ZiUU13VnFDUzMzcjdVZ2h4NWdPeTFKdjBXSnZoM0MzUGh3ekhKVWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-27-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "U.S. university involved in international food safety project",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/07/u-s-university-involved-in-international-food-safety-project/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-27-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA warns Texas seafood importer about repeat HACCP verification failures",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/07/fda-warns-texas-seafood-importer-about-repeat-haccp-verification-failures/"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-07-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "27,503 Shares in Archer Daniels Midland Company $ADM Acquired by Dai ichi Life Insurance Company Ltd - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNGJGU0JXUXBrNlRhanlqY2l3UmdGZ1NEeFpjUUtiSlNreUd0c0xab0hPMW1qdnJDZ0RrX19JWFJ6X3NTcENNWGRIQ2QyX0ZGUjFCRFEtd2tDUUlReGk3NHlTc2hUT0hoNFlFdnVmVktkdUZRRTdySjdXWjdOa2R0cHdIdTg0TXpreGl6SW1lajRqRVk2N1BMVlNmYi0wMEQxU1Rqd0M4dThvb2NOVkZBUE00NWVSVnZhdldDVmlmdWlOZ0R5cTBDSGwtdmkweVlqbEdyeGxlT3FGekt6RUUzTnUwc1UyUXRuRGlaTmlXVlo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-07-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Healthcare of Ontario Pension Plan Trust Fund Sells 208,802 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYWpWSzJNXzM0SlQtRkZ1azVuT05ENjR5aEpTdnpIZVdOZDM0SWNycnlFWHpFbldZZDVSWHlOOTB0UlMwYTRZM0pKSFQ0enZnbGZKNUtNNHR2QzhSWFVOS2otNjJVLVZsQVJ5SWxoeS1kTERRT0dvWndjMmgwNld4b0JJSFM2ZzEzclVzVlROd2xnRGFMTmQtSUNjVWdKRnY1amxxeWdvb2Z6dm51ZkV3MmQxS25UNEhPOHpNRnZrY2VySGpZQjdKa0tQQ2pQbWoyVVFTcTdPSEJEV3BLekh6di1SNlZLdXpDN0JRVlFmdXNnUHoycGhV?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "food_safety",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 266,
+    "dup_title": 113,
+    "too_old": 92,
+    "gate1_blocked": 8,
+    "gate2_blocked": 17,
+    "passed": 36,
+    "pass_rate": "23.5%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+      "Archer Daniels Midland (NYSE:ADM) Sets New 1-Year High - Time to Buy? - MarketBeat",
+      "Bunge Global SA (BG) Balance Sheet - TradingKey",
+      "Mondelēz International to report Q2 2026 earnin... - Pluang",
+      "Amazon and Walmart Face a New Gatekeeper for Loyalty - PYMNTS.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為泰森食品、ADM、沃爾瑪相關動態：「Polarization is expected to become clear in the food indu...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Polarization is expected to become clear in the food industry ahead of the se...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "U.S. university involved in international food safety project（食品安全、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
