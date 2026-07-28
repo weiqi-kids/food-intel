@@ -1,0 +1,16 @@
+{
+  "total_raw": 267,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 8,
+  "gate2_fail": 16,
+  "passed": 56,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) PT Raised to $77 at Jefferies - StreetInsider",
+    "A Look at Archer-Daniels-Midland Co (ADM) After 3.2% Decline -- GF Value $59.90 vs Price $83.19 - Gu",
+    "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+    "Bunge Global SA (BG) Cash Flow - TradingKey",
+    "Mondelēz International to report Q2 2026 earnin... - Pluang"
+  ]
+}
