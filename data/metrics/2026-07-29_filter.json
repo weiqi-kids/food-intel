@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 7,
+  "gate2_fail": 17,
+  "passed": 66,
+  "gate2_samples": [
+    "A Look at Archer-Daniels-Midland Co (ADM) After 3.2% Decline -- GF Value $59.90 vs Price $83.19 - Gu",
+    "Archer Daniels Midland (ADM) PT Raised to $77 at Jefferies - StreetInsider",
+    "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+    "Bunge Global (NYSE:BG) Beats Q2 CY2026 Sales Expectations - Yahoo Finance UK",
+    "Bunge Reports Second Quarter 2026 Results - Business Wire"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T10:25:09.086821Z",
+  "updated_at": "2026-07-29T10:30:48.492734Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -211,17 +211,17 @@
       "name": "統一",
       "ticker": "1216.TW",
       "currency": "TWD",
-      "ar": 19907152000,
-      "ar_prev": 20837578000,
-      "ar_qoq": "-4%",
+      "ar": 20501511000,
+      "ar_prev": 19907152000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
-      "inventory": 62285424000,
-      "inv_prev": 56214444000,
-      "inv_qoq": "+11%",
+      "inventory": 58206374000,
+      "inv_prev": 62285424000,
+      "inv_qoq": "-7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "walmart",
