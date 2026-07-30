@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 86,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 11,
+  "gate2_fail": 15,
+  "passed": 68,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+    "A Look at Archer-Daniels-Midland Co (ADM) After 3.4% Decline -- GF Value $59.92 vs Price $80.38 - Gu",
+    "Soybean processing, refining lift Bunge Q2 2026 results - Feedstuffs",
+    "Bunge Global (NYSE:BG) Beats Q2 CY2026 Sales Expectations - Yahoo Finance",
+    "Mondelēz International Reports Q2 2026 Results - GlobeNewswire"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T10:30:48.492734Z",
+  "updated_at": "2026-07-30T10:13:15.200397Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -245,17 +245,17 @@
       "name": "味全",
       "ticker": "1201.TW",
       "currency": "TWD",
-      "ar": 2637910000,
-      "ar_prev": 2984322000,
-      "ar_qoq": "-12%",
+      "ar": 2759487000,
+      "ar_prev": 2637910000,
+      "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 1677020000,
-      "inv_prev": 1652074000,
+      "inventory": 1714687000,
+      "inv_prev": 1677020000,
       "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     }
   ]
 }

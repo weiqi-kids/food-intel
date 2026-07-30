@@ -1,0 +1,204 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:13:18.487167Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-07-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods (TSN) Could Be 14% Undervalued Following USDA Import And Tariff News - Yahoo Finance",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT2lhNm5kajd2MzlaWGxjWlAxODMyMEd3Mk54VXI4aWFPZ21nd3JQMUxycjQ4NjBXYkxHYmpHcUFZRVQ3VElJdWxCNUdZY2pQTWQtZEVqVmsyQXJSQk1BQ0VoT1lTdkZHMEFHeEpoZjZyekhUN2xLV3ZTNkY3bDR3dHpHYnJ1VTZNUXhWdTduaTVSRVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-07-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bull Harbor Capital LLC Invests $1.53 Million in Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWEpDYllmZHVnajVuakViSHhWRTFjWEVxeFY2cVpqNmZGN0ZtdWtwZTE4aHZ2OVQyRk5oeXhsNk56VVNHZDZCZzRXX0pCbkpPVXg0N1c3amt4WTRiQnJjN0V2V3FHYU81SEFMN1UwWGVGU2tZRUVTcC1fZFlndURNcHZqMzk4V1RCWjQtNEdrQkhfMkNzdW9jSm54Yno1NW9ydElGLXhicFF1QnNoMmJIbzhSTjlPUXJYbk81YXROb1Z6VzZkMHc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Did KO, MDLZ, TGT Stocks Hit 52-Week Highs Today? - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNGZMdEtDR3JiSl9SLU1raUFqUllDeTZSY0l5b2JGOE8yY0UtU25lR1dmSjY2blF2bFFKV3BnMXh0N1d1R3g2T3oxUzU1SzhQOVMwTzNpTGw0VDZXV3Z2UW13cF9MQXJEZ1FiTC01TXNaaTBIdThIaXN6WFkxX29taHRPV3VSZF8ySXdTRUE3QU1UaThRMnpQcjNBRXpSVTRHd1JSR3FxN0x4OTJrZ3VJTA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mondelez-2026-07-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mondelēz International selects Celonis as strategic partner to industrialise Enterprise AI - iTWire",
+      "companies": [
+        "mondelez"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbEtzOU9tU1g3T2FmYnNuT1B3OXk4TmRwRktndXl4RWk3OTRkOC1VUWdhdkRxTUljV1ZfZ2pfUTdRQUFvN2Jvbjg5Q1ViNWNUUkVOQ1Y4czE1c1F5eE1LWmxGVkRwWFJKaVpxbEJpWEdZc0hrZFpEZDRzcFpkaDQyVFlwaTdHb1IzNlRiSkJDem1XLXBkbWppWWNoS1pIVzVhQ1ZGR2J3UW0zelNJTlRjWkVRX0xteUNlenE1MTQ3TW50OVdLUXktTWM2ajQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-07-30-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Magic Molecule Enters Walmart As Retailer Pushes ‘Latest Innovations’ - Forbes",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTWdKS1p0czFOak44Y2FUY1YxbzVYNDQzVlRJMDZDUkJUODhmRDF3MXlCam1MYXpOUFk2MHptZG52aHZJS1hXNTJua2lfa0ZoeHdYYktjN1BSeEJwN05DSGJweXlZaVd3TEt4eWVwT3JzOGxsU0tQMGl5elRmNDZ4bklKaHItQlpjVnF2T3I4amc4Tl83N1R6TnZ1em9yRXhDZnA1OU1HejVBRzdHcEczY3h4MDlBWWpDZmFF?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 4
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 86,
+    "too_old": 85,
+    "gate1_blocked": 11,
+    "gate2_blocked": 15,
+    "passed": 68,
+    "pass_rate": "38.0%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+      "A Look at Archer-Daniels-Midland Co (ADM) After 3.4% Decline -- GF Value $59.92 vs Price $80.38 - Gu",
+      "Soybean processing, refining lift Bunge Q2 2026 results - Feedstuffs",
+      "Bunge Global (NYSE:BG) Beats Q2 CY2026 Sales Expectations - Yahoo Finance",
+      "Mondelēz International Reports Q2 2026 Results - GlobeNewswire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為沃爾瑪、泰森食品、億滋相關動態：「Tyson Foods (TSN) Could Be 14% Undervalued Following USDA...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tyson Foods (TSN) Could Be 14% Undervalued Following USDA Import And Tariff N...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Bull Harbor Capital LLC Invests $1.53 Million in Tyson Foods, Inc. $TSN - Mar...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
