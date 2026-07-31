@@ -1,104 +1,104 @@
 {
   "adm": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-29",
-    "count": 6682,
+    "latest": "2026-07-30",
+    "count": 6683,
     "history_complete": true
   },
   "bunge": {
     "earliest": "2001-08-02",
-    "latest": "2026-07-29",
-    "count": 6283,
+    "latest": "2026-07-30",
+    "count": 6284,
     "history_complete": true
   },
   "ttet": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-30",
-    "count": 6607,
+    "latest": "2026-07-31",
+    "count": 6608,
     "history_complete": true
   },
   "nestle": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-30",
-    "count": 6744,
+    "latest": "2026-07-31",
+    "count": 6745,
     "history_complete": true
   },
   "coca_cola": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-29",
-    "count": 6682,
+    "latest": "2026-07-30",
+    "count": 6683,
     "history_complete": true
   },
   "pepsico": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-29",
-    "count": 6682,
+    "latest": "2026-07-30",
+    "count": 6683,
     "history_complete": true
   },
   "tyson": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-29",
-    "count": 6682,
+    "latest": "2026-07-30",
+    "count": 6683,
     "history_complete": true
   },
   "general_mills": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-29",
-    "count": 6682,
+    "latest": "2026-07-30",
+    "count": 6683,
     "history_complete": true
   },
   "mondelez": {
     "earliest": "2001-06-13",
-    "latest": "2026-07-29",
-    "count": 6318,
+    "latest": "2026-07-30",
+    "count": 6319,
     "history_complete": true
   },
   "uni_president": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-30",
-    "count": 6607,
+    "latest": "2026-07-31",
+    "count": 6608,
     "history_complete": true
   },
   "wei_chuan": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-30",
-    "count": 6607,
+    "latest": "2026-07-31",
+    "count": 6608,
     "history_complete": true
   },
   "standard_foods": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-30",
-    "count": 6607,
+    "latest": "2026-07-31",
+    "count": 6608,
     "history_complete": true
   },
   "kraft_heinz": {
     "earliest": "2015-07-06",
-    "latest": "2026-07-29",
-    "count": 2783,
+    "latest": "2026-07-30",
+    "count": 2784,
     "history_complete": true
   },
   "walmart": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-29",
-    "count": 6682,
+    "latest": "2026-07-30",
+    "count": 6683,
     "history_complete": true
   },
   "costco": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-29",
-    "count": 6682,
+    "latest": "2026-07-30",
+    "count": 6683,
     "history_complete": true
   },
   "etf_pbj": {
     "earliest": "2005-06-23",
-    "latest": "2026-07-29",
-    "count": 5307,
+    "latest": "2026-07-30",
+    "count": 5308,
     "history_complete": true
   },
   "etf_vdc": {
     "earliest": "2004-01-30",
-    "latest": "2026-07-29",
-    "count": 5659,
+    "latest": "2026-07-30",
+    "count": 5660,
     "history_complete": true
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T10:13:15.200397Z",
+  "updated_at": "2026-07-31T10:29:51.709629Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -24,34 +24,34 @@
       "name": "邦吉",
       "ticker": "BG",
       "currency": "USD",
-      "ar": 3975000000,
-      "ar_prev": 3870000000,
-      "ar_qoq": "+3%",
+      "ar": 3931000000,
+      "ar_prev": 3975000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 15428000000,
-      "inv_prev": 13198000000,
-      "inv_qoq": "+17%",
+      "inventory": 15461000000,
+      "inv_prev": 15428000000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "coca_cola",
       "name": "可口可樂",
       "ticker": "KO",
       "currency": "USD",
-      "ar": 3675000000,
-      "ar_prev": 3038000000,
-      "ar_qoq": "+21%",
+      "ar": 3732000000,
+      "ar_prev": 3675000000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 4730000000,
-      "inv_prev": 4425000000,
-      "inv_qoq": "+7%",
+      "inventory": 4647000000,
+      "inv_prev": 4730000000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "costco",

@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 82,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 11,
+  "gate2_fail": 19,
+  "passed": 61,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Dips More Than Broader Market: What You Should Know - finance.yahoo.com",
+    "A Look at Archer-Daniels-Midland Co (ADM) After 3.4% Decline -- GF Value $59.92 vs Price $80.38 - Gu",
+    "Bunge Global (NYSE:BG) Beats Q2 CY2026 Sales Expectations - finance.yahoo.com",
+    "Mondelēz International Reports Q2 2026 Results - GlobeNewswire",
+    "Mondelez selects Celonis to accelerate its enterprise AI transformation - ETEnterpriseai.com"
+  ]
+}
