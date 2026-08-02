@@ -1,0 +1,179 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T09:49:42.433093Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-08-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tyson Foods (TSN) To Report Earnings Tomorrow: Here Is What To Expect - Yahoo Finance",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHducmdUWjZOcFhJVzRrX3NmandSbzJpRl9jSWR3TlhhMVpMTzU3TVJobnJsTTFkekRPMGw5NmRTdDVCVEZGRmZ1bDhEbTNWeGRLaHdlbk94U0FLbTQ5aTRzUzBuakxPcFJndGI1MWVFOHR1Y3JtRjA3MVFvNkp2Q2ZCbmdjem5QbVI4U2J0YVIzeDhWWUJBSkdrWTc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-08-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland (ADM) Is Down 7.7% After Major Oilseed Crush Expansion And New COO Hire – Has The Bull Case Changed? - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUp0VXFTaUFkelQzQjlDNHdva3VsY1U5ckYtN0hYbWU2ajRmQkk3LWdscV83cmpNdS1PVk1ZNGxMcG1ObndZY0tsVGkybUlDY3lTMmEycTA4Mkhqd1BBNGJ3MVc5ek5GZ09uQ2FCU2l0THRWc0FST054QzlyLXktdEdRMEVpNFprbVdKdXJ1WkhETEZ1TXhpekZmc2U?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-08-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Magic Molecule Lands in Walmart Ahead of Back-to-School - Happi | Household And Personal Products Industry",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSXNQWFFKR3hnZ21qVHEyaGlmUjVmc25oaTRFXzllMFVhdXI5OUZTZHg2b0hySWZ5V1hxX1huUWpGa1NtdUJvUW9ZWUpqU2Y1dVR0eTBuN3ZCbmdvODNFVHcxRU01c0dSemRCNnUzazhDT09zb2V0cVRSemVVMFlGeG5IVVVqRFU1dlN3WnBJM1B2cXAyQ2ZR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Food Industry Tricks That Keep You Craving More - Yahoo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORkRwc1o5Q0RDUXZZWm5sNXIyOWM2bnNKTk1hV1JBcHZYR1VPZ3ZJVk1hdjRFS2dTaGFpenpFVnhOWExSZlVyQm4xWDkxRlhtNEhWNW4wYWpTSnlHd3BqcUl6aTRpbklUQnliV0ZseWNMUzkzSU9ERWFwN2pqYWxqUVpiWEhydkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 118,
+    "too_old": 87,
+    "gate1_blocked": 11,
+    "gate2_blocked": 23,
+    "passed": 26,
+    "pass_rate": "17.7%",
+    "gate2_block_rate": "15.6%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+      "Bunge Global (NYSE:BG) Beats Q2 CY2026 Sales Expectations - Yahoo Finance",
+      "Mondelēz International Reports Q2 2026 Results - Yahoo Finance",
+      "Mondelez selects Celonis to accelerate its enterprise AI transformation - ETEnterpriseai.com",
+      "Mondelēz International Reports Q2 2026 Results - The Manila Times"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為ADM、泰森食品、沃爾瑪相關動態：「Tyson Foods (TSN) To Report Earnings Tomorrow: Here Is Wh...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tyson Foods (TSN) To Report Earnings Tomorrow: Here Is What To Expect - Yahoo...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Archer-Daniels-Midland (ADM) Is Down 7.7% After Major Oilseed Crush Expansion...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
