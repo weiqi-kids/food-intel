@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T09:49:39.080959Z",
+  "updated_at": "2026-08-03T11:13:49.788951Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -126,17 +126,17 @@
       "name": "雀巢",
       "ticker": "NESN.SW",
       "currency": "CHF",
-      "ar": 8749000000,
-      "ar_prev": 10654000000,
-      "ar_qoq": "-18%",
+      "ar": 10021000000,
+      "ar_prev": 8749000000,
+      "ar_qoq": "+15%",
       "ar_period": "QoQ",
-      "inventory": 12813000000,
-      "inv_prev": 14434000000,
-      "inv_qoq": "-11%",
+      "inventory": 13261000000,
+      "inv_prev": 12813000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "pepsico",

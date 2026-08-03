@@ -1,0 +1,242 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:13:54.547319Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-08-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer-Daniels-Midland (ADM) Reports Earnings Tomorrow: What To Expect - FinancialContent",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY1FrX3hQZmNIM0JXU1BaVFFBTHFZaUdKSzlPZ3ZLbHRZN3hWcW5PYjdJOUhBRDlZVHVkNFVQMnlUSTdRQ2RqSlZLRHl4YXVnYkhGSmR5dWFSYll6cXhKTTFhdU81UE04ckRxT1NVM1VtbGRfWXlXZXpPbVFodTI4cEhUa1BtMGVHaGR3aUdmbGgtUTFRZzF3NVFsZG8wclFxRHhaeVVkeXpockY1bEo0U3BmZFNzNzMxdW1ScExETFdYNjBlNVFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-08-03-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Bunge (BG) Using Buybacks and Viterra Integration to Redefine Its Core Profit Engine? - simplywall.st",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ0VCV2ZEQlBVV3B2Qy1xVi1mVTY3UXJsbDUyaHEwME0yNHdzYjVnNzEyaXMtNVVkcjFKeW5rS1JpV0JYVG5aQm5ESFZmNy1mRG4xS2JrSXFoSDVsV0pNb0YyS2xZaU1pLUlzemx6OFAxY0Q4MHVyNGRWTHlabnQzNFJkZHctWmljQXdGYkZYX3A2UmZFNHExSFBrQThVS1BsOFg0Mko2N0lyT2tyTkszbmRsaF9XaTB0TjJLb011ZzJpLXJMdUJYcXB0NUljMzZjRVFNeGtLV3F1bE5h0gHcAUFVX3lxTFBnRUJXZkRCUFVXcHZDLXFWLWZVNjdRcmxsNTJocTAwTTI0d3NiNWc3MTJpcy01VWRyMUp5bmtLUmlXQlhUblpCbkRIVmY3LWZEbjFLYmtJcWhINWxXSk1vRjJLbFlpTWktSXN6bHo4UDFjRDgwdXI0ZFZMeVpudDM0UmRkdy1aaWNBd0ZiRlhfcDZSZkU0cTFIUGtBOFVLUGw4WDQySjY3SXJPa3JOSzNuZGxoX1dpMHROMktvTXVnMmktckx1QlhxcHQ1SWMzNmNFUU14a0tXcXVsTmE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-03-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ukraine shares outbreak data and reports deadly botulism cases",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/08/ukraine-shares-outbreak-data-and-reports-deadly-botulism-cases/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-03-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Seven importers warned about Foreign Supplier Verification Program violations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/08/seven-importers-warned-about-foreign-supplier-verification-program-violations/"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-08-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pacer Advisors Inc. Cuts Stock Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYnNleWRIUTFSSjNIQ3F3b3QySlQzb1lEQUVqRkYwOElGVlQxZEsxcmtiTjBrWFNwSTN1V3dRaWl6ZTltbmw0WXdMTkczU0dBNmQyeFVLVWFUZll6clJlak15aHVHeWE3M1RIMW1nTXkxSWx2YUJSQml1ekI0Y2VpMUFXT2loVjBjRm9OZWZxX0pkSklqZlBmSkJQTjJ2WUViSnlNSmI3ZjBSS3M0MW54RS1yNFNRRGZ3MXl3TmZ6TDFiVlVXWFdmN0tLT2JLV1BaekNr?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "food_safety",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "raw_material_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 116,
+    "too_old": 83,
+    "gate1_blocked": 9,
+    "gate2_blocked": 26,
+    "passed": 31,
+    "pass_rate": "20.8%",
+    "gate2_block_rate": "17.4%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+      "Bunge Global (NYSE:BG) Beats Q2 CY2026 Sales Expectations - Yahoo Finance",
+      "Mondelēz International Reports Q2 2026 Results - Yahoo Finance",
+      "Mondelez selects Celonis to accelerate its enterprise AI transformation - ETEnterpriseai.com",
+      "Mondelēz International Reports Q2 2026 Results - The Manila Times"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為ADM、泰森食品、Bunge相關動態：「Archer-Daniels-Midland (ADM) Reports Earnings Tomorrow: W...」。主要關注主題為產業通用、食品安全、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Archer-Daniels-Midland (ADM) Reports Earnings Tomorrow: What To Expect - Fina...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is Bunge (BG) Using Buybacks and Viterra Integration to Redefine Its Core Pro...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "原物料成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

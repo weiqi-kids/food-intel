@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 9,
+  "gate2_fail": 26,
+  "passed": 31,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+    "Bunge Global (NYSE:BG) Beats Q2 CY2026 Sales Expectations - Yahoo Finance",
+    "Mondelēz International Reports Q2 2026 Results - Yahoo Finance",
+    "Mondelez selects Celonis to accelerate its enterprise AI transformation - ETEnterpriseai.com",
+    "Mondelēz International Reports Q2 2026 Results - The Manila Times"
+  ]
+}
