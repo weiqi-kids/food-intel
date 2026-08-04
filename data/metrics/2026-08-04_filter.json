@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 82,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 8,
+  "gate2_fail": 21,
+  "passed": 62,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+    "Bunge Global (NYSE:BG) Beats Q2 CY2026 Sales Expectations - Yahoo Finance",
+    "Rising Beef Costs Pressure Tyson’s Bottom Line - WSJ",
+    "Mondelēz International reports strong Q2 2026 results boosted by North America - Milling Middle East",
+    "Mondelēz International Reports Q2 2026 Results - Yahoo Finance"
+  ]
+}
