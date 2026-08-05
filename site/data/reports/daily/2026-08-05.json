@@ -1,0 +1,244 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T10:25:43.902597Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "uni_president-2026-08-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of Uni-President Enterprises Corp. – TWSE:1216 - TradingView",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeWNuV2xLdjluTmJzREJFRllhZ2dYT0c3OXVyZlF5dUNMcWlPc3V2ajRKMFlBazZLX1JaTVhtZVRKWGpyUzd1SUppYTVmcEpVUXRaWHRQMlN5N0JkZlVMUndBN3NUUUpoNlpEQ1BwTjZxYUlZVkhHWi0xM0Utb2ZtUVk2TWo2ME40UVQwVlZWVk9xdm40SmxGem9QMGpTblk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "uni_president-2026-08-05-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Uni-President China first-half profit up 9pc - The Standard (HK)",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR25VUjRQTEFySHdZTG5KVFJld0Uxd2NBMFVXSU5IY2VLanpSRGdLOGJUbm85cmFTQ3g0dldJUXNfbFk2cW1DYUc0akw4Ni1vMTFPQWdBRDVadlFkb1RzUUlES3A0U19FM3RNYkhLVXdsNXJDbmItR1AwMVVoZlR5dmFpOHhWckZzamVJdTVwOXVtWllkLTlwcnBUcVZGQ0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-08-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Morgan Stanley Upgrades Archer Daniels Midland (ADM) to Equalweight - StreetInsider",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFIc1BIZ19ZUnVBbUlCZG5jd2tCNHl6U2p4eUJuZ01Ic3pDbkJINVJkVjBjRVUySmlPUHM4dWEyUDVEc2JKU25OVFZwSzBIMnhIODNjQmo3WWpzZkVuaW5ucGJiWmhDb0YxN0lxNk04aDhvbTZYcm41anpaOWNmUVZLbW1RdUdHVzJwVW4xY2VMZzlvd3NGRHVhckFyUFdpTEpIWDRWVFNEMjBiOG56UTJUVlVLOWJyNldqSnpsRDkwSWp1NnlnLTFIbE0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-08-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of America Corp DE Reduces Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSjJsX2ZZOWRaSnhURkptU2VGS3M2OXQyMUM3el9GSHNQajBwSlNKN0wzX2xMSWQtdXl5aF9QRmxzeFBhdXNsTHdQVHRGMVpibVZ0TGRtdEFReGpQdnd2a3h2eXdDWHBmM2RfXy0tS1hYekZXMWE5b1JFOWFWUm5sZ08tOTNBWWhmMjNoQ2d2Z0ZyaWRsYnA5bTJ2MGVraUlHYnBxWTFzRF9aWkhiUTFDRjIzVklqY3BQVDluUzNCVHQzZU5TT244V3FPSEVZQ2RkU2dhZEVB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-08-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods promotes longtime exec to COO - meat+poultry",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzBiTG83OHo3bXJaTlAxazNva1VaQy0xeEhvenp4UzhCREp6QzdDZ2pteFh6WFlsWUh2WVN1Q1hnZTIyV3hmTjZ0YnRaTUJjUVdpVEpyeFY0Q1MzblBYOFBoYzVDcjdxenlIZU5hX2FJTEx2QWk3TGl5aHgyQ083Q3EtbXVFdjNTX0hNZQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "uni_president",
+        "count": 2
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 80,
+    "too_old": 81,
+    "gate1_blocked": 8,
+    "gate2_blocked": 17,
+    "passed": 79,
+    "pass_rate": "42.7%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance",
+      "Rising Beef Costs Pressure Tyson’s Bottom Line - WSJ",
+      "Mondelēz International reports strong Q2 2026 results boosted by North America - Milling Middle East",
+      "Roundup: Walmart settlement / New Port NOLA appointment / McDonald’s new leader - Baton Rouge Busine",
+      "The Absolute Worst Day Of The Week To Buy Groceries At Walmart - AOL.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為好市多、ADM、Uni-President相關動態：「Price to earnings forward of Uni-President Enterprises Co...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Price to earnings forward of Uni-President Enterprises Corp. – TWSE:1216 - Tr...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Uni-President China first-half profit up 9pc - The Standard (HK)（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

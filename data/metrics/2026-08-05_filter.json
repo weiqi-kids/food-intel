@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 80,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 8,
+  "gate2_fail": 17,
+  "passed": 79,
+  "gate2_samples": [
+    "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance",
+    "Rising Beef Costs Pressure Tyson’s Bottom Line - WSJ",
+    "Mondelēz International reports strong Q2 2026 results boosted by North America - Milling Middle East",
+    "Roundup: Walmart settlement / New Port NOLA appointment / McDonald’s new leader - Baton Rouge Busine",
+    "The Absolute Worst Day Of The Week To Buy Groceries At Walmart - AOL.com"
+  ]
+}
