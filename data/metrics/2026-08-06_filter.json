@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 8,
+  "gate2_fail": 22,
+  "passed": 43,
+  "gate2_samples": [
+    "Archer-Daniels-Midland (NYSE:ADM) Posts Better-Than-Expected Sales In Q2 CY2026 - Yahoo Finance",
+    "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance",
+    "WCM Focused International Equity Fund's Bunge Global SA(BG) Holding History - GuruFocus",
+    "Mondelēz International reports strong Q2 2026 results boosted by North America - Milling Middle East",
+    "Walmart may owe you money, here's how to get it - audacy.com"
+  ]
+}

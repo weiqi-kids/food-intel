@@ -1,0 +1,219 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:28:57.824002Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-08-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer Daniels Midland (ADM) Could Be 36% Undervalued On Its Earnings Beat - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUjFNQ3FIMncwck1KSUpacTRPb1VxX1hYeE5Mb0VLZVhFV0xwQ2ZmNVJZb1ExYnRRVDJqRHQwMnZDU2xxaDB4MjhhTzZBbktQdkczRkc4Zm0zXzdPYi1lMkE5ZkxCMnZhdmRNemFabWdqVzhIenRqZ29yT2NSb1p5T2hpd2lIeEs2YWZ4azdTd2JUWFktOFEzSy1LNHc4dw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "4 ways the food industry fools your senses - ewg.org",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOU85ZnRrOUJ1RHlZRDAzYlE5ZmRDY3N1NDBIRHl4NEhOYV96ZFZSR2h1eEZ2YXBVLTJIS2I1U1BfMHJzYWFMdVFIVjVzZ3ItSFp2UlpfRDRzTkdKQXFNUmQ2SWNBN1NkM0dtOEYwdHo3aDZKOVpuaFBlejBjZ3dGLV8zNGU3OXQtUjJFY1p3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India's weak monsoon may add to global food inflation as wars disrupt farm supplies - Firstpost",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_inflation",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeDIwRm5xMjVvclNlUGFDYXMtWFNpM2VJb0Jta1lhWl8tcGU0LUhlVTJ6RGtNaHljb3A5M18yVUVnbUlhRVZiZ2lNcXdXSzdYNEFmQTEwRzIxTE9Mcm02WkFCU3NQcmtTS3RNZkZZZEd3R25iRV91YXpBZ09wYmZTOEhLc3o1aDY5RF91eUtTTkNGNlZYUEdLdERDSDV2MmZ1bldyMFI0QmlDbDRXakhtQkxFOU1RckJLWmfSAb8BQVVfeXFMTVdVUDg3UnJ2aXdSMEF1b3poZzV1MWhFSEFsdjV5ems1Q2tMcGRVQXc2Sk9sUDJQeHUwTjVLOEtSdXYycEJjZGNXYmppbVJzRkVubGVmLTdWTUhUUUZ2ZXFkb0VtTkVuOU9IQ09BNk9IdGpOb1puWDltRzNQbkxUbDhQX1h0U1VYRHlqNC1kZnBJMkxzX0F3UENRb2htUk83MVZySG5LclBvT0JMTUNENVVkYWpkY2lzQ2lNMWpQNEk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UK government urged to restrict Brazilian meat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/08/uk-government-urged-to-restrict-brazilian-meat/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-06-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Salmonella outbreak caused by imported jalapeño peppers has sickened hundreds",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/08/salmonella-outbreak-caused-by-imported-jalapeno-peppers-has-sickened-hundreds/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 106,
+    "too_old": 85,
+    "gate1_blocked": 8,
+    "gate2_blocked": 22,
+    "passed": 43,
+    "pass_rate": "27.2%",
+    "gate2_block_rate": "13.9%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland (NYSE:ADM) Posts Better-Than-Expected Sales In Q2 CY2026 - Yahoo Finance",
+      "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance",
+      "WCM Focused International Equity Fund's Bunge Global SA(BG) Holding History - GuruFocus",
+      "Mondelēz International reports strong Q2 2026 results boosted by North America - Milling Middle East",
+      "Walmart may owe you money, here's how to get it - audacy.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為ADM相關動態：「Archer Daniels Midland (ADM) Could Be 36% Undervalued On ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Archer Daniels Midland (ADM) Could Be 36% Undervalued On Its Earnings Beat - ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "4 ways the food industry fools your senses - ewg.org（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
