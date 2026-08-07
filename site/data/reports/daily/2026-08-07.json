@@ -1,0 +1,222 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T08:47:10.893362Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "uni_president-2026-08-07-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Uni-President Enterprises First-Half Profit Surges 36% to NT$14.55 Billion, Driven by Uni-President China and Uni-President Securities - finance.biggo.com",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VRlVXYjR6T2pub2lJTVdGY1NvTlI2T184T1ZiMlJOU0tyajNBbWdlVHlwM1lRR3FhYnJXTkp3R0ZmZVR5TG1rZmJtMmhnaGVIQ0xBWFRCTk9mNmJHVlVsR3lTdXpGQ3BSODhLWkR5Rkk5cjBuOHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "uni_president-2026-08-07-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Uni-President China's beverage business declined by 0.3% in the first half of the year, with milk tea now the only segment holding up performance. - 富途牛牛",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV1NvanROQ2VPd1l6dWZ5NTlsYjRNU0Nxc0hLSnFvTWg4TElGZ0lXWHBDckNMNVhDcEdLVlRhVmdXcHVWMUI2NXVMcVZRUDRpLUswT1VBRlhMTFJmdkgxZXh5ZV9ZYlk4LVU3X3lybms0WnFabUZHNlp4YVpqRHdQT1hleXVqX0dTSUN2MEVPTUFobVhneDZLQl8zQ0o?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-08-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "180 Wealth Advisors LLC Buys New Stake in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWk52MVFENElYbXBZRlFmOXZCLWJRbS0xQU1VemlHbUdBcmJNNTRmN3VEeWJMMXhzR3pnd2Y0WngwUGo5WnNONmVFY3loLTlqb3RWdmdZRG1TTEZfemFsV005T2tUREVmVlN1ajliMUw0bW1mWEZXSk83Q2pCdDVaSktqMnE4S1ljOHpVTlZjV1lJZGJEU2xxUWhqdHdzUVZXQURmSm9yekRtMG1Hbm9CQzA5c0JyNmtVSF94OEl6RExuSlJKMWw1akxSVEIyYW1vdWRR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-08-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland Co (CHIX:1ADMm) Stock Price, Trades & News - GuruFocus",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xNlRabGVuNmZfdnBaa3hTQXdZV1EtZURVMjZXejFId3JjS25mTXFCb190THRZdnd5aXlWZzlfSk13UU5RNDFCbGt5a0hwVFh0UEF0ekE4OTRvcnR1SkJV?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CADBURY DAIRY MILK X LOTUS BISCOFF ARRIVES IN MALAYSIA - minimeinsights.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWjc4T0VpdXdwR1Q3WV9xcjFmY1p5bHN3YnhXd2RfOWRVeG1xTGZHS0dNWGNiWkFfSXdmLU1BZHVqelllZlJHZFlVR1hlVXlFZWNEQ29jcWhxd1ZiZE92cmVQWGk5c2t1X2FnLVJHZ2RhRnY1NXdpTkJZcWF0WTFqZFpYWHhjLTQ5ODBrVUxrTEttZDJqZWZPdVNLakxOZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "uni_president",
+        "count": 2
+      },
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 266,
+    "dup_title": 94,
+    "too_old": 85,
+    "gate1_blocked": 13,
+    "gate2_blocked": 19,
+    "passed": 55,
+    "pass_rate": "32.0%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Co (CHIX:1ADMm) Competitors 2026 - GuruFocus",
+      "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance",
+      "Rising Beef Costs Pressure Tyson’s Bottom Line - WSJ",
+      "Mondelēz International reports strong Q2 2026 results boosted by North America - millingmea.com",
+      "Walmart is Bringing Back Late Night Shopping At Some Locations for The First Time Since 2020 - | Cor"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為ADM、Uni-President、好市多相關動態：「Uni-President Enterprises First-Half Profit Surges 36% to...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Uni-President Enterprises First-Half Profit Surges 36% to NT$14.55 Billion, D...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Uni-President China's beverage business declined by 0.3% in the first half of...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

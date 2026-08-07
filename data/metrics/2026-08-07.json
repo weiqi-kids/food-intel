@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-07",
+  "total_events": 10,
+  "by_company": {
+    "adm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "uni_president": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "walmart": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "costco": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": -0.17
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "food_safety": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

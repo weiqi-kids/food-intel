@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 94,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 13,
+  "gate2_fail": 19,
+  "passed": 55,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Co (CHIX:1ADMm) Competitors 2026 - GuruFocus",
+    "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance",
+    "Rising Beef Costs Pressure Tyson’s Bottom Line - WSJ",
+    "Mondelēz International reports strong Q2 2026 results boosted by North America - millingmea.com",
+    "Walmart is Bringing Back Late Night Shopping At Some Locations for The First Time Since 2020 - | Cor"
+  ]
+}
