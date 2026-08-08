@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T08:47:07.530670Z",
+  "updated_at": "2026-08-08T08:29:04.514265Z",
   "quarter": "2026-03-31, 2026-04-30, 2026-05-31",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "卡夫亨氏",
       "ticker": "KHC",
       "currency": "USD",
-      "ar": 2306000000,
-      "ar_prev": 2254000000,
-      "ar_qoq": "+2%",
+      "ar": 2286000000,
+      "ar_prev": 2306000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 3310000000,
-      "inv_prev": 3167000000,
-      "inv_qoq": "+5%",
+      "inventory": 3308000000,
+      "inv_prev": 3310000000,
+      "inv_qoq": "-0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "mondelez",

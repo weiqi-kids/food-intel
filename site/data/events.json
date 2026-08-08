@@ -1,5 +1,159 @@
 [
   {
+    "id": "adm-2026-08-08-001",
+    "date": "2026-08-08",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Assenagon Asset Management S.A. Buys 829,641 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMjlsY25qdERWZUx0SHgwTl84SGdRbWptMlZvMThLMzlmSlZWYmRQRXZ6YVpIR1cxRU8tZ0pKd1pQaTRGRERxZGFhMFUtTXpCa1pyOTdjVlRCYkxzRFJVenhfRDR6RVBxbXQyMm9DNm",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMjlsY25qdERWZUx0SHgwTl84SGdRbWptMlZvMThLMzlmSlZWYmRQRXZ6YVpIR1cxRU8tZ0pKd1pQaTRGRERxZGFhMFUtTXpCa1pyOTdjVlRCYkxzRFJVenhfRDR6RVBxbXQyMm9DNmktMFlyTjdnNFY4MmZfOGtydUZVNzVROExXTUNJMDBpVTA4TF9qc01va3pmc3VsVlZtUlpVb002eVlyLUpxQy1HeG9qbWJvUWJWN1EyTUV6VU9TRm1CMXFscFJzNWQxU1VDRXpxRXB2TDFNeG8xQUE4cA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-08-08-002",
+    "date": "2026-08-08",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Uni-President China Holdings (UNPSF) Gets a Buy from CICC - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHgyT0lhUmppa210bHd1aTBLYnFsN09NTEpOTHNYUkdGVVVxMGpXQUdtNXZROFdkZWI5S0RJQ1F0WW13RjNzRE5qc0ZOVWpPY3BNUmt5WkRrRXFZdFo5clVUdHd0QU1BUGFEbmJiU2",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHgyT0lhUmppa210bHd1aTBLYnFsN09NTEpOTHNYUkdGVVVxMGpXQUdtNXZROFdkZWI5S0RJQ1F0WW13RjNzRE5qc0ZOVWpPY3BNUmt5WkRrRXFZdFo5clVUdHd0QU1BUGFEbmJiU2VfTEI4YXAzcEtIS2U3WVdOeTlOd0ktYzJaWm55RmJpSk9DeWEzbDRJb1FkM0M4QzRKc2V6MHJwdENkM2tRYUtUY3YxMDFVaVhtb1ZScmRyNEV4dkN6Tk90eFNUYkkxbnB1VUZSYVN0QzU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-08-08-003",
+    "date": "2026-08-08",
+    "companies": [
+      "costco",
+      "walmart"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kroger makes a pricing move Costco and Walmart will love - thestreet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQY3U2VUlHei1idm92cDdHNmd2LUJOWkFXN2gyeHZnQXVDOUs3V2JZOUhUWDJ0NHVnWnZaa3BtMHk1aVRkaTFYeWNQNE5kSERDdTBhb3d2YU1kZ2NLOWdtOW1sZUtWdjlQMmhMcGQ0Qj",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY3U2VUlHei1idm92cDdHNmd2LUJOWkFXN2gyeHZnQXVDOUs3V2JZOUhUWDJ0NHVnWnZaa3BtMHk1aVRkaTFYeWNQNE5kSERDdTBhb3d2YU1kZ2NLOWdtOW1sZUtWdjlQMmhMcGQ0Qjd6bDhsX2xkRGZ6c1hZZ1BWRWtfMGNESnlIMG9YZFdaM3ZWYW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-08-08-004",
+    "date": "2026-08-08",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Chesley Taft & Associates LLC Cuts Stake in Costco Wholesale Corporation $COST - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc2hIMDJKQV9qOWZJTWdLQktYcEY4cHE0TnA4Q2lwTDQ3emVCbEg1RHZpN0o4a0dTSVFTUkRFalE4YzdhSGdnemk4V2c0Wmg3RUNhVWx2aW9MUWFEdUg4cnhIcWdwbk9pS0tqeUVmX1",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc2hIMDJKQV9qOWZJTWdLQktYcEY4cHE0TnA4Q2lwTDQ3emVCbEg1RHZpN0o4a0dTSVFTUkRFalE4YzdhSGdnemk4V2c0Wmg3RUNhVWx2aW9MUWFEdUg4cnhIcWdwbk9pS0tqeUVmX1JxU25rREFmZzdXdVJkWUc3V3M0T3ZXZHZvZ0NnNVdwRXFkamlxeHZIeEpUY29yM3Z6blBvajlUQnVxSGtvY3FFQTAtNnIxemJpMnotYWFzeVhDcEh2WjhadE9uaTVMNzZwWUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-005",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2026 Pet Innovation Awards recognizes top pet innovators - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQV01XQUxidGFaNGJzOE9hOEk1bXlJLUVpM0tHQ28zXzdCVkxJODY5N1Y4VHFBdm4yMXYwY0NVVkp2Y2ZSdjZZTWhBNUEtZzJ4TDNURWw1MWdEbnBUVm5NZHFjNTJGVGQyczBudzQwX1",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV01XQUxidGFaNGJzOE9hOEk1bXlJLUVpM0tHQ28zXzdCVkxJODY5N1Y4VHFBdm4yMXYwY0NVVkp2Y2ZSdjZZTWhBNUEtZzJ4TDNURWw1MWdEbnBUVm5NZHFjNTJGVGQyczBudzQwX1N4T28xR1dHZE1ySV94X291SEFtdjR3MzV6ck9rMFEya19SWG5QQzBFOGFmdFVITnlJZHpwNFBtUGQ4OVFJMHpVLXpfLW9rM1VfNTMzSmJOejhMZ2hqTUNzMUM0MVVrdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-006",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "food_inflation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Global food prices at three-year high as heatwaves and wars push up crop costs - The Guardian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHhIMDFtdzdDLUp2WjdVZ1Bvcm5BUTlIT3NtVG93TkpRWDlHM3Y2ZUNQQXpYOWFSNVdMNERsNTZUS3IyM2F3cU5EVFJ6SkxGdjdaVnBTanNIbmQ4RXl1R01LTE5oX1N2c2xPYXRZS2",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHhIMDFtdzdDLUp2WjdVZ1Bvcm5BUTlIT3NtVG93TkpRWDlHM3Y2ZUNQQXpYOWFSNVdMNERsNTZUS3IyM2F3cU5EVFJ6SkxGdjdaVnBTanNIbmQ4RXl1R01LTE5oX1N2c2xPYXRZS2Q0SGlkQlN2c3JkOFliZUM2ejVmUDFCbWZ6ZmNrQ3liZm9fRzQ1VW8zTEVreXB0dEM4empkZzZCNzZvQVkzQVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-007",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Almost 15 tons of imported beef recalled because of lack of reinspection",
+    "summary": "<p>Corte Argentino USA LLC of Aventura, FL, is recalling 29,628 pounds of raw beef products that were imported from Argentina without the benefit of import reinspection into the United States, the U.S",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/08/almost-15-tons-of-imported-beef-recalled-because-of-lack-of-reinspection/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-008",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "More than 2.5 tons of frozen, breaded catfish products recalled because of illegal importation",
+    "summary": "<p>Shan Distribution Network Inc. of Carol Stream, IL, is recalling 5,084 pounds of frozen breaded Swai fish fillet and stick products because they were produced in the United Arab Emirates, a country",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/08/more-than-2-5-tons-of-frozen-breaded-catfish-products-recalled-because-of-illegal-importation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-08-07-001",
     "date": "2026-08-07",
     "companies": [
@@ -185,6 +339,463 @@
       {
         "name": "food_safety_news",
         "url": "https://www.foodsafetynews.com/2026/08/four-hepatitis-a-infections-linked-to-deli-in-malta/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-07-011",
+    "date": "2026-08-07",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland Co (CHIX:1ADMm) - Valuation Measures & Financial Statistics - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE84Z19EU1Y2OUd6ZFJESVlrYXh3Vi1pcHJFY2NwcmF3YnJGT2lia0I4b0hLUThKQWdZaFhObVlBTXRXTjl4WXBFRUhqU3l4R01uMTI2QVRaRkRFMHJDNGc?oc=5\" target=\"_blank\">",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84Z19EU1Y2OUd6ZFJESVlrYXh3Vi1pcHJFY2NwcmF3YnJGT2lia0I4b0hLUThKQWdZaFhObVlBTXRXTjl4WXBFRUhqU3l4R01uMTI2QVRaRkRFMHJDNGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-07-012",
+    "date": "2026-08-07",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Janus Henderson Group PLC Lowers Holdings in Bunge Global SA $BG - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnR4bEhLLUZyVUdkeEpzLXc5M3hrTXl3cEYzdHFYS0djd3VLR1l6QXFUaTMwTHpFaTVLalBCQkNhNVpmNzgzaHQtX3pFLWlpOV9QNXpSaHBPeDJndER5Zlc5RVVTdkNUaVR1UXJ1NE",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnR4bEhLLUZyVUdkeEpzLXc5M3hrTXl3cEYzdHFYS0djd3VLR1l6QXFUaTMwTHpFaTVLalBCQkNhNVpmNzgzaHQtX3pFLWlpOV9QNXpSaHBPeDJndER5Zlc5RVVTdkNUaVR1UXJ1NEhRV3F4LTVTcXUyTDI1bEVUOThUVDBaVVhjOEZ4U01mN1NWalhwNm1McXF0MlozeW1fd05oVkc0YXNwODg5R255Wkh5cGhjUFdwSEhUekk5c2cwQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-08-07-013",
+    "date": "2026-08-07",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Tyson Foods Drops 12.2% in 3 Months With Beef Losses Still Widening - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNSlU3Q2JPYTFIak45MFFmQ0dQT2tXWHBfYnZ6ZHBTTHdZakJpOElaUVRNZV9EbFVIUjZ4X1VXU1JBNUwzM0Y4UnZoclhuZFE4aXJUcTAtSkVYdHFqbzZ0ZUdmd0FsdmZuMzMzdkFjYj",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSlU3Q2JPYTFIak45MFFmQ0dQT2tXWHBfYnZ6ZHBTTHdZakJpOElaUVRNZV9EbFVIUjZ4X1VXU1JBNUwzM0Y4UnZoclhuZFE4aXJUcTAtSkVYdHFqbzZ0ZUdmd0FsdmZuMzMzdkFjYjFuajZaWkg1aW40cE02Uks3MXR6SXk5LUpXNWxxTTlwTkg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-08-07-014",
+    "date": "2026-08-07",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods, Inc. (NYSE:TSN) Declares $0.51 Quarterly Dividend - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOc21VN0Y2dTdDQkVscVlpeFpwYmRsRlZSOWxnSkNQUGJrQ2pSWGtNVS1qdk5Dd3Qxb21mUmNpYkE0UV83T29lTHNBVFpuVmZiYVU1MmsyTjV2ZWFPMWtqNDV2SjJWeUNXdDJpZU83QT",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc21VN0Y2dTdDQkVscVlpeFpwYmRsRlZSOWxnSkNQUGJrQ2pSWGtNVS1qdk5Dd3Qxb21mUmNpYkE0UV83T29lTHNBVFpuVmZiYVU1MmsyTjV2ZWFPMWtqNDV2SjJWeUNXdDJpZU83QTFZRTNHaHBRNjFiSGZ4b1NJVVpCc1IwYkhZVk1zYjNYeW5CZ2ItaDc2LUtEb1BMbC0zY1Bpcmg2RUMzWHZNZ2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mondelez-2026-08-07-015",
+    "date": "2026-08-07",
+    "companies": [
+      "mondelez"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mondelēz International unwraps 2026 festive range to drive category growth this Christmas - Grocery Trader",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXZaVUphUFp2WGZDdXNBTnJkWFdKWjRmMjBQYzRrYk1VdHo2YmtXa1ZhRWJ1M28yd2RhMFE3SHdPN1RLdG9hUFhCS0ZyX0V5c000cEFsMWdDVmQ0WjdyX2ZVemJVa1QzcnhLNC0wd0",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXZaVUphUFp2WGZDdXNBTnJkWFdKWjRmMjBQYzRrYk1VdHo2YmtXa1ZhRWJ1M28yd2RhMFE3SHdPN1RLdG9hUFhCS0ZyX0V5c000cEFsMWdDVmQ0WjdyX2ZVemJVa1QzcnhLNC0wd0V1TWtPaVJkOU1NMFNYX0t4RzRtdUxLak93R2JDMzJGeG10NmRYVGtlMFdHSkFRQ04tUlRDbElOMFI3bm5zSmlCLV9fbzdtdVhX?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-08-07-016",
+    "date": "2026-08-07",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Uni-President China Holdings (SEHK:220) Could Be 50% Below Fair Value Following Earnings - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQWR0Nlpza1ozX2dKZUQ1dWc2N3FhbUJVa1huNEtDOHpkRlVvak1kNlY4MmlWXzVNQ25KN3d0a2xqRTlZRnNDQ25XYVJQX0toc2pUR1lycHRqWXpKeEtvQ2JyTnQxSWlWNlNsMFMySm",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQWR0Nlpza1ozX2dKZUQ1dWc2N3FhbUJVa1huNEtDOHpkRlVvak1kNlY4MmlWXzVNQ25KN3d0a2xqRTlZRnNDQ25XYVJQX0toc2pUR1lycHRqWXpKeEtvQ2JyTnQxSWlWNlNsMFMySm4zTml0V3RnMHVoODdRRmdNMzBBVFd4cGZpTk5IcWZ6TTlmazhYZjZWMVZWZVVrRGFDQXVkc3p1em0xdjNMdC1ka1FBWURVSElWT2kzSzRRMndiM2szMU1lR3o2bDZjZzFSVDRMeWJ0cExoa0N6R2o5NTdLT2VlelVZY0ZlckVLazlEREJkdVZPa0dvY9IB-wFBVV95cUxOQWR0Nlpza1ozX2dKZUQ1dWc2N3FhbUJVa1huNEtDOHpkRlVvak1kNlY4MmlWXzVNQ25KN3d0a2xqRTlZRnNDQ25XYVJQX0toc2pUR1lycHRqWXpKeEtvQ2JyTnQxSWlWNlNsMFMySm4zTml0V3RnMHVoODdRRmdNMzBBVFd4cGZpTk5IcWZ6TTlmazhYZjZWMVZWZVVrRGFDQXVkc3p1em0xdjNMdC1ka1FBWURVSElWT2kzSzRRMndiM2szMU1lR3o2bDZjZzFSVDRMeWJ0cExoa0N6R2o5NTdLT2VlelVZY0ZlckVLazlEREJkdVZPa0dvYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-07-017",
+    "date": "2026-08-07",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart Addresses an Issue With Its Carts That Few Customers May Have Noticed - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFhzR3lPUVlmZ2hGd3k3Tk1OaDJqR2Q5dmZ2YWRHSmhjVEswb3oyS09feThTdWFXZTV3djFIM2s1WW50LTRBelF5RGlEUlVoaFlBaGUyVFRadnBldXZzTkYwWGd4UFNOdU93TUtMMk",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFhzR3lPUVlmZ2hGd3k3Tk1OaDJqR2Q5dmZ2YWRHSmhjVEswb3oyS09feThTdWFXZTV3djFIM2s1WW50LTRBelF5RGlEUlVoaFlBaGUyVFRadnBldXZzTkYwWGd4UFNOdU93TUtMMk5mYUtqUVRNck5uLUNKcHk2OE4xT0ZydjJEcF9zWGRLdHU3dk1VMEtZRzUwU3BZUFI1SWViSnNKcUhrMlgzWGM4WHZqTjBuM29PakJzRGUtdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-07-018",
+    "date": "2026-08-07",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart Making Changes to Store Shopping Carts to Avoid Hitting Children - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxObVhvN2g2UGUycS00XzM5X01RX2NINjVSdXZRQXVCYmNiMlN4M2swX19wZnF3SU9nb2tmSjZTckVXUDBMcHRaRmR6MFgyOHg0MzM0M3FuMThZbklUUjNVd3BmQ1JPTzNlU0pPUmZjY3",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObVhvN2g2UGUycS00XzM5X01RX2NINjVSdXZRQXVCYmNiMlN4M2swX19wZnF3SU9nb2tmSjZTckVXUDBMcHRaRmR6MFgyOHg0MzM0M3FuMThZbklUUjNVd3BmQ1JPTzNlU0pPUmZjY3VIN1IxcEhwSzktUDNiZkdHdTVGTkZiWHBkUGQtVjl6ZkNJZjc0UXJacDFJVjdrVHdQOTd0cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-07-019",
+    "date": "2026-08-07",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mitra9 expands national availability with Walmart.com launch - Mass Market Retailers",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNbl9wNGplR0V5WWdXM25YMkVwdlQ2ZDByeEQ5ek5IaVlkekFJa3J6TVBjMHBLRjcxQjNoSWh5eXRpdVJqNDdqQ2lhTWNTdVBLWkhmNkhvTjdvNVEwUEo2cGZZMEJ2NW55UXZtLW9xNW",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbl9wNGplR0V5WWdXM25YMkVwdlQ2ZDByeEQ5ek5IaVlkekFJa3J6TVBjMHBLRjcxQjNoSWh5eXRpdVJqNDdqQ2lhTWNTdVBLWkhmNkhvTjdvNVEwUEo2cGZZMEJ2NW55UXZtLW9xNWRYRkQ0OFRBODBPMDdwbnBSTGlITUhQcXNkN0FLZWtkMDNlaktKRHdZaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-07-020",
+    "date": "2026-08-07",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart Resets Store Operations After Shopping Cart Risk - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlc5QnZ5cWRFWmNqY3pUa2RhSllhMjJJZm1STERMa29DS1lMX09UWTc1ZVpMNDNpYWxBRUNzRnhZc2dMUGd5emVpdUxJWnhaWUFTelcwRG1keFJzR2JhQzFUMmV5Vkg2Q1dEUUZxM0",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlc5QnZ5cWRFWmNqY3pUa2RhSllhMjJJZm1STERMa29DS1lMX09UWTc1ZVpMNDNpYWxBRUNzRnhZc2dMUGd5emVpdUxJWnhaWUFTelcwRG1keFJzR2JhQzFUMmV5Vkg2Q1dEUUZxM0E0MzBvcEU4blZDQWJTdFNVeHdHSnhQc2lUaUhEWU02X3E2a3czS3pqSk1DVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-07-021",
+    "date": "2026-08-07",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart faces lawsuit over alleged secret voiceprint collection in Illinois - scworld.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2ExRUY1Q1BxYVVMdUtMYm50VC14UDRnb08weUJZUGM1TGdtMU1Yc211Z0hId0syX2tpSHF1cXBjYldSVmFIN2lkVXl2bkN3aHJHX0xhbk9SNzNSV1E4Wl9icF9uWW1JMTg5ZW5GXz",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2ExRUY1Q1BxYVVMdUtMYm50VC14UDRnb08weUJZUGM1TGdtMU1Yc211Z0hId0syX2tpSHF1cXBjYldSVmFIN2lkVXl2bkN3aHJHX0xhbk9SNzNSV1E4Wl9icF9uWW1JMTg5ZW5GXzhNaTJPZjEzR20wclU2RVZhaEY1TEUySUVqeTdCWmpIUTVHRnR6a3VyVHhaQ0Rpd3RPOTl5UkJYejg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-07-022",
+    "date": "2026-08-07",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart Is Being Sued For Allegedly Keeping Voiceprints When Shoppers Call - WWD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3pkaXJvb0F3V09hQVlQTC1kYm5RMm96Q2xuQ1d5bzlLZDI3b3FSdVZ2QmpqS2pUSkU5bjBBVU5rd28ya251c1JRbWxBSVpQdmxaVXBQSkpzUEM1RmJhVmdrUThSelhIR2dvMnVXU0",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3pkaXJvb0F3V09hQVlQTC1kYm5RMm96Q2xuQ1d5bzlLZDI3b3FSdVZ2QmpqS2pUSkU5bjBBVU5rd28ya251c1JRbWxBSVpQdmxaVXBQSkpzUEM1RmJhVmdrUThSelhIR2dvMnVXU0prTnUyWGlIbXBlYVhoMVdRTTVBWkdBRm55X1h5MGczNFhYUi1pYnIycnFNMzJUU3ZYWHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-08-07-023",
+    "date": "2026-08-07",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cease-and-desist letter alleges Brown Act violations in Brea deal with developer in search of a Costco - Orange County Register",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNUhKdldRd2JuUktCYjQya242UHZjUkpLVUk1ZkxaMzlfdG91WW80RllnLUFxUUNGTl9lOHJiSFR3b1FFMkRQdXFvTldnclVVRjlhckpJam9yOWFOWnNfZFBzQzUyaTI4d0NFSkc4Qz",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNUhKdldRd2JuUktCYjQya242UHZjUkpLVUk1ZkxaMzlfdG91WW80RllnLUFxUUNGTl9lOHJiSFR3b1FFMkRQdXFvTldnclVVRjlhckpJam9yOWFOWnNfZFBzQzUyaTI4d0NFSkc4Qzh4czVFdmNWUjZSQS05QjBLYXRDcGdDUnowMGQ3RGhCMG5BaDFMeUVzNURTX0txRmVSYVhJTzJoTG93SnNlTHUwUVpZbG9xM21EV3ZoaG11bVNtaGFybzcyenE0VVNWVnN1clhPUXQyWlM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-08-07-024",
+    "date": "2026-08-07",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "See inside Oconomowoc's new Costco warehouse - Milwaukee Journal Sentinel",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQamJaQXJCalJ4WVJwVFNXRkRwODU2Z2w1UzFCWkdjVUw4Y0hnbHlGZ0c3TXVUQ0NyM29YZHNJSGNHTkwyc0tlRlBoM08zcThteXNJZTJSR0JvaVlCTXVrOU5TX083dkQwdmxEOGpzcm",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQamJaQXJCalJ4WVJwVFNXRkRwODU2Z2w1UzFCWkdjVUw4Y0hnbHlGZ0c3TXVUQ0NyM29YZHNJSGNHTkwyc0tlRlBoM08zcThteXNJZTJSR0JvaVlCTXVrOU5TX083dkQwdmxEOGpzcmNYR09FR0tjT3RUNTBhNVVkV0N4MWl6Q2JNdkNmU19yMGE0X1BLS0xLT0NJSVRocWtGb0RTUUFqaWIxdEEyQ3FwZ3Q1QS1WbGxxdl9nTVhaNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-08-07-025",
+    "date": "2026-08-07",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco Wholesale celebrates grand opening at the Crossgates Mall Complex in Albany - New York Real Estate Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkZhMWl5MEc1NFFYYzNzWjNHNlZIdXNsejJ6Q2loSkJKeEprSUszOXhuTDdQVGUzUjZRWFZxeGFDSWNUenRtcmNzNy1pR3hDWERhLUd2YV9yZkVkZFh2NDFmTDRJSC1qcTRmSzVYYl",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkZhMWl5MEc1NFFYYzNzWjNHNlZIdXNsejJ6Q2loSkJKeEprSUszOXhuTDdQVGUzUjZRWFZxeGFDSWNUenRtcmNzNy1pR3hDWERhLUd2YV9yZkVkZFh2NDFmTDRJSC1qcTRmSzVYYlhZRzdQM3pmWUNYX2U4MFBEM1p2M0NBMmpfR2pqeTZnVldrQVVxbGJSSWtMcDY3S0tVN0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-026",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why are ultra-processed food firms panicking and suing? Because they know time is running out | Felicity Lawrence - The Guardian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZk1QZXEwTzI1MC1YQ1FnUVhYNXhrUGRYN0VYMi1zMll3dW1TR3NmbmVCUXNRV216M3RNVjl0UTF0UjQ2OHV2MmhMV1lYUjljQ3JaT2twdThaZTc3NldheC1UQlZkc0ktSzk0RnZac2",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZk1QZXEwTzI1MC1YQ1FnUVhYNXhrUGRYN0VYMi1zMll3dW1TR3NmbmVCUXNRV216M3RNVjl0UTF0UjQ2OHV2MmhMV1lYUjljQ3JaT2twdThaZTc3NldheC1UQlZkc0ktSzk0RnZac2dCNTZCT1Z4M3VFUHNtS0JCNXplcnYxZVhjV0JkUnJraHlodmNKYTQ3RDZocklyY0t1VjBVUGtRU1IxdENfVWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-027",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Food Exec Brief: Sugar Supplies Are Tightening, the FDA Has a Draft UPF Definition, and M&A Is Betting on Better-for-You - foodindustryexecutive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUnE0REdJN2oyeFBNaHlITmZNaFpGdzBLM3dwdmE4T3FwcW55MTZ4Zl9CdjZ6bWh5WURVWWJKNFduejZzTTFzUkREeGc1WVZZQXo2QS1fek44bTNraUJuY1g3eDViQ2lFVlhfdVVxLV",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUnE0REdJN2oyeFBNaHlITmZNaFpGdzBLM3dwdmE4T3FwcW55MTZ4Zl9CdjZ6bWh5WURVWWJKNFduejZzTTFzUkREeGc1WVZZQXo2QS1fek44bTNraUJuY1g3eDViQ2lFVlhfdVVxLVRBa2tFY2ZPRjhoN09tbnVtSU9NQ2ZIdkE4eGU1ajRhSFBtaUhQVFkyUGlFelN0eGh4Zk40bFpMOUFVOEVrUjA4MHJVTkFqSGhxcWtNWFVPemcwN19SV3lYeGc2a04zbEVsb04waDhSejhObjAzVmNoRzcyaV90elJ4S3BhVzhEQW4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-028",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Tariff Bill Is Arriving. Manufacturers Aren’t Reaching for Price. - foodindustryexecutive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0xNYlhESmEwWU0tZHRFMXVBT200U2ZsbUl6TGtOUW9GcFY1aWxaS2RJTk1qMVlyM1hlSTZfMmQtN0VJQlBiSUJPT0tUWHdtT2V3cHRRcjNiN1ZlZE1Fd2huc2dQTXhiUlNDYUFwM3",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0xNYlhESmEwWU0tZHRFMXVBT200U2ZsbUl6TGtOUW9GcFY1aWxaS2RJTk1qMVlyM1hlSTZfMmQtN0VJQlBiSUJPT0tUWHdtT2V3cHRRcjNiN1ZlZE1Fd2huc2dQTXhiUlNDYUFwM3g4S3ZBTURNUHBVTm13SjF6QktpR0MycmotMFdwVDh3STBCc1dHYm9KcEZPU0Q0MFBURWI4OWdvc3QtZWs3Q3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cargill-2026-08-07-029",
+    "date": "2026-08-07",
+    "companies": [
+      "cargill"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cargill touts shift in supply chain - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdlBIb3UyQUp0RHlqUTBOUFZ1ZHpDMGZ6dzVDMTFEVlVjZ2Z2aUtoSHJFM2FxeGV2elpkV0N1ODZ5T21YVXFmbG5YY2RTR2J3c0FXN2Q3cWJPSmRROGJmYlNiWEpSaEN1ODROLVN4Wk",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdlBIb3UyQUp0RHlqUTBOUFZ1ZHpDMGZ6dzVDMTFEVlVjZ2Z2aUtoSHJFM2FxeGV2elpkV0N1ODZ5T21YVXFmbG5YY2RTR2J3c0FXN2Q3cWJPSmRROGJmYlNiWEpSaEN1ODROLVN4Wkt5V1FFWktudHU1MUEyWjdiY0FFMnVqMjlrVjQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-030",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Infographic: Brazil dominates South America’s top 10 pet food companies by 2025 revenue - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQN2MyU3Jfam1zWnRjYlVObE9PUWhiOGFiYXZMTXVWenQxT3RHY1NiTmhJMWRmRFoxTHBERHQwMl9WcDNCenZDOXFqV2xHU0Q3UlJiakx2Nldlakt4c3pSMFFJWUlTUkUwWndBdjladU",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQN2MyU3Jfam1zWnRjYlVObE9PUWhiOGFiYXZMTXVWenQxT3RHY1NiTmhJMWRmRFoxTHBERHQwMl9WcDNCenZDOXFqV2xHU0Q3UlJiakx2Nldlakt4c3pSMFFJWUlTUkUwWndBdjladUh3QkJvdnk4WFNJZzN0cndJWDQ2dWtGWXpSaWdzWGZYX2RrVkJfdGRuM0hMcHZkOFV6NUFvdkIwLTB3YVBYdlBDeWtaVDFfa0xKYVpxVm1pUmdIZGc0azdTdFYwNzZOLXRYM3lyTUdjQW9mR29RYkN6dk05Wl9LN2ZLSFBxOGVhUzFETmlTa01kUlJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-031",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Infographic: Europe’s 10 largest pet food companies by 2025 revenue - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeEJ1WGZCMkhNanJVaXh1b1ZIbng4X0txRDRJM2dPSFgxS2d3ZzFobHVFc3ktV1hzV0R3VHJVbjlPQWsyRHNZbEMtNVh4djctNWswdWhvVHB2WjNVTDhvNThWc2poZElxQUd2cW50d2",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeEJ1WGZCMkhNanJVaXh1b1ZIbng4X0txRDRJM2dPSFgxS2d3ZzFobHVFc3ktV1hzV0R3VHJVbjlPQWsyRHNZbEMtNVh4djctNWswdWhvVHB2WjNVTDhvNThWc2poZElxQUd2cW50d2RVb2ZvanY0eEhDeTdWd3gtZ3d6aWRKVlZjeDlrRjBOT3ZjQl9HTnpkdzkzYVY1dmZWbG5MZXoxSDdYZkVmcFZROWd6WGhHQ1FhTWtiWWVqMy00Z3NJNWJGXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-032",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "WK Kellogg: Artificial colors to be out this year - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxONW1hUFdYQ2xJMkxicTQ4cXZ3NlFTZFFYVVpYNEt3VEZlMUlsVjFLbzd5TG91dkRsUUdPS2U5UGQzUXd3cENXaVdveVZ3aFpBZ251NGtNcXg5MnJtb3ozNHlFTjhBZWRrQjV5QnZmTz",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONW1hUFdYQ2xJMkxicTQ4cXZ3NlFTZFFYVVpYNEt3VEZlMUlsVjFLbzd5TG91dkRsUUdPS2U5UGQzUXd3cENXaVdveVZ3aFpBZ251NGtNcXg5MnJtb3ozNHlFTjhBZWRrQjV5QnZmTzhJYVRyWGhNX1dDRWVObWZwNmtsRjlaUHJlT1duTnpQLWZIUk1NTVJ1OWwxd2E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-033",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "J&J Snack feels pressure of fuel, freight - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFl3QzdDRzgwYWJHc3JtTWpiV215WS12a25BMHZMdV9pSFBfcnBFMERwT2NkMWJGZURZUzhYV1gxTktfUzM4Q2xjZUs3OVNlcUhyN3lZdEZ4TTA0OC03Mk5LUEpnWnRMVHhkZ3pGWU",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFl3QzdDRzgwYWJHc3JtTWpiV215WS12a25BMHZMdV9pSFBfcnBFMERwT2NkMWJGZURZUzhYV1gxTktfUzM4Q2xjZUs3OVNlcUhyN3lZdEZ4TTA0OC03Mk5LUEpnWnRMVHhkZ3pGWUplYXAtZnVLb21xSS1BbFMyTVZjcWxrOFBadkNMd3dhLXNXbXJHeVJJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-034",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Belgian Boys hires new chief commercial officer - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQYjQ2bUlLWEl2MmRacVJjX2NPZDZtNjdmd200dFp3TGs0Y1I4ZkdlT1lJbzVVMUFMSTFRdzU5a1hNSUhzUmFDT1NmcW8wOXlaWHM2NFFNN09YNXdtWHIzakg0enN5dVRxZU1LOVdZUW",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYjQ2bUlLWEl2MmRacVJjX2NPZDZtNjdmd200dFp3TGs0Y1I4ZkdlT1lJbzVVMUFMSTFRdzU5a1hNSUhzUmFDT1NmcW8wOXlaWHM2NFFNN09YNXdtWHIzakg0enN5dVRxZU1LOVdZUWRmb2FhMkoyanBEVG1fbzBfc243blhlNDZHTWVsWEtMcnBoNHVJbjRpWmRDbw?oc=5",
         "type": "rss"
       }
     ]
@@ -926,6 +1537,145 @@
       {
         "name": "google_news_food_industry",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbl9fWDdpclZBUnR1ZTdsd2tnU2QwR3BSVEs0NEg0OEJ4MjY1cUdIRVZlN243UWIxNTExZVY5ZFY5X1dzY3MweGlEcUR5NDg4QU1HYXdCVUcwbjRQZEZ4cUh0UGZILXlHMkl3ZGtxUFZrOVhiYWtQRW9SYXoyc2NzZVlDT2ZxbFlNcGpvazJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-06-040",
+    "date": "2026-08-06",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Limited (BG) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sR1kwenpsRDdGUHZ0VTZZek5wRFBuS1ZrLVFuZ0lRQUx4NGJkUzUzWHJSeXBYU2I3MUpmMnZwLXcxREF5N1YwX0gzUXczTnM?oc=5\" target=\"_blank\">Bunge Limited (BG) S",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sR1kwenpsRDdGUHZ0VTZZek5wRFBuS1ZrLVFuZ0lRQUx4NGJkUzUzWHJSeXBYU2I3MUpmMnZwLXcxREF5N1YwX0gzUXczTnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-08-06-041",
+    "date": "2026-08-06",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jefferies Adjusts Uni-President China Holdings' Price Target to HK$9 From HK$9.50, Keeps at Buy - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUnYycU9UV21nX1k1Z3B4TEZpMW44cFJkeTJXVjVhSzQ5VkV2QzAzMURnZHZiXy1XZFJhajB4dGZEUnRqYTJBX291MV9yU1JZWm1LejJUaEtSbDAtNHhXNWZ3RGhPQ3V2cWcwMjFVLV",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUnYycU9UV21nX1k1Z3B4TEZpMW44cFJkeTJXVjVhSzQ5VkV2QzAzMURnZHZiXy1XZFJhajB4dGZEUnRqYTJBX291MV9yU1JZWm1LejJUaEtSbDAtNHhXNWZ3RGhPQ3V2cWcwMjFVLVNuWGFvWUVuWDdQMHh4Y0VKYVptNkxrbDJjTHotN0RSYlJUUlAtY0lsNjd3Q1NEYi1jZnE5ZUJkZzJfUE80MGY5ekV1OVZHclB5SWpCbXNHdDJBaHU4dXFKOU42NDRrOE9faTNxcy1DZkdmSk1xaGFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-08-06-042",
+    "date": "2026-08-06",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Uni-President China's beverage business declined by 0.3% in the first half of the year, with milk tea now the only segment holding up performance. - news.futunn.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPV1NvanROQ2VPd1l6dWZ5NTlsYjRNU0Nxc0hLSnFvTWg4TElGZ0lXWHBDckNMNVhDcEdLVlRhVmdXcHVWMUI2NXVMcVZRUDRpLUswT1VBRlhMTFJmdkgxZXh5ZV9ZYlk4LVU3X3lybm",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV1NvanROQ2VPd1l6dWZ5NTlsYjRNU0Nxc0hLSnFvTWg4TElGZ0lXWHBDckNMNVhDcEdLVlRhVmdXcHVWMUI2NXVMcVZRUDRpLUswT1VBRlhMTFJmdkgxZXh5ZV9ZYlk4LVU3X3lybms0WnFabUZHNlp4YVpqRHdQT1hleXVqX0dTSUN2MEVPTUFobVhneDZLQl8zQ0o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-08-06-043",
+    "date": "2026-08-06",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Uni-President China Delivers Profit Growth on Strong Food Sales and Margin Gains - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcGlnVjRsT0ZYV1NMUlNKWWxCM25DMmJPcksyOHJEOEZEVVJSRUF1R3pTY3JhRUx4TlpOckdlanl4b3RrSjZzSjNYSWZzOVBuZkQtVk5NczdxWUZ4WkY1MndQemtlTWNWdzBZaGlmZH",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcGlnVjRsT0ZYV1NMUlNKWWxCM25DMmJPcksyOHJEOEZEVVJSRUF1R3pTY3JhRUx4TlpOckdlanl4b3RrSjZzSjNYSWZzOVBuZkQtVk5NczdxWUZ4WkY1MndQemtlTWNWdzBZaGlmZHFpZFVNRzdxbk1BcDZpUFRTZFIxWGhIQWs5aTBVWFQ0NjdZbTFZT0F1Nnl6SUstY1pqcDhMbjFZY2VldVNsUVA0WlhqQ05FWmQ4NTQyWTBmWkFBcDc5SEFLNGlvc1FoTERCektyRDF2WUU3REpzN1VXNGpzSVlILWpaYjlLdjZ1U0NaU3NaRU93Q3p3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-08-06-044",
+    "date": "2026-08-06",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco Wholesale is Now Open at the Crossgates Mall Complex in Albany, NY! - Capital Region Chamber of Commerce",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3lCSGd2eERxb2FPQjAwekE2Wm4xRkNoUlBNbE1GTzJXVl9PM0hab3JJSGZaM3dwQWMzS2xRRDFManpSbWgxd01mUjg2NDlhYmZOLTdaQ1dwbVVlLTdBRm8ydGRBNTRHMmpFenpBQj",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3lCSGd2eERxb2FPQjAwekE2Wm4xRkNoUlBNbE1GTzJXVl9PM0hab3JJSGZaM3dwQWMzS2xRRDFManpSbWgxd01mUjg2NDlhYmZOLTdaQ1dwbVVlLTdBRm8ydGRBNTRHMmpFenpBQjgwVkVRUGFvdFAteFVHTDlxUHk2RkhBY29TRUlUcjhnSW1EOXY4UVJST3dIb3ZtZ0pQUkQwNFF4WDVLUXB6SE56QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-08-06-045",
+    "date": "2026-08-06",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Costco Wholesale (COST) Q3 2026 Earnings Call Transcript - fortune.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NOG1UT1psR0JYMGhfbGd6dGQzTHpRN0hCckstLURITm55Y3V6bHJ2RWRZQWp5TGx3TnpIMnotcFRhN0JDTk51MERyQ1lKMVA3aGpqd0hvSHkzNWVQQWFoWm53?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NOG1UT1psR0JYMGhfbGd6dGQzTHpRN0hCckstLURITm55Y3V6bHJ2RWRZQWp5TGx3TnpIMnotcFRhN0JDTk51MERyQ1lKMVA3aGpqd0hvSHkzNWVQQWFoWm53?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-08-06-046",
+    "date": "2026-08-06",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Bank Adjusts Costco Wholesale PT to $1,120 From $1,106, Maintains Buy Rating - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3VSamZsRHBudlV2NU80d3FpQURDTm5uQ1YzSUNmbGVCOHZiaXhqT0FyS01OQldPTDVYVXZQTElRNlBGaENxUURramtFeGJUTndZel9mSExmcGF2NG9WRU5ZY1l3UTl4R2N6aERucG",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3VSamZsRHBudlV2NU80d3FpQURDTm5uQ1YzSUNmbGVCOHZiaXhqT0FyS01OQldPTDVYVXZQTElRNlBGaENxUURramtFeGJUTndZel9mSExmcGF2NG9WRU5ZY1l3UTl4R2N6aERucGhuQ3djUkI3aTY1Xzg1OHEza05DdUIzSXhNel92eURHcnJVRTV4MGFMRWhPZnhTY0xhV080?oc=5",
         "type": "rss"
       }
     ]
@@ -1794,6 +2544,163 @@
     ],
     "impact": "neutral",
     "title": "World faces fresh food price surge, FAO warns - reuters.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHJ6aHpOeXBGeVhjdjBkcVVfdF9wSHYzRlpkWDh3eEZENXJPdlU5amwtN2k1OE80VXA2TlBPWGh3VzVnWG5vLTVjanROSjI1Q3hJS2lEQUR5WEFlSy0yM05XZFRLWDJTUkJzbkZnVF",
+    "sources": [
+      {
+        "name": "google_news_food_prices",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHJ6aHpOeXBGeVhjdjBkcVVfdF9wSHYzRlpkWDh3eEZENXJPdlU5amwtN2k1OE80VXA2TlBPWGh3VzVnWG5vLTVjanROSjI1Q3hJS2lEQUR5WEFlSy0yM05XZFRLWDJTUkJzbkZnVFdRTHgxbVhMZVQ4VWZ1empGcUY3cDRyS21GUWU2ZkFkaTZRajVkUm9xdGExQWZXeVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-05-047",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "220 Stock Price and Chart — HKEX:220 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BY3ZRcnpZX1hnbVpFNEM5QTVaUTdUYmN0UUthUW1EZ0NPd3BNMnVmRV9CRU9WMFgyX3pGOEVJY0tQM01FcEE3ZkhEdFVZSTRPc3ZPb05KdGk?oc=5\" target=\"_blank\">220 Stoc",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BY3ZRcnpZX1hnbVpFNEM5QTVaUTdUYmN0UUthUW1EZ0NPd3BNMnVmRV9CRU9WMFgyX3pGOEVJY0tQM01FcEE3ZkhEdFVZSTRPc3ZPb05KdGk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-08-05-048",
+    "date": "2026-08-05",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Uni-President China Holdings Ltd Reports Earnings Results for the Half Year Ended June 30, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcmJkUDN6WHhiSGdQcXpzdHA4YS05YXpiS2FKcmNuY0hocEVrVzVyRUhuWTBtWWlrVVkyQ1lfb3ZId2Q0Zi0wY0xwU2NKU09JMjNVd09UZ3JZczFmODY1WDllYmFjc3R5X3YwODlKQj",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcmJkUDN6WHhiSGdQcXpzdHA4YS05YXpiS2FKcmNuY0hocEVrVzVyRUhuWTBtWWlrVVkyQ1lfb3ZId2Q0Zi0wY0xwU2NKU09JMjNVd09UZ3JZczFmODY1WDllYmFjc3R5X3YwODlKQjdwckZHQWJndEhQNFRUWHdBSnl1MUVMX0R4N3NKTWo2cWhoY1JBYXJyT3QyU0hFamcwQ1lhS19SM3pwaUJZWWVCYjRQNnltbGVaZlRtWm51SzlLcVJ2R2pUQ2FpTFA5Nmt6Zk9CcTJEMF9OazJ6ZFVfRg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-08-05-049",
+    "date": "2026-08-05",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Uni-President China's Profit Climbs 9% in H1 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlh6azhJbTRDdlRTWUZMSnBMRWwyYS14TXpKMDEzMk1PSklfV1EzV3JRWW1TRUVBUnhLREtXOFBnLUlHQTRwNXRGN2dwcVJMRm9pVHFUZWVNay15SVlqUHktRm5LRk8yc0lIQ1FBc1",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlh6azhJbTRDdlRTWUZMSnBMRWwyYS14TXpKMDEzMk1PSklfV1EzV3JRWW1TRUVBUnhLREtXOFBnLUlHQTRwNXRGN2dwcVJMRm9pVHFUZWVNay15SVlqUHktRm5LRk8yc0lIQ1FBc1laNC1CV3ItTWRiM3hwcDRYejRVZEhLa3hYeTB2WWZFRkpVQkx1MkVaYmhOcW4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-08-05-050",
+    "date": "2026-08-05",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Uni-President China first-half profit up 9pc - thestandard.com.hk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNR25VUjRQTEFySHdZTG5KVFJld0Uxd2NBMFVXSU5IY2VLanpSRGdLOGJUbm85cmFTQ3g0dldJUXNfbFk2cW1DYUc0akw4Ni1vMTFPQWdBRDVadlFkb1RzUUlES3A0U19FM3RNYkhLVX",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR25VUjRQTEFySHdZTG5KVFJld0Uxd2NBMFVXSU5IY2VLanpSRGdLOGJUbm85cmFTQ3g0dldJUXNfbFk2cW1DYUc0akw4Ni1vMTFPQWdBRDVadlFkb1RzUUlES3A0U19FM3RNYkhLVXdsNXJDbmItR1AwMVVoZlR5dmFpOHhWckZzamVJdTVwOXVtWllkLTlwcnBUcVZGQ0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-08-05-051",
+    "date": "2026-08-05",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Uni-President China (00220) announced its interim results, reporting a profit attributable to shareholders of RMB 1.402 billion, an 8.99% year-over-year increase. - news.futunn.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1NKT1hMZXhzeXVzNDNRa2tXWnV6OFRLZElVM0t3czNvT0RfLV9MelBELURSTjdGVUpBS3pyYUl2M2hKaFRTS016djVQUnJ4N0pqeWIyQWswUjk5OUVmcG9KU3F4d2p5aU54dHZubG",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1NKT1hMZXhzeXVzNDNRa2tXWnV6OFRLZElVM0t3czNvT0RfLV9MelBELURSTjdGVUpBS3pyYUl2M2hKaFRTS016djVQUnJ4N0pqeWIyQWswUjk5OUVmcG9KU3F4d2p5aU54dHZubGRnd1c3c3hUVUlzckxzQnAwNnB4SWNQbHdKSUFISVVJcVA1QjNqWm1ncjNvaVVJcG9sSlFLUnY3VE5yVWVi?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-05-052",
+    "date": "2026-08-05",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Former Walmart becomes new location for growing international grocery store - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVW1FeGltT2JrSFpPX0dSZGtyYmZKYmZodmVpSThGWWxBM1hOSGNxdldldTVLZkgwR29Cam9wanQzU0NLekRWYWx3Z2JvQWV0YWUxcWJyc1lLR0YzR0RSUWdrcUFoZ3hTbkZkWjVGV1",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVW1FeGltT2JrSFpPX0dSZGtyYmZKYmZodmVpSThGWWxBM1hOSGNxdldldTVLZkgwR29Cam9wanQzU0NLekRWYWx3Z2JvQWV0YWUxcWJyc1lLR0YzR0RSUWdrcUFoZ3hTbkZkWjVGV1BCNEUycUwwbk9SX2c2OWFBanlDMU13RktGcUMtRlRsM0RJZGhWQTJ1Nk43SHJpQmQtV1ZkVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-05-053",
+    "date": "2026-08-05",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart accused of collecting customers' voiceprints - Courthouse News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSDdIRzYzemNRbXk1WFdhMXZ1WU1tcjV1eEczRGc5eTZUYTlqMUFGaUo0QXBrWkRtR0ZoUW1aM3dhUXJfdTFOMzlPalZVYVpMekhlNWJCU3Ric3BKUXd1SWZaQnhVUjFPTlltY2tTeC",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSDdIRzYzemNRbXk1WFdhMXZ1WU1tcjV1eEczRGc5eTZUYTlqMUFGaUo0QXBrWkRtR0ZoUW1aM3dhUXJfdTFOMzlPalZVYVpMekhlNWJCU3Ric3BKUXd1SWZaQnhVUjFPTlltY2tTeC1tY3BQdUZFTmF2b2lteU1jek5xd1FHQklmV3pB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-05-054",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "food_inflation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "World faces fresh food price surge, FAO warns - Reuters",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHJ6aHpOeXBGeVhjdjBkcVVfdF9wSHYzRlpkWDh3eEZENXJPdlU5amwtN2k1OE80VXA2TlBPWGh3VzVnWG5vLTVjanROSjI1Q3hJS2lEQUR5WEFlSy0yM05XZFRLWDJTUkJzbkZnVF",
     "sources": [
       {
@@ -3184,6 +4091,104 @@
       {
         "name": "uni_president",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeFMwYmVVaHlqdDR2bWlJeHozNDYyUHlBcnpEOXZRUGR2am1KNzlndEN4clFHTXhSYS15NVU4Wk1DazJlSWFnaGJ0MWtzRmhQUnBHaDVpM0JvbHR3OEs5VldseU5Hajh1T2lsQWtGN21pT2lyQ0UxQVkxMXQzUHRBbC1KbmprM1RUQUZHRjhtWUdlU0loQXZ4ejd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-04-073",
+    "date": "2026-08-04",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global SA $BG Holdings Trimmed by The Manufacturers Life Insurance Company - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdEhleTdja0VNUjhmOTdVUjdsX0EySW9FZUtKR1FHSl9IZXlaYktWTWlncWJaUktVMTRpc1l3UDFVMVg1SlpnQTVqUXRpLWk4dDhKQVJwS3Z0VzlXMm41REFPSUZKUjlIaUVoZVBxUF",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdEhleTdja0VNUjhmOTdVUjdsX0EySW9FZUtKR1FHSl9IZXlaYktWTWlncWJaUktVMTRpc1l3UDFVMVg1SlpnQTVqUXRpLWk4dDhKQVJwS3Z0VzlXMm41REFPSUZKUjlIaUVoZVBxUFhPMjIzSWU1VldkTVBKVHJlRXZfeS1fOFd2OV9teGt5dlNld3h3OWpnSXB1OTV1UVk5RnJITHA0YWJHdEdjOW5kZVpsa3ZLczgyWTRpTHZfWFU3WUNRbFFrR25zQkRwbzM1ZHZ1WGVJOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-04-074",
+    "date": "2026-08-04",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Royal Bank of Canada Has $35.46 Million Stock Position in Bunge Global SA $BG - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUDIwdDI3d2NrbnREbk1ZT1BzNEdRN0hqMExlS1RvTmU3ekEzUzlaNm96RTJoekhrbnVkX29lMWpFc3pYUHBsNElPWnhsR2VIUUFCQWZsVGRsd2V0OWJQczhqYWYyWGszbmFERVNaLW",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUDIwdDI3d2NrbnREbk1ZT1BzNEdRN0hqMExlS1RvTmU3ekEzUzlaNm96RTJoekhrbnVkX29lMWpFc3pYUHBsNElPWnhsR2VIUUFCQWZsVGRsd2V0OWJQczhqYWYyWGszbmFERVNaLWFnR2hNQ1BKaVptOUdPc25UUm1PM21HcmY4ZHdSazFEaTZZZnhWOEdrM282QWdPck1EUGNYbnhkYllaRDdNYlJ1WktjeXNuUmRIQkRYc0dfWllzYXZ4dVVZcWNpaE9GbEtN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-04-075",
+    "date": "2026-08-04",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lazard Asset Management LLC Has $1.63 Million Stock Position in Bunge Global SA $BG - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUU9QS1FLY0ZrQU03ZHUyYkVFVGhtLXcxVW96TjVFZFlNWnkyTEdKS0E4U2pQWVVOcmZhZXZiZV9HVW8wYmhwcDB1VHV3N2hRd0Z5cVZNdnpPMmd5cU9kdzNGSUczcVBwaHI5NmZsX2",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUU9QS1FLY0ZrQU03ZHUyYkVFVGhtLXcxVW96TjVFZFlNWnkyTEdKS0E4U2pQWVVOcmZhZXZiZV9HVW8wYmhwcDB1VHV3N2hRd0Z5cVZNdnpPMmd5cU9kdzNGSUczcVBwaHI5NmZsX2dKVXhJUFVPUklGU0dvSHcyMEVVY0xnREdTOFhfQWZrcTctektsWW9ZZGV6cWVTYWtmRHROODhVVks0aGZxVlc3WkFpZGJfVjZVc3hZRnJCNVRSYzNEcGtwRUdyV2xzSVVvcFZBQmtJV0s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-08-04-076",
+    "date": "2026-08-04",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Uni-President to Rent Office Space for NT$96 Million - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmh1WWpsLUNQM1VZU0JJRm5aNTNNZ1dEdk9XY3J6aFEwQjVFVTBrRVJOd2VFaHdIU3FhTTdpN08xYVZrQXFrZWliZ1BRd3RPcm9UNnl1ZGRxOE1qYTdWNnpaRHNTalU1THFyZ05HOT",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmh1WWpsLUNQM1VZU0JJRm5aNTNNZ1dEdk9XY3J6aFEwQjVFVTBrRVJOd2VFaHdIU3FhTTdpN08xYVZrQXFrZWliZ1BRd3RPcm9UNnl1ZGRxOE1qYTdWNnpaRHNTalU1THFyZ05HOTNiaUNfUXdjR2YyZG9ha1B1YkdsM3d3akd3dTFFMlZzZEpSRU5QbEplank3bFZ1MDdEdU5JcnBzMmk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-04-077",
+    "date": "2026-08-04",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart, Wing launch drone delivery service in Florida - Retail Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQYTdTdHZPbHNpMXYzLTdkVjRzSTBadjVEdlhhVG1IVGRXS0NtOHNjeU9VcUtJYjBYekVUcXMtc1BHbktXOFhwbGozazdFa2xJSkhvUkpQQW9JdmtaalA1MVczenNJaG40d3daM2tOX2",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYTdTdHZPbHNpMXYzLTdkVjRzSTBadjVEdlhhVG1IVGRXS0NtOHNjeU9VcUtJYjBYekVUcXMtc1BHbktXOFhwbGozazdFa2xJSkhvUkpQQW9JdmtaalA1MVczenNJaG40d3daM2tOX2FVNmx1TnF0S0MtR3lwTTRSc21NWXNualZtZEE?oc=5",
         "type": "rss"
       }
     ]
@@ -4604,6 +5609,67 @@
       {
         "name": "tyson",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVnlMZ3VteHpQa0Jtb1dxZXloNE1YWUVyZ0l6MHMwS29GSXl3cnFLM2RnTnVHUzZvLXhER19RdElQQnUwYlpBaHh3YkkzVV8yVjE0c290UlRpQUNkWlBlNkdhVnh1ZGloY1RXdjRZMlhkZkc4WmxWZlZYLWVuemhISV9oZzYzYl9XaG1jSWkwUXE4UEoyQXJEOC1ETGE4SkVZaWIyWkxzbmRwajFKM2JBWWZya2dUdVp2VjFIajZCVnRtb1VobVlxQmFnQVY5X0RIZ2NVWWtR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-08-03-074",
+    "date": "2026-08-03",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods cuts profit forecast as tight US cattle supplies hurt beef business - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVnlMZ3VteHpQa0Jtb1dxZXloNE1YWUVyZ0l6MHMwS29GSXl3cnFLM2RnTnVHUzZvLXhER19RdElQQnUwYlpBaHh3YkkzVV8yVjE0c290UlRpQUNkWlBlNkdhVnh1ZGloY1RXdjRZMl",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVnlMZ3VteHpQa0Jtb1dxZXloNE1YWUVyZ0l6MHMwS29GSXl3cnFLM2RnTnVHUzZvLXhER19RdElQQnUwYlpBaHh3YkkzVV8yVjE0c290UlRpQUNkWlBlNkdhVnh1ZGloY1RXdjRZMlhkZkc4WmxWZlZYLWVuemhISV9oZzYzYl9XaG1jSWkwUXE4UEoyQXJEOC1ETGE4SkVZaWIyWkxzbmRwajFKM2JBWWZya2dUdVp2VjFIajZCVnRtb1VobVlxQmFnQVY5X0RIZ2NVWWtR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-08-03-075",
+    "date": "2026-08-03",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods Q3 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPQUdldFQxMndWS1QwM0VlN2w3Zkp0LThDbkJfaWRiSGVUMk82T3JzdFM0ZV8xbkluTTBvTU5vRzIydVh3TjdTbXRRYmJ3ZkhPcFk2aDlCa0lValRkZnB4M0RWMWlhUEhJbFlIQ3BJZD",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQUdldFQxMndWS1QwM0VlN2w3Zkp0LThDbkJfaWRiSGVUMk82T3JzdFM0ZV8xbkluTTBvTU5vRzIydVh3TjdTbXRRYmJ3ZkhPcFk2aDlCa0lValRkZnB4M0RWMWlhUEhJbFlIQ3BJZDU5bEZ3bEFiQ0x0bUVqWUc4b0FVQUU4UE54ZFlWeG40WTRSREMtdi1OOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-076",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "raw_material_cost",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chocolate makers rethink supply chains in face of cocoa price swings - supplychaindive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmtHa1ExTUYzVk15SFlEWE1WQzN1OFNtLUVDczhrSDlZZFJuNmxzZUJBUjdGbERKS3BHNW5vaDVMclBoVFZ3c1VBZ3B4VXkybHdpQVlIWXVDZ0MwSkdOLXFzd21paXVYeWItbFAtX0",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmtHa1ExTUYzVk15SFlEWE1WQzN1OFNtLUVDczhrSDlZZFJuNmxzZUJBUjdGbERKS3BHNW5vaDVMclBoVFZ3c1VBZ3B4VXkybHdpQVlIWXVDZ0MwSkdOLXFzd21paXVYeWItbFAtX0pNTEMwRTNCd0YyZWp1b2NkNExYaHo1QmpyMEUtVHpFeWV4NFZUNFQxamJxUmFOR043RWJhT2J5U3JkZTlHOGxWdV93VQ?oc=5",
         "type": "rss"
       }
     ]

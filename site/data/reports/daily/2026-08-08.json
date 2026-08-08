@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:29:07.972883Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "costco-2026-08-08-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Kroger makes a pricing move Costco and Walmart will love - thestreet.com",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY3U2VUlHei1idm92cDdHNmd2LUJOWkFXN2gyeHZnQXVDOUs3V2JZOUhUWDJ0NHVnWnZaa3BtMHk1aVRkaTFYeWNQNE5kSERDdTBhb3d2YU1kZ2NLOWdtOW1sZUtWdjlQMmhMcGQ0Qjd6bDhsX2xkRGZ6c1hZZ1BWRWtfMGNESnlIMG9YZFdaM3ZWYW8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-08-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Assenagon Asset Management S.A. Buys 829,641 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMjlsY25qdERWZUx0SHgwTl84SGdRbWptMlZvMThLMzlmSlZWYmRQRXZ6YVpIR1cxRU8tZ0pKd1pQaTRGRERxZGFhMFUtTXpCa1pyOTdjVlRCYkxzRFJVenhfRDR6RVBxbXQyMm9DNmktMFlyTjdnNFY4MmZfOGtydUZVNzVROExXTUNJMDBpVTA4TF9qc01va3pmc3VsVlZtUlpVb002eVlyLUpxQy1HeG9qbWJvUWJWN1EyTUV6VU9TRm1CMXFscFJzNWQxU1VDRXpxRXB2TDFNeG8xQUE4cA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "uni_president-2026-08-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Uni-President China Holdings (UNPSF) Gets a Buy from CICC - The Globe and Mail",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHgyT0lhUmppa210bHd1aTBLYnFsN09NTEpOTHNYUkdGVVVxMGpXQUdtNXZROFdkZWI5S0RJQ1F0WW13RjNzRE5qc0ZOVWpPY3BNUmt5WkRrRXFZdFo5clVUdHd0QU1BUGFEbmJiU2VfTEI4YXAzcEtIS2U3WVdOeTlOd0ktYzJaWm55RmJpSk9DeWEzbDRJb1FkM0M4QzRKc2V6MHJwdENkM2tRYUtUY3YxMDFVaVhtb1ZScmRyNEV4dkN6Tk90eFNUYkkxbnB1VUZSYVN0QzU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-08-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chesley Taft & Associates LLC Cuts Stake in Costco Wholesale Corporation $COST - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc2hIMDJKQV9qOWZJTWdLQktYcEY4cHE0TnA4Q2lwTDQ3emVCbEg1RHZpN0o4a0dTSVFTUkRFalE4YzdhSGdnemk4V2c0Wmg3RUNhVWx2aW9MUWFEdUg4cnhIcWdwbk9pS0tqeUVmX1JxU25rREFmZzdXdVJkWUc3V3M0T3ZXZHZvZ0NnNVdwRXFkamlxeHZIeEpUY29yM3Z6blBvajlUQnVxSGtvY3FFQTAtNnIxemJpMnotYWFzeVhDcEh2WjhadE9uaTVMNzZwWUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "2026 Pet Innovation Awards recognizes top pet innovators - PetfoodIndustry",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV01XQUxidGFaNGJzOE9hOEk1bXlJLUVpM0tHQ28zXzdCVkxJODY5N1Y4VHFBdm4yMXYwY0NVVkp2Y2ZSdjZZTWhBNUEtZzJ4TDNURWw1MWdEbnBUVm5NZHFjNTJGVGQyczBudzQwX1N4T28xR1dHZE1ySV94X291SEFtdjR3MzV6ck9rMFEya19SWG5QQzBFOGFmdFVITnlJZHpwNFBtUGQ4OVFJMHpVLXpfLW9rM1VfNTMzSmJOejhMZ2hqTUNzMUM0MVVrdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 101,
+    "too_old": 80,
+    "gate1_blocked": 12,
+    "gate2_blocked": 19,
+    "passed": 55,
+    "pass_rate": "33.1%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance",
+      "Rising Beef Costs Pressure Tyson’s Bottom Line - WSJ",
+      "Mondelēz International reports strong Q2 2026 results boosted by North America - Milling Middle East",
+      "Walmart Neighborhood Market in Sumter to close for remodel - wistv.com",
+      "The best and worst days to shop for groceries at Walmart and Target - AL.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為好市多、ADM、Uni-President相關動態：「Kroger makes a pricing move Costco and Walmart will love ...」。主要關注主題為產業通用、食品安全、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Kroger makes a pricing move Costco and Walmart will love - thestreet.com（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Assenagon Asset Management S.A. Buys 829,641 Shares of Archer Daniels Midland...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

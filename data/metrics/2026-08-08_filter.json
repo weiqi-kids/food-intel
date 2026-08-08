@@ -1,0 +1,16 @@
+{
+  "total_raw": 267,
+  "dup_title": 101,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 12,
+  "gate2_fail": 19,
+  "passed": 55,
+  "gate2_samples": [
+    "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance",
+    "Rising Beef Costs Pressure Tyson’s Bottom Line - WSJ",
+    "Mondelēz International reports strong Q2 2026 results boosted by North America - Milling Middle East",
+    "Walmart Neighborhood Market in Sumter to close for remodel - wistv.com",
+    "The best and worst days to shop for groceries at Walmart and Target - AL.com"
+  ]
+}
