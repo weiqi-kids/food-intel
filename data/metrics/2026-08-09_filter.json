@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 9,
+  "gate2_fail": 18,
+  "passed": 28,
+  "gate2_samples": [
+    "Archer-Daniels-Midland (NYSE:ADM) Posts Better-Than-Expected Sales In Q2 CY2026 - Yahoo Finance",
+    "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance",
+    "Rising Beef Costs Pressure Tyson’s Bottom Line - WSJ",
+    "Walmart Neighborhood Market in Sumter to close for remodel - WIS News 10",
+    "Michael Kors’ $319 designer crossbody bag is on sale for as low as $54 at Walmart - MassLive.com"
+  ]
+}
