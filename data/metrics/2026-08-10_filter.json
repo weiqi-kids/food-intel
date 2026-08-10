@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 10,
+  "gate2_fail": 20,
+  "passed": 41,
+  "gate2_samples": [
+    "Archer-Daniels-Midland (NYSE:ADM) Posts Better-Than-Expected Sales In Q2 CY2026 - Yahoo Finance",
+    "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance",
+    "Rising Beef Costs Pressure Tyson’s Bottom Line - WSJ",
+    "Vinay Subramanyam Joins Mondelēz International as Vice President – Marketing in India - MediaNews4U",
+    "Vinay Subramanyam succeeds Nitin Saini as VP - Marketing, India at Mondelēz International - socialsa"
+  ]
+}
