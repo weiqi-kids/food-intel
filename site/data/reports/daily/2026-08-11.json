@@ -1,0 +1,227 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T08:45:00.590620Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-08-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tyson Foods (TSN) Q3 2026 Earnings Call Transcript - fool.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY1didGFpeUJZbldJa2lUakxLaVl0VlVyOFpQb1ZLNmlaRzlBbXBXbEFSQmpWS0Y4Z0NWXzBWMS1OT3UybUQxRDEzcTRhWDNJUXBYTVY1T2lRMHo0MjE2TjdlakpnSVRMYjl0a1VxSHVQalZ1ejljaUxPdGkyejh1QU9OZjR0ZHhrM0VwOTZrNUhqNDFtMmJKcjFuWmxTUV8tX0QxUU9SUExRSE0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-08-11-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What Does Walmart (WMT) Joining Fed Data Talks Mean For Its Pricing Power? - Yahoo Finance UK",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkJ0UUpMdzl0SXB6SGN0T3J0NTd3a0dSNkZpOWc1aGdoVWM0emh0NkNJVEJrZlpiV3YtbUxwTUp4bjZxSWUwNmxObEtiUTZUUmhvQWppSlhlUEhkNVNhMjZNNmtjN1dYQU0wT3dYVGJZcnhVeVJ5SHByd1h2TjAzc3BIYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-08-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company (NYSE:ADM) Given Average Rating of \"Hold\" by Analysts - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY2xRZmtGeDZlQVFMRlAwQk1lakF3WU1KU0Mwcm9Hel9wR2NOUFdlQ29MVXNfR1FMQURKX29XQVRQdDJ3VkZGR0pNdUhHZGJfaWktRm1QTEhJY2NRd3hpTGhZSzZDTTVuVWFZYXptVHVhaEtiaGIxcnZuTHJhTUtzRmJGRlRwN1dLWDlQNlF3dGJvUVpSU2lTd1hjd1hNRHhGdHFBOS1JYTZqR1E1R180YldJNEY3cjl1aDA4Qjc3MmU5cjlmWG4zc0NHTlppdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tyson-2026-08-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Retail Investors Are Eyeing Tyson Foods And Other Defensive Stocks Now - simplywall.st",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLWhpYV9CLXVKbGZVN1NveXZGX3ctN05pN1JubkZmc0FfTnVUcjhoSkVPaXFTWV9teEg2MmFFTkZndC1lSlpjSTR1RjBUWTBSS0JkaktlN2k0WkJmLVc5MmR6NUR0aUxCUlJqRUV5d2xsVHZHcE5GX3ZUc2tmcnlYTlFxVmxUX3JBU1h0U0dad1dXME1MaWdMN3BmSHVwUmxUNWRENFNpX3REQ1RSMi04czdEQlhvZWdEaU9QZ1pUVWZPWnhBb1ZvWGIxN0pET1hOS3hUZk9WMNIB3AFBVV95cUxQNE8wZ3hjZndvSUl2ZjlnVkhDQ2lTMm1JQ3ZTLVQyRmgyRl9uN3ZpVk1QWWpFWG9YWnpOOXRxSk9fR214SEFMWU1XbDRfc25OemEwVW5uSTJaUUcxejJkRHNZSWtnRjVqR3J4OERuNmxrRUpfcGxWRTg2ekdwRkpDMnpEdDNoTDYtYXMwUXQ1VDBkVDIzUVNvc09sQ21SbERWNHN2TzMweElBTXpCSUJlN1FZQW14UFBQazlyRENvNU9rZjBEWERZblZXM2Jpd0RvUlhJREV5LUV3dDgy?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-08-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods Agrees to Sell $1 Billion in Debt Notes - marketscreener.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXZiVWIxR3ZpR3BQQVl0TFlyVC00QThWa2xQbkpaOXkyQ1NXbUlaRXdEcVpsOVpBdWY2UWJKSFRQMHBoSTVtVUpNblhtR0owRHVZT2hqeHJYY2dnYkVBOHRhV1FkV3YzUEx6eW1XeDdPNzhidFN1Y25NcHlmbTl2MjUwM2cwQ1Atd0NNc2xrOWllYzZNaFFGekRaQ3dOOXMwYUt3bWd3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 4
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 271,
+    "dup_title": 88,
+    "too_old": 81,
+    "gate1_blocked": 10,
+    "gate2_blocked": 23,
+    "passed": 69,
+    "pass_rate": "37.7%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland issues $1 billion in new notes due 2031 and 2036 - Investing.com",
+      "Bunge Global (BG) Is Up 6.9% After EPS Gains Outpace Strong Q2 2026 Sales Growth - simplywall.st",
+      "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $110. - GuruFocus",
+      "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance",
+      "Tyson's chicken segment strong in 3rd quarter - Journal-Patriot"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為泰森食品、沃爾瑪、ADM相關動態：「Tyson Foods (TSN) Q3 2026 Earnings Call Transcript - fool...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Tyson Foods (TSN) Q3 2026 Earnings Call Transcript - fool.com（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "What Does Walmart (WMT) Joining Fed Data Talks Mean For Its Pricing Power? - ...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
