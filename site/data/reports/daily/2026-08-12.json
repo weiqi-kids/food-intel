@@ -1,0 +1,227 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T09:02:16.409103Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-08-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tyson Fireside Chat Leaves Investors with ‘Favorable Outlook’ - Meatingplace",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0J1Y2NtNk9Ea2lxSk9xRy1XdzV3eHZsQW5MQWJObDRzWHhaM1NUemNDVlBJSC1oTHF0Rko1aFM2bnFhNkQ1Z1hlRGFTekNhcWphNkhLeEh5WHNtRlFJTk5YbDd4STFkZTcyZ1JoRHJHUzk1d1lfRGpoS3N5bDZiMFhhYlIwZ1VpVTdFeFFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-08-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Archer-Daniels-Midland (ADM) A Bargain Or Fully Priced Now? - simplywall.st",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQWNBM0FqWmt2T1FWR1RlcF9FTl91YTM3aW9hbHRMYlAxa05jV0ZBTHdRMzd5MUY5M0dMckZ1S3JkcFNCNmZ2cFAyeUJyZUhfRFFMUE9pcVpCdDZQQWRLT3RILVExS0JKRmppRXpIc1pWOTZmcDhQbGp3ZDIxUmdSVndKX29QT0JwMV9xcnVoQTBSUTRTMWJVREZmakdkdmtZVU4xcjFNRW8taVFZbE5vMDBJZy03a3Y2bG9BekhvUjQ4WWVaazZiZEl6bkpZZkpUQVV4azZIWHhUVDFBMHVxUTU5M3PSAeoBQVVfeXFMUFpnNlBCSXRaN3UtdWJKMnJkRjlqcW5rZXlIdzRpdUo0X2VlMjBjWUdkLXZrR1dNNGpFQXo3S1FiWmJTSXZIV19nd0hZbjRGODBPalJQdnZFZEtZOElKZnJIeFF6QmFrekFCbkZFYndEQzNWT1QwM01qZTZPeXl2N3UwdDFXVFlJbFpPOGRsN3RSQTVNeUlxWTR3RWFqLUtld2xLcU9MaHBlNG9XSUxpczRTbFl1M0I0bTNmVmdCZW52OUVGb0Y0YXdNTzJHNHB0ZklmYUtaaVZ2RUowUjdURnpoZGxSUWNIZEhR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-08-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods, Inc. $TSN Shares Sold by Assenagon Asset Management S.A. - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN1pCa3k1NDg2U3BCUFBXWHlQOUJJUnpmSm9VeU40c2czM1dKbHNJZkNFM01jeHpLaWhPMl8xLWZRMEZaRmtZWnBRUDBWY0EzV1k4MmxVUEZBQ05YUlRnMTVIYmdfWXVWRklKRFRkVmNBakphbl92U2dhMW95bUZudGRCVllQcGdkYUFQM2g3cXhsT1VLM1p5aE5wWkdQdnRsbmJVQ2dlN1d0TE5lWExpVnhTQWdnRi1URG5kSlhoaTFWRW8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "standard_foods-2026-08-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Standard Foods posts NT$0.80 EPS in first half, up over 50%, boosted by foreign exchange gains - finance.biggo.com",
+      "companies": [
+        "standard_foods"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LQTBOTFdoR2I0TzlsOTJCRHFHc1J0V3JtX3JlWThHY3ZsZXF6NzhsdWxRNWxlTHd1QTAtSDhUc3R2eWpzLXBPLWY1RVMzRm5qNll4cUFUa1BDbUw1aXJ6NGFITTN0TVpJMldlSFBNNm9scV9MYnc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-08-12-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Digital Meat Thermometer Supplier: eCare OEM for Walmart and Retail Chains - EIN News",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcEN5d0NGUmI0aV9VV1BEMUtKeVJldm54WWJRZm91MWtJbHVtRWlkNGZtYk1heUl1WmxQZ0xaVDJzazFTTl9WRnl2TzNKQWJ1QVNUV19WeEUxZXNMTldTbkJDdHk2dkF6OTRhM24wYVlKcml6bmRORWF4N3hDM2c0ZzZSN19peFM5b2QyS21QLXVGZ3hYVGQyXzFFa2hPb0VsMF9IY0VIWEIwT28xUWFMemhaeW10QQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "standard_foods",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 271,
+    "dup_title": 103,
+    "too_old": 85,
+    "gate1_blocked": 7,
+    "gate2_blocked": 26,
+    "passed": 50,
+    "pass_rate": "29.8%",
+    "gate2_block_rate": "15.5%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland issues $1 billion in new notes due 2031 and 2036 - Investing.com",
+      "Bunge Global (BG) Is Up 6.9% After EPS Gains Outpace Strong Q2 2026 Sales Growth - simplywall.st",
+      "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $110. - GuruFocus",
+      "Vinay Subramanyam Joins Mondelēz International as Vice President – Marketing in India - hrtoday.in",
+      "Vinay Subramanyam Joins Mondelēz International as Vice President – Marketing in India - MediaNews4U"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為泰森食品、ADM、Standard Foods相關動態：「Tyson Fireside Chat Leaves Investors with ‘Favorable Outl...」。主要關注主題為產業通用、法說會、食品通膨，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tyson Fireside Chat Leaves Investors with ‘Favorable Outlook’ - Meatingplace（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is Archer-Daniels-Midland (ADM) A Bargain Or Fully Priced Now? - simplywall.st",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

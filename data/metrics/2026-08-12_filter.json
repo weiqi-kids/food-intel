@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 7,
+  "gate2_fail": 26,
+  "passed": 50,
+  "gate2_samples": [
+    "Archer-Daniels-Midland issues $1 billion in new notes due 2031 and 2036 - Investing.com",
+    "Bunge Global (BG) Is Up 6.9% After EPS Gains Outpace Strong Q2 2026 Sales Growth - simplywall.st",
+    "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $110. - GuruFocus",
+    "Vinay Subramanyam Joins Mondelēz International as Vice President – Marketing in India - hrtoday.in",
+    "Vinay Subramanyam Joins Mondelēz International as Vice President – Marketing in India - MediaNews4U"
+  ]
+}
