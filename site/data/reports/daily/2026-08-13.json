@@ -1,0 +1,229 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T09:03:41.228096Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-08-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer-Daniels-Midland’s Q2 Earnings Call: Our Top 5 Analyst Questions - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSDVzd3RGVWoxWW5tMUV0em81a05UQ3JIM2hnR1VuSURsVnNYUG1LZURLSjFCU2QwWnRvZ2Y1bU1paGNZQVV6TE1DeGxwQTRySXFudXg5aUtoTk9LRy1Odkc4NTYtT2tfaWVJRTVhR0dETUZ5cVpvZG9qRjJSSUlOcVZGbk9laFlBeTFPT2pvTW9vU3c1QW5BLTFCME9Ud0tp?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-13-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FDA issues guidance for producers of fresh-cut product",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/08/fda-issues-guidance-for-producers-of-fresh-cut-product/"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-08-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart: China's consumption upgrade drives retail modernization - People's Daily Online",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wQkl1WUxJRFRPamdrSEdLSklkNHp5VFJnV0ttcFJWM2t3MmJ0Q3dsOFBOaTg1S3FyQVR2UXkzS2JkODN6WGxJdVpONGFsTXF5RFVoSlpjMHRLM3I4b1RELVhMS2Y?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-08-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart Leaders Transform Security Operations Without Going Bananas - Dark Reading",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWFo4d1hFNVRsMENMV3RLY28wbnJzdzJqclhRQ1pLaUxRSzRYQ0VwVnl2V2pKcl85cEhzdUh2V0h3TnVVcExBNzltbE14eVFnVkYzejlRUXl3ekp0NXF1WmxWSkY3ZEVRVUVhQk91M0F2TGQyTGhTTW84TVptbU01aVNVUGFwOS15czE5dHlQb25IUk4tTzB0NW9Sa0I3WXl1dGdhLWd2SW00MHdtbTBRd2ZGd1lwVFN6UFFHbA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-08-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Police arrest woman wanted on organized retail theft charge at Tillman’s Corner Walmart - fox10tv.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWldHNWhudnRsSzVoNVN4UXRuNVpMV2tUSVBPcjA2cmNaaTRoSnlfc2ViQ3IwNUFhNnc2RV9ZYUlDSl82VXRIRFVEMENoQ3NwMUM1Sk5pYXByamRFMEtqV3dpUU0zU05mekVGcFl6WlhpVHQwemoydUlaRWZmNy1oa2d1dGpJTE9pc3ZsQVNZazRBcHBQaXdUbUFiQ3BQVnBqdVU0ZHZ1VWJESEhSRFBXYVBHLWtWZHJ2d1phbkprVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 270,
+    "dup_title": 106,
+    "too_old": 88,
+    "gate1_blocked": 6,
+    "gate2_blocked": 20,
+    "passed": 50,
+    "pass_rate": "30.5%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland director Lei Z. Schlitz to step down at year-end - Investing.com",
+      "Archer-Daniels-Midland issues $1 billion in new notes due 2031 and 2036 - Investing.com",
+      "Bunge Global (BG) Is Up 6.9% After EPS Gains Outpace Strong Q2 2026 Sales Growth - simplywall.st",
+      "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $110. - GuruFocus",
+      "Vinay Subramanyam succeeds Nitin Saini as VP - Marketing, India at Mondelēz International - socialsa"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為沃爾瑪、ADM相關動態：「Archer-Daniels-Midland’s Q2 Earnings Call: Our Top 5 Anal...」。主要關注主題為產業通用、法說會、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Archer-Daniels-Midland’s Q2 Earnings Call: Our Top 5 Analyst Questions - Yaho...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "FDA issues guidance for producers of fresh-cut product（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

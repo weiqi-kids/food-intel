@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 6,
+  "gate2_fail": 20,
+  "passed": 50,
+  "gate2_samples": [
+    "Archer-Daniels-Midland director Lei Z. Schlitz to step down at year-end - Investing.com",
+    "Archer-Daniels-Midland issues $1 billion in new notes due 2031 and 2036 - Investing.com",
+    "Bunge Global (BG) Is Up 6.9% After EPS Gains Outpace Strong Q2 2026 Sales Growth - simplywall.st",
+    "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $110. - GuruFocus",
+    "Vinay Subramanyam succeeds Nitin Saini as VP - Marketing, India at Mondelēz International - socialsa"
+  ]
+}
