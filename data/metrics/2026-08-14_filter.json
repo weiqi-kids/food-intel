@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 98,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 4,
+  "gate2_fail": 20,
+  "passed": 59,
+  "gate2_samples": [
+    "Archer-Daniels-Midland director Lei Z. Schlitz to step down at year-end - Investing.com",
+    "Bunge Global (BG) Is Up 6.9% After EPS Gains Outpace Strong Q2 2026 Sales Growth - simplywall.st",
+    "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $110. - GuruFocus",
+    "Tyson Reacting to Severe Cattle Shortage with Facility Closures - oklahomafarmreport.com",
+    "Walmart just made a major business move — and surprisingly, it has nothing to do with groceries - AL"
+  ]
+}
