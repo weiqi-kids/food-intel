@@ -1,0 +1,224 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:17:12.963440Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-08-15-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wall Street week ahead: Home Depot and Walmart report earnings, minutes of Fed meeting are released - Seattle Post-Intelligencer",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDYxYmpTT2x4Mmktam9KcHhYcjZrNkRpaUk4UDUyOVlqZ19vVHFrQnhTOXc4OXhyVl9fdU56ZG5PZ2xDZ0dJMlFSWWUwcGlzdE1SSlM0V1Vhbk5nYXktMVFKd2wzeXptbVdLT2xPTks5VUZMMGdDSlRpQmFpQzlGaHdoNjFnd0xJMlVCMERta3c2Tk9u?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-08-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland (ADM) Board Resignation Puts Governance Changes In Focus - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVjEyT3E4R1JXVVZXMXpIRi1Edm1SQ19LamlWMk1BcWxRVUY2N0xZNEg1emxPTC13eTUxNU9LWlktczRjbVFlUC1mcER3R0daRDdqR3hxdnBIY1FhUk50WGVfWlk4Uk5VQWtFemZPTnNFNWlGSHJ4NGY2c3pPbWd1YzJzOWlHRlB2OThHZXJkSDBJNHZvRUlfZmpMRExCZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-08-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland (NYSE:ADM) Stock Rating Upgraded by Wall Street Zen - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlcwRTdBVjVRMEdWWUFMU2hXbHExOTVJWHd6NjZxNEhjbEQwMDJ0d1VjeGlQNnVHd3R1WThDNVhuNHdxcXhpXy1FcGpaejBTRkZVMkRmTDRsQWQ5bjJVeWFKTG1ZYkhVREd2dlBtTTRTdHZFNm1vVDNXdDBxV1lsZ1liSVBnUUo4MUVjRTlnUVhHQnpTdkh0SWNfOWVsbmw0T19MSnM3SzdvREs0RjI4cFp3RTFuTUtDT0k1dzhpcG9fSlU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tyson-2026-08-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Closure of Tyson Foods plant in Joslin leaves local immigrants and refugees reeling - WQAD",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa1haS1ZWTnp0Nk56b21yY0NNbXAzcDlrcDZuZXNROTRxQWxSUk5wZnZ3Z3Q4SUxldkh0WUQzd0hOMm9Yb3dyRlk1MmZpV1BhcklOX3YxMnBUSnlEX0lDaElnRkxVa3NqNFpXYnYxYUtfdEUxNDBOSXk3b2EwOVplSVJDRG1Bb0tyai1YZzdQSnVZUWM2YjJKTkxUUnVCQkFEUFd4T0Q4ZTdBcUJZSEphZzFsX1hJVUprRmpMdDJZWEYtWnFucU11cElvamFEZ09LRnowZWc2a0liM2FMLUlSQjJTdVFDODloWGRRbElB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-08-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Closure of Joslin's Tyson Foods plant leaves local immigrants and refugees reeling - WQAD",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ2RjMVpOeHotR29IelFCMnFBNXlNa2VKblhDVWtJMDhwM2ZkQXNWQWJOS3BLMm5ieHJiU0NTNk5JRW9KX0VEbWc5UGtTTUMtbEdpaHFsUHJSbFR5SkJwLXpCMUJaYzJ1SWdTZWVLUk84YllHWlRvbm5wZWJDSnJ2NFBueno3LV9ycGpkWmxfVnVKTWtrTGZUcFFCWnBPV2Y0QndNS18zQS1OOGlGU0hINWwybFZEY3JGdGZ0LVBaUUI3Qks5QkVsWjl3MnNvYnJLRDBfZFQzVjAwOVZWNUUxYnB3eVB2MV9EWWZGd1kzZ2JZQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "food_safety",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 270,
+    "dup_title": 110,
+    "too_old": 84,
+    "gate1_blocked": 5,
+    "gate2_blocked": 17,
+    "passed": 54,
+    "pass_rate": "33.8%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Is Archer-Daniels-Midland (ADM) A Bargain Or Fully Priced Now? - webull.com",
+      "Archer-Daniels-Midland director Lei Z. Schlitz to step down at year-end - Investing.com",
+      "Bunge Global (BG) Is Up 6.9% After EPS Gains Outpace Strong Q2 2026 Sales Growth - simplywall.st",
+      "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $110. - GuruFocus",
+      "Walmart just made a major business move — and surprisingly, it has nothing to do with groceries - AL"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為沃爾瑪、ADM、泰森食品相關動態：「Wall Street week ahead: Home Depot and Walmart report ear...」。主要關注主題為產業通用、食品安全、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Wall Street week ahead: Home Depot and Walmart report earnings, minutes of Fe...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Archer Daniels Midland (ADM) Board Resignation Puts Governance Changes In Foc...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
