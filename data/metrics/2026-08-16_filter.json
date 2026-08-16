@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 6,
+  "gate2_fail": 16,
+  "passed": 45,
+  "gate2_samples": [
+    "Is Archer-Daniels-Midland (ADM) A Bargain Or Fully Priced Now? - webull.com",
+    "Bunge Global (BG) Is Up 6.9% After EPS Gains Outpace Strong Q2 2026 Sales Growth - simplywall.st",
+    "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $110. - GuruFocus",
+    "New $50 fee for shopping carts at Walmart, Target, and others under city plan - the-sun.com",
+    "Costco brings back cult-favorite sweet treat discontinued in 2024, exciting shoppers - New York Post"
+  ]
+}

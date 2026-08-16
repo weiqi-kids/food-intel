@@ -1,0 +1,194 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T08:17:47.723074Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-08-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ABN AMRO Bank N.V. Acquires Shares of 177,760 Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeU9vS0V3OGJTVHZxLWhIMWVDaDVyS0lZZ3BMU1lYVUJ2aTFtMWFGZm9ZNHd0U0VneW5reTZKSEl3d3RYVktCOGlMNHdrX0VvNUxvRDNkYTlpbmZSbnd1aklqQlRMT01HRjcxalZ3TjdzMTFGd3B5U2FXVlNrdW5aek1JUFFNNHhJa0pNU3VIRmRKOG5FT29iMjZyNlpxQmdhcFJHOFIwV0ZyZUVEZWpoWlFBeDM3bWxWVDZBVVB3cW54aE90eFVfUWNKNlZBMGJXSlVENA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-08-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Empowered Funds LLC Has $7.24 Million Stake in Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNakxpcEl0YV96VjNoWUtBemV5Q0VHdGxfYmNhczljU1Z2LVFaT0U5TmRRNDNRQ1U4a1N6SG5RbUxnZU1OWUhHVTdHeWZtcUJMTUlwaFFoT1pYdkg5VGxsTGpTTEV0VnA1OElja3QzTG0yd3diSGlVY3FYdzlDaHB6TzVzVkh6dlZ2U1J3bTZMeUFfay1KMl8zY3B1d3NaWE1sRFI1eDc0Vmt4SFV0c3BsdVpsLW41MVZzNkVxeTRubzBRZ1k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-08-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart (WMT) Tests In Store Automation To Speed Online Order Fulfillment - simplywall.st",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkI4MWpOMXNnMXItb09uSTBVS0tIVzhIMDlDQkxtRW9zcEFCVi1iVW03cWVYWFd6aXk4MW5MWl93ZURUaWN3WmtFZjQtV1FrRXE4ZTRyTHB1Q2E5cUdIb0x5TXVsY3VjXzlNWjMxVDJDR09UUjZEbXJOSGh0RDlLNHBLSkNQcFJwZU54MjZKNDgyVS1wRGFpSDkxUWFnbDAtQnhvVGhkNkc4NlJUa0hHam9LMklKcGNlSmF1UEN6R0RaSTA1MTExbV9sWUdlaHfSAdQBQVVfeXFMUHhtZVVySHN1a0JNM2pOS2FSN3k5NzdIOTRtbUZ2Um1KSHNUTTRsd2RqbTZkUHhEcXVYdzVCT2lXc25RRTc1TjJQNWVwOXY1bU84c3Brb2xKdzRUTUZ0MVROVHg3V0tTRERRTzY2VDJuLWt4YmIxSXBaVmRWc2VYWGhqNFVWVGZHU3RleGpJQWVEVTViSTZSbFpSN2FvNlcxRXJOdG10b3dPYlRidGpYUnpZbUNoVTAxN3A1YWtRRGdDWXBUUGtXdFRiQTdLdFRGOVN1X2g?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-08-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco Wholesale Corporation $COST Shares Purchased by Baldwin Investment Management LLC - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc0NpcExaSk1admVjVlFVdm5DT0JSWURaYkFOUXU4aVdqSmctYzd4cmNXTzh2dEVqdjh6V3U5N2lNM0IwSTZQUy03aFR3eHpLVXRCWUtJZ2Y5bzl5MXlfY05lZ25JR3MyblRhSXJmdUZ0QUxfM0NMeGs0MlM3YkFteDdRdUJ0WkF0UVhXZnNJbXJMQWcwNG5jbF9QTnhuYWV4TjlMMVROWXA0dVNYNU9GR05jNW1SRXBhRmw0cDhjdVlVYjJ5Y2Nab214c2RKV2llY0hSYjFFek9fa2pGQ1ZqTWtR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-08-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco Wholesale Corporation $COST Shares Acquired by Ascentis Wealth Management LLC - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ0tQcVJKN1BFYWxpdHpTb1NXWFZqNmdUbUk1eVBRRVFxaS1KNUVTWlNpWmlQVklwNWl1TjhqZTdKekVwOXdaWXFUNmlnQ0R0a2lPeklmMzN4eHZOZWQxUGJHdlM5REJIV215Nm44UmxyMk9kU19zaTlwYWpFTEFkUFRmUXN6SmZzX3lvOUtoMXBZT3FuTi0zWDRZYVh0Sm16WGhnZWY0YjR3MFNZTHlxNXRWeHl6U0ZpbFM3eEpEaExpYkJGdTdEeUFjWGtaODFxNXJpRXdMMjYtTWJ2?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 270,
+    "dup_title": 117,
+    "too_old": 86,
+    "gate1_blocked": 6,
+    "gate2_blocked": 16,
+    "passed": 45,
+    "pass_rate": "29.4%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Is Archer-Daniels-Midland (ADM) A Bargain Or Fully Priced Now? - webull.com",
+      "Bunge Global (BG) Is Up 6.9% After EPS Gains Outpace Strong Q2 2026 Sales Growth - simplywall.st",
+      "A Look at Bunge Global SA (BG) After 3.9% Gain -- GF Value $110. - GuruFocus",
+      "New $50 fee for shopping carts at Walmart, Target, and others under city plan - the-sun.com",
+      "Costco brings back cult-favorite sweet treat discontinued in 2024, exciting shoppers - New York Post"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為好市多、ADM、泰森食品相關動態：「ABN AMRO Bank N.V. Acquires Shares of 177,760 Archer Dani...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ABN AMRO Bank N.V. Acquires Shares of 177,760 Archer Daniels Midland Company ...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Empowered Funds LLC Has $7.24 Million Stake in Tyson Foods, Inc. $TSN - Marke...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
