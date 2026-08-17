@@ -1,0 +1,242 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T08:32:26.838590Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-08-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Big Box Earnings Preview: Walmart, Target Poised to Benefit From Value Shoppers - The Daily Upside",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLTBNN2hfdGREM1JMV1dOQkdDdTRRRWNSNjNtejU2dDBiRE5DVjBzY2pNUFV5Q1hrdnVfUk5hemQ0RDljY2JFRVhQaTZYQ3dwYVkydE93MWZ2VnNoV2ZwVWphemQtWXhvZzExal9jcFZYZnlCQmhLYUNIWV9jVGFsbTN0clcwVURfbm0xTmNMblpITGFlY21oWU9UcGdzNXM0QXlGU3J2ekI2NjBWR0RvQnBzTi0wVmZiOEFYVGJ0NUNUWHVYMDl3TVFXcnhfS09lZVcwRlhEcTlZaWZiUlhr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-17-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Q1 Large-format Grocery & General Merchandise Retailer Earnings: Target (NYSE:TGT) Impresses - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbHhMbEZPa1lfMU1iekdoZk5Ld29GQzNUTkZTcXEyaUhvOFdWMTYwaWRHQkY4djZ6MTBiaFpoYXpZamxyWXZNNEhVWEtNYjY3Tl9zbEgycXJrenlzanJGMTVSdWszZkU4Wm9fU1BVRUQtbDZhdGZWMmhfS1RDMmxHR2FmemlYZzdJY2pzY3NEazJNTjNDODBPN05IanBIWm9tUEFoNmpiTGlfRHpHNHA3TXo0VGFrWG5lVW5zemFFU21oa1NVNXNEdzBEeS1sVnFPZDdTRTZqdld4NHNiWW1OeFZ3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-08-17-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart Earnings to Reveal Consumer Truth as Markets Price in Over 70% Odds of Fed Holding Rates in September - finance.biggo.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44Q0gzQzJOMDVOQk1XWFVtZVB2YmtURFJiOE43VC16enpYdWpkdm14aHJJeEl3WG5Vb0dIQXROVVVyYTZ1WHNwNEpVNGVwNUkwbmxoV3doRzEyMkxPYW9TOGNiZkpfRjZvbTRKNGtoN0xveExteEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-08-17-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Should Investors Be Concerned that Costco Stock Trades at Over 40 Times Forward Earnings? - AOL.com",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDR0c0JXb1Q1Y2trSnhtWkZZQXdOYURaWnlRRDhKTFY0RkZRZEdRMUhpT3dxT1VkZjRWVVl6YS0yRVVoRXotZy1QMkRiNTJqTDZPN3NscW9LMnJfVElWejJYZEpZRDhUazMzdXJSVDBBbGt3ZnNNVno2MGpBb3ZUMldOLVlJWE5SN0Jr?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-17-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA warns California farm after inspectors find untreated manure on growing oranges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/08/fda-warns-california-farm-after-inspectors-find-untreated-manure-on-growing-oranges/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 3
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "costco",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "food_safety",
+        "count": 4
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 116,
+    "too_old": 87,
+    "gate1_blocked": 9,
+    "gate2_blocked": 16,
+    "passed": 40,
+    "pass_rate": "26.3%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Is Archer-Daniels-Midland (ADM) A Bargain Or Fully Priced Now? - webull.com",
+      "Bunge Global (BG) Is Up 6.9% After EPS Gains Outpace Strong Q2 2026 Sales Growth - simplywall.st",
+      "Tyson Reacting to Severe Cattle Shortage with Facility Closures - Oklahoma Farm Report",
+      "Costco brings back cult-favorite sweet treat discontinued in 2024, exciting shoppers - New York Post",
+      "Costco is offering a feature to compete with Amazon - AL.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為泰森食品、沃爾瑪、好市多相關動態：「Big Box Earnings Preview: Walmart, Target Poised to Benef...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Big Box Earnings Preview: Walmart, Target Poised to Benefit From Value Shoppe...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Q1 Large-format Grocery & General Merchandise Retailer Earnings: Target (NYSE...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

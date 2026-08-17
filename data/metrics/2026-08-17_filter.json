@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 9,
+  "gate2_fail": 16,
+  "passed": 40,
+  "gate2_samples": [
+    "Is Archer-Daniels-Midland (ADM) A Bargain Or Fully Priced Now? - webull.com",
+    "Bunge Global (BG) Is Up 6.9% After EPS Gains Outpace Strong Q2 2026 Sales Growth - simplywall.st",
+    "Tyson Reacting to Severe Cattle Shortage with Facility Closures - Oklahoma Farm Report",
+    "Costco brings back cult-favorite sweet treat discontinued in 2024, exciting shoppers - New York Post",
+    "Costco is offering a feature to compete with Amazon - AL.com"
+  ]
+}
