@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 9,
+  "gate2_fail": 14,
+  "passed": 59,
+  "gate2_samples": [
+    "Focus Partners Advisor Solutions LLC Invests $1.26 Million in Archer Daniels Midland Company $ADM - ",
+    "Bunge Global Prices $600 Million Senior Notes Offering - marketscreener.com",
+    "Bunge Global (BG) Is Up 6.9% After EPS Gains Outpace Strong Q2 2026 Sales Growth - webull.com",
+    "Could A Walmart Supercenter Replace Concord Mall? - townsquaredelaware.com",
+    "Costco brings back cult-favorite sweet treat discontinued in 2024, exciting shoppers - nypost.com"
+  ]
+}

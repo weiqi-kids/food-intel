@@ -1,0 +1,207 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:24:30.326029Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-08-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart Earnings Preview: Flywheel Is Still Flywheelin’, Operating Margin has To Improve - Seeking Alpha",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWjZoQmcyVERpQUF0X09BMHJ3UWVqUUtPZDRBcXZHQjhIdVZMRVJBSXBIMGd2VGdvdzRiLTI2Q2FhYm5yYUJoNDdNX0lnd2xwOEJQQ25VY0lLQXJtZlp0cER1OGdrTS1hcW1fVVpEYnBDWkZkNF9SZ2QtOHVuS0RKNWNTNFFSQUZHa1M1TlZxM3BlVmdBUGVCX2Q3VzZRMi1oVWRYUEl2NzlsVmtXN1hMZm1lbDJpV0pHZlk1NXZtanRXcTIxdDJzczZTSkFHblFGUVhYWlJVNmFwSC1Vb05nVU5raVRkLU1HZUtWVVZxaw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-08-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Resources offered for 700+ people losing jobs as Tyson Foods plant in Eagle Mountain to close - ABC4 Utah",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRVRXZEF6WnFoWlo0Um9GQXNSMUFIUkNxV1ppREoxdTRSS1lsUWlfUFU4NlpjaFNRdzFjTkhUTE5aVWZNSGpFdFQ2LWZQTE1uYUFDRUpJMkEtQlBPT1ZrbUZsRmNVbUpOeTBzLThHZVpTdkNndzNoQ3Z6YlVRY0NYemV5U1g1MUNjRWFFS1NKU2UydVdQa2fSAZsBQVVfeXFMTUU4NkI5RWlNM19QRGk5UHJzMWlrc3VXSkUxdXpjYm1pQ0xheXgtdGU2Skt4SlB6aG1hZ1hIYW85V1FQNzBJRkdaang1Um5RcUxuY2NUSlE3OVZLV1lNY2FobGs2b0ZOQ0pNb3E5LXJrd2ROV21iZGtTSWd2QXpQOTU5UWMzVXBNQnVYZ2lmZGxLc1g4OXpKa2Y2ejQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-08-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Local groups rally to help hundreds of Tyson Foods workers after Eagle Mountain plant closure - fox13now.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV18yZEVtQnlMM1ZibG9vNUhlSThrdWRrLW9Gd0d5UXBSc3F5NTA0QVhQSDVUYzJWUDFKWVZObkdDYUxjd1k5Qk1qNklTbU5xTlBMNzhSX3JSbzZTX1lYYjFSTFVzMG00OUw5Rmp4bld2YjNnaVNMYWdqaTFWQUhpMlF5Q0tYc1JINm5ub0FZcEkwTkJUSmpCTTVmUVdyNV9XNVgtTk1VRnZTSmt3aXlKR1NfMHYwbWhyaGhuenN3NGxhc3BUVmlfNWNCR1RxVXBuNUhObEQxODJfZVhEOUNBUkpn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-08-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Solely Brings Clean Fruit Snacks to Walmart Stores Nationwide - Nosh.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2NaQ3Rxbk5LYTBud3RDZVVYOG5wcFBNM0dIXy1vT1U2dkZZUWI5NkZhSV8zR2t3MlFEUW9zLTJOZEtYZG44eVA1bVE4NzltV3FCdDdidGYyeXkyWGxzVEFIakhhYk5rcUMzd2c4WWoyNlJZU3l6cVVBcDdjWlNJdmdYSHJZSVc2VFZ5SGJSTHJBelYtVThaRWhkb0w?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-08-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rep. Richard McCormick Sells Off Shares of Costco Wholesale Corporation (NASDAQ:COST) - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLWFaX255ZHYtTGpwbmZ6TDQtdUdBWmQ4NGtzb3ktSUMzZE15SGJ1bnZpV1Z2S3FCQ2NqWXREelJmX25aY1ltd0lReDM0UlNDZmZnellvM0J6aDZQOWM1SzlBV2JybUxlRm9hYmhfRGNHUjRQZklaaDZQMTltYmhscWkxeGFyX1NtQVZZZlBFSW1pa2NqNmpWOVBEWEI4LWRvcVI1amRXeVpVOW5HQXVDZFcwdkxkamphcTc2VlhwZnV5MWhXQWhiZTVfek5aVXc5?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 100,
+    "too_old": 87,
+    "gate1_blocked": 9,
+    "gate2_blocked": 14,
+    "passed": 59,
+    "pass_rate": "34.9%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Focus Partners Advisor Solutions LLC Invests $1.26 Million in Archer Daniels Midland Company $ADM - ",
+      "Bunge Global Prices $600 Million Senior Notes Offering - marketscreener.com",
+      "Bunge Global (BG) Is Up 6.9% After EPS Gains Outpace Strong Q2 2026 Sales Growth - webull.com",
+      "Could A Walmart Supercenter Replace Concord Mall? - townsquaredelaware.com",
+      "Costco brings back cult-favorite sweet treat discontinued in 2024, exciting shoppers - nypost.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為泰森食品、沃爾瑪、好市多相關動態：「Walmart Earnings Preview: Flywheel Is Still Flywheelin’, ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Walmart Earnings Preview: Flywheel Is Still Flywheelin’, Operating Margin has...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Resources offered for 700+ people losing jobs as Tyson Foods plant in Eagle M...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
