@@ -1,0 +1,233 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:25:21.505930Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "uni_president-2026-08-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Uni-President China Holdings (SEHK:220) Reports Strong Half Year Earnings, Is The Valuation Still Justified? - simplywall.st",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNME9qZmJQTFhTbG5LTHI0dTVEZzVwdlkzZHdtckVNc3RGdERRMHFGeWZVcXVZT0lBWjAtendWaHN2ckt5VHRYUlJVZ0kxS1FqT2Nab2JscWwyemtVRGdTVUhORV9ZcXhablBqeG1CdUQ5MGlPSkpFOTNNUzVMd0djdUdGN1VoUVJhckhtckRCcE9rM21TbVVRUmlfUkE4dmdjODZxUHR0amlkbkVWbDhfVUo4MF9TYU54ZHJwdDcxX05XUUQtdjhtbGZnZmJ6WjVfUC1jbGVMWHZoWU03U1ZSN2JxYXZTeF9feXdTVnFwNlVZRGlhZlHSAfsBQVVfeXFMT2N0SXNDeUpINzlaYUF1RlVENkhsU2JPNFNlWVMwd2s3ZW1QRHNabERxX0NwbzE2QUwwQUhLbnh0NkRBVUJFTHlYWU1DWjJlZzlVNHJrRXZyRTk0YXh4Y3M1RFNXVWo0SnJWTXRXSGZsZEppY1RZTkdyeW9CbTdVSXRVRlI0YTlrMlF0MlBTdVhpcktGRUJoUWtsaFN6OEotY2N4Y1JkYy0yZGVEZmN1c3VkUEZBUUZEaHUtdXl0em5tQ2FvODBtWVRZY3dEU19kSHhvMW0yTGlKR2N4aGY2ODVpT0xfME9laUc1TjFMb3pFQ3h3WlNRUkJTSHM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-19-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Despite headwinds, retailers are expected to post positive earnings - marketplace.org",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcDVTMC1kRjhQSEdtTVBON2FKM0V3dklGYV9GcGtsSndGbnF4UGh3QWJCVjcxcGx5Y2JjY1ZDSHNILXlaTWNzYU8yMWNpSkZnb0ZUMzB3RGplMVhSdHNSOTh4NlZuRjNwR00tc1Rvb01kYkNEM0VNSmtTcThSeVYteVhtQ0xQYmVHRjdVeExzUkEtOUd6MWZ2NmRsTVV0UTZuTU9HRU1R?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-08-19-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart (WMT) Q2 Earnings Report Preview: What To Look For - StockStory",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZYU1R3U1RteFVCcDV6VzNJYXduRUJVQ0tkV0h1OG9ob1Rmcl9MejBMTGdzYW45bFNnejdCQTZMQUpUcDFNN01kX09uMVY3QVJCc1ZfWVhJTWNUOERVaHpRMTBFd2RPcmVXdW5EZGxGTlZWWnplMEx6UWlteFBSMWtGN2FqNWxRZDlnTWlGamx2c3l6SS1iLTJuUVAyaElnbWdvRVFWZWtMcUpPZVlCV3hRbw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-08-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BlackRock Inc. Acquires Shares of 44,621,586 Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb2t0UGVLMUlZS0NfTTFvQ2dJQXR5THNoWUpCbFAzNmI4NUVYRzFmREM5a3BjNlEwX3p2c2RwR0NIdXBoWWFDWk1oM2R3RFZOWjNtczRpZU5oaWJ4LUdDM2VIYTNXMVYtUkRpeS1FYWJRd0JTN29wUnd5VTctcHFLb19wTER6YVdKVFRZMWttUTlwaUk5eFhrd1FxRHNoWEpYSDNoenJPOHhKZU9nb2Y3cW5YaFB0bnR2aE9jVGVaQlpTWjBnRGdKS3dnTU8yS0Ezc3o4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-08-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nu Skin lays off employees; Tyson Foods closes Eagle Mountain beef facility - heraldextra.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbXJPSFVOVkRrNUFqUmZRMEh5QVhFODhjeVlpSm1IWjdpaUFialQ2MEs2V003RTZ5T1hGVmdoeEJBWVNwTF9WbjVRTl84dkt1bVRKWVFEaVktOF9PTE54dFNLM0lJSFdfai04b0JRNnhYSGFpOUFXY2JaMVRsQmZLek9xbXltMWYtckRfS2ZVRjRUNm9jWDVhOGRqRkZJZ05zVTBUOVRubTB6NDZCYUZCQWc0d2JKVGRMVzF1Mg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "food_safety",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 97,
+    "too_old": 77,
+    "gate1_blocked": 11,
+    "gate2_blocked": 12,
+    "passed": 72,
+    "pass_rate": "41.9%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Focus Partners Advisor Solutions LLC Invests $1.26 Million in Archer Daniels Midland Company $ADM - ",
+      "Bunge Global Prices $600 Million Senior Notes Offering - Moomoo",
+      "Bunge Global Prices $600 Million Senior Notes Offering - marketscreener.com",
+      "‘More people looking out for them than they realize,’: Local pizza truck owner steps up for laid-off",
+      "Soon you can buy Medicare Advantage plans at Costco. What you need to know. - MarketWatch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為好市多、沃爾瑪、ADM相關動態：「Uni-President China Holdings (SEHK:220) Reports Strong Ha...」。主要關注主題為產業通用、食品安全、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Uni-President China Holdings (SEHK:220) Reports Strong Half Year Earnings, Is...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Despite headwinds, retailers are expected to post positive earnings - marketp...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

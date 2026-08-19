@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 97,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 11,
+  "gate2_fail": 12,
+  "passed": 72,
+  "gate2_samples": [
+    "Focus Partners Advisor Solutions LLC Invests $1.26 Million in Archer Daniels Midland Company $ADM - ",
+    "Bunge Global Prices $600 Million Senior Notes Offering - Moomoo",
+    "Bunge Global Prices $600 Million Senior Notes Offering - marketscreener.com",
+    "‘More people looking out for them than they realize,’: Local pizza truck owner steps up for laid-off",
+    "Soon you can buy Medicare Advantage plans at Costco. What you need to know. - MarketWatch"
+  ]
+}
