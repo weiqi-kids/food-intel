@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 13,
+  "gate2_fail": 13,
+  "passed": 60,
+  "gate2_samples": [
+    "Focus Partners Advisor Solutions LLC Invests $1.26 Million in Archer Daniels Midland Company $ADM - ",
+    "Bunge Global Prices $600 Million Senior Notes Offering - marketscreener.com",
+    "Pritzker in talks with Tyson on repurposing Joslin facility after sudden closure - KWQC",
+    "Tyson laying off more than 3K employees following closures in 2 states - NewsNation",
+    "Walmart makes key move to compete with Amazon - thestreet.com"
+  ]
+}
