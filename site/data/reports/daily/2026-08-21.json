@@ -1,0 +1,198 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T08:28:16.818004Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-08-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods shutters beef plants in Illinois and Utah, eliminating 3,200 jobs - World Socialist Web Site",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3eGc3Y0IxUEdHRDJHbTBvSXg1ZkY3OHY2VVNhSW56Ujk2S05NZDhWLXBRTUIyUzBTWWM3QWp1LWdZQkhyN2ZKX2hyZEhMeExxYjliMVZ5ZHJQLVo4NmRhcHhGcGpTM3k2?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-08-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco Wholesale Corporation $COST Shares Sold by AIA Group Ltd - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTXhDdExMN0o3dE1xRGc2b1FtNEkxWEdUMW1iR0RzWGwxWElSWE4tRTM3LXRITWNlSF9fOGxxWW81WU5icnRpa0tYUUQydXFRN2xtQTJOTzBlR0lnelgtNjhobjc5U2p2ZVkzZUpkdEp6MGdDbnpmMUR0cmJVUjA3bGNDd1RJY0FwZmlycGlkWDZJeWlPdVU0QzNjZllfV21OVGpVRjNYXzEzV25pUlFlVloxVzVoUF90X3M5R01DSXo?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-08-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Proposed Costco near Shafter-Bakersfield border sparks excitement, traffic concerns - KBAK",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0NLNHJPUUpscFlSNWJFQnRvWnZOS21RSWZEcVhfZ0w2VWRqOFBjMEpjTmtfQ3JnRUxkdGdNSFEwWFNhQzZ1QjJNNGdtM1NxU1FPaTdHN0FSb3ZVQi1BTHNScVNrSVJKa0VjeVBIenJyd0MtYXRZS0c0XzAyaUVFeDhKZVdTZTVRUmF0eVpzQmJndmJKazR4V29kSko2bzROWXdpRXFNcXRhLWhqVUt4SVo3NFZfMUpWdUk1UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-08-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco Wholesale Corporation $COST Shares Sold by BOCHK Asset Management Ltd - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOVRSTUk4c1J4VHI3M3llTDVqaWdXZTFLOTVwT3VyNUVXU25abkhTcVA2RTZ5UGg5blpfTzRDdWlxWmdCSGtGVmRQdktrQzNsLWhFUkJ3aHhvWmV2Q0doakgyeGtySWk2dTlnZ3FzZV9kV181NFpVWEZnY09SbDVGNFZEeVZ5N3ZRXzdtUU5Zd0JPRTRlRVo1TWF2YkpadmpDcGFtSU14NHM2enFTWWZnSFVXUXB1RVZUNlVwTmctU2xWUEh3dUVCdDJoQ3A2Sm96UEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-08-21-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Daymark Wealth Partners LLC Has $32.71 Million Holdings in Costco Wholesale Corporation $COST - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWHlGcU12OHNYN1drdnBuOTdsSEhsNWI1TVp1TnZ1aFlpUTctekpIY3hvOENhQ3ZyaU9uMWZCalpTR0J0LUJtaHhCN3NJeTRxb1VzWnVGQVdPbGpZVm5Wb3dHMVRXNkktT05NMjJVUUQyZl9OQ0tLeVREM0V6ZzNBcFVLX3lQMTZDZVJlVHBwWWVzbW9Fc3h2T05sU3dGdHpvaWR4UlU0ZjJiNEFudENyeDFYX3BmeElzbG5iMThrVmNpcXhGOEpKclNXVmxpaUZGaC1MN2owWjNxc0Y0cFh1T21UOWRpdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 270,
+    "dup_title": 95,
+    "too_old": 81,
+    "gate1_blocked": 12,
+    "gate2_blocked": 13,
+    "passed": 69,
+    "pass_rate": "39.4%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "Wealthfront Advisers LLC Invests $10.09 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Bunge Global Prices $600 Million Senior Notes Offering - marketscreener.com",
+      "Pritzker in talks with Tyson on repurposing Joslin facility after sudden closure - KWQC",
+      "Tyson laying off more than 3K employees following closures in 2 states - NewsNation",
+      "Local cattle farmers brace for Tyson closures’ ripple effect - KCRG"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為好市多、泰森食品相關動態：「Tyson Foods shutters beef plants in Illinois and Utah, el...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Tyson Foods shutters beef plants in Illinois and Utah, eliminating 3,200 jobs...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Costco Wholesale Corporation $COST Shares Sold by AIA Group Ltd - MarketBeat（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

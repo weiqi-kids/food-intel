@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 12,
+  "gate2_fail": 13,
+  "passed": 69,
+  "gate2_samples": [
+    "Wealthfront Advisers LLC Invests $10.09 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Bunge Global Prices $600 Million Senior Notes Offering - marketscreener.com",
+    "Pritzker in talks with Tyson on repurposing Joslin facility after sudden closure - KWQC",
+    "Tyson laying off more than 3K employees following closures in 2 states - NewsNation",
+    "Local cattle farmers brace for Tyson closures’ ripple effect - KCRG"
+  ]
+}
