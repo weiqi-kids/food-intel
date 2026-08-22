@@ -1,14 +1,14 @@
 {
   "adm": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "bunge": {
     "earliest": "2001-08-02",
-    "latest": "2026-08-20",
-    "count": 6299,
+    "latest": "2026-08-21",
+    "count": 6300,
     "history_complete": true
   },
   "ttet": {
@@ -25,32 +25,32 @@
   },
   "coca_cola": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "pepsico": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "tyson": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "general_mills": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "mondelez": {
     "earliest": "2001-06-13",
-    "latest": "2026-08-20",
-    "count": 6334,
+    "latest": "2026-08-21",
+    "count": 6335,
     "history_complete": true
   },
   "uni_president": {
@@ -73,32 +73,32 @@
   },
   "kraft_heinz": {
     "earliest": "2015-07-06",
-    "latest": "2026-08-20",
-    "count": 2799,
+    "latest": "2026-08-21",
+    "count": 2800,
     "history_complete": true
   },
   "walmart": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "costco": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "etf_pbj": {
     "earliest": "2005-06-23",
-    "latest": "2026-08-20",
-    "count": 5323,
+    "latest": "2026-08-21",
+    "count": 5324,
     "history_complete": true
   },
   "etf_vdc": {
     "earliest": "2004-01-30",
-    "latest": "2026-08-20",
-    "count": 5675,
+    "latest": "2026-08-21",
+    "count": 5676,
     "history_complete": true
   }
 }

@@ -1,0 +1,198 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T08:18:41.206989Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-22-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Sprouts outbreak grows to 55 patients in 15 states; company declines to issue recall",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/08/sprouts-outbreak-grows-to-55-patients-in-15-states-company-declines-to-issue-recall/"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-08-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Utah Rep. Maloy reacts to Trump beef import deal after Tyson plant closure - KUTV",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZlRPUGRKYlQwdXNnSGJya0VuVzdDblpSMjdFTUVCNW9EWTkyd1piNWRSbkN2X09nTUtib0hfcG1PMGR1VXh0LXdqQVJvN2tNWktFWTlKaUVWekpQMWhDX09WVGJlR3ZLZzNVS3Nrc1EtT3FUYWIzbEJDN0ZDa0dsT3A4b1Y3YWV1UXFFY1hUeHFjcWhOOVhCQkk1X2NiUURxSHVV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-08-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Will Landmark Broilers Antitrust Settlement and Compliance Overhaul Change Tyson Foods' (TSN) Narrative - simplywall.st",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcTMzbUlzazZMSWs3ZVc5NW1sQ2pFUFprNlFpODUycy1EMTVveEMzQTg4Y0xZV2MyMDktQkpUbzhhQUxPbUtGeTkwZzByM25MbXhnUG5LZmtMZkg1b0dHZWVFcWcxTHlTMTVHRWItSktFLVFFMExraFZoTFJEM1RDV1dzdGxWTlU2U2JSdXZJUm43VTRWZHVkbXBOUlJJX3cwRjcwaHVhNDllWlBMR24yNHlFUGZSOXE3d2ZpQVRwNWtOVVlINDdrdGIydUxpcUlkNll0dlBjONIB3AFBVV95cUxQTDFBV0gxM3FHM3cyYmJDYld4SWw3aWRMUGw1QmlxUllOaDlXaHBpWC0yZmpxa3JPeXBSenpCU1Q5Z1FOVlI0clh3aVRSTkVpTGZNeW52bDJ5emFXZTZmU1FKQnB6U2Z1U3pFNHAwZXk5dlNkNDEwYk9GVGxJQXVTcVpPWkNjR3kxcnE2eGpsMzQzSHliRi1qME1CZ3Y3VGVmOVktUEJ6VUU3Zy05QzFWQ3laTHBFcTg2WHpzdmJDNndibWxKSWN4RjhDV2dnb3k2YkxEQzlSS0taVy1D?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tyson-2026-08-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Great Lakes Advisors LLC Invests $1.67 Million in Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdklSNWJhaUFnVGtmblU3cU1MQ3pJaXBDbFFCeTB4dkFaRWFScEJGOXdMcGNkYWFrZUl3OWFteFpaOU04MWh4SFh1M1ZhZ1JLYTUyWGVSd3hub1JyMndOWFpJMnBpcnp1R0k5V09zZ3VBdUtMNUxKQnQxQlNxRG1sd2NiWjJGSC1wVVBGTVJpeHEtQVZfS3ZhbDFvSFBLYmpnWkhkQnNIb2FYYWJ4SlBYSV9vZGotR0lxdFQzVEZ5VmlSRzB4MjNn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-08-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Grow Clinton offers assistance following Tyson Foods closure in Joslin - Clinton Herald",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRWQ2NHNIMnptbV9kNTd5V3lGaEhPaFFBaDVmRi00NGdKMWxGZDNGblNkZDFPVEZ1QW96VTZsbG5ELU1vaFQzTjNfSXgwRXlYYlBJMXkyLVRQd1ozV0E3UHY5N3pqeE1CRGF1VFBucFNsWE10QmFTRFM4QnllUkR1UTU5bjQ1SXhfNEU0dFFwNmRUX3BoRVJPSjJweGtNbEpTZ3RBWi1weW9XYXRhUVZXMS12WnJNMHdmRWRGV3NlWUhjMHBGZGJfSmUtSWxGVXNEcjVwdHpaMEJwU0pwYVFtYmdnOWxEZ011ZjQtUFdiSjM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 4
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 116,
+    "too_old": 78,
+    "gate1_blocked": 12,
+    "gate2_blocked": 22,
+    "passed": 41,
+    "pass_rate": "26.8%",
+    "gate2_block_rate": "14.4%",
+    "gate2_samples": [
+      "Iowa Economic Development Authority awards $2.23 million in tax credits to ADM in Clinton - Dispatch",
+      "Wealthfront Advisers LLC Invests $10.09 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Bunge Global (BG) Could Be 20% Undervalued If Its Viterra Narrative Holds - simplywall.st",
+      "Bunge Global Prices $600 Million Senior Notes Offering - marketscreener.com",
+      "Tyson laying off more than 3K employees following closures in 2 states - NewsNation"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為泰森食品、億滋相關動態：「Sprouts outbreak grows to 55 patients in 15 states; compa...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Sprouts outbreak grows to 55 patients in 15 states; company declines to issue...（食品安全）",
+        "level": "green"
+      },
+      {
+        "text": "Utah Rep. Maloy reacts to Trump beef import deal after Tyson plant closure - ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

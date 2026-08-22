@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 12,
+  "gate2_fail": 22,
+  "passed": 41,
+  "gate2_samples": [
+    "Iowa Economic Development Authority awards $2.23 million in tax credits to ADM in Clinton - Dispatch",
+    "Wealthfront Advisers LLC Invests $10.09 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Bunge Global (BG) Could Be 20% Undervalued If Its Viterra Narrative Holds - simplywall.st",
+    "Bunge Global Prices $600 Million Senior Notes Offering - marketscreener.com",
+    "Tyson laying off more than 3K employees following closures in 2 states - NewsNation"
+  ]
+}
