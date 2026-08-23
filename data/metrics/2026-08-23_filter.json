@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 10,
+  "gate2_fail": 21,
+  "passed": 31,
+  "gate2_samples": [
+    "Archer Daniels Midland (NYSE:ADM) Cut to \"Buy\" at Wall Street Zen - MarketBeat",
+    "Bunge Global (BG) Could Be 20% Undervalued If Its Viterra Narrative Holds - simplywall.st",
+    "Bunge Global Prices $600 Million Senior Notes Offering - marketscreener.com",
+    "Pritzker in talks with Tyson on repurposing Joslin facility after sudden closure - KWQC",
+    "Tyson laying off more than 3K employees following closures in 2 states - NewsNation"
+  ]
+}

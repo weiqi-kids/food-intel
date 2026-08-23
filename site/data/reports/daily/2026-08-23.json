@@ -1,0 +1,199 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T08:19:28.531591Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-23-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Sprout company recalls products linked to 15-state outbreak",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/08/sprout-company-recalls-products-linked-to-15-state-outbreak/"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-08-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of New York Mellon Corp Takes Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTDhFY3R0RzlaS0FwY3Q0bDIzRXhoamFQVlJpdl9rRmRlei1aNzFRWjBsVWw4WUpXSDNTeU8xVk1wVlU0Y3FEX2NPQUFBSFBESzlNMEtvWEhCalFyb0dqLTJQVnhOYXJjVzAwZl8wRTFteUdVWkNiaTRkbmE3cXljYWtWUlRTTEFJNFpaVmZKQXBicndiTURSWThxdE9SUy16RWpqd1pmMy1VM2JUYUREcEFPNlZabUlJeUJDWHRHOHl0UnpybkV6Nmh3M2hzelhjTnpDOUc4cXpVdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-08-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Danske Bank A S Takes $1.20 Million Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSENSR1RWeEtTTVE0N3ZNcmV4dXdxdV8tcmxEejFOVDJGOTRRZ1VNYlNFMUt0RDFacjZfTXRDd0s0ckpCcldleWxEZFFNYjR2WmtNZFk4TGlBWTFqT21ISDNTN3NPRXZybU5iMkU5WjRUTjE4cXEyaVRYbk5Cb3llTmRQVXlIZGNVWUFHZ010M1N1VzNaV3hkMWhsTEdneW9KeUdWbF9qT041X3FoTE93c0ttZkZ0QjNnaGM5WFE5YzdxUlIyZWJIMUY0dXhPU2dnb1o2NnB6Uzk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-08-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "16,950 Shares in Archer Daniels Midland Company $ADM Purchased by Allworth Financial LP - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUEhsQTRvdFZGODRuRkQ4SFFfWnhuUFhlNFhSbVdwMzVsNy1vRXhDWnpfbHRwSm1FQ0tJVi03WnRQVGt1ZWUtb0dBXzZEUEYtU0VJbEJGaVU2b3NwczlWZ2FGdVdEQVluSi12WkZHcld0OC1TT1FackFnRmM5M1VQeEJsNktYaV9VNVVudXJjaG00MVVuOWo0ZWFlZjB2elJJc2VCMXpiRXFZSmt0bkZScHN0Y3pGVl9UckJmUHhiOHd5VlM1SThlOFMxWXV2WjRITEgxTWt0VUx1Z1FFbmU0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-08-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "B. Metzler seel. Sohn & Co. AG Makes New Investment in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX1pqcVRsal9SczhFMGFBUmw0djNIUGR6ZkNBYTFHR3lOaGhOc3lIbHNlbnVVU25LamU1N09ZSG5qY1ZHdnFaTFRpeWJ2MDJUUG5BeERFUktnMGt5Qk10QmsyNVFGcHA4M2R3TzcxajAtby16SmtiSkZBMUIyLUZtb0J0YXJIeVI5OHBYanhZV09wbDl2cWF5cnp3V0JEeFRkYlVOZXpQOVR3U2ttV01zYTdfeW5JbXhLTnFXMGdUVHJ6d1RjdjJIWkdNeGR3RGtRTlYwSktPZklZVzl2UFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 4
+      },
+      {
+        "id": "costco",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 124,
+    "too_old": 82,
+    "gate1_blocked": 10,
+    "gate2_blocked": 21,
+    "passed": 31,
+    "pass_rate": "21.5%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "Archer Daniels Midland (NYSE:ADM) Cut to \"Buy\" at Wall Street Zen - MarketBeat",
+      "Bunge Global (BG) Could Be 20% Undervalued If Its Viterra Narrative Holds - simplywall.st",
+      "Bunge Global Prices $600 Million Senior Notes Offering - marketscreener.com",
+      "Pritzker in talks with Tyson on repurposing Joslin facility after sudden closure - KWQC",
+      "Tyson laying off more than 3K employees following closures in 2 states - NewsNation"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為ADM、好市多相關動態：「Sprout company recalls products linked to 15-state outbreak」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Sprout company recalls products linked to 15-state outbreak（食品安全、產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Bank of New York Mellon Corp Takes Position in Archer Daniels Midland Company...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
