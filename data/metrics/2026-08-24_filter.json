@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 11,
+  "gate2_fail": 22,
+  "passed": 27,
+  "gate2_samples": [
+    "Archer Daniels Midland (NYSE:ADM) Cut to \"Buy\" at Wall Street Zen - MarketBeat",
+    "Bunge Global (BG) Could Be 20% Undervalued If Its Viterra Narrative Holds - simplywall.st",
+    "Tyson, JBS to slash slaughter capabilities - The Fence Post",
+    "Lawmaker: Tyson closure shows Illinois is losing jobs to other states - The Center Square",
+    "Tyson laying off more than 3K employees following closures in 2 states - NewsNation"
+  ]
+}
