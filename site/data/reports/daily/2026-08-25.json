@@ -1,0 +1,194 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T08:31:20.002653Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hormel Foods names Ash Bhumbla chief financial officer - WATTPoultry.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmVfRlk5SjhzMVBCZnJWMlVJcXVfM1RxVzRlTmxyekZwdnZ4elo2cllzT2NJQnlOVzk1SXByVF9RMW5qcmVHRnRkWkhwM0cxcVMtRnpCNVAyMXFYeC02QVhGZFEySXVPYnlKc2RXUEdDS2h5c25YRWt0VU1hbjdYN09MdFcyWjRMdjdocTFUUE9JRzBicURQRWxYSTNRcXdwbV9NSDkyaG82aDFTMzIybg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "uni_president-2026-08-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Uni-President Asset Management Launches Dual Active ETFs on Taipei Exchange Tomorrow, Targeting Equity and Bond Markets - finance.biggo.com",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50V3lpalRxR2tJQXUtd1VVNGdZbE9WU0I2b0JIRHFYV0xCNmVaNUZCSnNnYzNqRklmOHN1MVNDN0tFcU5BZWhJLWU1YUF2aGdGXzRONVZJOWsyaWtVZFZvVFdxaTBOTWxOem83aUlyTmpKYzI0SXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-08-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Real Reason Why Walmart Is Slashing Prices by $2.9 Billion - Bloomberg",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMHQwX2wwcHRqcDJWbnJVaHBHcUJ4TXhWV3BFVkJPVXNsT1dTWXBTWFo1MU9oMS1VZzYxMzI4T1h0ZWpsSGpwUjdNNm1NTHFLT2t5QjdnMDJPd2JmM3d2QjRRVlIxY2NoRHN3Vno5TU1zXzg2MVV2X0k0Ujl4V01rVE04VlF2SnE4SWl2elNqemVIcnF6YlFWZHBNMGF0WEozcWFreG1aZGN0amFKTHhpTmJ3d0ZGUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-08-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco fights customer’s tariff suit as refunds flow in - CFO Dive",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnFkR1VjNmwydGJrcHEyUVJheGVoaXlmSGtqYi1MT0I5cjM1d1R3bnBtLVRjdU02MHNVVm9aMjRrSU9oSTg5UGhxby14R2FEYm9lV2hEajBxellZSUJoYm1NSnpEdnZnVHpZalpSV1h5ZklIX2VJZ013STJPUUtRazhwSlUwUFZDUnlUMl9R?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TRADE NEWS TUESDAY: SFA Trendspotters Unveil the Top Specialty Food Trends Driving Industry Forward - Progressive Grocer",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd1F4am1DMFpuX2w1Q3g4c0FvVjZEdHNMTzRZYndPa3cybUpPTGZ4X1Ewby10STNVMTdidGI1eDFPa1BraENmLVAtXy0wVjJ0SEE1MWNOWEJjckxwUlFKZWN4ejFJSkRVR0ZSZEctdUh0czZBX1lLUV9ET1BZMXZnSlpzMDR4ZGNrTkNLUi1iQVdJV1pJY2RPMmNBUnJ4SGN4WGFSM2Vidkc0Y0psd2JTZHVlX3gyMGJfcFVLbkU1N3NYQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "uni_president",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 266,
+    "dup_title": 106,
+    "too_old": 77,
+    "gate1_blocked": 11,
+    "gate2_blocked": 20,
+    "passed": 52,
+    "pass_rate": "32.5%",
+    "gate2_block_rate": "12.5%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland: A Toll Collector Crushing Q2 Like Its Seed Oils (NYSE:ADM) - Seeking Alpha",
+      "Archer Daniels Midland (NYSE:ADM) Cut to \"Buy\" at Wall Street Zen - MarketBeat",
+      "Bunge Global (BG) Could Be 20% Undervalued If Its Viterra Narrative Holds - simplywall.st",
+      "Andrii Sybiha commented on the Russian strike on the Mondelēz International facility in the Sumy reg",
+      "Walmart sales miss hides bigger shift in business - thestreet.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Uni-President、沃爾瑪、好市多相關動態：「Hormel Foods names Ash Bhumbla chief financial officer - ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hormel Foods names Ash Bhumbla chief financial officer - WATTPoultry.com（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Uni-President Asset Management Launches Dual Active ETFs on Taipei Exchange T...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
