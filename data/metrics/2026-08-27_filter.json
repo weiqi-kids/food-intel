@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 101,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 11,
+  "gate2_fail": 18,
+  "passed": 56,
+  "gate2_samples": [
+    "Archer-Daniels-Midland: A Toll Collector Crushing Q2 Like Its Seed Oils (NYSE:ADM) - Seeking Alpha",
+    "Archer Daniels Midland (NYSE:ADM) Cut to \"Buy\" at Wall Street Zen - MarketBeat",
+    "Bunge Global (BG) Could Be 20% Undervalued If Its Viterra Narrative Holds - simplywall.st",
+    "Proposed Lexington NewTrack Industrial Campus aims to redevelop parts of former Tyson operation - 13",
+    "Andrii Sybiha commented on the Russian strike on the Mondelēz International facility in the Sumy reg"
+  ]
+}
