@@ -1,0 +1,16 @@
+{
+  "total_raw": 263,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 9,
+  "gate2_fail": 18,
+  "passed": 53,
+  "gate2_samples": [
+    "Archer-Daniels-Midland (ADM) Beat Q2 Estimates, Is It Still Slightly Overvalued? - Yahoo Finance",
+    "Archer-Daniels-Midland: A Toll Collector Crushing Q2 Like Its Seed Oils (NYSE:ADM) - Seeking Alpha",
+    "Bunge Global (BG) Could Be 20% Undervalued If Its Viterra Narrative Holds - simplywall.st",
+    "Andrii Sybiha commented on the Russian strike on the Mondelēz International facility in the Sumy reg",
+    "Walmart opens 100th EV fast-charging site in Colorado - CSP Daily News"
+  ]
+}

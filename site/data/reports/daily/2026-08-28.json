@@ -1,0 +1,288 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T19:47:18.312141Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-08-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ADM (ADM) Stock Looks Below Fair Value On Cash Flow, Above Fair Value On Earnings - Yahoo Finance Australia",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pRVFTZ3NXWU41bk1EeUEteVhkSFdSNTlnaG1hN0djQ2F0WjBhSmpKX1R0YUkyVnppQUpRTDNZUXhNOTZoemhTM0FWMFZOdkxNVWpfWmNnQTZjQzhmaV8zc1JIdmhkalI2QjRrYWFVX3VhdjhPakFPMTZTS2hhSU0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-28-030",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hormel’s retail volume woes continue - Food Business News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFlYN09mT2RmWE9WUlB5aENkQll4YzRXVEFqUmE2NlhTdl9DeTdxcVNvVVkwZ3NLb2Jxdk5uUmh5a0FFVy16WGJJWEpIN1h4VXAyTUdJUmM4dmdrd0dKX1RxV0g0WkZ1Zlk4eU53UUoxOS1tMEhzV3BIUkJQdjJTVm5FNWs4S1hpakVn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-08-28-014",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Walmart vs. Costco: Which Dividend Growth Stock Is the Smarter Buy for the Rest of 2026? - The Motley Fool",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjFXV19Db1d3RlpKcVBqREFVWVM0QnJLU0NnWkp3REZfNHFGY0stdEtIaFN4M04wMEVmbE9sblZGcUlrUF9pMTQ4VWpNMTFFWmEzZkhKcFJoYk5kQXJLUWZVbmEzTGh2VURvbVA0bUpEaVdueF9HVzFGMWx0VVVvSjVRX1F1c3BiWFR2QlVTVXBMTFE0SnpJRA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-08-28-017",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Walmart vs. Costco: Which Dividend Growth Stock Is the Smarter Buy for the Rest of 2026? - The Globe and Mail",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRFFRVGl0N1hEVzlJTjRhT0g0X0FYNzBZeVd3TEo2ckVHUDdGV090Y1RCNVNoajE5STdCQmJvTVphT1dBTGw0Z3E0bmlydmVDNkVYYWNCTTd2SmFoOERJcTlETVV0U0t2el8tRnJPTDhibk1VYUFBMmZHcmNVZUI0REc4c2x5S3ltYlZKTWR2S1l5MUZuemwwczRRakdZQkZHZDQyMFVUYTA2ajBqUXZMbHRTQmRpbVVwdTNrRkhNTjk1ekdESzJVd1RCU0lKd2VhUGllUktGX2ZxMVpRTk44NjZsVmRiQ0YxZU5UV3pIUmh0YTlxeHhyTHZXUVpsSlk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-28-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "EXCLUSIVE: India proposes front-of-pack warning labels for packaged foods after public outcry - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU2NiY2FTQVlpNUtTanFadmFrSGVPTzBLRkpWc2RRR2wtaWNjVWJldjVJNEZPcHphaDJGSFh6amdUbzgwOWJOekV4czV6OGYwYmowSllmZ2dZRGRyUjVEWl9WVHBOTVRKejk5MnItOGppSEFVZWlLOFF2S2ptLXZyWVkySWxqb2pQcU8zU3ZzSWlOTU1YdzEwTzJ2aTlKUVVjV2dkcUg4NEowWm5DbEVNYmlqZDQtUktX?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "costco",
+      "to": "walmart",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 31,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 6
+      },
+      {
+        "id": "tyson",
+        "count": 5
+      },
+      {
+        "id": "walmart",
+        "count": 4
+      },
+      {
+        "id": "adm",
+        "count": 3
+      },
+      {
+        "id": "bunge",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "food_inflation",
+        "count": 2
+      },
+      {
+        "id": "raw_material_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 263,
+    "dup_title": 105,
+    "too_old": 78,
+    "gate1_blocked": 9,
+    "gate2_blocked": 18,
+    "passed": 53,
+    "pass_rate": "33.5%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland (ADM) Beat Q2 Estimates, Is It Still Slightly Overvalued? - Yahoo Finance",
+      "Archer-Daniels-Midland: A Toll Collector Crushing Q2 Like Its Seed Oils (NYSE:ADM) - Seeking Alpha",
+      "Bunge Global (BG) Could Be 20% Undervalued If Its Viterra Narrative Holds - simplywall.st",
+      "Andrii Sybiha commented on the Russian strike on the Mondelēz International facility in the Sumy reg",
+      "Walmart opens 100th EV fast-charging site in Colorado - CSP Daily News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為好市多、泰森食品、沃爾瑪相關動態：「ADM (ADM) Stock Looks Below Fair Value On Cash Flow, Abov...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ADM (ADM) Stock Looks Below Fair Value On Cash Flow, Above Fair Value On Earn...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hormel’s retail volume woes continue - Food Business News（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "原物料成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
