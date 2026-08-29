@@ -1,0 +1,16 @@
+{
+  "total_raw": 263,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 8,
+  "gate2_fail": 19,
+  "passed": 31,
+  "gate2_samples": [
+    "Archer-Daniels-Midland (ADM) Beat Q2 Estimates, Is It Still Slightly Overvalued? - Yahoo Finance",
+    "A Look at Bunge Global SA (BG) After 3.5% Gain -- GF Value $117. - GuruFocus",
+    "Bunge Global (BG) Could Be 20% Undervalued If Its Viterra Narrative Holds - simplywall.st",
+    "Proposed Lexington NewTrack Industrial Campus aims to redevelop parts of former Tyson operation - Ce",
+    "Andrii Sybiha commented on the Russian strike on the Mondelēz International facility in the Sumy reg"
+  ]
+}

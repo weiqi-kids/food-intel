@@ -1,0 +1,214 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:30:02.400698Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-08-29-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "A Costco Special Dividend Could Be Coming, but Walmart Has Raised Its Dividend for 53 Consecutive Years. Here's the Better Buy Now. - Yahoo Finance",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXJkVFVHbnNxVzJXWTE0MUEzSnkyM3llMUZIMjFSV0J4d2hXaGJ5WnNlU2xZQTNMR3B3ZlEyMVJWUnhJMTRwMnI2Tk91QW9ldXJJTE54d0FnMHZMNDVQMmxPbDMyN19VZTFvUmU0V0hVNUVaN1RobWdxNEk5TVlTTDNqTlBxQ1JGZWlHWHozbjNURzdlOERJSFdsRFM2TnBWUVFZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-08-29-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "A Costco Special Dividend Could Be Coming, but Walmart Has Raised Its Dividend for 53 Consecutive Years. Here's the Better Buy Now. - AOL.com",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNEprNVdramQybXE5MUplOUNLN3N3MDBHRnZ3dEduWHV3dGg3TkstT0IyeDJQbTRiaUtyNGRVTE1DUnFyVlVPWkZwZ1FaNWltU3gyRDdudDBKejY2TzQ2Z05rWndpZ0hzVUdmWHh0RDNRUGl1MFlDUlU2R3NJejJhNnVYUkpfU00?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-08-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wellington Management Group LLP Buys 382,460 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZk9tSzRtVUVfNVF0WksxOXRjb3pvM1B5VWxkdXlUYUhYUFpGaXlXUlAwcmtWcC1yeUNpODhwOGZ4UXg1dDFOcDlieWlKNUQwQUwtd2FRQlhUVEV0Y2xjQTVBVFA4OGo3WGZXNllPcXpoVi1uLV9kdjJ4UTBnT21KSERZR2hEeExOUXdwTDNLaUljbHF4dGwyUG5MUWZwaDhJTG5QaDJBam9NT2pXQTVkM3Yya1YzWVhzRlVSVzdGUVZFYzk3SEVZMlhXX1dXY3UyX2JGeFN5SlZHVlFpSmRqTU5pZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-08-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Archer-daniels-midland Company (ADM) Affects Rotational Strategy Timing - Stock Traders Daily",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbDJWWmh1bmJFczBBUnBQTmZZQXBFWm04TEFqS00zYkdFU3NwYTB4bUtlV0c4NWFFOTYzdml4SGRXY0lXbUJjaUE1cll4NWE1eVhPU0duMVdMeFZwd2NUSkVwVkU4Sm5JRkw3ejRBVWlYanR5UEVCalc4aFgxbER5TFJUSmhxdjFMZ0VIeFJnbHZzNVR3OFpHREtsVl9KMVE4U2g3d1pwdUJCV05kUDF6ZVZaUDNzLWpTc1JmYVloaFJ0NkFsZWRaaFdEUGxsNjI0NkJ1YkZUcGs1cnQ0VDRlUXpQYW9DOFU3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-08-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Manufacturers Life Insurance Company Takes $18.21 Million Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObTcxTUI5NXZXdzN3OFpSamhBUjhiZWhINTVTaHo4bTNTdzFEQXU3Q1NNTUFTM1BpcVh4SmZJUk9FUXFLdTRqUWhabUlENm1CZWp4WGd0YzFtdlpiSXhzNzhVUVFjWDZfLXhIdDhadndrRVotTlc3VkI2R1ZGMU5fbEpsRVpEdGhxTDBXbmVGcDJoWnRPQTR2TEJpdUNlNUEweU9uVkoyYWxwT1dsY3I3Q2xzMmVMajQ1SVFsQlM2dXdOakIxMlBPSEwzbWhtSi1zamZmTnNnWTdOc2lEdWFKVXAwb3FEY0QyVUI4NHZTV1JrcTY4V1ZmUTdHTQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "costco",
+      "to": "walmart",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": []
+    }
+  ],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 5
+      },
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 263,
+    "dup_title": 126,
+    "too_old": 79,
+    "gate1_blocked": 8,
+    "gate2_blocked": 19,
+    "passed": 31,
+    "pass_rate": "22.6%",
+    "gate2_block_rate": "13.9%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland (ADM) Beat Q2 Estimates, Is It Still Slightly Overvalued? - Yahoo Finance",
+      "A Look at Bunge Global SA (BG) After 3.5% Gain -- GF Value $117. - GuruFocus",
+      "Bunge Global (BG) Could Be 20% Undervalued If Its Viterra Narrative Holds - simplywall.st",
+      "Proposed Lexington NewTrack Industrial Campus aims to redevelop parts of former Tyson operation - Ce",
+      "Andrii Sybiha commented on the Russian strike on the Mondelēz International facility in the Sumy reg"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為ADM、好市多、沃爾瑪相關動態：「A Costco Special Dividend Could Be Coming, but Walmart Ha...」。主要關注主題為產業通用、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A Costco Special Dividend Could Be Coming, but Walmart Has Raised Its Dividen...",
+        "level": "yellow"
+      },
+      {
+        "text": "A Costco Special Dividend Could Be Coming, but Walmart Has Raised Its Dividen...",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
