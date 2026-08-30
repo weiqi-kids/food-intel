@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 8,
+  "gate2_fail": 23,
+  "passed": 14,
+  "gate2_samples": [
+    "Archer-Daniels-Midland (ADM) Beat Q2 Estimates, Is It Still Slightly Overvalued? - Yahoo Finance",
+    "Archer-Daniels-Midland: A Toll Collector Crushing Q2 Like Its Seed Oils (NYSE:ADM) - Seeking Alpha",
+    "A Look at Bunge Global SA (BG) After 3.5% Gain -- GF Value $117. - GuruFocus",
+    "Proposed Lexington NewTrack Industrial Campus aims to redevelop parts of former Tyson operation - Ce",
+    "Walmart takes big step to make Sam’s Club memberships more valuable - thestreet.com"
+  ]
+}
