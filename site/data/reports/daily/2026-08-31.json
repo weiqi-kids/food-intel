@@ -1,0 +1,225 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T15:40:57.507803Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-31-039",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Guide released to help firms deal with food incidents",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/08/guide-released-to-help-firms-deal-with-food-incidents/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-31-036",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA warns three importers about missing foreign supplier documents",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/08/fda-warns-three-importers-about-missing-foreign-supplier-documents/"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-08-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "115,435 Shares in Archer Daniels Midland Company $ADM Bought by Jupiter Topco LLC - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR3UtUEJldFF3OVhkbFhGbTFIMVp3T2VMZXF3UWtPQWhJbXdua3RNMGNnQlNxNXJmYzBsU0xkNk5wVzFobTdFTU9xT0VobXVRTmYwZVppS2xvd2tZc1JIX2VOV1VzOXJubTBDeUVEY3RmZTJRazgydExCVldTdDVWN0YyR042V0NXdW52bGtCWWR1NXpEalprTy11Q3VWeWk4UmJXTHV3eVI1RndfNGNoWndWMWM4Z2dOZ3BVdXJqdUZkcUhQTjM3akZoRkh1OHZPaWVlbktpTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-08-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corient Private Wealth LP Buys New Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUW1zSnFSZnNYR1FlcE0wQ2FUUFB3MWwyb2NlTk1ZOEdRdFY4a2djR2FnNnI2WjJWS3NaNk9fZXZENXBPZTdpX2NVV1BIWjU1RTVZc2JBVkpYNVBrd0FzSW5BWmhPOVZBc0VsU012b3Jzdl9IbHJfVmhHV2I1RFh1aE9aVHFaR1lTajVvWmFHenlRVUZNM2RkbmZrYUVrUmREUHRXWkVKOWYwV3FzWGxuM2dQWV9rVkJCWWRZUG9QQnpMYzR5ZjNVQzA4UkNRV2lla3NNalVZTTlHQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-08-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Public Employees Retirement System of Ohio Takes $13.24 Million Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQV3Y3allZRGdxb0JFUUxmT3FrUTJvbXJUckczUzQ1TXdSNGRlcjNPazhRakJnSkVmM1BPWHJicDFZRVNzRGhKUlJLY1d1ZEtRMll0THNpSGdjenY0OU14WkZtZ3FYV2ViYS1LX1A0a0Y0bUxTZFMzLXk5dmFDUUZXeXJ4WVRmc0t3ODc1T2hHUXRDVklKQjM4WUcxNjJ0cDBEd3hwRURudVRLX2NBMDlpZ1dVSXlrSUVVTzdfNXVOdDhTYzVQQ20tV2tFeUYyTlR3bUQyWnhleFQtX1VXbkhoODhmczNSSi1ONTRsaEFRSmRjRVVycVVvV3JnR2NXdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 36,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 13
+      },
+      {
+        "id": "walmart",
+        "count": 5
+      },
+      {
+        "id": "adm",
+        "count": 3
+      },
+      {
+        "id": "tyson",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "food_safety",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 111,
+    "too_old": 86,
+    "gate1_blocked": 8,
+    "gate2_blocked": 14,
+    "passed": 45,
+    "pass_rate": "29.4%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland (ADM) Beat Q2 Estimates, Is It Still Slightly Overvalued? - Yahoo Finance",
+      "A Look at Bunge Global SA (BG) After 3.5% Gain -- GF Value $117. - GuruFocus",
+      "Shane Williamson Appointed CFO, ANZ & Japan at Mondelēz International - hrtoday.in",
+      "Walmart takes big step to make Sam’s Club memberships more valuable - thestreet.com",
+      "Walmart adds new product line that borrows from Target’s playbook - thestreet.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為好市多、沃爾瑪、ADM相關動態：「Guide released to help firms deal with food incidents」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Guide released to help firms deal with food incidents（食品安全、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "FDA warns three importers about missing foreign supplier documents（食品安全、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

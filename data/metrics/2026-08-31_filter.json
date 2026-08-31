@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 8,
+  "gate2_fail": 14,
+  "passed": 45,
+  "gate2_samples": [
+    "Archer-Daniels-Midland (ADM) Beat Q2 Estimates, Is It Still Slightly Overvalued? - Yahoo Finance",
+    "A Look at Bunge Global SA (BG) After 3.5% Gain -- GF Value $117. - GuruFocus",
+    "Shane Williamson Appointed CFO, ANZ & Japan at Mondelēz International - hrtoday.in",
+    "Walmart takes big step to make Sam’s Club memberships more valuable - thestreet.com",
+    "Walmart adds new product line that borrows from Target’s playbook - thestreet.com"
+  ]
+}
