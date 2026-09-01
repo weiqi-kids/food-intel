@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 4,
+  "gate2_fail": 13,
+  "passed": 55,
+  "gate2_samples": [
+    "Archer-Daniels-Midland (ADM) Beat Q2 Estimates, Is It Still Slightly Overvalued? - Yahoo Finance",
+    "A Look at Bunge Global SA (BG) After 3.5% Gain -- GF Value $117. - GuruFocus",
+    "Mondelēz International Elevates Singh Joginder to Senior Director – Engineering, AMEA - hrtoday.in",
+    "Shane Williamson Appointed CFO, ANZ & Japan at Mondelēz International - hrtoday.in",
+    "Walmart Supercenter coming to State Road 82 near Lehigh - Gulfshore Business"
+  ]
+}

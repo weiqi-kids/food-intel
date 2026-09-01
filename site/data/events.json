@@ -1,5 +1,594 @@
 [
   {
+    "id": "adm-2026-09-01-001",
+    "date": "2026-09-01",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Increases Stock Position in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxOWGVlcGtVYzlLSVFERFc2ajdXcTZjaFNfSzFRWVJscUszLVZieUEyanJ4TFNyRzlRekIxS2dFXzRUTW5DM1hGNnRCTTdrbm95QXJQVGRnSHJUMGoyX3FDM09jOGtSZTBYWm1IdHFGVn",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOWGVlcGtVYzlLSVFERFc2ajdXcTZjaFNfSzFRWVJscUszLVZieUEyanJ4TFNyRzlRekIxS2dFXzRUTW5DM1hGNnRCTTdrbm95QXJQVGRnSHJUMGoyX3FDM09jOGtSZTBYWm1IdHFGVnU2OXJSRW1JbFlOUW1ZZ3JfeFUxc254QXVBa2lIWWg5RWJjZXJpVTdac1VtY0E1V0tsMmhWc2RoMmpHR3lpQlJiM0lOeVhReGg0NmdjM2ZHLTN2U3dvNjdnWjBwMjJYUzlkcVJjeGdvYzloNjQ5NFQ5NlU1UkRTa1JlYmJkVEhhNnR1S29YTnd6THIxOTBZN0Z0V0kzS3V3azJaM25FdDZfUG5VUlB0UWJ1bGtVWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-09-01-002",
+    "date": "2026-09-01",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bunge Announces the Sale of its Two Sugarcane Mills in Brazil - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3FYN0dJR3FtdVlJQzRIUi1oR3NCNGpoS2UtNmlMVC0taG9iVHYwbnpfSjNJSzFTVUZyUmhrbGhndUM1N0RPYjlGZk1ZZHdhOHhqMXVvREhxeGhGOHpuREJ3NG1LdW00S3RoNDQwUk",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3FYN0dJR3FtdVlJQzRIUi1oR3NCNGpoS2UtNmlMVC0taG9iVHYwbnpfSjNJSzFTVUZyUmhrbGhndUM1N0RPYjlGZk1ZZHdhOHhqMXVvREhxeGhGOHpuREJ3NG1LdW00S3RoNDQwUktmaUdWblRZN1FRZGJhU0lmWno1RDBEbHYyUDJVWm5sd0d0b3B5cVdCUVdVa09PRmFKWDhvaXNubVVJcmtJQlBTaXh0TG12YkJrcnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pepsico-2026-09-01-003",
+    "date": "2026-09-01",
+    "companies": [
+      "pepsico",
+      "mondelez"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mondelēz International, PepsiCo and pladis collaborate to advance the future of food packaging - The Manufacturer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ0dHSTF6UzdlUlEwMnR1eHpLSVg1WTh5aEtEVklwZlVsSi12ZU9HLW13ckgwQmVoM2R1UFY2MlZjTFhiZDljeHU5dU5CVDFCMXRyRDNSWkI5alk5WkhsSnl4X0ZZVEo4Z3JNN3lSOG",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ0dHSTF6UzdlUlEwMnR1eHpLSVg1WTh5aEtEVklwZlVsSi12ZU9HLW13ckgwQmVoM2R1UFY2MlZjTFhiZDljeHU5dU5CVDFCMXRyRDNSWkI5alk5WkhsSnl4X0ZZVEo4Z3JNN3lSOG5JUnd0LUpzc185dEQtRFhtSTlCTkxNZVRpQTdUT2VkYlNDMUVxVnd6blBzdmVra3UtUFdqcVFJZWhNQnRjZHpweFNtNEpiRU5YWlB2dDlTTk1NdVV5ZDRyX1AzdENDSmlS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-09-01-004",
+    "date": "2026-09-01",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart to build $1.3B fulfillment center in Georgia - Retail Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOWE1Ya25qanVGQWhFU19ucXhwUGpQMEFJMmxEWkNiczBnUGdKNGI4UVNEUmM5em5idFFmc3dhdzZFT1JEMVcxTEE4cjFkR0RtOFVUeFlTYWN2elN6bUk4ZEpUVUVjYUk3UjBIZThxb0",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWE1Ya25qanVGQWhFU19ucXhwUGpQMEFJMmxEWkNiczBnUGdKNGI4UVNEUmM5em5idFFmc3dhdzZFT1JEMVcxTEE4cjFkR0RtOFVUeFlTYWN2elN6bUk4ZEpUVUVjYUk3UjBIZThxb0VCRGJjNWNNeUZfV2xyUkNudGY0SzZkVXdmV2VvcUozTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-005",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Recall roundup: These products pose potential health, safety risks - Corpus Christi Caller-Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQT0UwZm9Ja3EzOFhVbDdPLVI4QWJIS1NWU21vTVd1bDBGQk9TZ2NDWTBrQU9OeVZvNG1aOGZHcnFZSVF2YXFWSDRjaU42bm5ZU2VvblVwZld1dGI5bzI2clVkWDZEQUh3eVQ5YUVPWU",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT0UwZm9Ja3EzOFhVbDdPLVI4QWJIS1NWU21vTVd1bDBGQk9TZ2NDWTBrQU9OeVZvNG1aOGZHcnFZSVF2YXFWSDRjaU42bm5ZU2VvblVwZld1dGI5bzI2clVkWDZEQUh3eVQ5YUVPWU9CbHE1YWhLM1N5OE0yQjh3anYzaU9jcjVHcGh6RU1SdVQ5eUpNTmJFd1U3bDZQNmhFd0ZNSWpFNDRCTWdTVWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-09-01-006",
+    "date": "2026-09-01",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart Leadership to Participate in Upcoming Investor Events - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOVmhZMXM0UU9UaFhMa1pTMDBUU3hDZW1JYm5MZlVtUnpyeHhrWFBMZEhDWjBkamlvcG5GVGFqdVJ4MUlGbzlrUTRIWWY3djU3b2lQSE5VYWRQNVEyUjN4WXhMN0wwdG9xTWZ3OGN5N1",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVmhZMXM0UU9UaFhMa1pTMDBUU3hDZW1JYm5MZlVtUnpyeHhrWFBMZEhDWjBkamlvcG5GVGFqdVJ4MUlGbzlrUTRIWWY3djU3b2lQSE5VYWRQNVEyUjN4WXhMN0wwdG9xTWZ3OGN5N1d3RjAtY04wblFIRHVtaTdxNkpoYWJXLVdfQXhUWWE5VnBnZV9rM2tuNzVHcXN3Q3g2X0hLUUFscTBjMDYz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-09-01-007",
+    "date": "2026-09-01",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sainsbury's says sorry and Walmart admits defeat: the stand out retail technology plays from August - Retail Technology Innovation Hub",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNXzBHZVhVbVh2SHppbFpmd1dTXzlyRnp2OGc3STZSakVPOXZrcDVFbjV0bU5WQm9FYnZWMkJCaWEzQUo5YjV2cDQzNjZJUlZIZ0F1TldpQTEzb05GOUlqLVdWUFd2VHRKc3FENHZEa0",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNXzBHZVhVbVh2SHppbFpmd1dTXzlyRnp2OGc3STZSakVPOXZrcDVFbjV0bU5WQm9FYnZWMkJCaWEzQUo5YjV2cDQzNjZJUlZIZ0F1TldpQTEzb05GOUlqLVdWUFd2VHRKc3FENHZEa0lpT2dsaGVjb0FzTzFpeC0wVXRzaU9Lckl5Si1uV25XV1F5VFJ3NFd1SC1TWTdSeEFaOFJ4aF9FN2tnT0hjdEVtOG04ZHlwQWFONjhNaVdmRExPXzlrcmhXdzY0Q3pHVUtwWkp6RllSczJIS3ppMkQtY0xn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-09-01-008",
+    "date": "2026-09-01",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Are the Costco food court chicken tenders good? Price, portions and how healthy they are - MARCA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxONHNXRVNMbmV6bThjWGQzOFcyYXVnQ0V0Q3BJbHNyY25MUWViV3hMWWJ6ODFhODVJUWJySXBwZk1CdUYzVUNiSzBlM1d5Vk9QMlE2LW5HaHNRVWxhYkFjem1nMlUxeHR3a0sySERpd2",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONHNXRVNMbmV6bThjWGQzOFcyYXVnQ0V0Q3BJbHNyY25MUWViV3hMWWJ6ODFhODVJUWJySXBwZk1CdUYzVUNiSzBlM1d5Vk9QMlE2LW5HaHNRVWxhYkFjem1nMlUxeHR3a0sySERpd2dUaVdsVlltR29YVDFDWGluRDFhMXE1ajRyWlhfZkNTa2RzYWxZelhUT3p0bF92X0FFeGQxX2lhR1RqNGdCUFAzZHJWU0NKRTNCMkx0YWx1S1hnTTVMZzlBNUpEenI5OEdINmxZNmFvNW9vODlVaWlld3dqOGNBcXZEaUhYbklqakd4TDdv0gH0AUFVX3lxTE4xd2VCSy1FeFZfUkVOTEJRRjRCTjRmUFNYVmFwSDhiWDZKUjJ0MnN2Qjh2OExVZmpKN3F2TmtKb1VVa2FfNU9hYUx0ZWVfSVdZcWxpbmF1eXNacTdzd28zR2YxRTZyclRUQTgzY3JOXzd1S0wxT2xaWU5aY3pEaWU0VmZxcnZNNjVfOHEtRWtmdW1ZbG51cWltc3MzdUJpamJqNzItMjJvb1RQRlRFZFdiOUxsU0p3dS1vUWZzSkc1Z1FTR0dONTRJZWFpVmJfRWVrbmQ4dGUyTTdvRWoyOGthS3MybUVyRGxOQnZ3N1dXRHhySTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-09-01-009",
+    "date": "2026-09-01",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "United Bank Buys New Stake in Costco Wholesale Corporation $COST - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYnlqVjkzaUEtdHJNWmtMbDJDOTVmWmJtaW5fTmVEcW80TWY2OTdaNVVRUktuMm0zRVZWOTU4Yk9XSkUyR1FoM0ozZmU2dzNKSU5jOGY4ME5YRGRIM3gzclNWemcwOTlzNFpUMEE3dX",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYnlqVjkzaUEtdHJNWmtMbDJDOTVmWmJtaW5fTmVEcW80TWY2OTdaNVVRUktuMm0zRVZWOTU4Yk9XSkUyR1FoM0ozZmU2dzNKSU5jOGY4ME5YRGRIM3gzclNWemcwOTlzNFpUMEE3dXc3RUlabXhCczRfclZMVlNTV2g5T3ZOSnFuVVdpMWh6Y3JkZXAyM3BTckxJbU5zZE9qVnQzeVV1NXFqTjJQMVF6UGJvNVNCN1MzQlA0Q0J3bmg5UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-09-01-010",
+    "date": "2026-09-01",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Fan-Favorite Costco Find Is Finally Back (And I’m Stocking Up) - Simply Recipes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw4aFBYOWxsc012RENDYTdXb3VTdkdfRUtRODhCaXpHaGVOc0hvXzlVRGxSWFlWN2ZrTGsyUWdOR3NVdmZjdWhRSnplRXA2MUI5cGpha3RDRF9MSDg3R2pmR1RITzVDMTB3R2J1Nk",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw4aFBYOWxsc012RENDYTdXb3VTdkdfRUtRODhCaXpHaGVOc0hvXzlVRGxSWFlWN2ZrTGsyUWdOR3NVdmZjdWhRSnplRXA2MUI5cGpha3RDRF9MSDg3R2pmR1RITzVDMTB3R2J1NkhkVHNjdXBobUgxYTg1MmJPLUhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-09-01-011",
+    "date": "2026-09-01",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Notis McConarty Edward Takes Position in Costco Wholesale Corporation $COST - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOallyV1dSX2tWTjBwUkxVTWF0NGRVTnhTSjh2Tmp2UDhiNHdQMkcwQnhOdEJXVXZhTVljT1FZSmZfUWxLQjBPS1M2R2FMLWI0U1JPMmxwZlNjamYtVmpWT1FobFpDeHBwSEVBXzF0Uz",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOallyV1dSX2tWTjBwUkxVTWF0NGRVTnhTSjh2Tmp2UDhiNHdQMkcwQnhOdEJXVXZhTVljT1FZSmZfUWxLQjBPS1M2R2FMLWI0U1JPMmxwZlNjamYtVmpWT1FobFpDeHBwSEVBXzF0UzVpSzNocm85ZWc4aVp1TEQ3OHJhcGhlSDNGbjktQ2hNYU5aaVlaakR5cWM4OXJNR3Qtc3R5VmZKbGVpeFlfU3hWQjJtczJCbDQxU2FUZXJxX0VyZ1duVExXNFd1QW5Sanlz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-09-01-012",
+    "date": "2026-09-01",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NWK Group Inc. Makes New $13.88 Million Investment in Costco Wholesale Corporation $COST - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOREZRZmh5VjlDVVdKakF2TEdHRVNYS1A3aDVrQW1KZ3ZBYUdEanpLaHlxS1dtYzIzbWlqdFNOMFhWdDFZM1R5UElSUm0xS2EtSzRSOFMtVWZmNTYzRWRZa0lYaVVEOTNuX0N5QnJmMn",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOREZRZmh5VjlDVVdKakF2TEdHRVNYS1A3aDVrQW1KZ3ZBYUdEanpLaHlxS1dtYzIzbWlqdFNOMFhWdDFZM1R5UElSUm0xS2EtSzRSOFMtVWZmNTYzRWRZa0lYaVVEOTNuX0N5QnJmMnBPTHRLY3ZOWTgwb25GOXhuMDlVS05kQ2VkNzRELThjMUlzWEo1UmlZYmw0Ulo2Q2pVNVNvMXMwNXh1WXlxTXlEOWUzd2VqaXU1TFZsMDl4X2UxbVo3c3RodTZyakhpQ0tvT0EtMVRpZXFQYVNzSGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-09-01-013",
+    "date": "2026-09-01",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Northcape Wealth Management LLC Acquires Shares of 6,205 Costco Wholesale Corporation $COST - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcUlnNVJyTXg2VXhUTTg5eXJ1SUNUTk5acTZLUWZoRTVFbE80VDNuWmt6UDNkZGc2S2dnOE14YTFLUjdpSUtXZXdDT0g1a2drNy1wWnRtdGFlWWpoS1RqcVZMeWs1dDd0ems5NnFpOG",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcUlnNVJyTXg2VXhUTTg5eXJ1SUNUTk5acTZLUWZoRTVFbE80VDNuWmt6UDNkZGc2S2dnOE14YTFLUjdpSUtXZXdDT0g1a2drNy1wWnRtdGFlWWpoS1RqcVZMeWs1dDd0ems5NnFpOGRiU3dKNjdiSE4ydVI3RFNDSC1lWEZtV0VCc0o5QzRpOWxaUXlwTmlzZHhnVjZaSENNY3JOQVpaRmlhdmlZV2VKdXVsT3FoaU4weFBibXhlYnNZcGl3ZzZXTzJxSmgzcFBmeWVqbGkxcHZucVlsMEwtaGdRVGE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-09-01-014",
+    "date": "2026-09-01",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MJP Associates Inc. ADV Acquires Shares of 2,056 Costco Wholesale Corporation $COST - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaFlyaHViY3h6Z1BGR3BmUUhuMTBjMjlLSXdDOVEtWHR1eGpOb3E2ZEt1SXpjSEtlRzItRHB3S2FnOGhxSzJ2QTB5a3pTemhHZklYTEpHbHM5UWE3eUZXUHR1b3djVVBKUExIcVpiaU",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaFlyaHViY3h6Z1BGR3BmUUhuMTBjMjlLSXdDOVEtWHR1eGpOb3E2ZEt1SXpjSEtlRzItRHB3S2FnOGhxSzJ2QTB5a3pTemhHZklYTEpHbHM5UWE3eUZXUHR1b3djVVBKUExIcVpiaUk3T19LRjVYbXhSZFg2YVFSQ19vQjJGY3dnVDNmRGtGVG1sV0dfR2xqWlpFMnVOX2N6b0hhZnZYQ1U5MkFuRF9nMWdKQXNCTGlEVnFqZk13ZVpvMjRBa2ZGcGZlcFdCV29GSXR5ZUdyd2I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-09-01-015",
+    "date": "2026-09-01",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "OVERSEA CHINESE BANKING Corp Ltd Makes New Investment in Costco Wholesale Corporation $COST - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMjdsMVZyLTd6cjZKNElJNVZNQkQ4SUhTWm85b2g4MXN0OFZJZjhtaExqa0JoRWd0MU1pSE50bGtrNnpVa2QxVlBIaXI1S3FKUmpfTVFEaUV5aWNJbjk0WlZuVTdXejRtSVJpUHhacF",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMjdsMVZyLTd6cjZKNElJNVZNQkQ4SUhTWm85b2g4MXN0OFZJZjhtaExqa0JoRWd0MU1pSE50bGtrNnpVa2QxVlBIaXI1S3FKUmpfTVFEaUV5aWNJbjk0WlZuVTdXejRtSVJpUHhacFZYamNtTVdoZFVvZDloVnJEU2VCN3l3clhMUkhPTEpwUTdZcDU0OTJ6dlJsaXliNXg3MUJyNHFZcXFYY21rOThPemk3VTZKVUh2c0E0bW05OWM5TU1tOVYwZ2NLbjVzbVhyc1hzNmpQbzhkQXBNNURpdEdtdjdvQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-09-01-016",
+    "date": "2026-09-01",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2,838 Shares in Costco Wholesale Corporation $COST Purchased by PCM Encore LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZjVVcjVBRGZmYlc2WmVwUXB4QWFjWjJDN2FXN19LZGQ4ekl6RHI4b1FIWlk2T2d0U2tWTFhoUWM2TnlUbXAxVDFvbGpSamJuWGRQeGdwUUZsdGkzVjlMeWk1djZiMnYwRENxYTM0a1",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZjVVcjVBRGZmYlc2WmVwUXB4QWFjWjJDN2FXN19LZGQ4ekl6RHI4b1FIWlk2T2d0U2tWTFhoUWM2TnlUbXAxVDFvbGpSamJuWGRQeGdwUUZsdGkzVjlMeWk1djZiMnYwRENxYTM0a1piU2JZOF9tdjlUTjMtNEF5N3Y5TWtpZWFvZ2s1dnlFd0E2aXM3cFJRbTh1RHUyZnJweHgxb2dIbXh6OFhqVjZBX05NOU91QzBZRkdzVGs2UWdOeUhDYkl2WEVtSlJzaklWOXRr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-09-01-017",
+    "date": "2026-09-01",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Trillium Asset Management LLC Makes New Investment in Costco Wholesale Corporation $COST - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN3dhaGVZeTBhaVA2VkRxa3g4bl9icklIY09IWV9KOXNHeUVjOVFXTkFwaFV0M1MxTGJsUmw5LWlXUTBzemhabnppV2U5WEpNYTlNOV9JQldfRWlwV1NyZnl1eFh0RlhLWkZCX0lPV2",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN3dhaGVZeTBhaVA2VkRxa3g4bl9icklIY09IWV9KOXNHeUVjOVFXTkFwaFV0M1MxTGJsUmw5LWlXUTBzemhabnppV2U5WEpNYTlNOV9JQldfRWlwV1NyZnl1eFh0RlhLWkZCX0lPV2JNMDh1aTJzNGRSNUpUYmZCREk0aHNfa2U2SVczV2pDaEV2aXlrNERuODdybWlvUTNIdFJLRG1nS3RDUVdmWGtYWTgzQUhiX1Vvek9hYlVSUXprQkN4UG5lWGhZVXd2Z0xQNDJRTFFNZmZRLVU0QzkxcWtn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-09-01-018",
+    "date": "2026-09-01",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pasadena Private Wealth LLC Purchases New Holdings in Costco Wholesale Corporation $COST - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdE9YTWM1Ti00ejYyanVxcW9kSlJyUWVSUjBjZjNKNzFQTUh1Mnc1RW43eTRDaS1VRVhXZUJiZmUyWmhIRE5MRFBlaFBnS282dmpoRWhPMEY0ZnFRU0lLYWJPSTlsYVRHRUxRR0NLUG",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdE9YTWM1Ti00ejYyanVxcW9kSlJyUWVSUjBjZjNKNzFQTUh1Mnc1RW43eTRDaS1VRVhXZUJiZmUyWmhIRE5MRFBlaFBnS282dmpoRWhPMEY0ZnFRU0lLYWJPSTlsYVRHRUxRR0NLUGstNFVQOTdvVGRZMmJLZ3V6TFl1UFhzZTA3Z2tNV1RrNU1jNDFfOEx2cFUzMFpodGtTcWJmaUJqT0ZraHJzRVJoeXgwLWJUUktiQ284TDhXRXpUNC1uUWVOd1gtZmRnMkg3c19rR3VtWHFEODdCNlZfY3dn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-019",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Teens and caffeine – Energy beverage makers under scrutiny - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOOEFwdFRQeDNsaXF1VjBfa3RrZmotRWFCZTV5aGIyUUV0Z25UclZhLWlWVDJRZ3FHbElKT1pIN053b192Rm5aeWpPazlPbW1lRmNjMHItQXdyYkFqdkpMTU9mam1pN1NUNHV1YmJHdz",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOEFwdFRQeDNsaXF1VjBfa3RrZmotRWFCZTV5aGIyUUV0Z25UclZhLWlWVDJRZ3FHbElKT1pIN053b192Rm5aeWpPazlPbW1lRmNjMHItQXdyYkFqdkpMTU9mam1pN1NUNHV1YmJHdzFoeG96SlBUR0xVbVBXUm5nNUJIbVdTcWZaMkRlSk5veTFXaHgwUWJyYVhIQ01WRGp1RHZjSGtPTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-020",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ILSI Europe Develops Framework to Help Food Industry Rank Microbial Risks of Dried Ingredients - Food Safety Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY3M4QnV6X1VOOFdWVjVsdFA5bzcwZlNvRUJHT0xCUUFYTW9DQlJXZkhLRndfOUlja0JzQ1ZQb3JYTlNya095LWY3d2JsT1dCVk16bVdaNTU4X0pEbzkzR2ZkVWJoT3dJVHlTSHl4S0",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY3M4QnV6X1VOOFdWVjVsdFA5bzcwZlNvRUJHT0xCUUFYTW9DQlJXZkhLRndfOUlja0JzQ1ZQb3JYTlNya095LWY3d2JsT1dCVk16bVdaNTU4X0pEbzkzR2ZkVWJoT3dJVHlTSHl4S0NOT2FWY0NTTnliaFpXUFBabVRncWdiSFotTC01V1F4NGZNcF8ya1ZxVlpkMEpSajZ0cVhxMl9YTEFGS01ySTB6NU9pdDQ4M3VjaDRLRkxQS2xycWd3SW1RcE4wYzFwOG1rVUdN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-021",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Purina opens new $550 million factory in Ohio - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2N6SDNJY3lLQTgtX1hiZkpsUnRyUVBvd3hESVBwLVZPWTQ3amw3Uy11bzFwYS1DYS1sU0xGZk5rM0ZTTjFGTUhhYU5UWnlLODEtZmhjb0xlczAzXy1Fd3Vkb05BNVBCMFpPUm9ISV",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2N6SDNJY3lLQTgtX1hiZkpsUnRyUVBvd3hESVBwLVZPWTQ3amw3Uy11bzFwYS1DYS1sU0xGZk5rM0ZTTjFGTUhhYU5UWnlLODEtZmhjb0xlczAzXy1Fd3Vkb05BNVBCMFpPUm9ISVJRdWh4anhNeU5hR25waXhWTFJXeHBZbmhKY3BCYjdLaUtfWmJlQ0dITkpOQ3ZDb3ZnZzJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-022",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Runamok taps new CEO and CMO - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNQm9aOUlnYWxzbFhkOS1DUjNQTFVFY0xPbFBhX2NIQWZucjd6RldLS1hVSUJCNzlnVkdwelVVaVV4OG1ON2VMN2psWHZvTmlpYjhYWmM1Z3U3TTNUY2pKQi1qTlZiNS1VY19VUGcyWk",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQm9aOUlnYWxzbFhkOS1DUjNQTFVFY0xPbFBhX2NIQWZucjd6RldLS1hVSUJCNzlnVkdwelVVaVV4OG1ON2VMN2psWHZvTmlpYjhYWmM1Z3U3TTNUY2pKQi1qTlZiNS1VY19VUGcyWk9HNzZOa2ZteVJxbnVmTHhKOUNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-023",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "food_inflation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Food inflation accelerates as ambient prices see sharpest rise - Grocery Gazette",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcmtVM1IwdUh6bTNucmRrd3Y0TDhKT2JSaU1XMFZhZnBoS0dWR29idGZaMUZGbFdSMFV2RlY0WDBjaXBxRzVFQTdZSVRYbHJMUmJRRDVjWHBoclFFVnBDUDRReFBBQzZFc3BzZlNiVU",
+    "sources": [
+      {
+        "name": "google_news_food_prices",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcmtVM1IwdUh6bTNucmRrd3Y0TDhKT2JSaU1XMFZhZnBoS0dWR29idGZaMUZGbFdSMFV2RlY0WDBjaXBxRzVFQTdZSVRYbHJMUmJRRDVjWHBoclFFVnBDUDRReFBBQzZFc3BzZlNiVUpuZ1RNVDVrbC12T21OZWhVRHFFcG5yUnJrZGdPSGhQNW5DWHdST01zVTJvRDF2bW1BVkMzYkxETXhHTzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-024",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Indonesia’s Inflation Jumps to 3.19% in August on Food and Gold Prices - Jakarta Globe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWdGTXhpcUxfMWhoOUtITlNhSWxkZ20yLV9IemVVUTUyMGd3U1JPZFJMM0ZCa3k0SWg3YXd5czVfVXBWMGtjbXVBbTVaR3VPbjRxcnd1aWJ5aUs0dVA5LW1VQnFJNk5yOXVvQjBVSz",
+    "sources": [
+      {
+        "name": "google_news_food_prices",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWdGTXhpcUxfMWhoOUtITlNhSWxkZ20yLV9IemVVUTUyMGd3U1JPZFJMM0ZCa3k0SWg3YXd5czVfVXBWMGtjbXVBbTVaR3VPbjRxcnd1aWJ5aUs0dVA5LW1VQnFJNk5yOXVvQjBVSzBUQV9TYUtBZ3NTZkJxWkRMYzlVREt2UGtkQmlyWF8zSEhDTmdEa2JQbXhfYm04MzFLM0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-025",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Publisher’s Platform: Food Safety Education Month starts Today – Here is what I want from government, industry academia and you",
+    "summary": "The National Restaurant Association created National Food Safety Month in 1994 through its Educational Foundation, to heighten awareness about the importance of food safety education.",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/09/publishers-platform-food-safety-education-month-starts-tuesday-one-day-after-the-worst-cyclospora-season-on-record-officially-closes-nothing-done-in-a-home-kitchen-would-have-stopped-it/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-026",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Another sprout product under recall; seed supplier refuses to issue recall",
+    "summary": "<p>An unnamed seed company is now under investigation in an outbreak traced to fresh sprouts. And, another product has been added to the recall of implicated sprouts.</p><p>The outbreak of E. coli and",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/09/another-sprout-product-under-recall-seed-supplier-refuses-to-issue-recall/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-027",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Unions renew call for UK to ban meat from Brazil",
+    "summary": "<p>Four farming unions in the United Kingdom have renewed calls for a ban on imports of Brazilian meat to align with European restrictions.</p><p>In a letter to Angela Eagle, Defra Secretary of State,",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/09/unions-renew-call-for-uk-to-ban-meat-from-brazil/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-028",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Alert issued by officials in Hong Kong about formaldehyde in rice noodles",
+    "summary": "<p>Authorities in Hong Kong have issued a warning about a brand of imported rice noodles because of formaldehyde.</p><p>The Centre for Food Safety (CFS) of the Food and Environmental Hygiene Departmen",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/09/alert-issued-by-officials-in-hong-kong-about-formaldehyde-in-rice-noodles/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-029",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pet food recalled because of contamination with Listeria and Salmonella",
+    "summary": "<p>Northwest Naturals of Portland, OR, is voluntarily recalling 53 cases of Northwest Naturals Frozen Chicken Recipe cat food and 19 cases of Northwest Naturals Frozen Raw Diet for Dogs Chicken Recipe",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/09/pet-food-recalled-because-of-contamination-with-listeria-and-salmonella/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-030",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Catfish skin products recalled because of ineligible import status",
+    "summary": "<p>Asian America Trading Inc. of Hayward, CA, is recalling 996 pounds of ready-to-eat fish skin products prepared from Pangasius fish because they were produced in The People&#x2019;s Republic of Chin",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/09/catfish-skin-products-recalled-because-of-ineligible-import-status/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-031",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chocolate eyeballs recalled because of undeclared milk",
+    "summary": "<p>Crystal Temptations of North Arlington, NJ, is recalling Halloween Chocolatey Eyeballs because they contain undeclared milk allergens.&#xA0;</p><p>People who have an allergy or severe sensitivity t",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/09/chocolate-eyeballs-recalled-because-of-undeclared-milk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-08-31-001",
     "date": "2026-08-31",
     "companies": [
@@ -783,6 +1372,385 @@
     ]
   },
   {
+    "id": "bunge-2026-08-31-042",
+    "date": "2026-08-31",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zacks Industry Outlook Highlights Bunge Global and GrowGeneration - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0YwUEpPSHQ5d0pRUXloMW9NWlAtSzF1UVdIamtnSjc0TzVmMkY5YlViN1dXemxZM0xlbmZWTFo1bmM4Ry10YktYelZ1bWZZVVlreVlxanJFcDNzUmp2TFdubDRJcVdZVG1vdzJkNT",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0YwUEpPSHQ5d0pRUXloMW9NWlAtSzF1UVdIamtnSjc0TzVmMkY5YlViN1dXemxZM0xlbmZWTFo1bmM4Ry10YktYelZ1bWZZVVlreVlxanJFcDNzUmp2TFdubDRJcVdZVG1vdzJkNTNLZUVuVEFlVFlMZXVmUWFXek81cTF1Z2tMT0Y4ZFdwWnI3c0cybTY2T1JHbDBqdzZ4NWhncmc0Q0EzSVZlLWJvdUhfd0hCMUtFQUxBeG13?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-08-31-043",
+    "date": "2026-08-31",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Weil Advises on Tyson Foods’ $1.0 Billion Senior Notes Offering/$1.2 Billion Tender Offer - Weil",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNckZkMVpweGk1RnBCVll5YUFiN2xBTnBaUUhYREFtR1FjbHVXLWRlMTBrZWhsZnhpVEE1YzJ4TGpMMjlHY1gxanpNenlFZnJuME5QRUhodjh4OE43UF9MaEJmRnVXWnUtNmxKN0lPQn",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckZkMVpweGk1RnBCVll5YUFiN2xBTnBaUUhYREFtR1FjbHVXLWRlMTBrZWhsZnhpVEE1YzJ4TGpMMjlHY1gxanpNenlFZnJuME5QRUhodjh4OE43UF9MaEJmRnVXWnUtNmxKN0lPQnBqSkZPMWRCSjd5R3drU0dacFU1ZWlER2VIeUlLcG5hdGU0Z1BkQnhEVmlKa3E0Y2taMzVlOW9PenZrTGxRVjJxUXBJUFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-31-044",
+    "date": "2026-08-31",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart to Build High-Tech, Next-Gen Fulfillment Center in Rural Georgia - progressivegrocer.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDY5eTJ5eGx5a3FWemkxRnVxckxiLVUwU1lvenR6OWp1TXdDRXdMQnowV3FFajlsQmxZZ3BPeTdVNFM4YmdIUV9qejVCYjdSNXVLbDZvY0ZxMXVXZ2w3bWZfN2RsQ0ZzR2djbU5ONG",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDY5eTJ5eGx5a3FWemkxRnVxckxiLVUwU1lvenR6OWp1TXdDRXdMQnowV3FFajlsQmxZZ3BPeTdVNFM4YmdIUV9qejVCYjdSNXVLbDZvY0ZxMXVXZ2w3bWZfN2RsQ0ZzR2djbU5ONGgyVzR3d2pOc2FDM1V2ejRkVTNEN2NKUFpUcmtINE1FV180ckM2OXpDRHBTNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-31-045",
+    "date": "2026-08-31",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart plans next-gen fulfillment center in Georgia - Chain Store Age",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOR2RrSjZyM1hPT3NNSk9neEVTZWpPVXFUemxNNHRIZ0JLTWdnWGFaSmhfS0U5Y05qWkJ3dzAwd2dURVZFdE01dUMxR2J0T1h4UmJacWdtcHFjNnpvd0RkNjc5bThDNmo3ZWFUMEZKdT",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR2RrSjZyM1hPT3NNSk9neEVTZWpPVXFUemxNNHRIZ0JLTWdnWGFaSmhfS0U5Y05qWkJ3dzAwd2dURVZFdE01dUMxR2J0T1h4UmJacWdtcHFjNnpvd0RkNjc5bThDNmo3ZWFUMEZKdTJDMmZIZmVPbEdubDVuNjJDOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-31-046",
+    "date": "2026-08-31",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Probation departments team up with Walmart for food drive - TheDailyNewsOnline.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZzROV2FlTFBXNHFNR1BPSGNLT3lMakRvUVpueWRxOHZkNFZsZnVuZktiU3pWM1A3R2VyQ283dnZtLUlVMmE4Yll0TVlIVzFRbEZWaVVYM0tiMndRbFU3X1ZMTjdEUmdyTzdCN1I0bE",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZzROV2FlTFBXNHFNR1BPSGNLT3lMakRvUVpueWRxOHZkNFZsZnVuZktiU3pWM1A3R2VyQ283dnZtLUlVMmE4Yll0TVlIVzFRbEZWaVVYM0tiMndRbFU3X1ZMTjdEUmdyTzdCN1I0bEd0VS1XUkx6U3kwaTFmanlPdWJHc3d1Y3A3TXJuY2cwTjhaUDhFLVdScjBTbnRFbWE0R3N2YnFtWThFWHlHNmtZcHJYY0tNRG81eUg2bTdrS3FRcTB1MjVDYlFMSXBYdG9VYWxpMXNWdFNNRE40a2VHbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-047",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2 suspects taken into custody after assault, firearm incident outside Trussville store - WBRC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQMEdwck9nRDk3Um5kWVNWN3lYS2NTX0RkdHk5RXhZdXk0TGpVd0F3OUdkZXJSZGxneE5CTDNxcHhpc0NzSExWLVFBNk9KVmhULU85WkpQSXNNU2VHZnNPQWlSeWNpeWVFellQanJfcV",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMEdwck9nRDk3Um5kWVNWN3lYS2NTX0RkdHk5RXhZdXk0TGpVd0F3OUdkZXJSZGxneE5CTDNxcHhpc0NzSExWLVFBNk9KVmhULU85WkpQSXNNU2VHZnNPQWlSeWNpeWVFellQanJfcVBXN1Vqb0thLUpBZjdvR2RRdEY3UThUUXVnMDlaN3ZQTXpjUDVPQ2hfSU5ObUF5WXpFcjB4YlU1RHBjcjRZRGdxTURrMDR2Rnl4bHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-31-048",
+    "date": "2026-08-31",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Kohl’s Hires Former Walmart Fashion Exec as Its New Chief Merchant - WWD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOcExBN2hkT3FfQjBmNHJBelV0bHpDV3I4dVpET0ktTXRDMnB3UGNWWXZmQ21QYlZxWWtZZXZ5QlpoODctZ3h5bHRISTA4bW1uS0h1VC0xU3ZYU0JzUWYtMFlSYmc1aHNFcjZQbWdSMV",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcExBN2hkT3FfQjBmNHJBelV0bHpDV3I4dVpET0ktTXRDMnB3UGNWWXZmQ21QYlZxWWtZZXZ5QlpoODctZ3h5bHRISTA4bW1uS0h1VC0xU3ZYU0JzUWYtMFlSYmc1aHNFcjZQbWdSMVBkRTJGdlVXSkhWbTlJeldQcDE1bkctMzVfT1hLaDhBZTZIbnFZaE45dEsxWUljcGo2Q055UE9oZUN5ZHFY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-31-049",
+    "date": "2026-08-31",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart to drop limited-edition rotisserie chicken purse - Drug Store News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOZjRKUzVKZ1gzdEgzckRwVFZmbEdGTFJ1aFpVaDNGWkdVY1VrWkRScnNzT1gwU05FN2JRN3M0cTVhLU5Tb0RPUEEzbU1jcVhYRVM3bGxMNE9PU0pkWWNucGhEc0xyYkstVUV4WkhYRG",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZjRKUzVKZ1gzdEgzckRwVFZmbEdGTFJ1aFpVaDNGWkdVY1VrWkRScnNzT1gwU05FN2JRN3M0cTVhLU5Tb0RPUEEzbU1jcVhYRVM3bGxMNE9PU0pkWWNucGhEc0xyYkstVUV4WkhYRGk4Q0FKbXJGbjM4X3JmQTZha3VfS2lNQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-31-050",
+    "date": "2026-08-31",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart settles federal opioid lawsuit for $50M - Supermarket News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNeVhoTVBqWlRILTE0ZWRweUZFTVlRcnc0U0RybXlVUl9rZ2ZoOXlwX1FpTlhNRFBmYXNoVDhVQ3hoWFN0d3Iwd1plTFNMbTdncGZ3dFZ4Nk5lSVQ5dXZTeTJhVGY3RHh4QWZ6TGMxLV",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeVhoTVBqWlRILTE0ZWRweUZFTVlRcnc0U0RybXlVUl9rZ2ZoOXlwX1FpTlhNRFBmYXNoVDhVQ3hoWFN0d3Iwd1plTFNMbTdncGZ3dFZ4Nk5lSVQ5dXZTeTJhVGY3RHh4QWZ6TGMxLVc1c1VrX2dnOHR1NmJTYXVOYzEtLUFud0pRWHAxR2JpWHJWXzRxb0t0bkNCYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-08-31-051",
+    "date": "2026-08-31",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco’s new California location nears completion as opening date revealed - New York Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQeW9ZLWloT2JCajRpUWRraVVmRHJHU2hkUDZKT1VTX2tJZHpuX2pBclhHTEFNNlBhV3BFWG9OaGRsS1RLNXFTclNjVEhIei0xYzNVb1lxVDlWQWR3bmduTnlWd0N1Q24yM0RSM0hMSD",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeW9ZLWloT2JCajRpUWRraVVmRHJHU2hkUDZKT1VTX2tJZHpuX2pBclhHTEFNNlBhV3BFWG9OaGRsS1RLNXFTclNjVEhIei0xYzNVb1lxVDlWQWR3bmduTnlWd0N1Q24yM0RSM0hMSDZWUTlVeDBQMkk5aUV3dFlMaVBFYkhFWGxxOGJ6UTdaNU9LNVhidFV3WkV0R0FGYS15d0tOUFN2WXUxdzJm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-08-31-052",
+    "date": "2026-08-31",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A Comforting Fan-Favorite Costco Ready-Made Meal Has Finally Returned To Shelves - Chowhound",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFJvVXlSMHdCd0RyNFFINHo1MENNYWJTN3NBRHdnazd3emRWNTJaQTBpN0JqVTRTblZyNjFyUUhReGxIZF91VVJwZnNuRHZYVl9HR1lZZnRQNm1zZ0FpSk5acGp3ZTVwdGg4VF9ZSz",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFJvVXlSMHdCd0RyNFFINHo1MENNYWJTN3NBRHdnazd3emRWNTJaQTBpN0JqVTRTblZyNjFyUUhReGxIZF91VVJwZnNuRHZYVl9HR1lZZnRQNm1zZ0FpSk5acGp3ZTVwdGg4VF9ZSzBDMHVVZHZubGIxR0xobmRFTVhUUjhwVXo2cDNfNHA5Y0JfdXVwNHhZQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-08-31-053",
+    "date": "2026-08-31",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco warehouse planned for Westfield. When will construction start? - IndyStar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeG9PUTMtbzZqbDZpSUs3X3Z4MEJIWlo3NkxsZmpvMFh5Vkpyc3U5ZVdTMkIxMlU2TXBVR0VhejBibmdLY1RmeDA0MkctMTI1ZG9URElsVnNOVTFsVGltX0pyUVIxTUEwQzhoZzhsOV",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeG9PUTMtbzZqbDZpSUs3X3Z4MEJIWlo3NkxsZmpvMFh5Vkpyc3U5ZVdTMkIxMlU2TXBVR0VhejBibmdLY1RmeDA0MkctMTI1ZG9URElsVnNOVTFsVGltX0pyUVIxTUEwQzhoZzhsOVJBbjIwall4aDJLTU12LThvYlhkcmVQaGNHLXh3SjY1cnlIbjRJMFZmMFd3NnN1TEtJcnZJUHZVdXFvOVA4UVNGcUV4OU5UVkxnQjI1Q0g3WmUxYmxjSUNQeg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-054",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Industrial-scale microbial foods—growth strategies for the next-generation protein market - Phys.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1EUkhaNjMwSGhXd1ZFUHVvSms1VFlSREhNdDBVSVpUdmlSenU2VThZZll3RHpPNDlKeVg4MUdqZlR6TldCNDdId0ZaTzE0NDJmMVdHWWI1d3ZHNWdOWExxcjRLaHAxYkNEMmZEM3dIb0",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EUkhaNjMwSGhXd1ZFUHVvSms1VFlSREhNdDBVSVpUdmlSenU2VThZZll3RHpPNDlKeVg4MUdqZlR6TldCNDdId0ZaTzE0NDJmMVdHWWI1d3ZHNWdOWExxcjRLaHAxYkNEMmZEM3dIb04zeXNGRlZ3VUdnQmhzdHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-055",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NJ Food Council Hosts Record Setting Day on the Greens - New Jersey Business & Industry Association",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE0weWRUN2NnRFVYM1hWUEJpY1ljLUZPb1BzdEpVbTV3RUpjZmFWcXFVSDQ3SWJFdmtwYUtrblhDdE1iNXBBX0tCdzhXZTZhT0gxX0NZRlluVTlNUHAwZFF5Nkx0bFdFUE56Q3ZPbWltNk",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0weWRUN2NnRFVYM1hWUEJpY1ljLUZPb1BzdEpVbTV3RUpjZmFWcXFVSDQ3SWJFdmtwYUtrblhDdE1iNXBBX0tCdzhXZTZhT0gxX0NZRlluVTlNUHAwZFF5Nkx0bFdFUE56Q3ZPbWltNkhoM1dtOVBLR21MNnMyUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-056",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "health_wellness",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "City Roots Hospitality Acquires Fysh Foods, Zoya Biglary's Plant-Based Seafood Brand - markets.businessinsider.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaHdjU1NiOG1QYWhjdUVkOTZUemZaX0xZZl9PeC1kX1JFeU1KcjlpU2hha3ZmWmxMUnBoTTNEM3ZDT1pxT0tiMWNRWU9PRDdYaHRLaS14TzNFclJxTGQwc3ZpWmdlV1d2bWtyTzFIWE",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaHdjU1NiOG1QYWhjdUVkOTZUemZaX0xZZl9PeC1kX1JFeU1KcjlpU2hha3ZmWmxMUnBoTTNEM3ZDT1pxT0tiMWNRWU9PRDdYaHRLaS14TzNFclJxTGQwc3ZpWmdlV1d2bWtyTzFIWEJPV3V3UXN5QUR4YUZtaUlFTzRqc0NOdW9pTTZjNHBuNDJ0ZENxU00tcG81Ym1OVzZURGszU29RLTB2VVN4cHBNeDczY3JkdFloSzhjLU8xOW5LUXpUSk5xNjRuNkkxYXdOZTV1enE4UjcyQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-057",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Meat Institute Raises Food Safety Concerns Following Trump’s Meat Processing Proposal - Quality Assurance & Food Safety",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3JSRkRTZDRGb2lJZFFuUnp6V3d0Z1FZbDlHdWZ0U0EyT0RhWXJTWklnLTZ4dEhTMUtPQ2N1U05iQXo4RjNldHk2WDU2cjl5TG4zazcwdW5YWVI2dE5RSHdNMkYxN21Td0tvZ1JuME",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3JSRkRTZDRGb2lJZFFuUnp6V3d0Z1FZbDlHdWZ0U0EyT0RhWXJTWklnLTZ4dEhTMUtPQ2N1U05iQXo4RjNldHk2WDU2cjl5TG4zazcwdW5YWVI2dE5RSHdNMkYxN21Td0tvZ1JuMEl6UTYxZExOODdMU1BOVGJIVkI5S0VvdzMwVjZLamp1MWNaTEhRQVN4SmJjemt0VTZBbTZ4NlJtQjQxU2NVMUJUNFJrSmVUUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-058",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Food’s new rules: Regulation, reformulation and the reinvention of legacy brands - FoodNavigator.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQelZwMGJIMURmbUJBeUVuSnIyQlBxRnNXUURvY2dLdjZOaHI5Rk1EQTcwRnY4Y1Z4bG0tUWVWUG5hN08xRnVEcHcxbDlRX2hLMTVRMFZQcGVkaFBSbVJhc1pzUHlFdGRjRFhpcDluZE",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQelZwMGJIMURmbUJBeUVuSnIyQlBxRnNXUURvY2dLdjZOaHI5Rk1EQTcwRnY4Y1Z4bG0tUWVWUG5hN08xRnVEcHcxbDlRX2hLMTVRMFZQcGVkaFBSbVJhc1pzUHlFdGRjRFhpcDluZElNOXZTYzNmb0YwWmFFNGNSOXJHUmg1NllQX1RzT0JDaUNRaDNRTUdNRXhWRGd3R0xhYk1wcFBkLWxuWUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nestle-2026-08-31-059",
+    "date": "2026-08-31",
+    "companies": [
+      "nestle"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "August in review: Nestlé’s GLP-1 strategy, FDA GRAS proposal, El Niño risks - Food Ingredients First",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNT0VqNmJGMjF5RDZZWXoyLTlid0pmQ2dodk4ybFExMUJRZWd0NVZmdUlfVFpQR2tHbjY1c0VVVk9DQ1RRcWRfQV92Ynp5WU15bGVvc29kUVI5RUxlV2dXUnA1bl9LRm1WUzhaTERHUz",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT0VqNmJGMjF5RDZZWXoyLTlid0pmQ2dodk4ybFExMUJRZWd0NVZmdUlfVFpQR2tHbjY1c0VVVk9DQ1RRcWRfQV92Ynp5WU15bGVvc29kUVI5RUxlV2dXUnA1bl9LRm1WUzhaTERHUzV5SjlJbWN3Z0ZOYWRER1drUUNKMGtFS0JfQnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-060",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Domino's® Asks America: Is the Domino™ Pizza's First Fast-Food Icon? - Domino's Pizza",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQRVN6SlpNWTlPajZQeUZoZXJWSHl1cWlwNEJNUlZsWGVYUWFxNWdVTGptZ3VseUtVUXltM3FNcEFid1pOZ0FSenBraUNUSUtRdVBqcVVQYWpaTWNyM2wyb1JBUTFaNzY4SmFGOWZFdF",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRVN6SlpNWTlPajZQeUZoZXJWSHl1cWlwNEJNUlZsWGVYUWFxNWdVTGptZ3VseUtVUXltM3FNcEFid1pOZ0FSenBraUNUSUtRdVBqcVVQYWpaTWNyM2wyb1JBUTFaNzY4SmFGOWZFdFF1Ri1Uc2k4SW90X2k5SGdDSWdMdGVRYk9Vc0F5QXdtcXJGWnNhdGpBVDluT0JDb2JPaGU5RXVwVnpBeGI2blZDdHE5S3VYbzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-061",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Olive oil recalled because it contains garlic not approved for cooking",
+    "summary": "<p>LMSI LLC/Kofinas Olive Oil is issuing a recall of its Garlic Mediterranean infused extra virgin olive oil for using a garlic essential oil not approved for culinary use.&#xA0;</p><p>The flavored oi",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/08/olive-oil-recalled-because-it-contains-garlic-not-approved-for-cooking/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-08-30-001",
     "date": "2026-08-30",
     "companies": [
@@ -952,6 +1920,25 @@
       {
         "name": "walmart",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVh4LW1EN29lMmxmdzBtRHlqZGhub3NZc3FpX3hyX1JYVjVKV2RFSHBtR2t5eHhwX000S2kyQzNPR1JQc2lBQ1lmb0gyYVB3N0QyZ3RpOFIxdXJXUHB4Ykp4eXl6cWFUWXV1WlR0Z3pPb3loTTREQlB4ek5kdWNHaEtzcFZLbEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-30-010",
+    "date": "2026-08-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzczVlhrcE5xcklGZkduaDBxVUdPaGFCaDY2aDkzS2RsNXRIME5DdWVNbVBJLWZ0dVQ4TzR2SXA0aWFmdnRLVllzbzZKcUNhb3JtSy1WdTlmdHVnZzhFREV4bHFmOV84SGM2RE1qTF",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzczVlhrcE5xcklGZkduaDBxVUdPaGFCaDY2aDkzS2RsNXRIME5DdWVNbVBJLWZ0dVQ4TzR2SXA0aWFmdnRLVllzbzZKcUNhb3JtSy1WdTlmdHVnZzhFREV4bHFmOV84SGM2RE1qTFVuYzFKdUdTdk9vU1g4bWh2TFRJVU5UcjFhYzYw0gGQAUFVX3lxTE1HWm5veHoyQi1wM0xNUGRqR0FaeGJoX2dtMmlPdEJzamR2V2lUak9ROVo3MTRTQVExS0xmaDA1S1NwLXZSNU5TUzJrV0hQcW1kWGdwQzhqWFo3N203cjZ6WDBCRlN6T2YyUVM5YXVOSm5ST1VVN0RtYkY0RmpaUEJycUtYaXhmNVV5djFVWl9oZA?oc=5",
         "type": "rss"
       }
     ]
@@ -1259,6 +2246,24 @@
       {
         "name": "walmart",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNenJWVHdnd05Vem1ZWGFqYkhKOU9aclh5TFBJQllIaDlOR3pMMHl3cWpPUjlIZWxUWnZwWnI4YjRJWm9sdnlpMTFidm5zb3F4cm1jQ2R5WDQ5SjdFeW1fX0puZi11ZmxBd2ROdmdWX0ZGR0tqY1E3ZkdFQl9CZ0pWZkhCOWctMERHNExKMkRJaVNxT3pnbHRwMEhQWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-08-29-017",
+    "date": "2026-08-29",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart to Pay $50 Million to Settle Opioid Lawsuit, U.S. Says - The New York Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPbi12ZVlXOFVVWEFWY3g2ajNqeU5oeVpzVkh0ODgxV2ZCdjdmTjNNeHJxX1ltcVZIZFJKNF8yTnNiZHFzR0pTN003TG9Ha1hNM0s5Q0NORElEV2doWk96VmpFdm9rQVNBZHVYcDlVNk",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbi12ZVlXOFVVWEFWY3g2ajNqeU5oeVpzVkh0ODgxV2ZCdjdmTjNNeHJxX1ltcVZIZFJKNF8yTnNiZHFzR0pTN003TG9Ha1hNM0s5Q0NORElEV2doWk96VmpFdm9rQVNBZHVYcDlVNkZWOUNQMFBkdVVRUUNQeHFERVV3?oc=5",
         "type": "rss"
       }
     ]
@@ -2285,6 +3290,26 @@
     ]
   },
   {
+    "id": "walmart-2026-08-28-054",
+    "date": "2026-08-28",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart (WMT) Continues to Grow Beyond Retail- Are Investors Noticing This? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZWNDMENjQzJ4WWNyOXlMSFVUUXVKZ0tBbXVCbzJ2Q2dhZ3ExS19yTHNZN1V4STlIT1VlMmNxNGI4NEFtdUZvcXlkTTU5OGk1UFpTZkNFNEt2TDRYWGdUUmQyMmlZVW94c2g4WHZDal",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZWNDMENjQzJ4WWNyOXlMSFVUUXVKZ0tBbXVCbzJ2Q2dhZ3ExS19yTHNZN1V4STlIT1VlMmNxNGI4NEFtdUZvcXlkTTU5OGk1UFpTZkNFNEt2TDRYWGdUUmQyMmlZVW94c2g4WHZDalFtLXdDN211bGdad1NVMy1BSHpfWmN6RFd2eUUwa2ppTXhTVlFWODRvWnE4TUwyVmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-08-27-001",
     "date": "2026-08-27",
     "companies": [
@@ -3221,6 +4246,26 @@
       {
         "name": "costco",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WeFdrVHdZQU1aTTh1ODlILTdSV3VfVmsyN0hoQjZfQWFOSURxSUNtVHNPZjJxdVNVQnhCQ3U1bEhHdE5UTm9CMS1zbS1GalhWVHgyNEJIaFdzR3htbGFnVmNXT2FTSUhhVldMV1dfUlVvek4xU3Fsaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-08-27-050",
+    "date": "2026-08-27",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Former Tyson Foods executive named CFO at Hormel Foods - nwahomepage.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNakpaMFNyT0Rqa0JFODV2RmFNMEpMekdHWGRKellWUS1SSWxHY2V5RXJqa1BUYWxjMXhXcmlsbEQ2RHhxemt1Rmg2R3hSMTJQbG0ySnYtNlZVYWoyNE1Oc1JZaVV2Q0hUT29HNjBONT",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakpaMFNyT0Rqa0JFODV2RmFNMEpMekdHWGRKellWUS1SSWxHY2V5RXJqa1BUYWxjMXhXcmlsbEQ2RHhxemt1Rmg2R3hSMTJQbG0ySnYtNlZVYWoyNE1Oc1JZaVV2Q0hUT29HNjBONTA0M2tJLVBuV3VKV2ZDdzRtQV9GNGFHcHdpbWZLcnlKWmdGcEw0MUpLZG1JNW9QMUk5MUVvLTBPM1NKSjZObmltZzJFQ3BGY3duTDY1MWN30gHDAUFVX3lxTE1SSFdsWHJxa1htQUNabGVGOWxyNFBDampqS19IUFhSU2JCUVVqZUVMNXV3RHpDeGdvemxfRHA5Z1UtNU1oUEJGTGdHWXo0Umt6aWxyQVc4MTJ4UktncVM2RWx5Wl90WE9pN3U4dEhaV3lnbnlzaERuVjRBZW1CQ3J4Q1hnY1JFYVBXUGRyZmRYQzA3MVZQbTF3RHQ4RUxmTktvbHd4VXBYXzk0SXZ3M1piV053TUw2c1pVdXh1M001bzdpcw?oc=5",
         "type": "rss"
       }
     ]
