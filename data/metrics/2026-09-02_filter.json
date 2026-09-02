@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 8,
+  "gate2_fail": 13,
+  "passed": 52,
+  "gate2_samples": [
+    "Archer-Daniels-Midland (ADM) Beat Q2 Estimates, Is It Still Slightly Overvalued? - Yahoo Finance",
+    "Is Bunge (BG) Using Sugar Mill Sales To Sharpen Its Core Agribusiness Focus? - simplywall.st",
+    "Agriculture giant Bunge to offload its 2 sugarcane mills in Brazil - The Business Journals",
+    "Bunge Global agrees to sell Brazil sugar mills - grafa.com",
+    "A Look at Bunge Global SA (BG) After 3.5% Gain -- GF Value $117. - GuruFocus"
+  ]
+}
