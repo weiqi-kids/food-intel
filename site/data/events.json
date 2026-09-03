@@ -1,5 +1,134 @@
 [
   {
+    "id": "pepsico-2026-09-03-001",
+    "date": "2026-09-03",
+    "companies": [
+      "pepsico"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mondelēz and PepsiCo trial digital watermarks to improve flexible packaging recycling - Packaging Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQVjNnTTU0M3lmd0RzMGlQZlZ3dmoxZm5KV244UHlscm14eFVpRXJ3dHpId19KZHBlRE1DYi1fVGFfVzZGNFBPN21WMEFkbUZtLTJCVE5NTVlweVVaR0NhWnAzVjlkRTFjODZPNjF1am",
+    "sources": [
+      {
+        "name": "mondelez",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVjNnTTU0M3lmd0RzMGlQZlZ3dmoxZm5KV244UHlscm14eFVpRXJ3dHpId19KZHBlRE1DYi1fVGFfVzZGNFBPN21WMEFkbUZtLTJCVE5NTVlweVVaR0NhWnAzVjlkRTFjODZPNjF1ampHM2F5SEhvT2g2MnNIcnV4RURjb3E5REhqLW9Ddjc1aVV1dXk0QkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-002",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Should We Be Afraid of Our Food? - theatlantic.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPalp4RUZwQUtGX05vNkNsWVI4X2YybjBpbll0MlFQR3d0MjZqemhzNXpIVGZqS0tTS2YweEhTc2o3M3g2dkc4ZUliel90UXpGb3dJYlB2VlNXNHVzSGNCUmZSSXF6eVJ5ZVN2b042SX",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPalp4RUZwQUtGX05vNkNsWVI4X2YybjBpbll0MlFQR3d0MjZqemhzNXpIVGZqS0tTS2YweEhTc2o3M3g2dkc4ZUliel90UXpGb3dJYlB2VlNXNHVzSGNCUmZSSXF6eVJ5ZVN2b042SXB0YWZuZERiaC0tbHB5dnBkQXJaYnJyOTR5VFRjcVNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-003",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Britain’s food security under threat, billionaire ‘chicken king’ warns - yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWo5dU12YjlmMUQ3QTZmRkFtZzZEWXo3Y0l4QVVOeUlBTDd3OTZWRUVHcTVuaTNybUthOHFMdk1BRGVnTzFkNDVjVW9Qd2RsVzBueWZzR0ZqZWlOYmJnZkFqUGQzNkk3WjhQdzJnZz",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWo5dU12YjlmMUQ3QTZmRkFtZzZEWXo3Y0l4QVVOeUlBTDd3OTZWRUVHcTVuaTNybUthOHFMdk1BRGVnTzFkNDVjVW9Qd2RsVzBueWZzR0ZqZWlOYmJnZkFqUGQzNkk3WjhQdzJnZzJGZjRFWk5VdTUxMnp0NlZzdV9TbGVXZHdMTmJfaGhJMHlmZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-004",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Publisher's Platform: Harvard read the FRESH Act line by line",
+    "summary": "Nearly all of the public argument about this bill has been about food chemicals: dyes, PFAS, the GRAS loophole. That is where the fight started, and it is where the coalition backing the bill would pr",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/09/publishers-platform-harvard-read-the-fresh-act-line-by-line/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-005",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FDA outbreak table is showing 17 investigations",
+    "summary": "<p>The Food and Drug Administration has 17 active outbreak investigations according to its Coordinated Outbreak Response &amp; Evaluation status table as of Sept. 3.</p><p>The agency is investigating ",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/09/fda-outbreak-table-is-showing-17-investigations/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-006",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fatal Bacillus cereus outbreak tied to restaurant",
+    "summary": "<p>An investigation into a fatal Bacillus cereus outbreak linked to a restaurant in Germany has highlighted temperature and storage issues.</p><p>Eleven cases were reported with five hospitalizations,",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/09/fatal-bacillus-cereus-outbreak-tied-to-restaurant/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-007",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Asian countries rehearse food incident response",
+    "summary": "<p>Eleven Asian countries have rehearsed preparation for a cross-border food contamination event.</p><p>All 11 member states of the Association of Southeast Asian Nations (ASEAN) met in Jakarta, Indon",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/09/asian-countries-rehearse-food-incident-response/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-09-02-001",
     "date": "2026-09-02",
     "companies": [
@@ -341,6 +470,193 @@
       {
         "name": "food_safety_news",
         "url": "https://www.foodsafetynews.com/2026/09/public-health-officials-investigating-salmonella-outbreak-in-utah/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-09-02-019",
+    "date": "2026-09-02",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge to sell two Brazilian sugar cane mills - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWNJSktyTDRLdTQ1WlJBM092N1hSSDE3dEk1RklNelBxZlJvLXV1bUl6QjhqNmU2ZTdmV3l6QzZYa3lxbnVySVFzYXMyX3ROWTI1NjJieGI5U2JUUTRfRWpXN1FFMVJ1QmZla2I4bk",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWNJSktyTDRLdTQ1WlJBM092N1hSSDE3dEk1RklNelBxZlJvLXV1bUl6QjhqNmU2ZTdmV3l6QzZYa3lxbnVySVFzYXMyX3ROWTI1NjJieGI5U2JUUTRfRWpXN1FFMVJ1QmZla2I4bkJCNEJ1TlI5WHNoWEc2ZGZTalRCTGFDTF9XbGxUbV9RV3hETC1SVllF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kraft_heinz-2026-09-02-020",
+    "date": "2026-09-02",
+    "companies": [
+      "kraft_heinz"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kraft Heinz invests $30M in Jet-Puffed plant",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/GMydjqEh8vGdOAMSxIKQ63W8CPdY1342UQ1ZrL867lM/g:nowe:30:0/c:2405:1358/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00N",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/kraft-heinz-30-million-indiana-jet-puffed-facility/829432/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-021",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "consumer_spending",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Younger shoppers are driving private label adoption, report finds",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/jnuZ5Hq2eJXRMJWP0H3CF0prQjgdyr-UZ-X51WxI8-Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wZXJzb25fYnV5aW5nX2RyaW5rX2dyb2Nlcnlf",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/younger-shoppers-private-brand-spins/829422/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-022",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Frontline Food Plant Workers Are Ready to Embrace AI, It’s Their Managers Still Needing Convincing: A Q&A With Infor's Jared Helenic - Food Industry Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbVFIc01aVlFoMFRQSlJJMmxLU3drT21YN0JScmZEOFlFN01uQmx5c3RvYWU1eDAweEtjb3FaQmZvMjNzYllodmN0NXFwRW5lY1JSRmswWkJ4WDlCUTNfMVItbm45OXlQTy13VHp0VG",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbVFIc01aVlFoMFRQSlJJMmxLU3drT21YN0JScmZEOFlFN01uQmx5c3RvYWU1eDAweEtjb3FaQmZvMjNzYllodmN0NXFwRW5lY1JSRmswWkJ4WDlCUTNfMVItbm45OXlQTy13VHp0VGI4N0lUdGpxVTMwU29QckhZOGhfRHk2MVhwN3Vlb1IxOU5BdThWUENkbzhqUHBERE1DUzkwTmRUVWlZWHZqcnVSMjR3M0l4UWdOb01vNGU2c0I0OGhxdmpBYV9WZ2t0Sy1za3NnalNvVTBLUDhzVVRkUzJrYndOQUxGZkZQN1Jhd0R0Nkk3NEJCeXRBTzNkc0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-023",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Survey: 55% of pet owners ask AI for nutrition advice - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTHF4cmxrT2dKNFZNWUxWUnM4NlBsS1pSOGxPV3J4WGxEc29QLTA5M2lfRXpKNkR4cFV4dHFRWHhPbzBsUUltWTB3R0FWdUxvTE82cUVDc2l1UjUtcHVPWmZoakU0TzZIdTNYTDRLVX",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTHF4cmxrT2dKNFZNWUxWUnM4NlBsS1pSOGxPV3J4WGxEc29QLTA5M2lfRXpKNkR4cFV4dHFRWHhPbzBsUUltWTB3R0FWdUxvTE82cUVDc2l1UjUtcHVPWmZoakU0TzZIdTNYTDRLVXVtOE5INThUMWtZSXJtNkVlTF8zNjRTekhjQld0alJWT1FiemgzRDA4V3FaTFVlelp1ZUVoX1ZJaTNjSFRCdlZrWE51V0h0aWllenpfWm9lQVJKYVI5MHcwM0VnWHJzYzJ0V1pDZzZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-024",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "August’s top 10 pet food headlines - Pet Food Processing",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNRlJWTU9Pekt5LWQwWkFKN0FWTXVEQ2tULXowZlhhWnl5SGcxVXpKa2FRRFctenJGWFdEeWQ0VTQ5SUZYZ2FjdDE1c1JvbzRTT3NBaWdiMUt2aFdDMUZXVHFFQVI3bkpqNTRiLUtYNk",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRlJWTU9Pekt5LWQwWkFKN0FWTXVEQ2tULXowZlhhWnl5SGcxVXpKa2FRRFctenJGWFdEeWQ0VTQ5SUZYZ2FjdDE1c1JvbzRTT3NBaWdiMUt2aFdDMUZXVHFFQVI3bkpqNTRiLUtYNkJfeWl6MUVuam5zWER5MW1uemhjUEFNSDhKVWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-025",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Reading Bakery Systems names director of sales - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXJLVkNDZUUwaldOTzJYSVZ3X2hXR0N5R3FEVUlSazhrZDVrbld1RFpaMWNvOWxLTTlQVVBDOV9GSHlxbjNfMVVoY1JneWVXbXhOMGpEa01sQ29ZeVRJOVpOdzM1XzFkZ0hPMXNaU3",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXJLVkNDZUUwaldOTzJYSVZ3X2hXR0N5R3FEVUlSazhrZDVrbld1RFpaMWNvOWxLTTlQVVBDOV9GSHlxbjNfMVVoY1JneWVXbXhOMGpEa01sQ29ZeVRJOVpOdzM1XzFkZ0hPMXNaU3J0UzZJaHM0ZWt1SkZBRTdxVEFibXJBRW9NVU1veEhVZndBcVNySEg4TlpQbWYyOUxDWEltYnR1MmR1SWlMaVFpUldqU2R1cEQ5UzFYX3JTWk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-026",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pure Genius Protein formulating with fiber - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVlCanVFNW1BUnNTMlQ0dFNxLW1CN1hUczByNUVCNmZDLXRZUE9fbFgtNFZDS1J1SUxmLWhFeHVmUmNTWmFvUnM0SzhZMVZJU25rZVd0aWQ3bXJVU0ZKQzlwZGpGTnpDZlFJRXJxRU",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVlCanVFNW1BUnNTMlQ0dFNxLW1CN1hUczByNUVCNmZDLXRZUE9fbFgtNFZDS1J1SUxmLWhFeHVmUmNTWmFvUnM0SzhZMVZJU25rZVd0aWQ3bXJVU0ZKQzlwZGpGTnpDZlFJRXJxRUZGemtMaUh1WHdoc0FKTWk1eEpwaU40WHozX01tN2JwdGQ3NXNI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-027",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Slideshow: Texture, flavor innovation elevating the candy aisle - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNcTN6OE1LZEZyenMzaFM5d19ycHJ1ekRGWWRrTjV2alVYVVRFcnN5UEtTOXN4U290dUlOUHpOTlF3M1RKNmk1SmZWSWlpdDdzVnB4c0FycEMwNXVCYjM4dEgwMVBpTzJlSFJEZlJvbj",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcTN6OE1LZEZyenMzaFM5d19ycHJ1ekRGWWRrTjV2alVYVVRFcnN5UEtTOXN4U290dUlOUHpOTlF3M1RKNmk1SmZWSWlpdDdzVnB4c0FycEMwNXVCYjM4dEgwMVBpTzJlSFJEZlJvbjFxQUFSSUdFUlJwME40RjRpbzFTbUdUQ09uaFhZekFQR0NHZGR2RDNpYmhVRnJFSTN4YWlITGV2WFpkWjh0VWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nestle-2026-09-02-028",
+    "date": "2026-09-02",
+    "companies": [
+      "nestle"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Private equity firm to buy Nestle’s Holistic Health platform - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVpzX0stbk04SWNfWVRSTVQyQkh6UG1QektSS0t1ZFI3V3JYVWwtaWFPcVNqeHBOdGlvUTh6LWdxaDlfdm1IOUNwZGs0N28xelBhbFJmTW42a3lLSW9oYlA3R3ZJM0VWS2VLYm1OMz",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVpzX0stbk04SWNfWVRSTVQyQkh6UG1QektSS0t1ZFI3V3JYVWwtaWFPcVNqeHBOdGlvUTh6LWdxaDlfdm1IOUNwZGs0N28xelBhbFJmTW42a3lLSW9oYlA3R3ZJM0VWS2VLYm1OMzlJSlFKQThxT2FHb3Fsb1hXeXZrV08xYy14VC1aOC1iRWlrMGE0TklWMmZWclBTSlNXU1RCUUYxWmc4RDg?oc=5",
         "type": "rss"
       }
     ]
@@ -1443,6 +1759,81 @@
       {
         "name": "google_news_food_industry",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejQtMjgteGl0U0RMUmtYc2lEa0NsbkQtaHp4dmZyY2NQUk1fdXNqbHNla2dSalBmZnNkSk1uTkJBM0F1bXhONHoyUzhhQ3JkWHdPa0d2TmdfRzJNRGdQRElEZmZzbm1QQXFIcVpCN2IxeEtjc1hrQVdtLU1ZUUJ2OWRFUkdjbUJwbEEwQXBoYnJ4UXotOS0w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-09-01-059",
+    "date": "2026-09-01",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Bunge Global (BG) Stock Is Up Today - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjdJd0g0QzFMVmpQVFh2c1NSTGFBY1dkSmZSeE5ZMlJ4c1NBZzk3alEtNWpGRFI5cGRFbE9ZeVMzNzJHRFl6ZG8zMTU3NE1JbE5uWFZCMmdXMjAyYXkyM0x1M3owY25udjdHQ202VT",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjdJd0g0QzFMVmpQVFh2c1NSTGFBY1dkSmZSeE5ZMlJ4c1NBZzk3alEtNWpGRFI5cGRFbE9ZeVMzNzJHRFl6ZG8zMTU3NE1JbE5uWFZCMmdXMjAyYXkyM0x1M3owY25udjdHQ202VTBVWDlkaW55cmpwSDJGY1B5b0FJNldLeVlTVTlCNXJfWkJOSUttQ2VhMG9jWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-060",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Should food businesses stay private? - FoodNavigator.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNbDhRcFB5Q05fQ0E4OVJ2VnBJYUg3RGdXVHRZN1E0RXdMSjdmR095am9yd1l2QmVSbFZuNUsyZzJrZWFxZ2JFcWQ2eXBoeXlsanROdUJfWWJKczN2VlJvcTZNOS1iMy1zSVBTTVlHZH",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbDhRcFB5Q05fQ0E4OVJ2VnBJYUg3RGdXVHRZN1E0RXdMSjdmR095am9yd1l2QmVSbFZuNUsyZzJrZWFxZ2JFcWQ2eXBoeXlsanROdUJfWWJKczN2VlJvcTZNOS1iMy1zSVBTTVlHZHgxV05Cb1RpVF9YSHhFcmxxTjJBYkc3enFsdTYxVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-061",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mid-Day Squares raises $8 million - Food Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPLW9NejRKRHYyZU5MS3Jod0ZKZjZjc1ZmTlhRMndOZGJLRFY1RGVfejNSUHNqeHVsbkZ2TExhZkNybzBXcEtDZ1FfYWdQZVB6UmxIX1l5QlltaWpIalZ3WkRCclhmTWlnU2RIemQ2WE",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLW9NejRKRHYyZU5MS3Jod0ZKZjZjc1ZmTlhRMndOZGJLRFY1RGVfejNSUHNqeHVsbkZ2TExhZkNybzBXcEtDZ1FfYWdQZVB6UmxIX1l5QlltaWpIalZ3WkRCclhmTWlnU2RIemQ2WE0zNmdHT3RUX2l2bnAzc0hYV2laWjE3Wkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-062",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "food_inflation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Food Inflation Jumps as Higher Energy Costs Hit UK Retailers - Crude Oil Prices Today | OilPrice.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFJvOFpCMVpEb25ZRmNETUl4OXY4dXp0Nmp0bWRGeEdSVVJObG1SeDR3eWlnb0VoZ3ktZ3hCQnNvNG1NT1BlRVZwMVJua3ZOMFZseDJNTVltWHFpaXhYdkRYSUl3eDdIVE9XMWtoOF",
+    "sources": [
+      {
+        "name": "google_news_food_prices",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFJvOFpCMVpEb25ZRmNETUl4OXY4dXp0Nmp0bWRGeEdSVVJObG1SeDR3eWlnb0VoZ3ktZ3hCQnNvNG1NT1BlRVZwMVJua3ZOMFZseDJNTVltWHFpaXhYdkRYSUl3eDdIVE9XMWtoOFhrdnUxQzBaUmh2VVhOLU92OEt1U29mS2pIR2xOVmNGelpKSlhOS011dXc0SFJnNzd6bWNtN3BCeGp4M2Jk0gGyAUFVX3lxTE5keF9Oc3IwTXJhbVJyOXFPSndKanprU0k1T2QycGpRU0ZWUGRibXF4UmFaVFlPcWZISFUycUhMVGpFdjB2aXFoVHJBa2JSSFo3QzRkQkl3RE94ek1EVTVyOGhPaWU4UFNCOF9ES0lQVnE0STFUbDZUWlIza2pzTl9kQWxPczBKVUFWb3hob2VoNWpmTkVyRlVIV1ZxSkVMSWxZOEFNWTZOTnJ0d2l0NVVObVE?oc=5",
         "type": "rss"
       }
     ]

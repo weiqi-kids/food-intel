@@ -1,0 +1,188 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:22:13.856936Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pepsico-2026-09-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mondelēz and PepsiCo trial digital watermarks to improve flexible packaging recycling - Packaging Insights",
+      "companies": [
+        "pepsico"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVjNnTTU0M3lmd0RzMGlQZlZ3dmoxZm5KV244UHlscm14eFVpRXJ3dHpId19KZHBlRE1DYi1fVGFfVzZGNFBPN21WMEFkbUZtLTJCVE5NTVlweVVaR0NhWnAzVjlkRTFjODZPNjF1ampHM2F5SEhvT2g2MnNIcnV4RURjb3E5REhqLW9Ddjc1aVV1dXk0QkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Should We Be Afraid of Our Food? - theatlantic.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPalp4RUZwQUtGX05vNkNsWVI4X2YybjBpbll0MlFQR3d0MjZqemhzNXpIVGZqS0tTS2YweEhTc2o3M3g2dkc4ZUliel90UXpGb3dJYlB2VlNXNHVzSGNCUmZSSXF6eVJ5ZVN2b042SXB0YWZuZERiaC0tbHB5dnBkQXJaYnJyOTR5VFRjcVNB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Britain’s food security under threat, billionaire ‘chicken king’ warns - yahoo.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWo5dU12YjlmMUQ3QTZmRkFtZzZEWXo3Y0l4QVVOeUlBTDd3OTZWRUVHcTVuaTNybUthOHFMdk1BRGVnTzFkNDVjVW9Qd2RsVzBueWZzR0ZqZWlOYmJnZkFqUGQzNkk3WjhQdzJnZzJGZjRFWk5VdTUxMnp0NlZzdV9TbGVXZHdMTmJfaGhJMHlmZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Publisher's Platform: Harvard read the FRESH Act line by line",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/09/publishers-platform-harvard-read-the-fresh-act-line-by-line/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FDA outbreak table is showing 17 investigations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/09/fda-outbreak-table-is-showing-17-investigations/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "pepsico",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 124,
+    "dup_title": 56,
+    "too_old": 36,
+    "gate1_blocked": 5,
+    "gate2_blocked": 6,
+    "passed": 21,
+    "pass_rate": "30.9%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "Is Bunge (BG) Using Sugar Mill Sales To Sharpen Its Core Agribusiness Focus? - simplywall.st",
+      "Agriculture giant Bunge to offload its 2 sugarcane mills in Brazil - The Business Journals",
+      "A Look at Bunge Global SA (BG) After 3.5% Gain -- GF Value $117. - GuruFocus",
+      "Bunge Global agrees to sell Brazil sugar mills - grafa.com",
+      "Mondelēz International Continues to Expand Sports Footprint with Sponsorships Across Five Powerhouse"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為百事相關動態：「Mondelēz and PepsiCo trial digital watermarks to improve ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Mondelēz and PepsiCo trial digital watermarks to improve flexible packaging r...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Should We Be Afraid of Our Food? - theatlantic.com（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

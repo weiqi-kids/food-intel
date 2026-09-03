@@ -1,0 +1,16 @@
+{
+  "total_raw": 124,
+  "dup_title": 56,
+  "no_date": 0,
+  "too_old": 36,
+  "gate1_fail": 5,
+  "gate2_fail": 6,
+  "passed": 21,
+  "gate2_samples": [
+    "Is Bunge (BG) Using Sugar Mill Sales To Sharpen Its Core Agribusiness Focus? - simplywall.st",
+    "Agriculture giant Bunge to offload its 2 sugarcane mills in Brazil - The Business Journals",
+    "A Look at Bunge Global SA (BG) After 3.5% Gain -- GF Value $117. - GuruFocus",
+    "Bunge Global agrees to sell Brazil sugar mills - grafa.com",
+    "Mondelēz International Continues to Expand Sports Footprint with Sponsorships Across Five Powerhouse"
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-03",
+  "date_range": {
+    "start": "2026-08-28",
+    "end": "2026-09-03"
+  },
+  "generated_at": "2026-09-03T12:22:13.954191Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "adm-2026-08-28-003",
+      "date": "2026-08-28",
+      "title": "ADM (ADM) Stock Looks Below Fair Value On Cash Flow, Above Fair Value On Earnings - Yahoo Finance Australia",
+      "importance_score": 0.75
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "costco",
+      "company_b": "walmart",
+      "co_mention_count": 5,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 130,
+      "last_week": 65,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.02
+    },
+    "earnings": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "food_inflation": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "food_safety": {
+      "this_week": 22,
+      "last_week": 9,
+      "week_over_week_change": "+144%",
+      "sentiment_this_week": -0.07
+    },
+    "raw_material_cost": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "health_wellness": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "adm": {
+      "event_count": 15,
+      "sentiment_avg": 0.03,
+      "rank": 3
+    },
+    "bunge": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "tyson": {
+      "event_count": 9,
+      "sentiment_avg": -0.06,
+      "rank": 4
+    },
+    "walmart": {
+      "event_count": 19,
+      "sentiment_avg": 0.11,
+      "rank": 2
+    },
+    "costco": {
+      "event_count": 45,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "mondelez": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "pepsico": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 243,
+        "last": 282,
+        "change_pct": -13.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-28",
+      "event_count": 54,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 64,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 62,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 28,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-28 ~ 2026-09-03）共 243 則事件，重點為「ADM (ADM) Stock Looks Below Fair Value On Cash ...」。百事表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "ADM",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Bunge",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "泰森食品",
+        "reason": "本週出現 9 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
