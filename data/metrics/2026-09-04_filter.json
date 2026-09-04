@@ -1,0 +1,16 @@
+{
+  "total_raw": 239,
+  "dup_title": 50,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 11,
+  "gate2_fail": 16,
+  "passed": 81,
+  "gate2_samples": [
+    "Bunge Global (BG) Could Be 15% Undervalued Following Brazilian Mill Sale - simplywall.st",
+    "Bunge names Richard James as Controller and CAO as Matt Simmons to retire - TradingView",
+    "Is Bunge (BG) Using Sugar Mill Sales To Sharpen Its Core Agribusiness Focus? - simplywall.st",
+    "Agriculture giant Bunge to offload its 2 sugarcane mills in Brazil - The Business Journals",
+    "What's the Company Culture Like at Mondelēz International 2026? - Built In"
+  ]
+}

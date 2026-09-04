@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-04",
+  "total_events": 35,
+  "by_company": {
+    "bunge": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "tyson": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "general_mills": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "uni_president": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "walmart": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "costco": {
+      "count": 18,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 26,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "food_inflation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "food_safety": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "health_wellness": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

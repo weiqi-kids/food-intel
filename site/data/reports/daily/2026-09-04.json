@@ -1,0 +1,258 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T12:22:43.959476Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-09-04-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tyson issues another profit warning - Yahoo Finance",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmRERmRNOUV1bGVQS0t6MEZuUWVYMEN5eXJraXo4eVl0SGs2OWxpbFdxTXJWSlBkNFUwZlpyWFQxZVFlNHlQNEVOeUUtSnRkdjcwR1U2ZndZdHREZWlFdzhWNjdQYmNPLWRMRUoxQ3NtUzhndWw3eGZFYms0Tm4tM21EejY2Q24wMlowWUZ2LXFPTjBBd0t0VThTY2pCWEktWXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-09-04-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Tyson Foods, MGP Ingredients, Conagra, Flowers Foods, and General Mills Shares Are Falling, What You Need To Know - Yahoo Finance",
+      "companies": [
+        "tyson",
+        "general_mills"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGZ1TTRBTjJDZUlZNGhjMXdUOHJWNzE4MUNrYnBIbGJCWWJWSFBUV09adHNjUXRSVzl4bDczd3JxMGpjZ0tNNVV3Rk1iWVMzTFkya2VFR3dJSGtGeU1tSk90bXdNdGJmT3dGRUxsWkJRbDBvTUx6U1Z1al85LXB1akZxaVNDSUZsdHdiQ1k2Tm9ZbUpoNFJ5ajB6S3pUNzFrX0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-09-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global and Nature's Sunshine Shares Are Falling, What You Need To Know - Yahoo Finance",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeU5lSDRhT0xhRFVvbmtBSDVtTU5YVnp0aGpqeXFrdDJ4VUJHeTFlbmRHNXBiLVkwUHZUanhjNjBEWTl2N21xR3ZURzhKOEhwSmtmTlVNS21XMkktTmhEOHFUODctZU5yelVvZGNTWW1rZTIwUXBhVXR5OUNpWHh3NWl1S1d2VHpwN3dabHQtYWtZZVFTRlpCemZmWk1VckRINElr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bunge-2026-09-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global SA EVP Christos Dimopoulos Acquires 160 Shares Through Dividend RSUs on September 1, 2026 - Kalkine Media",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXRnSm1BeDNQdlNVR3cxaEF2N3hwZHJWT1VQNWc3ckVIemwwTWViaVczWGJ4QnZuMFNabk44MmkzNTAwMHBOd3p6ZnBTVHRFb2FQWU5WV2hmM0hlNWVaYkRvbGJXekpjM2ZCRHh0VUVzTVc2dzNfMkhfWmJtR1VKSVNVYlkxc09FelBzQ2xrOFFxOUFMVEhxaldKNno0eWs1LWt5SmZlRmRnekRlT2lQNnpqMlpTaGg5cnlsY25oOExFbHdtYnBPY2dtLVlKS3dQTnVsMVNjbm1JZGdOdzFqTklR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bunge-2026-09-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global Announces Retirement of Controller Matt Simmons and Appointment of Richard James as Successor - Kalkine Media",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeVdPTnJ0TEl3MmNTY2FTRFVOcnlfLXYzYXY5SXFaZE5qRldoNDV6eDdwSGRFVm1oU21vSGVodW5RNHQ0MFQzZHBqOXJSMGxMeFpTbkE1dERHQ1l1QmhVcjVSOGZ1ZW5uMGlZaUFfdVNDUm40bGtwVXhkUEczR1ZqVzNqSEN5TURIUUl1dzFMUDZLRGgyR3FzSU9XcEt1MG43REZNMG9YQk5LWDV3d0MzODF0THBWTW5LSDBCNVdVQmphSXNCVnB2dGVNUGxEZE1Kd0NxbHRoS1ItZy1vcnR1SzBwN2p1NTc1?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 34,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 18
+      },
+      {
+        "id": "tyson",
+        "count": 5
+      },
+      {
+        "id": "bunge",
+        "count": 3
+      },
+      {
+        "id": "general_mills",
+        "count": 1
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 239,
+    "dup_title": 50,
+    "too_old": 81,
+    "gate1_blocked": 11,
+    "gate2_blocked": 16,
+    "passed": 81,
+    "pass_rate": "42.9%",
+    "gate2_block_rate": "8.5%",
+    "gate2_samples": [
+      "Bunge Global (BG) Could Be 15% Undervalued Following Brazilian Mill Sale - simplywall.st",
+      "Bunge names Richard James as Controller and CAO as Matt Simmons to retire - TradingView",
+      "Is Bunge (BG) Using Sugar Mill Sales To Sharpen Its Core Agribusiness Focus? - simplywall.st",
+      "Agriculture giant Bunge to offload its 2 sugarcane mills in Brazil - The Business Journals",
+      "What's the Company Culture Like at Mondelēz International 2026? - Built In"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為好市多、泰森食品、Bunge相關動態：「Tyson issues another profit warning - Yahoo Finance」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tyson issues another profit warning - Yahoo Finance（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Tyson Foods, MGP Ingredients, Conagra, Flowers Foods, and General Mills Share...（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
