@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 93,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 12,
+  "gate2_fail": 20,
+  "passed": 57,
+  "gate2_samples": [
+    "Bunge Global (BG) Could Be 15% Undervalued Following Brazilian Mill Sale - simplywall.st",
+    "Bunge Global to Divest Two Sugarcane Mills in Brazil - Moomoo",
+    "Agriculture giant Bunge to offload its 2 sugarcane mills in Brazil - bizjournals.com",
+    "Is Bunge (BG) Using Sugar Mill Sales To Sharpen Its Core Agribusiness Focus? - simplywall.st",
+    "What's the Company Culture Like at Mondelēz International 2026? - Built In"
+  ]
+}
