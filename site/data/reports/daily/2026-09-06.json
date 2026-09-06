@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T11:50:56.375589Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-09-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nykredit A S Takes $8.02 Million Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObTM3bXZfUUlqeGtZWFdfVzMwcms3QW1CRU1aUFpLN1JrNF9CVjZUMHRkQ09lVW5YTndoN2N2QTlzRzRKU0tpSkNPS01zdGFzUFkxUjBoT1VGRkY3bE1tSlN6OVdmZncybG1scF9qZ3Jab0daVmdGbUttbXFvX1RTcUhxTUdjUzlIMFlicFN0ekVBT194djY5cWhOaDZWZXVaTUVRdmNRZ0NUdDA1U3Q4ZWIxWW5ZbUNENzQ1Z040T0Zuel91bGJNQVp5Sm0xa2pZUHkwYg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-09-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TD Waterhouse Canada Inc. Has $7.83 Million Stake in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYXpVbDd0ck1acTRsLXhzc3dIakE1OGMzcVBzMUNhbGQ4WGxhYzk1akh5YS1WUlFzNnB6YmM3YUhETF80ZTEyQmtOTk45VWVXUy1vNUY1SzFqZkJtREdPQmZLekk2MG02bElFaE9hOXdoWkJOSzkzUU9DeUVTbE9pa2NtdndGajhOMDVOalpqZ3pIemVxcmJHMzZWTmJTeEJSZTZENFRYZFFldnBGY25BYW43UzNTRm5kUmtvWG9paFNGajNXVkQ5em1MdVhqaEs2dko2N3RLN1JjQ0V4SEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-09-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart (WMT) Stock Seems Fairly Priced After Its $1.3B Automation Push - simplywall.st",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ1dVZEI1VkpDYXdOc3llanhJUTF2dnlYZUo5akdmSjVqa0RydGIwbC1nTDZFb21zcTB6XzI1RTc1X19DWGZCZ19hQmpkcUVpUWJlVlR0c3Y0aDRBWGR6RGVqcW9QSmdSLTlkemswWkxtZUwyU2ZWZ0xFa2dTTnRHU0dJX0NKVEg3UEhxUDVxaHdGaGNaNUo3ckdUclBVQXdicFNjNTJtWU1WckNSdHdqVG5ocE1pc0ZIWl9JNGM5MmJHRVpMeWdOQnR4bzN2bUM40gHWAUFVX3lxTFByVGYyOEN3UmJjRWg3cGtNSEMyUUliNzFFdUZpb0JFcVJBZnR3T0k4V19yUjdXc1M1cGc0elJQYWZRN0RnekNyYXI4X1ltQXVQZlRQWjN1VW5FU3F5U2pwTGhRRDhOMVJRcHBZU01za2x3SlZJRXpNRGU4cmdfcjMtbC1ua3ptR1hVWVp4TzRKaGdIbnd5alZNbmFGTXVIRXhFVnd2djZLLVdGOXlRMnJqRkxEMmwtMVI3RVVpY0VXbHJCbFUxSThMZXJYX2xqS3ZPUW1vZ3c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-09-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sanchez Levi Garrett Acquires New Holdings in Costco Wholesale Corporation $COST - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNamNiY0pVekpQZ3BSQy16YjBicnlVODg3andsdHdkZzd5YmpSd2UwUmIwQjk5ZkJWbFdXSGdRaVJlYXlDckdneTg0czVuUmJFWHl4a19aejJxZ081NjZyaldCR3EtWFRKYjdHNm9JYUZ5NEVNY0tTblRIMTdab3R4dUVrUC1KU0VGMzU3S1RzT1AtNjlZTnhYRWRWb3lUT0ZUN1hPM2gzck15c2tWWkE0T00wRll3MndMdUhSTzU2bzl1UEVDV2tnZmp3TVFMMWw3UXRlZUwxdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-09-06-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Strategic Global Advisors LLC Makes New $1.48 Million Investment in Costco Wholesale Corporation $COST - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOT2hzVWY1Y2pLSEdxNjJLOVR0a2FWZGxYYTJOQm1OQ2JIOHg2TXdVUlJnQjJDODJBY21TcHJId0kzZU8yMlp4RnVJZzRjYXV3VmtkQVNoUzZRUUk0Tnc5azlreVFDSmR5NXBKZUpCWGtUYXhwejZEXzRpQ05lRFRxd3ZDTGJTdUNGelZIeS1KN0lmMDg0Vld2cnljajZOa2MyVWhPYTZUODZLQ0NzaHZSVWR6OVZ0NXpDZm8tUjdpVVRzdFM4aG8ya2FIdlBMaG9xeTVMWEc2NDlPYzVwTC12akhoX3hxSExldGxMS3dFM3Budw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 6
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 119,
+    "too_old": 85,
+    "gate1_blocked": 10,
+    "gate2_blocked": 26,
+    "passed": 27,
+    "pass_rate": "18.2%",
+    "gate2_block_rate": "17.6%",
+    "gate2_samples": [
+      "Bunge Global (BG) Could Be 15% Undervalued Following Brazilian Mill Sale - simplywall.st",
+      "Bunge Global to Divest Two Sugarcane Mills in Brazil - Moomoo",
+      "Agriculture giant Bunge to offload its 2 sugarcane mills in Brazil - The Business Journals",
+      "Is Bunge (BG) Using Sugar Mill Sales To Sharpen Its Core Agribusiness Focus? - simplywall.st",
+      "What's the Company Culture Like at Mondelēz International 2026? - Built In"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為好市多、ADM、沃爾瑪相關動態：「Nykredit A S Takes $8.02 Million Position in Archer Danie...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nykredit A S Takes $8.02 Million Position in Archer Daniels Midland Company $...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "TD Waterhouse Canada Inc. Has $7.83 Million Stake in Archer Daniels Midland C...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
