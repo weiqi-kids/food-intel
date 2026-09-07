@@ -1,0 +1,211 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T13:48:43.639691Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "costco-2026-09-07-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Are stores open on Labor Day 2026? Holiday hours for Costco, Target, Walmart, banks, stock markets, CVS, and more - Fast Company",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcUtWbW1hdUNhQ05Ib2hZZXBTWEdjbHVBOGxoZTdvcFN3ZWZQRFktZXM5cFZxU1c5OFh6OFBNdXlla2Y4YmxEQUo2cjNkWVhtMGVSVlQxU1FXMHBFRHJIaXVaQk9JbUdqbGlDZnVDWnBPaHVtajNqZm9vTXgwQnl4S1NKY1gweG95VEliUElRNTREbVF3WFdkdVlNbjNycUM2cUE3anVUYllQY0JVU1F6M2p6ZnAxQmxPS2Vsdm9GMzlEQ3lac0VHX0FZT1o0cG8tWnZDZQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-09-07-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Loss of Costco deal helps push beverage brand into Chapter 11 - thestreet.com",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMlB4b1ZKUGk3emNsMkV5V2h6WFJQODBfSVpFYUhBTjV6Y1dDWUlOdjZNcGNhYmNFNnFlc2R6bVBqUFp4WkNodVNPcGVjaE1oYWpzQ3ZMRFJyR0dSYzlFODNpZlpDcmw0SDI1YzVCRjFSd1JacnVVaHpJSmRUNGRZdnpwS004NmNKMllCaXVWb2V2am13eDA5Zm5lcC1vZ0k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-09-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hsbc Holdings PLC Raises Holdings in Archer Daniels Midland Company $ADM - marketbeat.com",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYVhHQmZCeWRNSzRFZ2d0Vm1TaDUyQzh0NWRnNE5jY0k4VDRLWXJ6YVdLT3dESFlaYWVGRV9vMXJfSzBDZ1Bvbm40SEpCS3VYZHR1SjdSOGRUdDRYRnUxZGpQSDZwbFlIZGF3Y05ZblpHWEZfRnBJMDNHNVNaYl8tZEZnRHFsbkt2dUVsYzJ3eV9NMkxUcktIM29wXzBOZWxtOXVKbXNZN25GRW1iRm5xZXNvZHBJcWo0QXhFaHhxT0hfNmpmU1lZRUJ3cTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mondelez-2026-09-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pitbull Joins Soccer Stars For Mondelēz International’s Massive Summer Snack Campaign - That Eric Alper",
+      "companies": [
+        "mondelez"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXFHZnZiUHphRUFOSHFKWE8xcDlWWjlrLXgyckU1Yk5rcXdrTExWdHJzOFU5SkF3elJFbHg4SkVXNXFJc2M1Y1dvTTZMelRPQjIyWU1KV2xfdE15VnlvMTdnSkFrRkROdDVTV0FibElnUHFjRkhDSG9xWnNacS0zVnJCZGY5b2JkVlMycmhTb2hqZS1xZDJmcGhsdXVEZUt6c0JxdlBjNkJQTWNOZ05CSzhlbGZDcXpEd0NHYXBIazJNWjlX?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mondelēz shifts European biscuit packaging from plastic trays to paper - Packaging Gateway",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNjhBMFBzMDBuVmNfczF3UjExeHRVR25WUU4ycEdDTVNlX2FsbnMxSHozSzAtREdSV2xOeF9BZkhGSmRNRk9WNjc1eTg5NElYMGpuMVRsVWtwYkREZFRvRWoyc0g4dlRJRFFFclVYZVItNnFzRExfRlgyVGZtYnBJMlJlblpJX18z?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 10
+      },
+      {
+        "id": "walmart",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 266,
+    "dup_title": 111,
+    "too_old": 83,
+    "gate1_blocked": 9,
+    "gate2_blocked": 19,
+    "passed": 44,
+    "pass_rate": "28.4%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "Bunge Global (BG) Could Be 15% Undervalued Following Brazilian Mill Sale - simplywall.st",
+      "Agriculture giant Bunge to offload its 2 sugarcane mills in Brazil - The Business Journals",
+      "Is Bunge (BG) Using Sugar Mill Sales To Sharpen Its Core Agribusiness Focus? - simplywall.st",
+      "What's the Company Culture Like at Mondelēz International 2026? - Built In",
+      "What's the Work-Life Balance Like at Mondelēz International 2026? - Built In"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為好市多、沃爾瑪、ADM相關動態：「Are stores open on Labor Day 2026? Holiday hours for Cost...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Are stores open on Labor Day 2026? Holiday hours for Costco, Target, Walmart,...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Loss of Costco deal helps push beverage brand into Chapter 11 - thestreet.com（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
