@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 7,
+  "gate2_fail": 20,
+  "passed": 56,
+  "gate2_samples": [
+    "Is Bunge Global SA (BG) Overvalued After 4.4% Rally? GF Value Sa - GuruFocus",
+    "Bunge Global (BG) Could Be 15% Undervalued Following Brazilian Mill Sale - simplywall.st",
+    "Uni-President Enterprises Unit to Lease Shanghai Office for Nearly 2 Million Yuan - marketscreener.c",
+    "Uni-President instant noodles latest news & coverage - 8days.sg",
+    "Walmart’s advertising empire is booming. Here’s what it could target next. - MarketWatch"
+  ]
+}

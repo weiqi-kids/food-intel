@@ -1,0 +1,235 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:36:20.063952Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-09-09-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "California E15 Vote and Tyson Profits Down - aginfo.net",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ21aQTU0MnVqSlpZVXdfS1F4YkktcEg2UXMtbUxZbHNoTkR4dm5QZTVERVZOZFJHNkJtS2tZMjVPN0dHTW1TalFuRzVETTFsbnlDanRTWDdKbjFualZIVlZvY3AzaGZOQV9KU2M1MHdRVFJ1cGY1cGpRUWMxQ2JicHNONG9pbE9rc21lSUhQUUhXc2lVd1BwZ0xYU3JLdWJWU2ZaVg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-09-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AFIA's Safe Feed/Safe Food expands guidance, adds warehouse certification - PetfoodIndustry",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQXzdkN25RTi1kNEZPX3RmMmp3RmNXSUdxT1dqUk9HdkIwOUxBVW5SbV9aekFXZGQwT2k1VmZpQTdjQm96ejA1cGtTdHVCTkRiRzAwWmJ1QUtjdTExMnhFYU1rMlM2b0d3X2M5bmh0U3ZKQk1JcHUyZGJSQ0tGb0FPYjd2UEpoVnNEN0lrRmhqREFFMTB6NHNXYU1GVmVaa3pPSGQ4SFVnWW4zNGVPM25qQ2FPcFJMZlVrUHp4b093Uk9sclE1bEJLdndGMA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-09-09-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tyson Foresees $625-775 Million Loss From Beef This Year - foodprocessing.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd2pnMi16NEo0bmY2eUNiYXY4TFoyankzN3lzcWQ5YllRMHdSMkZqclF4WlkxaVFuV3dlSXhDd3k2VW1idzFJUU9YeW85Znlnc3BqVUNpd09GT0VzSHpoc0dVUU9tYW4za0hqcjJVNkhNV0FXci1nTnMtVmYxN2IzTS1WYTRfRS1aUFRLVUhoZ240ckFoRm9ING5aZ2pQMnNLRFBFSHRUVi1GMkRWMDdwVC1GRFZXWkdlaV9XeWhfNTJLeG1f?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-09-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland Company: Agro Commodity Supercycle Inflection Unlocks Asymmetric Upside - Seeking Alpha",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ1Y2R1JZNXlXa3RQWmVDZUptS0hFSG94cHBhRXdLbnE1SFVyaG5QREIwb2lZN1FaOVcwa3NnRlBzdUZmOUVaLTdaWlFRS2FSdWJuZGtwQks2ZGlMMkozZjNwVTcwbUpoTHQ3ZVM2VkM0aXFjUkdhSzhjbWdibG9fbVFOdVBPUWxuZzk0WlFsaHFsRF9BbG5sbjdGelZDa0tFU28yOHlaN0Zla01VWGNZYjlEU25QS0xfMWM0RmltWlhEYzh5aW50a1NsdWFneUU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-09-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Amundi Sells 57,800 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbEpsTzYwZUlHRDV5eWljdERFSXhvVGR5V3RWeGNJcVp1MUxTeWpfNWNxVmhqdGpYNjM1akRONkRnZmlkLXE4ak90MHdxRnZGYVFzQi03dlVQd1Vmc3VhXzM3VVNJWFotVEdhM1BNYURmeE54Y0Y5ZzY0UFhlLTJvRkFUNmZZZkNwd2piMjFDYTEtNDBqY1E2azYya0lzNm1LTFhpamtSSktnU09hR2lPaDlyU0NpaG0ycEc3Zi13ekotQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "tyson",
+        "count": 4
+      },
+      {
+        "id": "adm",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "food_inflation",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 95,
+    "too_old": 87,
+    "gate1_blocked": 7,
+    "gate2_blocked": 20,
+    "passed": 56,
+    "pass_rate": "32.9%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "Is Bunge Global SA (BG) Overvalued After 4.4% Rally? GF Value Sa - GuruFocus",
+      "Bunge Global (BG) Could Be 15% Undervalued Following Brazilian Mill Sale - simplywall.st",
+      "Uni-President Enterprises Unit to Lease Shanghai Office for Nearly 2 Million Yuan - marketscreener.c",
+      "Uni-President instant noodles latest news & coverage - 8days.sg",
+      "Walmart’s advertising empire is booming. Here’s what it could target next. - MarketWatch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為好市多、泰森食品、ADM相關動態：「California E15 Vote and Tyson Profits Down - aginfo.net」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "California E15 Vote and Tyson Profits Down - aginfo.net（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "AFIA's Safe Feed/Safe Food expands guidance, adds warehouse certification - P...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
