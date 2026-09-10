@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 91,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 8,
+  "gate2_fail": 25,
+  "passed": 57,
+  "gate2_samples": [
+    "Core Capital Management & Research inc. Invests $973,000 in Archer Daniels Midland Company $ADM - Ma",
+    "Is Bunge Global SA (BG) Overvalued After 4.4% Rally? GF Value Sa - GuruFocus",
+    "Bunge Global SA Controller Transition: Matt Simmons Retires, Richard James Appointed - News and Stat",
+    "Bunge Global (BG) Could Be 15% Undervalued Following Brazilian Mill Sale - simplywall.st",
+    "Uni-President Enterprises Unit to Lease Shanghai Office for Nearly 2 Million Yuan - marketscreener.c"
+  ]
+}
