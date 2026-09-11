@@ -1,0 +1,231 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:28:01.367794Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ttet-2026-09-11-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "【TTET Union FY2026 H1 Earnings Call】Pre-tax profit of NT$986 million marks second-best first half on record, EPS up nearly 20% year-over-year, biofuel demand underpins soybean oil prices - finance.biggo.com",
+      "companies": [
+        "ttet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVUnFaNnQ0emNtSUl5R21TbUpiXzN2Z2F0ZmJwT0NFRm5yaGhQb0Y5R1dxU09uNnZaVEYwdm1JZUpRTHZhSVVVd1dhcGg1dWJya1otajhnT2JxUk1QZ0l4X2pB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-09-11-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tyson Foods stock heads into the open after a 1.0% decline - ad-hoc-news.de",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUGpLMmdWYzhTUDROWkJnNWc1MzJSX2RrX0xOYldWaUNhVXNOWDVOS1F6WTZyUkQzZUxLWFZGakZRaFZ6RUlDeVI5ajN6dFd4eURCMEdJRjlEVE94WjFhVjFyeGR6ZVA1UER4elJPQWlIbkRxQ25yYnV0dDFLVmhvQVhDbDE2c1NnUXlSR0d2VmJHY2ZHdXAtZ05RRjVIMDdLS2pQRzg1cGJDVktCNFZCZDB5Zmw0dDBYOXdSU1hJQ2NlMmsyaHhv?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-09-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "California State Teachers Retirement System Purchases 42,225,256 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTWoyTEdRaWhHNVB4V09Xb2R4MTdLd2hqUVFnTGJvWkdRZktUMkZ5eWlTV0pxRXpyYXp3SDNXN3h0Tk4wbHdLQmVNU3ZUR0xXRVBfV09ORk0wbTJvTVZzVDV2dkNMZVE0TzA0RGRFZ3FGc3BYdEVPYWFfeUJFVm5XazJWOXIwZmlBcm5VdU9ISGgwZ2NPT1BQZzhSeUhNbjdheDFkZWVWV1NsUVhYdkViZ3Y1SDFlalp2M20tY1BVT2ZnenJxc2VkTVBaandTa1E0WUFVQ21PQ21xT0Q4aFp3aVBXTWMyUXpoZjZxNG9NN1AwZlphcnB5eVNYT1A?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-09-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Baird Financial Group Inc. Acquires 85,837 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRTB3STE3Wlk5ZG9jVXROY2t4ZGhoeUVISGpENmFrbmRfT3FaaDN4MWJMNHgxc0RoM0ROZEdUcjRkZ3NmRU5CcUFlTGI3ZVV6d3hVMnhjWWZYUUt3eWRDXzVxN0xFUUF3aE9NOE83bGJkZUZ1eWJuVXpKdnpRNHAyZEJGRWw5M1VjV2ZIbEY2Z2lTUGl2dXkxS1pZOHY2RmdERmtjVHNYR196LWZsckxJSnJIa3dYbmh6OHBfWjAxS2N1UFYwRGJjTXN6Rk12akxlQmJ2QldmLWRBMFhIczZ3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bunge-2026-09-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global stock holds near the top of its range - ad-hoc-news.de",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSThrazdfUTdOeFZRX3Z4aG1ld1ktUGtiWlJGX1ZhTkdXbFNtQTNYbEF0TWE5VEsydGtTS2JTN0owMFRBejhuWjRZWk02MmE4c2xQQ0dFMi1USTlZelM4OEhOb3pyQzNUN19ISnhjTEtGSGhUSnJTZ2dCTExIaGdLZk5KZmZTc1VQNG01VXJfSFVkVW1OWHRNOXEtY3NER1k0R0VKRHlBcW9PTGxPS3gtckRLcw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 6
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "ttet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 266,
+    "dup_title": 92,
+    "too_old": 88,
+    "gate1_blocked": 10,
+    "gate2_blocked": 20,
+    "passed": 56,
+    "pass_rate": "32.2%",
+    "gate2_block_rate": "11.5%",
+    "gate2_samples": [
+      "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Should You Buy? - MarketBeat",
+      "Core Capital Management & Research inc. Invests $973,000 in Archer Daniels Midland Company $ADM - Ma",
+      "Is Bunge Global SA (BG) Overvalued After 4.4% Rally? GF Value Sa - GuruFocus",
+      "Bunge Global (BG) Could Be 15% Undervalued Following Brazilian Mill Sale - simplywall.st",
+      "180 Volunteers from Mondelēz International Make Large Impact at Thousand Springs State Park - Big Co"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為好市多、ADM、Bunge相關動態：「【TTET Union FY2026 H1 Earnings Call】Pre-tax profit of NT$...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "【TTET Union FY2026 H1 Earnings Call】Pre-tax profit of NT$986 million marks se...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Tyson Foods stock heads into the open after a 1.0% decline - ad-hoc-news.de（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
