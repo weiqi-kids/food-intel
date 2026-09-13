@@ -1,0 +1,205 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T12:56:58.870800Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "costco-2026-09-13-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Costco Vs. Walmart: Which Is Better For Cheap Tech? - bgr.com",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RRG5yT3NBeTg1R1duU1RsWDJ4NVJVWjB2Z0pVSlRpekl4bmZvdWRRNWNlUGFLdGpqV3dJRWQ4UGJSMnZQRTB3eThNOTg3VFZBb1pVWjcwRkJxdGtwR25IVmwtS0NUVHpWX2lsdVNlWlFEU2EzZG5Kbm1B?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-09-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "California State Teachers Retirement System Raises Stock Holdings in Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONTdmTWJkOW5kc0FrdHZlNktQZzVEc3ZFLWRrcmQzVFIxM3BFNHpTUE85SzhNcDNlRy04b3BKVFhiTHppR0dyLWFMT2ZVSFU3RHJfdU16eTY5ZWV2aGJRUUNpZElmU25YcGtKTEJWM3dURUhGczVKM2I2QUN4Z1BrMFF6VTZjSjFkWlJsalpPTnlEXzVuWG4tRHBZc08zRTMwNGE1VG9mbmxyUmVRWUJtLUVEc2h0ZjFVZ2NYS2hhMS15Nnp6Y05Jc1liZUVJTDBldF9FZk1haWxBLVR6WGhxMDZBSQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-09-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "I'm a retail expert - a new anti-theft 'tag' can catch Walmart thieves instantly - the-sun.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX3lRaVptajMtVk1xRm1wWHp3clRsUGNwalBfU19pYWpzMmR3MGdGbzRreFNfVDdaVURTdUM0X19jVXM5UmlZMGxjYjlCWkNvM011TlBsN1hVUlQydV9wWVIzZTlWSGl1aENKR2NsdlJPd0NrUDNBV3dLMEQ4c1dRN3paVWFvSFU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-09-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart (WMT) Stock Stays Reasonable On Restaurant Delivery Expansion - simplywall.st",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSU1YeHh3b2lNR2FYdlFTdERzdkhIR1U0ZTNLV2steGZNWnFnWjhRaThQcURmdzBMRDFqQ1RyT2ZvQ29zNTBJY2dIdzRybnBGdmdXS3gwYUZOTERIM1pBMTVoOHpxTk1YSkg1akdzaFJ3Wkx6aXM2b1JiazctSkV0RXFWbTBOZU9MM051UnJyZmwxMmUwOVppbVRrZjl5ZjR2bFljX1pEeTA5RnNTSkpYUFNEWVpSaW4yTzhxWkpReU5xdmJjbGl1RkNkSllXR1pM0gHWAUFVX3lxTE9ZSF9Jamd5RXJNclB2UUhFSkl1VzJmV2Jha25HMWJtMWxPWU1UdVhfZERmcWpnMy1NSExySnBIejZ4Qmo1cWJMcHpMcUVtS2JqWFEzdWVLbE5sSFpoV3FydXFRNWxjbFZYWVZOQ0h6VGlfMEN2YzE5YjhDU0hUYjAzeE4wQ19wNXRmem5VLVpZa240ZmtRTEgyaHBDNGxvbHQwbzhQeENpZS1KdDJUTTRQZ25iY3ljM00tUElmOWNtbmRtdTQyTDM0VFRwZDVBOGY2RjJVSlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-09-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "This 1 Costco item has skyrocketed 125% in price over just 2 years. And the retail behemoth is limiting member purchases - Yahoo Finance",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaW1JTzR6aTZTZmpTZHZjUVEwLWR5QnhUS0o1eUd1OHhKSmlVS0k3X3g2Zlc4NTBueXZJSFlITE5VQXhHdnRFLW93c1ptdXZwOWhRUm5yVDFwLTl4MG45VXZwSnljRzIxZ09lY3VyRF9uN2RUZFc2d0k0bG9Hbnd1Mk1XS3RPMDZlOElPcGlINEw4UHJ4eE1jSk9TMnFRbmpD?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 7
+      },
+      {
+        "id": "walmart",
+        "count": 3
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 109,
+    "too_old": 90,
+    "gate1_blocked": 10,
+    "gate2_blocked": 22,
+    "passed": 33,
+    "pass_rate": "21.3%",
+    "gate2_block_rate": "14.2%",
+    "gate2_samples": [
+      "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Should You Buy? - MarketBeat",
+      "Core Capital Management & Research inc. Invests $973,000 in Archer Daniels Midland Company $ADM - Ma",
+      "Is Bunge Global SA (BG) Overvalued After 4.4% Rally? GF Value Sa - GuruFocus",
+      "180 Volunteers from Mondelēz International Make Large Impact at Thousand Springs State Park - einnew",
+      "Mondelēz International Invests RM90 Million in Shah Alam Manufacturing Facility - indiplomacy.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為好市多、沃爾瑪、泰森食品相關動態：「Costco Vs. Walmart: Which Is Better For Cheap Tech? - bgr...」。主要關注主題為產業通用、食品通膨，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Costco Vs. Walmart: Which Is Better For Cheap Tech? - bgr.com",
+        "level": "yellow"
+      },
+      {
+        "text": "California State Teachers Retirement System Raises Stock Holdings in Tyson Fo...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
