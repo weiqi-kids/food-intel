@@ -1,0 +1,204 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:34:49.044738Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-09-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Shares Purchased by Engineers Gate Manager LP - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeXBNc29xVWwtSDZULVU3c00yeWNJTnk5R1dBZnpNREZaQlZvUURXekg0dm1DejlHS3ViQnFiQUE5Rmw5NDlsbWJRLWo5dXRCUmtuZmFzVnlxeGU0Mm1MdFV6OUw3XzhLbWlvcldCMHozUzZKLUJMYnRwNDhpS0h2bDFORGpZcmVtVllKV242R1V6QTFFUXc2QTZfZmlPd1dyNkNZUmtJajdScmZFQ1VPa3puamxJQkpMaDVyS183RkhWVVVDVXRXVXo0c0NCZXRxR0QzSl9qSG0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-09-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart Fails to Shake Estée Lauder Brands’ Counterfeit Claims - The Fashion Law",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaDVSN0l5bVQ4SjlqV1Nob1hITWVzVk9oYVVoWXh6cDRybUhiZVU5RVBEbGtINUlldEdYa0xRbGhIMldhY25fUFdUQkU5bHB0Ri05MUJYaUdCcW10ei1QQko3ZFhmM1VYcDNYV1ZodnBvVE5EWjJOeWpWRnAzckdoM1RBak81cmw5aERDZnA5WXVnaEdV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Retail foot traffic doesn’t equal sales - Retail Dive",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczUzLVR1QU9iRmg3QU42ZjlSdUR6Q19UWW1DaVZsMThIUDNkZzBvYXEybFVrbEg5bndjb3RDbVpaYzNhUVFMd1U4ZGRJM3hVRnVHSVNqVS1DcGdPa2VIaEV4dmh4MGlTUlBfcTlXUEZLVkpKcXJNeTJqWi1LcEhDRUdhUDZiQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-09-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ADT Brings ADT Blu to Walmart.com, Expanding Availability Through One of the Nation’s Largest Online Retailers - GlobeNewswire",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPc0NPS3pjWFF2cmJyZTdUVGo5a2k2aHN2UTNoNTZndzVxZ3V2UURRTjdjNHhKUUt4NGp3NDJDX2RBRWQ2c0lXenp6a2NZdDhMdXNWVzRMR09QWURGNkpmNkpTYTVIbGpNWHJITUM4eEFoZmFBdlpFVDlEX3ZjMkVYQ1ZhclpUR3B4TGdmdU9kQUlEZ1NKMGxxUFgwU2doU2JEQVlYeWstMzFDLTRhUGVsQTJ5UVpUdDl3YXBKR3NsUUNHcFN0Qk43bXV1N0R4MFUycFZucmp5dkJtbnZ0eUlGX0VnXzA5cFA3VllJUFVkdEd5M2F3eDhDQ1lNYWljNDl2Y01pSlNQNFdrckRiT0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-14-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kroger knows what’s wrong with its stores - thestreet.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rMUN6czRZV3g0MF9rS0JhSmtXTE1VeFhCRERpZVVxa2hkNUFzQzFGY0VjZU5IQmlPMEpYaDRzQWU0WmhFbi1OYVdfMUJ5U1ZlNFkyeVZCY1BNbjk5NjlzMWJJOWw0OW81eWdSVUZXZTEtNlN4VHZtTG1HaVhXQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 30,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 6
+      },
+      {
+        "id": "walmart",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "general_mills",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 266,
+    "dup_title": 104,
+    "too_old": 93,
+    "gate1_blocked": 9,
+    "gate2_blocked": 18,
+    "passed": 42,
+    "pass_rate": "25.9%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Should You Buy? - MarketBeat",
+      "Core Capital Management & Research inc. Invests $973,000 in Archer Daniels Midland Company $ADM - Ma",
+      "Is Bunge Global SA (BG) Overvalued After 4.4% Rally? GF Value Sa - GuruFocus",
+      "180 Volunteers from Mondelēz International Make Large Impact at Thousand Springs State Park - EIN Ne",
+      "Uni-President Enterprises Unit to Lease Shanghai Office for Nearly 2 Million Yuan - marketscreener.c"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為好市多、沃爾瑪、ADM相關動態：「Archer Daniels Midland Company $ADM Shares Purchased by E...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Archer Daniels Midland Company $ADM Shares Purchased by Engineers Gate Manage...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Walmart Fails to Shake Estée Lauder Brands’ Counterfeit Claims - The Fashion Law（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 9,
+  "gate2_fail": 18,
+  "passed": 42,
+  "gate2_samples": [
+    "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Should You Buy? - MarketBeat",
+    "Core Capital Management & Research inc. Invests $973,000 in Archer Daniels Midland Company $ADM - Ma",
+    "Is Bunge Global SA (BG) Overvalued After 4.4% Rally? GF Value Sa - GuruFocus",
+    "180 Volunteers from Mondelēz International Make Large Impact at Thousand Springs State Park - EIN Ne",
+    "Uni-President Enterprises Unit to Lease Shanghai Office for Nearly 2 Million Yuan - marketscreener.c"
+  ]
+}

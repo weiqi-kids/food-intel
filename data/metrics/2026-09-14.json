@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-14",
+  "total_events": 32,
+  "by_company": {
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "walmart": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "costco": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "general_mills": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 30,
+      "sentiment_avg": 0.03
+    },
+    "food_inflation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
