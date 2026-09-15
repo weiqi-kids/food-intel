@@ -1,0 +1,223 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:00:30.922881Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-09-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tyson Foods stock trades near mid-range levels as investors eye next earnings date - ad-hoc-news.de",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcU5lRWdQOUdXTnJTSkYteHJXRFJmYXUxV3NwcjliWHRIbTVVR1E1S09uTXB3ZDB5dExTV1RSd295bmotaWNZOVR6NmdOaFhZVHJSRnpIeGF6Y3UtOElfU3hoamVUaWp1b3Z1NlpZa1pXUGY4eVladXhNLU4zUXZuNFZ5dHBBRm1XV2doWGI3SFgwRVp5R2lUdWhRNnpraWF3anFybndnQmhDVXJYUnNQTHVOMFMycTF4SzNGNTJzaGdWa2w4WlhtdmdKcw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-09-15-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tyson Foods stock heads into the open after a modest September 14, 2026 loss - ad-hoc-news.de",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmZRS21keFFSRldoQmNvNFpvclJ4Y3VZLUFnV194d2UzOHcza1dsVk5tRmZZeGhhSXhhd1ZiOTdGSmsySThPUzNCcHZSM2s2U1NiWTdhLV8yMHduZjRVN3VfMk5aN3RhbVl5Z1FPSWJsNzlCRmVzemx2SGFLZWF1Q2JtWXppSEIyaE41LXMxam9ENG9LY0lyZ1hoUUtOdjcxdVlWbXB6QnpwNk5OTTNTSzNPdTg1TlFudlQwNHlobVgyeUxlOHo3VEo5dGNvUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-09-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart CEO John Furner is turning the retailer's 5,200 U.S. stores into an unstoppable AI engine - Fast Company",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yVW1TNmdqVHZPSWVLbHFpaUVwYlZndlphYTdEV2VkLVZzTXZybVhEMkJpZWFhM2phWk1DcElnRnRfR0JPS19ma1otRU1PSC1tZzUtOFktTnoxbnk0eVgwQUZpV2w4bmRKNXljdFNjU1RUbTZQLThXR0lVSUtrNTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-09-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart Expands Restaurant Delivery with Dunkin’ - Perishable News",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3E3QzVtcXdvSVhSWkFSR0tPTUtnYldDVXBOUXJGSHZWclVzN2dyUlU0NGNhMmxHcktvdzNmNVFMQ0kwYTY2Zk05cHdvOE5NR0F0eHM2NS1fcmVJU1p6S3dleVpaaDJyQmVkc1ZPUnEyd0Zxc2FHbTA5OEIzaXlxWERHczRIYTNQLXZDMnhib3c1T1VrU2tPNA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-09-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart's Kathleen McLaughlin and SC Johnson's Fisk Johnson Named Sustainable Leaders of the Year by Retail Council of Canada - PR Newswire Canada",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPYXNKc3gtQmVlSDBzLWZKVHV1S014NmNNZ3cyODZycFFFSmV4UmM2NURYZUtaRjJtWENfbjVXTlJmMXZ0a3lwMlBpbWlSMHBrOVEyaWRKZ1lUNm5EM1VjUGl6RVFsUTA3VDdYQjJoZV9jNzRETjdFd2dtN0VSUGZId29GcHNRck1jOXhiYzI4NXJDZFF3UUR4Uk1hb1BxOXBWbXIwUGhfY3ZLRXNacUdYRWhsUEdIWTlRN0E0U1pGWDlOaW1SMHM1N0NNOExmeFdLWjh0eVNIQ25zcnFmZUQtZzYxWl80WjE0SzlEZkdqVTBYS21ZT3o3RGQ5eFk2cU5BTjFIanlIajZkQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 7
+      },
+      {
+        "id": "walmart",
+        "count": 3
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 262,
+    "dup_title": 94,
+    "too_old": 92,
+    "gate1_blocked": 9,
+    "gate2_blocked": 23,
+    "passed": 44,
+    "pass_rate": "26.2%",
+    "gate2_block_rate": "13.7%",
+    "gate2_samples": [
+      "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Should You Buy? - MarketBeat",
+      "Core Capital Management & Research inc. Invests $973,000 in Archer Daniels Midland Company $ADM - Ma",
+      "180 Volunteers from Mondelēz International Make Large Impact at Thousand Springs State Park - EIN Ne",
+      "Taiwan's Active ETF Uni-President Taiwan Equity Growth (00981A) to Pay NT$0.63 per Unit; Sept. 15 La",
+      "Uni-President Enterprises Unit to Lease Shanghai Office for Nearly 2 Million Yuan - marketscreener.c"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為好市多、沃爾瑪、泰森食品相關動態：「Tyson Foods stock trades near mid-range levels as investo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tyson Foods stock trades near mid-range levels as investors eye next earnings...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tyson Foods stock heads into the open after a modest September 14, 2026 loss ...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
