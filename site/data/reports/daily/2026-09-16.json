@@ -1,0 +1,228 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T12:57:31.200028Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-09-16-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tyson Foods stock edges lower ahead of November earnings - ad-hoc-news.de",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMnJhWFlvdkUtZW5EUmN3YTMyeDcwWVJlN3FoUFpwRl9MaXludnFMRWx3Vk85bDI5SmVycGdPX2ZQUEdBNmFkTFEwSGx4ZTEzU3hRQ1JUVUZlWTV3MnBYcXRMam5FUkpxNlVseEthOE5nSmJ3V1pxM3lMVjhtZUpqd3ZRR0h2ajlXV1FvdXJXLXdQNHNueE1fUGRCS1ZCLVJ2OW5SOHRFN1BMd2NmN3o5REpqRnhucmlmMEYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-09-16-012",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Like Costco, Walmart will sell Medicare Advantage plans - MarketWatch",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdmV4TTJvb2c1QTh0elJuS3lkd2VSZEo5VVRLVktZTmREaHM0VWpvQ0hxSFRONWdGd1B3UE9ZQ0s3SHV2enVubEVHNjNQbm1LcEhkbWRRRGpHVV9SRUg4Wkl6VkhCZUpJZkY1bjI2NUI0VFF1U0E1d1d6Q3k3a3luN1QyMVBjbzVHNVhXQnVzaHdNaTllZHhQUUN1WQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-09-16-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tyson Foods stock heads into the open after a 1.2% decline - ad-hoc-news.de",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXZmTld6R0tBUVVReTZGTllINkxRZ3lvV3dyUFRCd1ltU1ZYYU5WVmczQVlndFQ3VGoyZEMwa2ExXzc2QXkyTnF5RFI2RHdneVRYU25VRmdkT01MS09OOFJtbEphd2dNRlU0dTJycy0yeTdOcEZCUWxEVXVYRHJid2FURnBDb1QwOTdtUUdjd1FFV3N6VVlWbktFQTB0c0pySEZWeDhGZHpxTDNLektuUkI3VkotUVBXN3hMUnVTV0VhYlBZd1BV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-09-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Is Archer Daniels Midland (ADM) Signaling With Its Renewed Deal Appetite? - simplywall.st",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUVpYVFRpMGIxZi1fQkFzb1N5cFd3Q0RaaVRtT1AtV3E5RUJCVy0teExqTWxiT0tWLXljbXZ6RE5hSWFqWG9Bd1FkVUpKV2N0ckRGbUI5cFJiNUJHM0JXNTQ3WUdpc0ZpYnFwdHREQWdqYlBBeW53UnhsSWota3RSLUJrVzI3QkE2MHctUENiT0NSdkFleXlBTHlpd191UnViVFpuNjhDMmhXaWJnWktIR0FuTFlRbFUtUlU2c2RoSER4Q2Q3SjZBODFWZWZodGZsZkpScjF5Mjd5VmczcnZmWnROMVYxX0pldnlr0gHrAUFVX3lxTE5RWlhUVGkwYjFmLV9CQXNvU3lwV3dDRFppVG1PUC1XcTlFQkJXLS14TGpNbGJPS1YteWNtdnpETmFJYWpYb0F3UWRVSkpXY3RyREZtQjlwUmI1QkczQlc1NDdZR2lzRmlicXB0dERBZ2piUEF5bndSeGxJai1rdFItQmtXMjdCQTYwdy1QQ2JPQ1J2QWV5eUFMeWl3X3VSdWJUWm42OEMyaFdpYmdaS0hHQW5MWVFsVS1SVTZzZGhIRHhDZDdKNkE4MVZlZmh0ZmxmSlJyMXkyN3lWZzNydmZadE4xVjFfSmV2eWs?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bunge-2026-09-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Attack damages Bunge oilseeds plant in Ukraine - Oils & Fats International",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWEJIUHVWU0RNN3U2bmk1NXlBZnphMXdJMVJGY1VYN2hCeVZqejladDFVTTI5YlJwS1JCN2YtUmVjZjhBMlVnSU5zdTJmYlJ1YzlOaWl4UGJnY09tV2lJOTlTemNpVjd2M3NrenB4WWtNSWhRN1FYOW44bWYwVXM4cnZmdV9YQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 23,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 6
+      },
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "tyson",
+        "count": 3
+      },
+      {
+        "id": "bunge",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "food_safety",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 262,
+    "dup_title": 90,
+    "too_old": 93,
+    "gate1_blocked": 6,
+    "gate2_blocked": 23,
+    "passed": 50,
+    "pass_rate": "29.1%",
+    "gate2_block_rate": "13.4%",
+    "gate2_samples": [
+      "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Should You Buy? - MarketBeat",
+      "Core Capital Management & Research inc. Invests $973,000 in Archer Daniels Midland Company $ADM - Ma",
+      "180 Volunteers from Mondelēz International Make Large Impact at Thousand Springs State Park - EIN Ne",
+      "Uni-President vs Rakuten Monkeys live score & predictions - Sofascore",
+      "Taiwan's Active ETF Uni-President Taiwan Equity Growth (00981A) to Pay NT$0.63 per Unit; Sept. 15 La"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為沃爾瑪、好市多、泰森食品相關動態：「Tyson Foods stock edges lower ahead of November earnings ...」。主要關注主題為產業通用、食品安全、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tyson Foods stock edges lower ahead of November earnings - ad-hoc-news.de（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Like Costco, Walmart will sell Medicare Advantage plans - MarketWatch",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

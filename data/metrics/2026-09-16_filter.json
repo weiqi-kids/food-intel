@@ -1,0 +1,16 @@
+{
+  "total_raw": 262,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 6,
+  "gate2_fail": 23,
+  "passed": 50,
+  "gate2_samples": [
+    "Archer Daniels Midland (NYSE:ADM) Sets New 12-Month High - Should You Buy? - MarketBeat",
+    "Core Capital Management & Research inc. Invests $973,000 in Archer Daniels Midland Company $ADM - Ma",
+    "180 Volunteers from Mondelēz International Make Large Impact at Thousand Springs State Park - EIN Ne",
+    "Uni-President vs Rakuten Monkeys live score & predictions - Sofascore",
+    "Taiwan's Active ETF Uni-President Taiwan Equity Growth (00981A) to Pay NT$0.63 per Unit; Sept. 15 La"
+  ]
+}
