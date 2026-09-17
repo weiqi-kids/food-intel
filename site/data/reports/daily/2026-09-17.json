@@ -1,0 +1,220 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T12:53:51.596547Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "costco-2026-09-17-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Costco Wholesale (COST) Projected to Post Quarterly Earnings on Thursday - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN2gwcUg0MDUzZ0d2S1NwWWM2VS1TMzNwcTMtZFdraHZVNnU0UUxMQmxxcWIybmVsZzlHSU1XbFBUTFRLQllIR0JZaE55OWF6cHdyZWtwcUtVeVZSVllQMHJsTFV0SEEzT2JLamd5a3lPNGlkcmtXS2w2a1c5MG1SRWhCWDhKRFRnLXRIei1ZQXIzd3ZOSlFIRlNuTHZsSVlFQU1WY0lhdk5Dd0ZTMDI4OWJ0Q3lYWERFLUhFTWVVT2lzTGQtTFNnQjJaZEV4UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-09-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global stock falls 3.8 percent as UBS lifts price target - ad-hoc-news.de",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWEzdnkwMHR4U0tydG15a0U1VzZNZjBkX1hSQy13Q29ndnQ2SmJid3k3TkdQOXlVX0RPRjNSb3BuTjVJMlRvRHRRbGV4czhaTW5rRHN4Nlg3SEVWMzNRU1JVQl9ILTZtZjdULXRMemt0NTZtdWVJZTNaWXAxU3gydk5VU3VaLTBWZVJHWkFKV1ZjcGc2Y3B5RERyR1hTZlQzRm5qRXhjVUNFVHhsV2ZSTlBfRFBJNWpkeTJoMHNJWVhuSUk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-09-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global stock heads into the open after a 3.8% drop - ad-hoc-news.de",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ1B5SGtzdDk4NFZVUXdsY3RXQ1M3bFFfVUU0OGRvWUdVSU1kdWVYQ3B0WXp3X29vbXhiSWNlNzFQOHFIOXhVSXljbHVJaFFtQktYN3RtSHV6X0tkUlMxRHBMVXkwTUkxcFppQlNUb1E2Unk1ekRMVnZiRFZKWjY1QlVnZE5PSnVIY1c2VGN4UVJ0V0w0eTBJSlg2VWlRLUpkWHVnYm9OcXJXeUZRUzNpZ1l4YkQ3VE41U3pGRFdFY1F0Wm5W?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-09-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart Adds AI Tools to Help Suppliers Act on Retail Data - PYMNTS.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWQ2Nnd5Rm9mWm1hNXg2ZWcteG5wa0x5ekJWNEE1ODhCTmZlS2dnWWF5bTNwUjVkN054VlE0UlRNa1FKcTFCNEttWm5ldGE3M1laenpqNWZQMEFEQ0F4dkhjNVFuZXJVR1RZaENqXzNfNENWUHgyUGZvSmFMVkRubFdneGRqSzU3ankzaWV0Smt6LUdVVkNENExNZ0RiVGcxd181QmJHQkcyMFN3ZlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-09-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Walmart Is Rewriting What Retail Can Be - Fast Company",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONnFBTTBvS0N2bUJTc2JfVTZfQl9vckwtb0ZSZERHMmhyRzJ5WDJycDAxeTNvTExjdWFBV3F6Rmp3emlYcW4yUG4xRVczUEk1WlAwQ1JuNHdHeFZaVzdXVnhDRnlpRVAtd3lhRk1IUHhZVjZ5ZkY5ZUxrRzFYT1ZvVkVCSzRQcWM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "walmart",
+        "count": 3
+      },
+      {
+        "id": "bunge",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 262,
+    "dup_title": 81,
+    "too_old": 107,
+    "gate1_blocked": 7,
+    "gate2_blocked": 21,
+    "passed": 46,
+    "pass_rate": "25.4%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - finance.yah",
+      "180 Volunteers from Mondelēz International Make Large Impact at Thousand Springs State Park - EIN Ne",
+      "Taiwan's Active ETF Uni-President Taiwan Equity Growth (00981A) to Pay NT$0.63 per Unit; Sept. 15 La",
+      "Walmart Supercenter under construction in Liberty Hill - The Business Journals",
+      "New Walmart promo is the safest way to buy the Pokémon 30th anniversary TCG set at release - Polygon"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為好市多、沃爾瑪、Bunge相關動態：「Costco Wholesale (COST) Projected to Post Quarterly Earni...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Costco Wholesale (COST) Projected to Post Quarterly Earnings on Thursday - Ma...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge Global stock falls 3.8 percent as UBS lifts price target - ad-hoc-news.de（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

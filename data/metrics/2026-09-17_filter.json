@@ -1,0 +1,16 @@
+{
+  "total_raw": 262,
+  "dup_title": 81,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 7,
+  "gate2_fail": 21,
+  "passed": 46,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - finance.yah",
+    "180 Volunteers from Mondelēz International Make Large Impact at Thousand Springs State Park - EIN Ne",
+    "Taiwan's Active ETF Uni-President Taiwan Equity Growth (00981A) to Pay NT$0.63 per Unit; Sept. 15 La",
+    "Walmart Supercenter under construction in Liberty Hill - The Business Journals",
+    "New Walmart promo is the safest way to buy the Pokémon 30th anniversary TCG set at release - Polygon"
+  ]
+}
