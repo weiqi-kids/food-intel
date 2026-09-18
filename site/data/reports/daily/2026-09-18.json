@@ -1,0 +1,229 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:29:56.577643Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zacks Industry Outlook Corteva, Archer Daniels Midland, The Scotts Miracle-Gro, Mission Produce and Dole - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbnZvclVIcEcwTHJrYmE3QWhvQU9uMS1oRmkwbGtZY0x5anFOdTBIRU5NRlppMFBhVGpXclM4OFpYTUZXYlpOQ0ZpVHJzQ0ZMZDNiWHNmeVRhNUdTV0NGMlVWU2NmWFoyVDROQUtzbjJlOFRrQUkySTVFWlQ2aG1jOC0tVzVVUGh3OG9Sc2JUSFBvbkt6TzNabEd3WkxMb1ZQT0toUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "coca_cola-2026-09-18-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Analyst recommendations: Coca-Cola, Crown Holdings, Netflix, Tyson Foods, Dell… - marketscreener.com",
+      "companies": [
+        "coca_cola",
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb2lFVVNtVXFrVGxrM3ZDV3BaRmRtaUw3R2xYNlZJc1djVHhkUmhJQ2hsa05TUnhiTmpIdC1MRm5YY2MxT2NITWx3QmhIZko5ZG42MlFjanA1Z0FxdVl0Sl80QkNpUEpuN0gwZnFFRUdZUy1LekdsakFPRFF0dGRLWHhBZTZwVTVhaUdha1JmUzdDUF9tMmVoZEVPUkMwTDB0LTVYT0FWUVpWQy1RV21VMXFWWFZYVEZYNWdfQTMycHg0TnpseHA0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-18-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA issues public warning about more products containing toxic yellow oleander",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/09/fda-issues-public-warning-about-more-products-containing-toxic-yellow-oleander/"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-09-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "2,357,278 Shares in Archer Daniels Midland Company $ADM Bought by Bank of America Corp DE - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVEFvSVY3WTFRaVlUaWx5Q0VrWURuai1TTnIzbHgyZlhMdjJOeHFNSkRhQmViSUlIZHZGMmpOaF96Y1U3WVN5QVNxdkpCZ1k4dXF5Ul9UbEhuSkNnNHBPak43QkpTa2dRUHVTZENWY2hKaWYtU3A0MmQ3S1piNTlCUWU1S0xrOFYtNjV1Y0lLRW5EUnZqMmh3YVRwZGVFZTFaeHVCVXl0dUptSUpvblJyN0pwSmxWc3kxUkxjbHpja2tGV0ppMGhhWnM3WnBmZnVGcEFySDJ3bU5OQXhfWnh6UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bunge-2026-09-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global stock heads into the open after a 3.8 percent drop - AD HOC NEWS",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLU1fNl9od3dyMkkzc3dDVEUwcEZSRXgwUkxrSTVYWUM4azZ5T25hVEVVTjc1WTN0QzNhdDdBM3JMbmt1a1ZhUkEwa1dxLWp5djVpSzdiM3JZYzZKMWFmTFBxQ091clhqbWwwS2V1UHNtVjM5TkQtMWxPU3VCVFZzeTFkNkU3Ylk2WjBHa3FKTHJhQzhITWxXVktUR1YwS2pMbmt5bmhPZGZvd09DTS1MRVNMVXZDemJycmtNR2k4Y0pxS1VT?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 24,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 10
+      },
+      {
+        "id": "costco",
+        "count": 3
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "food_safety",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 89,
+    "too_old": 89,
+    "gate1_blocked": 9,
+    "gate2_blocked": 16,
+    "passed": 61,
+    "pass_rate": "34.9%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "Is Archer-Daniels-Midland Co (ADM) Overvalued After 3.6% Rally? - GuruFocus",
+      "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+      "180 Volunteers from Mondelēz International Make Large Impact at Thousand Springs State Park - EIN Ne",
+      "Walmart Supercenter under construction in Liberty Hill - The Business Journals",
+      "Walmart Sells a $29 Patio Rug That’s Water-Resistant and Won’t Fade From Sun Exposure - Men's Journa"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為泰森食品、好市多、沃爾瑪相關動態：「Zacks Industry Outlook Corteva, Archer Daniels Midland, T...」。主要關注主題為產業通用、食品安全、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zacks Industry Outlook Corteva, Archer Daniels Midland, The Scotts Miracle-Gr...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Analyst recommendations: Coca-Cola, Crown Holdings, Netflix, Tyson Foods, Del...（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 264,
+  "dup_title": 89,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 9,
+  "gate2_fail": 16,
+  "passed": 61,
+  "gate2_samples": [
+    "Is Archer-Daniels-Midland Co (ADM) Overvalued After 3.6% Rally? - GuruFocus",
+    "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+    "180 Volunteers from Mondelēz International Make Large Impact at Thousand Springs State Park - EIN Ne",
+    "Walmart Supercenter under construction in Liberty Hill - The Business Journals",
+    "Walmart Sells a $29 Patio Rug That’s Water-Resistant and Won’t Fade From Sun Exposure - Men's Journa"
+  ]
+}
