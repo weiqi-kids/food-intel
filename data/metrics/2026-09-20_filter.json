@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 115,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 13,
+  "gate2_fail": 20,
+  "passed": 32,
+  "gate2_samples": [
+    "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+    "A Look at Archer-Daniels-Midland Co (ADM) After 3.3% Decline -- GF Value $61.05 vs Price $85.18 - Gu",
+    "Is Archer-Daniels-Midland Co (ADM) Overvalued After 3.6% Rally? - GuruFocus",
+    "Is Bunge Worth Buying as Oilseed Strength Meets Integration Risks? - TradingView",
+    "Tyson's beef and chicken headwinds may be dissipating -- J.P. Morgan (TSN:NYSE) - Seeking Alpha"
+  ]
+}

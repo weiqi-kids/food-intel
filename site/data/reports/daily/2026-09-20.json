@@ -1,0 +1,209 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T12:46:12.586424Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "costco-2026-09-20-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Costco Wholesale stock steadies ahead of key earnings and reflects strong sales growth - AD HOC NEWS",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc2trNi1iVTVoVFMycDdyOUlXamsyX3FId1c4SDk5T1JrcGFzckZJaEFIa0NjTWRhaldNWFF0bTAxQlR4UFNVdW1namw3M0ZoaE16bEs4T0lscnlhcnJhWTNKc18ybnJrY0hBaDR2TzVQZ3hROGd3SkJ3MFludzByeUw2WEhibnlwOXB0QmloTXp0aWJveXQ2OEtyOEdma1VJbUl1Tl8tQ1VhZ0k0bGhkRFBpU05mcWNocEFabWZjV21LUHlDT0dDTlhnMGFveENBNFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-09-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global (BG) Stock Dropped, So What Is Driving Attention Now? - simplywall.st",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMUt2TmJXdzF4X2NyWjF2T2ZaMFdPenM3UDJLX1Q4am44bVJrVng2Mkd5Vm5paXJhbkxjSTBiSDhMaUhMa3Awa01YT2RWQkQtNFJwOURpSHpHZ0hsVEJHeVB4TWlTLVZsSTFYS0R3em9ieEhTeUpia2Z0SXhUVmhGcThlUzhnUlJGckdKeDkzVG16eDNQbEVYMmVWUVZSOTNUZFRGc2JaWF92UHZVZTZmUlA1NHh2Rk54cjNCc3c0YlRvVk5tMmJoX2pVQWMzdHRtdklJX1hJZ9IB3AFBVV95cUxNY0pVNjdCSzcxYlVKZTZkcndDNEZ3OGp6Tkx3UXplbmd5QWFrZlVZZVJMbm53ZEN1R09lclViWGdJbFhPNjRtUVdvMjlOcGFQbDR2MlFJN2RsT1pvQXlScWhLNVBxdzV5ak93WThGZUYzcDhuMHFaYkZmckJYbWpXYnJ2cWtpNkdVdEFyQXNES3FTMDRxNGR4OEdvNDFYdk9pakRuZk81YmZndUd5cGxNczBaYmpQMzJGbmhYNEtncTlxVktsOE9xbm5JanhBWkNCQ2dSYW5qWTN5el9p?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-09-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corient Private Wealth LP Sells 132,053 Shares of Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUUppVGNxOVBUZzFOQl9jZlA3aEpheDR4bndSNkxMWTNCbW5YcGdEaFBQQ3FMay1FQkN5aFVQR2diU1JlS3hBVVFLU3NLS1p1ZUhvS0pfUVhKSFdyUGVMWEZ5ZVdFZWlycDFrRGhTVkFJNWdsb2pPeG1CN01IU0RTWlgzeG1SNnJCQTZLS1RPUWVabjZxbHJFaEw5WDlBeXo1Mmhhcl9zODVsQktObS1lY2JBUXlEUmxfNUtYLTRQVWhuMS1pekhWLQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-09-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "You can soon order Dunkin' and groceries in one Walmart app trip - Cleveland.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2w4UXhJSnhJLXBxUWNlbms3S3JkamRVV3VnczBiUHMzUkM0WWpUazN5NTJSVG1LRFhGS3BCamxBUWR1cXhPQU4zY2FTZ0x6LTEtZlpjWC1aM0VrSEZQMGhVMTlYcGV1UWhsYlY4V0NrRFVxR2NkaFRDMFZJMlN3ZjVmRzl2M29SejFJenU4R1AxQkZ0VFFONEhCVzlCVHpjRXBvM3RzTzRhVjVPUTItZ3ZUTkVBT2JPRnN3VnVUaDNrQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-09-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco Stock at $892: Here's What History Says Comes Next - Yahoo Finance",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV1BUWTZCS2c3cHlwSnZtNHpLQlZ4cXE0RHFmU2hzcU1xSDNlUWR3cHhURzRmdTZDS0I3SHk5MlZ6bldrQ2M4MExUaUVTd2c4Y3lobHdQcEh2TVpVa1Ayc2czSDVqbUxxaHZXNWx2cDdMRndqZ2ZYM2t2Q21ZRFVINkhEWXE5UDFNQnlWNEFhTi1NYXlTYkxoSkpDcw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 115,
+    "too_old": 85,
+    "gate1_blocked": 13,
+    "gate2_blocked": 20,
+    "passed": 32,
+    "pass_rate": "21.3%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+      "A Look at Archer-Daniels-Midland Co (ADM) After 3.3% Decline -- GF Value $61.05 vs Price $85.18 - Gu",
+      "Is Archer-Daniels-Midland Co (ADM) Overvalued After 3.6% Rally? - GuruFocus",
+      "Is Bunge Worth Buying as Oilseed Strength Meets Integration Risks? - TradingView",
+      "Tyson's beef and chicken headwinds may be dissipating -- J.P. Morgan (TSN:NYSE) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為好市多、Bunge、泰森食品相關動態：「Costco Wholesale stock steadies ahead of key earnings and...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Costco Wholesale stock steadies ahead of key earnings and reflects strong sal...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge Global (BG) Stock Dropped, So What Is Driving Attention Now? - simplywa...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
