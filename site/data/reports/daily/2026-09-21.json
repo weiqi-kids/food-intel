@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:42:22.653430Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "costco-2026-09-21-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Gear Up for Costco (COST) Q4 Earnings: Wall Street Estimates for Key Metrics - Yahoo Finance",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2xudVItdWtVckFfX1VFLXdVVTBjRW1iSXZrbXF4WGItWXdqbkxDOFRoRzZ0WlFXYkxTVW1LX1h5R05ZNkF0MDZqNTdNUzhnQk83SWNDMEhfZzh6NW1vUkk5S1dURkVGX21HVDZjTWVnWjhreG51NlpIVm5ZR09nQ3ZmYzA0Z3NMWENZRnVRdnNzbFJ6Vjc5eQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-21-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA warns Texas beverage companies about acidified food, unapproved drug claims",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/09/fda-warns-texas-beverage-companies-abou-acidified-food-unapproved-drug-claims/"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-09-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "3 Reasons ADM is Risky and 1 Stock to Buy Instead - The Globe and Mail",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc0pGeDFhd1E2bXh1QVJ2OVFKbEJra1NVZTBKazhQQU1HSF8wTlNPQ1FaNWlLYUw5NlFobGVBWGFBMGY0dWtmMDVQZXFjUzUwN3gxS0FkU3h4eWsxdUtNSm1SNnhmVGx2OFk0VFpYSjBaTEdjWGNXeW9nMTZCQndGWjNWM2c2VmlRM0JEc2hfaS13YkhMc1ZHQmtaSGRYZUY2eGxSMWlOWVExT1dXSUNkR3RROWUzalB6ekdPbjlRcUtrYU1Vd09wQTloX1lTQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mondelēz names new chief procurement officer as cocoa market stabilizes - Supply Chain Dive",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc1RMaUlINzdKLS05U3FKWjdZMUtsZXF6U2FDMWp4Y3ZueVNTLVFYT0J2cXRiNUVWS0VtQnNfejNwVllfQ0RBUWxvWXVWRGVERXF4a09zY2h5SkFpX0xIVENQamR3TWRrUTBzNGxQcnNieXJ6S3JxeFdXdDNzMnFVTnFfeGs1S3N4N1puZHdVQmFQNFF6clBfMFJjWEJaajhKVVVRUFo3QUFtbTlXTHZ1eHFtZkJ0eHc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "uni_president-2026-09-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Uni-President stock gains as Taiwan market extends rally - AD HOC NEWS",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbEx1N1VEakNJcy1Jbmg0bExDRlpWdi13bEtmWWRoSENZeHk4VThNOF9nSmZXdzVpWFNNVk9mWHZmOVVkMG96bmhnY0VZY0NtUVphb0pNVWwxTTBfeDFFU2RPWHFMRGVoZGFOY3FPeWJ2Tmx3amRrM201V2xaODlDOUZET2ZkcTRXaG1KU2xuZUhVOGlKZFlZXzdGaXc0SGd2REp6Szc1Rkl5cExERDd5ME4tVXNEQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 28,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "walmart",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 103,
+    "too_old": 82,
+    "gate1_blocked": 11,
+    "gate2_blocked": 25,
+    "passed": 44,
+    "pass_rate": "27.2%",
+    "gate2_block_rate": "15.4%",
+    "gate2_samples": [
+      "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+      "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - easternprogress.com",
+      "A Look at Archer-Daniels-Midland Co (ADM) After 3.3% Decline -- GF Value $61.05 vs Price $85.18 - Gu",
+      "Is Archer-Daniels-Midland Co (ADM) Overvalued After 3.6% Rally? - GuruFocus",
+      "Is Bunge Worth Buying as Oilseed Strength Meets Integration Risks? - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為好市多、沃爾瑪、ADM相關動態：「Gear Up for Costco (COST) Q4 Earnings: Wall Street Estima...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Gear Up for Costco (COST) Q4 Earnings: Wall Street Estimates for Key Metrics ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "FDA warns Texas beverage companies about acidified food, unapproved drug claims（食品安全、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
