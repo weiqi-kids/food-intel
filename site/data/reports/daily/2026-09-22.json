@@ -1,0 +1,229 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T12:57:09.958948Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-09-22-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global stock gains after 2026 EPS guidance rises - AD HOC NEWS",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPanMwVXFkWXNSX2hsWmpYZUNVQ3VoSWxFZnJzVUlRbmZEUDM4SW9Sc01GbXNXdGpVc2RpcWVnTTRTMTdnTWlaTUI0VUpsVDNxRWNkSG1CU0ZMQVMxWE9YbHZyeGRnaW1paHFLYnRraFhydXY2U1dUNFVKQ0pVQXhkU21idEsxdHdTQXJnN0htOXBOUU1EMlFELS1JWWM2ZmE0NHZQVEl4TW5sc3ZQNHplRVJvNG9tbG1T?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-09-22-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Is Bunge Global Stock Outperforming the S&P 500? - Barchart.com",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzZ0SG9HWUZLZmtBcExHQ185MDJlMzFoYmlibWtWX1BqeU4wd3R6RlBGX3lqbWFwR0xiTnA3ekhGSVFXYzlSakN6X3RjSExHbjROTFhZOHF3TkdoY0d5SUswekVhY0U4czYtOHZwVFQyV2NTNk13WVJzcU5MRVJvYmE5MjFIODBfeEtYZTVzTGhyRnVSRVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-22-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hepatitis A outbreak traced to clams continues",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/09/hepatitis-a-outbreak-traced-to-clams-continues/"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-09-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nykredit A S Purchases New Stake in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWVEyTi03amtfQUxHZnVJdVhIRjRJVVdQX3hXN3FhTk5NS0sxQWxoOFFXRWE1aUVLaEdhLUk2YWRmYXJBcHpZaGYzWHlXMnJoQU15d082TTQ5V0tRY1ltMmZnekZ2ZG5zZDlFUDlGN1dFeFBzUTY3R3pyOGgzdU0yd1c0X01CUnhQTnZ5dF9rWk9XWmVNRkYzOXc0cWx1U01mcVpfdmlrQ1MxRWVOdTB1ODNENEljOFU3M2lZTUU3ZFZUUWN4OTdlTWY2aw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bunge-2026-09-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global stock heads into the open after a USD 115.58 close - AD HOC NEWS",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelNOb3NWbWE0Y0c2MHNMamt3Nm9MOHVWbTZidGJlMjJtSU5aN0twUWR1SDFiVmlpanZweUJMVkhTVmFTZXBpNlNYekxqTXUxRFA4OTJlcnhJSGVfdmVzeVdFOWRBeTJOWDAxZ3FOcmNOR1pMRXhHYmt4a3JudUgzMjJrNTdIeFluWEhmQ2laSF8yNkJjZTRpZ1FXQkRpYU5aSE5hcThUOGIySmVwM2NvWnpaMjEwR2dFa0drOTJxU0RRWWc3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 5
+      },
+      {
+        "id": "bunge",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 105,
+    "too_old": 78,
+    "gate1_blocked": 10,
+    "gate2_blocked": 24,
+    "passed": 48,
+    "pass_rate": "30.0%",
+    "gate2_block_rate": "15.0%",
+    "gate2_samples": [
+      "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Eastern Progress",
+      "A Look at Archer-Daniels-Midland Co (ADM) After 3.3% Decline -- GF Value $61.05 vs Price $85.18 - Gu",
+      "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+      "Bunge Limited Finance Corp., Bunge Finance Europe B.V., And Bunge Global SA Extend Revolving Credit ",
+      "Bunge extends revolving credit facilities, pushing maturities into 2027–2031 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為沃爾瑪、Bunge、ADM相關動態：「Bunge Global stock gains after 2026 EPS guidance rises - ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bunge Global stock gains after 2026 EPS guidance rises - AD HOC NEWS（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is Bunge Global Stock Outperforming the S&P 500? - Barchart.com（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
