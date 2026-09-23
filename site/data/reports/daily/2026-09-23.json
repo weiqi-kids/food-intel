@@ -1,0 +1,200 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:08:41.740243Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-09-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Latest on Tyson beef plant: ‘Entire industry in PNW is watching’ - Tri-City Herald",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tTHFNY2RTSWpfY3NYNFNMbmVORFJIMlJvdnByTVlQOUZjLWVibEM4U25leDY5MFdGV1dfUzJocnV4WENBd25xcnZxaHdsTXlHWnNqX2YtMXR5UFJWQXFTdG5zMUJLV0JRVjBTdHNSaWNUc3NH0gF0QVVfeXFMUGF0eV83al8tUXM5azZuUkpOd0w1eE1zRXRhMkxIQkpNQWZtRGRHNFRNMGtodC03VHcxWEJ5bU9BX0JuM2pnX1AxdUhEZDFIdVhjdDE1SXFCcXFWbnhEOWJhLTdlbWxNMlBGZDNQeU5GRW1jMVA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-09-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods facility potential source of Black Warrior fish kill - mountaineagle.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRzNUSGlKNWRHV3dTd2NtM0dnRnF0eTNzZWljby1HQmZfTnR4VWEtSkNnQlFmaFlvdkNpdExxaXI0S1o5TWJCb3MwbjRoRkoyaDNvRUJLdHN1aWpTa0ViMUhzT3JHN2dXSzVOSnd5TU44X2RGcUkydHh2ZElISWs5MzUxWkpTTUZtcXJpSVJPWFB4V2tFam9IZlZrM2lqcHptQ2VJcmRuQWszY19IamoxN0xwWGw0NlpvQ3FWUFZjQUE4V2tVY1dFQVdwaXpveWlWMWMxekFYaHpzZEl0Yk5NWDZhNA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-09-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods stock gains after JPMorgan upgrade - AD HOC NEWS",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZUxCYUMtbE5vS2RULU5JMVI2XzFTVHVjeVVOdVQ4Rjg4NDZ6akUxc0ZqUElnWi0tSk5mOThKNVJhdkVSR2VyRUNxUEZZMTZ4QVF2Zk5BOHRFSmFsQ1BLbEFPekRoMERISTlUdWpiY2otbGxSZU01dzdmVWVCZHdIeG83MWwzUzZxRWdzMlN6aEpYcnJXbnBTMm8wUDZRb0Z1clc3ZWlKVHRUREU5eGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "President Chain Store's Unit Adjusts Taipei Lease Terms - marketscreener.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3hzejg5Q21fMXNSN1I0Vk04eC1XcGdDTkNnOUh5Ui1YT3llLU9qMENyVkJMUEc4SnB6ZVVxWjctbG11SklZRlRGWW5VN3JmcGlTcXN5bEJsSVRMWGZpLWZmVWpaNGVZaUhIUWFEbmNoTnlxVjloNUZVR1kyVEJyM2ZCWFNuQjJLTUVoeWJoc3B4R0lDanB1VkJCRFQxTmZjdUVGbVpDZXVtR2Zk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-09-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Former Walmart COO Mediratta eyes 100 stores for new grocery venture FreshTerra, targets IPO in five years - TradingView",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMGI2UXVzeV8zRDBFa0dYbURET2hOY3ZYc0JscklKTlRfODg2R21Rc1BHS0xid2lReUgwdDdBb29US1dIaUJMSGNtaDhMZjktU3llbm9IbE5VOFFUSlp2NDBwNkdlS0QyRnFfM1dyRWotQXAwLUtjdjBSWjE0ZGJ3VnZIS0dRY2tFY1lQeU96X2x6WGRrcWpvYk9MQ3ZRNzRJa1RDVnJlakd4bTdoQm9XbkRGUy1Lcm9tdnA0ZjNTVm4zckF3STlPQTlLYmhuS1pJMTlTU203eDFEcDJOckJBTDNnQWFEVmlDZnNJTTlMS3VyekJw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "tyson",
+        "count": 3
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 94,
+    "too_old": 79,
+    "gate1_blocked": 10,
+    "gate2_blocked": 25,
+    "passed": 57,
+    "pass_rate": "33.3%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Eastern Progress",
+      "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+      "A Look at Archer-Daniels-Midland Co (ADM) After 3.3% Decline -- GF Value $61.05 vs Price $85.18 - Gu",
+      "Bunge Global Extends Key Revolving Credit Facilities - theglobeandmail.com",
+      "Bunge Limited Finance Corp., Bunge Finance Europe B.V., And Bunge Global SA Extend Revolving Credit "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為好市多、泰森食品、沃爾瑪相關動態：「Latest on Tyson beef plant: ‘Entire industry in PNW is wa...」。主要關注主題為產業通用、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Latest on Tyson beef plant: ‘Entire industry in PNW is watching’ - Tri-City H...",
+        "level": "green"
+      },
+      {
+        "text": "Tyson Foods facility potential source of Black Warrior fish kill - mountainea...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 94,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 10,
+  "gate2_fail": 25,
+  "passed": 57,
+  "gate2_samples": [
+    "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Eastern Progress",
+    "Archer Daniels Midland (ADM) Declines More Than Market: Some Information for Investors - Yahoo Finan",
+    "A Look at Archer-Daniels-Midland Co (ADM) After 3.3% Decline -- GF Value $61.05 vs Price $85.18 - Gu",
+    "Bunge Global Extends Key Revolving Credit Facilities - theglobeandmail.com",
+    "Bunge Limited Finance Corp., Bunge Finance Europe B.V., And Bunge Global SA Extend Revolving Credit "
+  ]
+}
