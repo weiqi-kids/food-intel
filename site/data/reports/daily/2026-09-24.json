@@ -1,0 +1,264 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:02:31.786655Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-09-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer-Daniels-Midland stock reports 7.2 percent revenue growth - AD HOC NEWS",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX05mZkc1cm9CNlZUYVY1THh1Rkt6bkFEUTg0cUJ4RnlZLTZpbi1KOHhFUERla3dMNnlsT3o0aHhoWEhTc25XZE9Fem4zOE9xdmRNQTM0d0x2cFp4RE5FS0lmcFFZQ1lmQzQ1bmM3TlVFdTVsbjE2N2tNdF9vQ0NPWS1lRFg5dHFSRDBwNDJTcmxvWUJiZi1yY09GdU1hUW1IZEJ0T1pneVl2ZEJYb3RFcGNuZE9qdmVLbUVkMTJEbDJiN1hp?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-09-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global Stock: A Mispricing Appears (NYSE:BG) - Seeking Alpha",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNZjFWUkhRdDRlLXF2Z0VVb2VhQkZnSDJNQ0hDbV9tSlhlWjB4N0ItUVJ1NUVrYng0ak4zOWhYNUpmRUNqd1loTUNraVVaZVM4QXV0NEFoLUdZR0ctTGhuZHZLTmVWWlZ1ZDZKZzliYU1Db3pDd1dTX1VQb2FfUVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-09-24-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zacks Industry Outlook Highlights Walmart, Kroger and Yesway - TradingView",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXRWZC1vZUdxX3F3aVp0eFBKV2ZfRTFaNnV1SDBnZGtqd2ExUHRkdkR4dEJGd0hBRzVZcXRuSmlrdUR6TkJ3VW1rWjlsRTV2ajEyc0dHanQ1U09YR2piekFPcUNpUzg0bVFKekhQdmJSWkdNRXJ6Tzk4RzhRR2U2RTdyVmZZMlhub1pyMmFLb2haUHhTdGJWN0lULTNpWEg2bFRoOXd6VEZzUVhEbXdJeWkyZWpuUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-09-24-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How To Earn $500 A Month From Costco Stock Ahead Of Q4 Earnings - Benzinga",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMXhUSVdIaGF3ZFFjd1FMdmJETFVCcGRLR2RJSG9aX2FYa0FvemdJV1FtR0pzUDN5Wm1MQ3c2Vm9NQm1hbUx2cjM3VkRScm0tMXJmMEk5VDNHV1JpZ25Cd2hmeWR0eGxJZkNNUEp2a2pxQy1GNzVtZ1hNcTNPWGJsV2t6bWY4NEpjd3A2TG9YU25MTUI1THMybXEwX2xZb3AzUWZTdE5mOVJwZjVNenJqSFF0d0NkRTVJSG52NjZvUlRKT0pfSGVZ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-09-24-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Dividend King Walmart and Special-Dividend Costco: A Retail Stock Comparison - NAI500",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzNrQ1loTzJvY3czVHV0SnZnSG1qS1hRZTJRNnZhVzRlNDhWX1JoVjlaVXNNcnVLUUF3dW11SDd2b1VBWVhnREFULVpKY0FNQW52aEV0NFFWYmx0UXF2SW9RTHM2cHQxaXkydnFIVEZweVJWZVNGUTFVTnBnSjNOazdVcDI2UFZBZlBZU1ZrSGJMQUU3dEtzUzkyRVNxYjd0SmFuRjVfUW9uRkdR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "costco",
+      "to": "walmart",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 28,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 8
+      },
+      {
+        "id": "walmart",
+        "count": 6
+      },
+      {
+        "id": "tyson",
+        "count": 3
+      },
+      {
+        "id": "bunge",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 95,
+    "too_old": 79,
+    "gate1_blocked": 11,
+    "gate2_blocked": 23,
+    "passed": 59,
+    "pass_rate": "34.3%",
+    "gate2_block_rate": "13.4%",
+    "gate2_samples": [
+      "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Eastern Progress",
+      "Bunge Global SA is a key player in global agrib... - Pluang",
+      "Bunge Global Extends Key Revolving Credit Facilities - The Globe and Mail",
+      "Bunge Limited Finance Corp., Bunge Finance Europe B.V., And Bunge Global SA Extend Revolving Credit ",
+      "Bunge extends revolving credit facilities, pushing maturities into 2027–2031 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為好市多、沃爾瑪、泰森食品相關動態：「Archer-Daniels-Midland stock reports 7.2 percent revenue ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Archer-Daniels-Midland stock reports 7.2 percent revenue growth - AD HOC NEWS（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge Global Stock: A Mispricing Appears (NYSE:BG) - Seeking Alpha（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
