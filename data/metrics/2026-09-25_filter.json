@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 7,
+  "gate2_fail": 18,
+  "passed": 55,
+  "gate2_samples": [
+    "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Eastern Progress",
+    "Bunge Limited Finance Corp., Bunge Finance Europe B.V., And Bunge Global SA Extend Revolving Credit ",
+    "Bunge Global Extends Key Revolving Credit Facilities - The Globe and Mail",
+    "Bunge extends revolving credit facilities, pushing maturities into 2027–2031 - TradingView",
+    "Uni-President Enterprises Unit Acquires 100 Million Yuan CTBC Deposit - marketscreener.com"
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:07:30.692845Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "costco-2026-09-25-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Costco Wholesale Beats Earnings Estimates. Its Stock Is Down. - barrons.com",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zV29kdWNHTkwtVW5BZDlKQnZKcGZiQndadjk0N3RqUXpuR0N5a0I0M0RPLVlMdThReUlfQmdzQkVtUGxXSGJ5bEpRd2hoZjdxYTVoQ3ZfV2pnajJHS29DcThRZlNXdnc1LTA4VGhoVGF6ZVVGcWpnVw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-09-25-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Costco Wholesale Corporation stock Analysis: Bearish Trend Despite Strong Q4 Earnings - The Cryptonomist",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEJuWW5JV2hLUmtwWDd2TnIta1pLZmxOOEZsTEREbDJ4WnVPeUwzVUlhZ2E3TW1ydDhUX1MyRVZQRDN1c3MxZEdDOVRHVnFPT29LVzNmdEw5Y2ZJejdzcV9Tc0tlenZ0VHd2R0VYOXNjRktvcXZYWHBHX3JrSG82WFdrRkVMREUtU2pidXptRUQzQ0o4V21EdVZ3ejdOc0RsSUFVZ1lvRXlOWExpUkJv?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-25-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UK patient count in Salmonella outbreak passes 600",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/09/uk-patient-count-in-salmonella-outbreak-passes-600/"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-09-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Are Traders Reassessing Archer-Daniels-Midland (NYSE:ADM)? - Kalkine Media",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmlrcmNteFNWaHVYeFVYeGYxa1hkZUVleFZBMVRlc3FBNV9nbU5MeWxWYmE0OHBmcnplV1R0Mm02ejRqRDdTdTJKaFN2T0NwMlVqeFZxS0NWc1J6ZUFObU5aeEVrdHZQZ3dmMml5RG1JZ1NBY09PODBJR3IxcGtrd0x1RUFZVGpZMTBnTzhrb2o0Zk4xQVdCb2dNUXdxeGNE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bunge-2026-09-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global stock heads into the open after a 0.3 percent drop - AD HOC NEWS",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUdWbXdxR1Yyb2JMMTB4enBXelpmYnJLZzdTUW8zNXIzd01qc2xIQUFraGZrcWRDeDJjOFdVT21JTEhES25UMWhwNk5aeEs5ZjRXSkh0ZzJ4V2xDeFdPd1BMQU1VbHhsZGVVR2liRFlxZXlwdjZqNjZDaXRBRGl1MzVUUmotTHQ3ZVA1UlBESkRZVG9JWnlsYk5WT3VMQ2c5aWgwT0p5NFpVSGVMbWo5MUtXaHNjUG5YbXowMVJ3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 9
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 100,
+    "too_old": 89,
+    "gate1_blocked": 7,
+    "gate2_blocked": 18,
+    "passed": 55,
+    "pass_rate": "32.5%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Eastern Progress",
+      "Bunge Limited Finance Corp., Bunge Finance Europe B.V., And Bunge Global SA Extend Revolving Credit ",
+      "Bunge Global Extends Key Revolving Credit Facilities - The Globe and Mail",
+      "Bunge extends revolving credit facilities, pushing maturities into 2027–2031 - TradingView",
+      "Uni-President Enterprises Unit Acquires 100 Million Yuan CTBC Deposit - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為好市多、ADM、Bunge相關動態：「Costco Wholesale Beats Earnings Estimates. Its Stock Is D...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Costco Wholesale Beats Earnings Estimates. Its Stock Is Down. - barrons.com（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Costco Wholesale Corporation stock Analysis: Bearish Trend Despite Strong Q4 ...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
