@@ -1,0 +1,16 @@
+{
+  "total_raw": 267,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 7,
+  "gate2_fail": 19,
+  "passed": 40,
+  "gate2_samples": [
+    "Bunge Limited Finance Corp., Bunge Finance Europe B.V., And Bunge Global SA Extend Revolving Credit ",
+    "Bunge Global Extends Key Revolving Credit Facilities - The Globe and Mail",
+    "Uni-President Enterprises Unit Acquires 100 Million Yuan CTBC Deposit - marketscreener.com",
+    "Walmart Melds Fashion, Beauty and Home in New Style Organization - wwd.com",
+    "Costco Just Showed Why It's a Better Buy Than Walmart - The Motley Fool"
+  ]
+}
