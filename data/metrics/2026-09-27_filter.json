@@ -1,0 +1,16 @@
+{
+  "total_raw": 267,
+  "dup_title": 125,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 11,
+  "gate2_fail": 17,
+  "passed": 28,
+  "gate2_samples": [
+    "Bunge Limited Finance Corp., Bunge Finance Europe B.V., And Bunge Global SA Extend Revolving Credit ",
+    "Bunge Global Extends Key Revolving Credit Facilities - The Globe and Mail",
+    "Uni-President Enterprises Unit Acquires 100 Million Yuan CTBC Deposit - marketscreener.com",
+    "Walmart Melds Fashion, Beauty and Home in New Style Organization - WWD",
+    "Is Walmart’s (WMT) Digital Transformation Paying Off? - Yahoo Finance"
+  ]
+}

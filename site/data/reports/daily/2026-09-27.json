@@ -1,0 +1,136 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:25:29.393492Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-09-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart pricing patents reignite fears that shopping data could influence what customers pay - Yahoo",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbHl0Z1dFR040bmFCQXkwcWNPd3lEN1dIWkwtT004WElQV0k3RjBjengyM1VHZlZRckY3R3dxSE16WjkxMl9lQy1abEpraGVHNUFFaDJ3MWJxbHNfOFFiS2hmTFpaNURvZWl2WUl2UXE5UFlXQUVjTkdONTdUWUdsSjJ0NExmVlVNSktLNmtWRnJBZEF0MzJFWkdiLXNpTlU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-09-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Here's What Analysts Are Forecasting For Costco Wholesale Corporation (NASDAQ:COST) After Its Yearly Results - simplywall.st",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZlRPeHlkQ3FzM1N0UHBLNUN5RkhCNE96UjNMNWdGcHhLUkR1ckRzUWtpSmxCRUJqck5zOG9XSjhhZGNRRUNBdDQ5Ukd2Nmg1cGNuT1hFTm5Dc1NteGtwejJnUGZBbjkxVzE0eHI2aUlOdkxwLWx2cUlhekpVb3QxT0RHV1h5czBwelB5eUI5LWV5THhTelBocXpYLW9yeE1JTHRnLW1Md3kwel9FMXB4b0dPSVVLX3dPaUY2ZWpEWWVwU3VCeFY2QTg2TjdCR0NVeHpXNjlSVy1NaURmQ3N3MdIB5gFBVV95cUxPWXJ2R2F4UkJrT1Y1YUhqWU5IVGpYUHdHeXJVOUlMa2dqT1lEVm9aWWozYV9lZFRGYk5EMWRQT1hreTd4WlNLc1ozWnpLXzhjek1WN0dyMmNoT3hWVFY0YXNyOHNpUTZfUEhReUVlQkt4a0k1Z1UzVkhqTFEyREJ5UHptdmYxSkxHVWRhRWtmVlJmaVBTTkhINVJQMnpPaVp5akNyN0tGakdENTZDNU05YUJmNVh3WTE2WGRSS3ZZbGhVN04wdTZ6MGRVRW1UR3RSRzFxRk9vNEZvZVdjdEQwYzBfZ2ItZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 125,
+    "too_old": 86,
+    "gate1_blocked": 11,
+    "gate2_blocked": 17,
+    "passed": 28,
+    "pass_rate": "19.7%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "Bunge Limited Finance Corp., Bunge Finance Europe B.V., And Bunge Global SA Extend Revolving Credit ",
+      "Bunge Global Extends Key Revolving Credit Facilities - The Globe and Mail",
+      "Uni-President Enterprises Unit Acquires 100 Million Yuan CTBC Deposit - marketscreener.com",
+      "Walmart Melds Fashion, Beauty and Home in New Style Organization - WWD",
+      "Is Walmart’s (WMT) Digital Transformation Paying Off? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為沃爾瑪、好市多相關動態：「Walmart pricing patents reignite fears that shopping data...」。主要關注主題為法說會、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Walmart pricing patents reignite fears that shopping data could influence wha...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Here's What Analysts Are Forecasting For Costco Wholesale Corporation (NASDAQ...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
