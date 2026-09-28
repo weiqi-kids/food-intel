@@ -1,0 +1,231 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:15:22.335737Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-09-28-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart CEO speaks out on dynamic pricing: ‘We price the product, not the person’ - New York Post",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa0h1V2FHdUgxT1VZcTNHYnM1SlN4VXZqc2dsY2Z5NnVLR1VGN0w5QW9SNXc0LVZQM0NwMFBmYmVueHVEc0l2N0dZdmZoREZ1S2hwX3hGMkxsQUx5dzcyTjY4ZUp0OG9GMWZaVHNZYm0temIxTmZFV0gwYTRYSTFXM3dQWEVlMlVYQmFzMm1nRVpzS1JfRXBKUHRGdEltSGlaNFdpZlVObHJtX2NvdWNzMjJWR2JBZDUtd0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-09-28-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart CEO on AI and Pricing: ‘We Won’t Do That’ - Barron's",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ib3JyZ1VQdHRjVGllVWZvQzNGZHpEOC12MFBZdDZhbU1lWDhiZXoyelp4WWtQQnBHZGp3dHZKNW42SlVoaW9tbDBjZGxCa2FIZVkxcXk1Umx6SGFzVnlNSUpIWndPWmY1TXBHdnF3bDFnOXNXVTBBYXF3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-09-28-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart vows no surge pricing as digital shelf tags sweep stores - the-independent.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1hmS0s0QWJGc1B3S1l2YWN4cWJsSkN3S3k2SUFJYWlCOHhTYlZaYzdTLXVLZWxJVjVNTElpN1BTbHZESlRDRXNpQUNKNnJmeXU0NkJZSC1IM3B2VFFVc09tYlA1ai01YUg5cXRtbFpmYlhESEdyN0p3WHppMXJ5SFVnaXdoNjZ3ZEJmSnQ1b05YeGs?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-28-032",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Automation closes the gap in volume gummy production - Food Business News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcUczWi1vNjJGVVFMSVlBYl9ldFVHTFhNOFI4REFPNWZEbGwyaXNuTFFkemJqbzg0Q3padDB4c0U1ZkFJeHlGeHFaWFlfaWhETi1pRU1CVXdCblZjNlJ6eXVJN1J4dndtbTRSM1daNG5sLW40VkxwOVE1ZDVnZXh6cDdnSGp2Um5yUTZUMGdJLVZqck50UlBEVUlxWHlNSm1ZU2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-28-030",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "India Tightens Food Safety Inspections as Warning Label Debate Intensifies - Межа. Новини України.",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NZFRPQUhVTHFSZUQ4ZlBNQkZhd2lKNkgyejhhUzJOdGpKVlNYUlN5RzhzZGdFLVIyNngydzVKRkhaTFdjVkxKb0JNaGJKaTFJSEp2YzdzcTdJN1ZnVVhpTmlhdHV0S3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.67,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 28,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 8
+      },
+      {
+        "id": "costco",
+        "count": 8
+      },
+      {
+        "id": "tyson",
+        "count": 4
+      },
+      {
+        "id": "general_mills",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 112,
+    "too_old": 89,
+    "gate1_blocked": 11,
+    "gate2_blocked": 13,
+    "passed": 42,
+    "pass_rate": "27.1%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland (ADM) Plans Carbon-Credit Sales. Can They Generate Steady Income? - Yahoo Fin",
+      "Archer-Daniels-Midland (ADM) Plans Carbon-Credit Sales. Can They Generate Steady Income? - insidermo",
+      "Uni-President Enterprises Unit Acquires 100 Million Yuan CTBC Deposit - marketscreener.com",
+      "WSJ Readers Share Their Hacks for Shopping at Costco - WSJ",
+      "You Could Save 20% on Your Next 3 Costco Carts—Here’s How - EatingWell"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為沃爾瑪、好市多、泰森食品相關動態：「Walmart CEO speaks out on dynamic pricing: ‘We price the ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Walmart CEO speaks out on dynamic pricing: ‘We price the product, not the per...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Walmart CEO on AI and Pricing: ‘We Won’t Do That’ - Barron's（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

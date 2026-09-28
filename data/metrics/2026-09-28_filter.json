@@ -1,0 +1,16 @@
+{
+  "total_raw": 267,
+  "dup_title": 112,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 11,
+  "gate2_fail": 13,
+  "passed": 42,
+  "gate2_samples": [
+    "Archer-Daniels-Midland (ADM) Plans Carbon-Credit Sales. Can They Generate Steady Income? - Yahoo Fin",
+    "Archer-Daniels-Midland (ADM) Plans Carbon-Credit Sales. Can They Generate Steady Income? - insidermo",
+    "Uni-President Enterprises Unit Acquires 100 Million Yuan CTBC Deposit - marketscreener.com",
+    "WSJ Readers Share Their Hacks for Shopping at Costco - WSJ",
+    "You Could Save 20% on Your Next 3 Costco Carts—Here’s How - EatingWell"
+  ]
+}
