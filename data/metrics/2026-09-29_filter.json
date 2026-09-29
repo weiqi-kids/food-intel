@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 97,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 8,
+  "gate2_fail": 22,
+  "passed": 50,
+  "gate2_samples": [
+    "Archer-Daniels-Midland (ADM) Gets A Fresh Look, Is It Fully Priced? - Yahoo Finance",
+    "Archer-Daniels-Midland (ADM) Plans Carbon-Credit Sales. Can They Generate Steady Income? - Insider M",
+    "Archer-Daniels-Midland (ADM) Plans Carbon-Credit Sales. Can They Generate Steady Income? - Yahoo Fin",
+    "Tyson’s Getting In The Festive Spirit With Its New Nuggets - Sporked",
+    "Uni-President Enterprises Unit Acquires 100 Million Yuan CTBC Deposit - marketscreener.com"
+  ]
+}

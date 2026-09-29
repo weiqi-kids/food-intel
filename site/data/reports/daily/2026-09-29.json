@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:28:19.657259Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-09-29-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - Pensacola News Journal",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-29-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Greek Food‑Industry Customer Completes On‑Site Equipment Inspection at Durzerd & Confirms Repeat‑order Cooperation - Porterville Recorder",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNZWJvRmxOVjBvbGlPeFFRNkFfa3NHRWtPLTN1TzJVQ0tHTkpac3hfaXVqQVNZcDE4R2l0TjIwQk45aWlBTW55MUVFdU9vaHBNalBzT2tTajVHRU1pd2VScThuNWNXY0hlYUlteFQ2WXQwWHJpbmI1eVhra2FKVXdwQ3hXQ05KLUtWZzZtclpvd2JCZDlsSGVzVmVNVGE1X201UGVzWGl5bnZLZWltLS1sZGJ4RGdtV3hHaTEwSmpWTzRrNEpCd1UwWW1RcE1tRzlTdTVSUVZvYkxBZEpiUzFxRGdIYXg2MWtxOWtTR0NSWFVqcDUtN1kwV2ZZaHZzZE00MWdXY2NhdUNTSEVZODdSWUNmT1RJNHJfdm5YbWlneXBqc014MzJtOXJfUlNHOGF3STJnbmdLZG91ek1yUEJYTXRobzNsV3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-09-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods stock hits 52-week low at 50.56 USD - Investing.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb25UQnM5eDExaHlXVFJOOXBhRUU3Y3F1WjNReF8zQ0p5ejBRSVdQQTVqSEltcjZsWHNkNkhkMFJKc3R4b2JOSFdSYy1uYk81Ry1LNDlRMGFTd3dnTVlUVVM5Wk54REFSZFRQU2ZaNEVXUWFQUExINHo4OEp1aVFRM19WY0U2WFFNSFZ1Z1JnTW00MlpJcWt1LXJmOXU4aW1kaThMWA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mondelez-2026-09-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Mondelēz International (MDLZ) Turn Premium Chocolate into More Growth? - Yahoo Finance",
+      "companies": [
+        "mondelez"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeENmWHVWN2dxaUFnMS1NbU1oRGdrLVNDeEdLaGozLW5Vb0N1RUNUbWpQOFFvNDNMWFN5ejdoSUdacFhyb1V2WEE5OVhfLThRbUdYOFRES0hJMTUydzFETnlIS0g5VGE5YjNlZ2NoQTRHamZxRmhfbFJIU1Q2RWRaMUk0SldqNldseUNINlo3dHZjRWpZQkNEUXJQUE5fQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-09-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Could Walmart (WMT) Gain From This New AI Shopping Test In India? - simplywall.st",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZUpDSlVTZURoU010QXBrVjFjdkZMNzBpcmd4SWdTd0dmcnFOVkRjTnRIbm1hWnZvRHBoRVo2N0pHaDZId3Fyb1N1MW1nclUycXJVNGlYNk9HQThaeTlPSHFDUEJ4LUZZNGtOZE1MbTNoV1U3ZjRVNXh3TFV4amlKRWVENnhuU1pJVWdVOW9sdVdMdFBpTnA0VFZ0MmR5bUstUEUwUVJSWnl1Wm1TQ2ROM1R1eXdvZlVybWJXSzRPNGVFNnNnbkpVTG5NOWp5Q19V0gHWAUFVX3lxTE02TVptNUpKdmtIX1Qxd2JKZVUtMEVQUHFrcE1YVnBEUE5NM3BtZ1cycGdBa21fYlN3MFVMeGZsbHFPVlJIVGh6UmFuYzNscHhlbk9vV0dQUnhoUUZucTc4VWczdVR4WG1vYVMxaEtTRmF5NHBhSkZmLTk2VEpuTHBYXzVjMndNa3cxNWhsV05pYmVGeXB4bFJWT3UtR2E5aGp2YkVnb3ZyVS1kWGd0VG56Y1RWU2NJemh2VzU5aTkydzVRcnRpVkw3Y2hZNEVHRkh5OVZlVGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.4,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "food_safety",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 97,
+    "too_old": 91,
+    "gate1_blocked": 8,
+    "gate2_blocked": 22,
+    "passed": 50,
+    "pass_rate": "29.2%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland (ADM) Gets A Fresh Look, Is It Fully Priced? - Yahoo Finance",
+      "Archer-Daniels-Midland (ADM) Plans Carbon-Credit Sales. Can They Generate Steady Income? - Insider M",
+      "Archer-Daniels-Midland (ADM) Plans Carbon-Credit Sales. Can They Generate Steady Income? - Yahoo Fin",
+      "Tyson’s Getting In The Festive Spirit With Its New Nuggets - Sporked",
+      "Uni-President Enterprises Unit Acquires 100 Million Yuan CTBC Deposit - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為沃爾瑪、好市多、泰森食品相關動態：「Best store-brand groceries at Aldi, Costco, Walmart and T...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Best store-brand groceries at Aldi, Costco, Walmart and Target - Pensacola Ne...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Greek Food‑Industry Customer Completes On‑Site Equipment Inspection at Durzer...（食品安全、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
