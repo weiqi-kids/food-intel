@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 84,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 9,
+  "gate2_fail": 21,
+  "passed": 64,
+  "gate2_samples": [
+    "Can Archer-Daniels-Midland (ADM) Cash Flow Support Its Carbon Market Story? - simplywall.st",
+    "Archer-Daniels-Midland: The Numbers Are Pointing To A Fresh Start (NYSE:ADM) - Seeking Alpha",
+    "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Yahoo Finance",
+    "Archer-Daniels-Midland (ADM) Plans Carbon-Credit Sales. Can They Generate Steady Income? - Insider M",
+    "Archer-Daniels-Midland (ADM) Gets A Fresh Look, Is It Fully Priced? - Yahoo Finance"
+  ]
+}

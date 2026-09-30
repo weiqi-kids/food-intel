@@ -1,0 +1,227 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:25:45.250130Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-30-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Comprehensive Ambient Food Market Report Covers Forecasts, Innovations And Industry Outlook - EIN News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNVVKVjBJMUlRUHRxSUNnUjNqUmhWUHU1TTVTNl9aR280WnFaOVlXS2pfMF9SaGdJTHRSUUxZS2ZqV25faGlnOEZPWkUxa2JPSEx2d21VcHVlZTdMSHJzOWcwaEh4SldrY01vX2R0UFlGbWRaNGtCUTE4d0pGVXFadlpQdURjaU9uUm44cnRFT0ZCcXlsRHRxUFREOC10R29nMm9YQ3JUVU5OZDk3aE9PUkFFRG9iV2pYeS12dFZLc2o4WWotQlBFc1NsbnY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-30-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Proxy Foods AI Joins MISTA to Bring AI-Native Food and Beverage Development to the Leading Innovation Ecosystem - Business Wire",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdDhrdS1sOGxPNHRQdWp1d05VM1g5eWdNc3FmZlZlXzREVEdGbmdTODRnUWJSZWdnREpNU2tPVFo2VEtONXEtSmlLUjROUUJyUFJwV3VsUXA5Wi1jS20zdmktTUFZMVdyMXZOT0pDQ2dwbEFTVVI1SjhSLXNHcE9wZ0luT0hBcDhlcDBHZ2xRdm0xeXpnaW1ESURDRW9FYXpocmF6djFlRVR0UEZlVHRZZ2drclZIRnd2WXlIcmJIblF6VFFHNjltNFJxN3RkWmRYQUVZQmhJOFMtM0hoN0tockNBN29UcXNWdnVFV0czWUNZNjQ5aTR6MTR2NUo?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-09-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland (ADM) Stock Looks Discounted As Cash Flow Stays Strong - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaktYeExGLTVkRlBzc0hFUHkwd1NZWVJPQlVUWjlUdFc1T1cxMTJfNEN1WDR6d3owRDFkR3V0c2hHb003NmRndmpNc0JHNUxXZDRBTEtWY3FmeVk2QXRFZjF0TUhWdnZzamMzaUxudVA4dXhWV05QN3l6ZXVsQWNnN1lhTWNVRGgxNXVOQndzTEtLcXNrVkYtM2VCbnQ3QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-09-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "8 Red Days In A Row: Archer-Daniels-Midland Stock Is Down 9.9% - Trefis",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOekI1SHJzZFlmMG1BVUpYeTI5WnNEcUswd3VqTW03TFM1cGpKMGdZUWpJS1lBV093UkdPZGg4dk9xRzFMbWNnbTdfbG5Ca3BjSFY2UEl1U05LSGE5QTJHMHl5R3h6UnM1TkxDWHd5X1o4aTl6TzZ6eDJ4TzVucFlZbS0xVlQyTVpmeEZlSC02ek1qUXhOdnJrQVpBbXJkcGR0czZrYzZhQzZuTVFxN3RkZDRCT1ZpbWotTjkxYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-09-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland (NYSE:ADM) Stock Rating Raised to \"Hold\" at Jefferies Financial Group - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU1NaTzBYVExIR3NTSmtUNkZ0QjdZNVJjLXAtR1BXeUpVeVJZTHBCcm9aVTY0ejltcE1KXzBGSmxDNzg1d0tMRlhzYjFKbndnTGVFaVRZWHJBcXFjRkVBY0xrcDhWNUJMQnlEVTQyZHNrNzNJUjBWU19FSThwUFFBTXRsREd3VXU1bkxtVGNUVEo4czRCUWVKejR2eEI0eThBU1otbDF0M0RaX0RkSFdBTDVLd19ZY2ktTjkzS05CUmZ5NWlydWR6RF84MWFrTGxHcHo1bVI2WUZPMlU0SmlNWkhwU0w?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 29,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 5
+      },
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      },
+      {
+        "id": "general_mills",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 84,
+    "too_old": 90,
+    "gate1_blocked": 9,
+    "gate2_blocked": 21,
+    "passed": 64,
+    "pass_rate": "34.8%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Can Archer-Daniels-Midland (ADM) Cash Flow Support Its Carbon Market Story? - simplywall.st",
+      "Archer-Daniels-Midland: The Numbers Are Pointing To A Fresh Start (NYSE:ADM) - Seeking Alpha",
+      "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Yahoo Finance",
+      "Archer-Daniels-Midland (ADM) Plans Carbon-Credit Sales. Can They Generate Steady Income? - Insider M",
+      "Archer-Daniels-Midland (ADM) Gets A Fresh Look, Is It Fully Priced? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為ADM、好市多、Bunge相關動態：「Comprehensive Ambient Food Market Report Covers Forecasts...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Comprehensive Ambient Food Market Report Covers Forecasts, Innovations And In...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Proxy Foods AI Joins MISTA to Bring AI-Native Food and Beverage Development t...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
