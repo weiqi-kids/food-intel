@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T14:56:43.052637Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-10-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Schedules Third Quarter 2026 Earnings Release and Conference Call - Business Wire",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMml2VDVjQS01V1IyTFBYWGtJaHFuLXFlRmtQbU5BUm16YXRnRGNmN3VZZ3M4NnF6LXJOT1BITzJWZk9BZnZlVlU2YkI4WnB3blNYZmszenNLZTQ4RDlvRUxnN2FJcGJacTFJQ0kxaUtrYnNWcEdnd2F0cnRmdlJydTJhWVEtZlBxVXRZS19TSzRjNDduNFUtZzhNeVlyRzNkSUpkeXdPSlR4YmJDSGpKRHpzQ29JWGE0LVJxMTI2ZVBSLXRpVW5r?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-10-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge, ABP reach 1-million-tonne milestone at port partnership - world-grain.com",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHFYUUdWeTJkOVZfM2djTFNYRkRmNXJGcWtsRmxiM3NjTDZTaGFPN2tnLUJGUEhIbjBqZGxSZzJMUHVDVTEtVC1HUkxwbEhpbUw3TnFrNnBNUnlRcTd6Y1BNVW9xSV9GRi1FeGxJNDJubGhwYUI0SGhMSmJ0UHJQZFJ3QWRqSlgzS3NKMjZObjBDZ2xDYVpBMHJPUWFTQmo2c3A0czdTQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mondelez-2026-10-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mondelēz International recruits a top European executive from Danone - RetailDetail EU",
+      "companies": [
+        "mondelez"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM3lNcW5wY2syaF9jS0YzblFHZElYM2hwNjJEUjdHb0ZXVGxUdDFHUS1seUlLVDVqcnIyaFNmTlNmNnROQ25tNVJ2M3I1SzBsMng0aGtoRkoxbGNOT3doZzkyTTdFMTJnTjQzTVgzcnRYbGM4bE5iTzRiY2hFWUNUMFluZlB4U1FqWVhfQmU1bVBHYUlWSUNz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "uni_president-2026-10-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Uni-President stock reports 1.41 TWD EPS as sales grow - AD HOC NEWS",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzdJbmQ1OHZ5S2poaUVicm5UQlEyNEpwY19MLU55QVQtbEk4Nl9PQzRna3BVRXhKWkh2Vmc1RmdRclFOa0pBQzJvVjhtX3VnRnBrVnA2b25zelBDQUE4NENLY0VvbW80dDFpOWEyMW5adzZJbkRyU1piV2lOalN4NzEyVVY4SlBSWkR5YjFfSXJDR2UtYXc0QmRZZkhyQXRmbV80TU5kS0dtSzd3aHZhc0xiOA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-10-01-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart rolling out light-up digital shelf labels in all stores - qz.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kc01XalFfNG1oVFY4aEhSNGhOVFdEQThTWDUxcWlTNG1iX0tqWkUzR21rUU5MVjEwRjRfYTJmaUd6VV9DVTN1RVFESTRFOUpYLUhZOGtMb0JqZ2U4OURPQnZkY202X2R6Vzh3b2V0SkFwdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "bunge",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 105,
+    "too_old": 89,
+    "gate1_blocked": 8,
+    "gate2_blocked": 21,
+    "passed": 44,
+    "pass_rate": "27.2%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland (ADM) Gets A Fresh Look, Is It Fully Priced? - Yahoo Finance",
+      "Archer-Daniels-Midland: The Numbers Are Pointing To A Fresh Start (NYSE:ADM) - Seeking Alpha",
+      "Can Archer-Daniels-Midland (ADM) Cash Flow Support Its Carbon Market Story? - Simply Wall Street",
+      "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Yahoo Finance",
+      "Archer-Daniels-Midland (ADM) Plans Carbon-Credit Sales. Can They Generate Steady Income? - Yahoo Fin"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為好市多、Bunge、沃爾瑪相關動態：「Bunge Schedules Third Quarter 2026 Earnings Release and C...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Bunge Schedules Third Quarter 2026 Earnings Release and Conference Call - Bus...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge, ABP reach 1-million-tonne milestone at port partnership - world-grain.com（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
