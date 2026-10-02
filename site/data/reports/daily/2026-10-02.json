@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:19:06.990941Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "costco-2026-10-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Costco Wholesale (COST) Could Be 6% Above Fair Value Following Strong Q4 Earnings - Simply Wall Street",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTF93R1RKN2FxVUxka3pPdEtyaDRycnoza2ZMd3NDVXNvTVg0SHhfVkc0V200OThiNzhuVDVmRXN4WjdzWGE1TWlxZ3FpenRfUnVEZHRMNzBmUlFxVTJwR0Jza3BWaFBEWmVDVlNrelN3LTlsdkZhNGVybFlpUjMwVURQaUNFZFNEeWVtQmRzZlVXVDVGdy1ibEY2Y2pjSFNGRm03WUNfUXFlank1N3hoVjhVVmhoNzlyQXczTFlxNFNCVkxtRlJCWUpMczg5dklGMEYxY0dkdlItRUpqVW1YYk5R0gHiAUFVX3lxTE5MX3dHVEo3YXFVTGRrek90S3JoNHJyejNrZkx3c0NVc29NWDRIeF9WRzRXbTQ5OGI3OG5UNWZFc3haN3NYYTVNaXFncWl6dF9SdURkdEw3MGZSUXFVMnBHQnNrcFZoUERaZUNWU2t6U3ctOWx2RmE0ZXJsWWlSMzBVRFBpQ0VkU0R5ZW1CZHNmVVdUNUZ3LWJsRjZjamNIU0ZGbTdZQ19RcWVqeTU3eGhWOFVWaGg3OXJBdzNMWXE0U0JWTG1GUkJZSkxzODl2SUYwRjFjR2R2Ui1FSmpVbVhiTlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-10-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge extends credit lines as Bunge Global stock trades at EUR 94.85 - AD HOC NEWS",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbEJOX3pFakFfMEpnSkRBRkVFV1NnaTA2X1pCeEdSNVRXcEdJUFU0VzFMOVlTQ0Uxc244Y01rYmZ0VU5SalFUdXRyUjhXS3FoRlE1UUwzeWNCWk1HM3N4bXowWTUzXzVkUDZ6RURpRUdYOUxMUFFCWkpnbVRaV3lacGg2dTVTQktXUWg3ajZkbWs4NE9wVC1kdGRKS1FLTlQ4SXl2ckdobk80NloybVJLNXFpdlhvTzZ4akJ1ZmUteUwxZnpkcFd4eEdGSQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-10-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Best Time To Buy Rotisserie Chicken at Costco - Allrecipes",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNV90aVlLaVJrcTRNUFlTUUxheVI4TF8yZDJZM2c5bkRtMllmZm5rd2pOWFJVWTBfVDdvU2pfRmh5NGdtRnFyek9EWV9VNk4teGtHN2FQWmlWcGVIMmEzNkVxOEw0MmpSZ0Z6SXMyRnBELVBrc01OTEdZMHBad2w2c21zX2Rtbmk4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Private label brands embrace own identities in packaging design",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "consumer_spending",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fooddive.com/news/private-label-packaging-design-opportunities/831477/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Infographic: COVID pet food inflation became new-normal retail price - petfoodindustry.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_inflation",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDc5V3BidGUtdlNRclJIdGhRNGRPZTBJV2VZTmRONk5ER3FULTg5TVFFTnhOTVQtd2NKUnZQR1lLVjNiRE9scUQtNFU4aUZOTGNmUGJNUVpmRWRDN0NDSnRNT3NCODQwQ3VZQmk3TUlZc3o2NDRodmUzOHp3UHU3aUVFaV9PaUk1eFJWRWc5aG9ZaGFMSVQxWWwzellGblRKazJHQV9QbUtOeEFQeWN0aDFXczUyS19Cb1FlOENxaXhCQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "consumer_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "consumer_spending",
+        "count": 1
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 108,
+    "too_old": 88,
+    "gate1_blocked": 8,
+    "gate2_blocked": 25,
+    "passed": 36,
+    "pass_rate": "22.9%",
+    "gate2_block_rate": "15.9%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland: The Numbers Are Pointing To A Fresh Start (NYSE:ADM) - Seeking Alpha",
+      "Can Archer-Daniels-Midland (ADM) Cash Flow Support Its Carbon Market Story? - Simply Wall Street",
+      "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Yahoo Finance",
+      "Archer-Daniels-Midland (ADM) Plans Carbon-Credit Sales. Can They Generate Steady Income? - Yahoo Fin",
+      "Archer-Daniels-Midland Company (ADM) options chain – Yahoo Finance - Yahoo Finance Singapore"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為好市多、Bunge相關動態：「Costco Wholesale (COST) Could Be 6% Above Fair Value Foll...」。主要關注主題為產業通用、法說會、消費支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Costco Wholesale (COST) Could Be 6% Above Fair Value Following Strong Q4 Earn...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge extends credit lines as Bunge Global stock trades at EUR 94.85 - AD HOC...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
