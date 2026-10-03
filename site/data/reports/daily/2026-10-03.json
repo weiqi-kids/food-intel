@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T12:52:12.730913Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-10-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods, Inc. (NYSE:TSN) Stock Has Average Target Price of $67.89 According to Brokerages - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbVVOdmVCLWQtOVFSYVpkOGZaSFRobjBTUXJrY1NHUEZKQlZMbkRtY0R3cEtjLW92Vm1fV080aUdIOEd4VzJ4R2xEWXlPWm5KQndYOHlraFhLbzFKZG41N205VFBzVzNuWWNzdnFuNnY5TlRCcW85em95WXQ4U2FYTlBLa0hLRWJtUGpOdTJXOGxXSUtjMjd2OUxXcGNjamtfb25CbWE4RXlJdjY5UEt5M2dZdm56bzdPXzdFNEVodTF2MEliRy1tQjItNlF0SVdSM2tNM0hJenpyNWRCamdjNk9tanNSQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-10-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart’s quest for market share expands with a new, bohemian fashion brand - NBC News",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWx3UlN6LS1oWTlkVU1hUTVHLVdwMzNZbzIxVVFlbW1wbzJGWnpVbG5GTzdYSEx5Tzl6VG55R0wwNHdYYlY0YnE3SUt1Qi1wV2Vud1YwbmdEZ25WOENnRm1od1p5N0ZPaWNTUzNBNGY1eGFXUUp3WWhfTjZjdlFFWGxqNzdRdExfZ3ptTGc2VVNzLTV2R1lwdjBuUFZwNU9KeTZScDB5Nl9DZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-10-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco reports fiscal-year growth as Costco Wholesale stock trades at EUR 816.10 in weekend trading - ad-hoc-news.de",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLWNQcEc2dERod1J4MWt3R0ZnU2FtWTFMZGM2NGZRSmNTdE1yVUt6NUF6WUhBQkRtNEVPRjVac2l3RWZkYzBOcG5ONzNZRkt3VF9YUnBuWFB2alRWNXFjM1N3UDRKNnh1ZHVOQU8zU1hsTWxPai1oVnpmZFFDSzlVUzJxeGhuWkMzRlE5WHoxQXd4bnJjYUtMMjhleDZka0dYSDBrbVpHaVpvWWUxUEtjZlVtdUhJTk1qR241NE90N1Vjc2FILUJXVlJoVldjdDBnSWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sprouting seeds recalled because of potential contamination with Salmonella, E. coli",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/10/sprouting-seeds-recalled-because-of-potential-contamination-with-salmonella-e-coli/"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-10-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Berry recall expanded for Walmart, Trader Joe's brands",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "health_wellness",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/10/berry-recall-expanded-for-walmart-trader-joes-brands/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 3
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "costco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 264,
+    "dup_title": 106,
+    "too_old": 86,
+    "gate1_blocked": 11,
+    "gate2_blocked": 25,
+    "passed": 36,
+    "pass_rate": "22.8%",
+    "gate2_block_rate": "15.8%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland (ADM) Gets A Fresh Look, Is It Fully Priced? - Yahoo Finance",
+      "Archer-Daniels-Midland: The Numbers Are Pointing To A Fresh Start (NYSE:ADM) - Seeking Alpha",
+      "Can Archer-Daniels-Midland (ADM) Cash Flow Support Its Carbon Market Story? - Simply Wall Street",
+      "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Yahoo Finance",
+      "Archer-Daniels-Midland (ADM) Plans Carbon-Credit Sales. Can They Generate Steady Income? - Yahoo Fin"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為沃爾瑪、泰森食品、好市多相關動態：「Tyson Foods, Inc. (NYSE:TSN) Stock Has Average Target Pri...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tyson Foods, Inc. (NYSE:TSN) Stock Has Average Target Price of $67.89 Accordi...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Walmart’s quest for market share expands with a new, bohemian fashion brand -...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
