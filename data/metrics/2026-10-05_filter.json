@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 85,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 11,
+  "gate2_fail": 20,
+  "passed": 58,
+  "gate2_samples": [
+    "Is Archer-Daniels-Midland (ADM) Fully Priced On Its New Feed Amino Acid Venture? - simplywall.st",
+    "Archer-Daniels-Midland: The Numbers Are Pointing To A Fresh Start (NYSE:ADM) - Seeking Alpha",
+    "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - finance.yahoo.com",
+    "Archer-Daniels-Midland (ADM) Gets A Fresh Look, Is It Fully Priced? - finance.yahoo.com",
+    "Can Archer-Daniels-Midland (ADM) Cash Flow Support Its Carbon Market Story? - simplywall.st"
+  ]
+}

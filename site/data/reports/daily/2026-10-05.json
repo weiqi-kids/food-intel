@@ -1,0 +1,248 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:36:10.572301Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-05-023",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Protein is maxed out. Here’s where CPG growth is hiding.",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fooddive.com/spons/protein-is-maxed-out-heres-where-cpg-growth-is-hiding/829875/"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-10-05-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tyson Foods’ Dividend Remains Safe Despite Beef Business Losses - finance.yahoo.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQclBkOHZYTEJFZFdNN0g1aWY4Ul9jR3VkanFoMlhHVUxEWmFDeXJxR0tuYTZsQzNpdG04QlJDVGFhc2k4RTBYNldxZVVZYlRnR0lNV0dxbndqeWVjTl9SNGpWMVlQUklIRGN5QW9HSjJydTJieUNHaTd5ejlJaW1SNEhtbG1LNmFHSV93REJsSDhCM1EyaERCTTJYTkhpelk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-10-05-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tyson Foods’ Dividend Remains Safe Despite Beef Business Losses - 24/7 Wall St.",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPemdPRUhHRDRlcnlNd1FYMDlCMzAwV1d0aU5xa1FaQlQ5WWc1WjhyUTdEMUFPajJpUlFXaWpiNjlDV3BWaVo0Qzc3MnpMVjgzRDJxT001T2pCNnk0T1hXSEpubDdoN3lBNTAwNW5iRFBSbWZUcUZJc2pOTjE1Rk5Fc2YxeU5ucW54WkNHN2ZmQUc4V3IzTF91blNCR3VGRk16dS1KWXltVkRVZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tyson-2026-10-05-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tyson Foods’ Dividend Remains Safe Despite Beef Business Losses - AOL.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNlh4VURwb0g2T3BEaW0xM3dMOXVsWjlTTlRucFpiaWdEelBYUG12Zlphb19Yd25oYTdETXVTVTlvd1dJS2hDaVR6d2tTZDRHOFJ0M0hGei1MeVhkbUY1TEdQbGZINzZnVE9tZ1MxaGJRWVJiS08zX2xMdlBOZTEtU2RuWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-10-05-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tyson Foods' dividend remains safe despite loss... - Pluang",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON0JzQUFXSV9FNVcwQ3pFSnRfczJnNzRXd0JGZVh5VlBmbTB0QldDTklualJsc1RaWEhFcWU3OFQ1SWdSREd0U1BMdlZGUk56UmU1RWxmQ1FTSGEybHBreHp0Wl8tZjVmQ1pfd01CZFhhbzdhNF81NmJzNXo3cHhKZUxnYUVuS3ZybEFWVUhyWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 23,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 9
+      },
+      {
+        "id": "tyson",
+        "count": 4
+      },
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      },
+      {
+        "id": "general_mills",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "food_safety",
+        "count": 4
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 266,
+    "dup_title": 85,
+    "too_old": 92,
+    "gate1_blocked": 11,
+    "gate2_blocked": 20,
+    "passed": 58,
+    "pass_rate": "32.0%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "Is Archer-Daniels-Midland (ADM) Fully Priced On Its New Feed Amino Acid Venture? - simplywall.st",
+      "Archer-Daniels-Midland: The Numbers Are Pointing To A Fresh Start (NYSE:ADM) - Seeking Alpha",
+      "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - finance.yahoo.com",
+      "Archer-Daniels-Midland (ADM) Gets A Fresh Look, Is It Fully Priced? - finance.yahoo.com",
+      "Can Archer-Daniels-Midland (ADM) Cash Flow Support Its Carbon Market Story? - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為沃爾瑪、泰森食品、好市多相關動態：「Protein is maxed out. Here’s where CPG growth is hiding.」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Protein is maxed out. Here’s where CPG growth is hiding.（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tyson Foods’ Dividend Remains Safe Despite Beef Business Losses - finance.yah...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
