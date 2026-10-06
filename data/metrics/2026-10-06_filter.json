@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 9,
+  "gate2_fail": 24,
+  "passed": 52,
+  "gate2_samples": [
+    "Is Archer-Daniels-Midland (ADM) Fully Priced On Its New Feed Amino Acid Venture? - Simply Wall Stree",
+    "Archer-Daniels-Midland (ADM) Gets A Fresh Look, Is It Fully Priced? - Yahoo Finance",
+    "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Yahoo Finance",
+    "Is Bunge Global Sa (NYSE:BG) Building a More Durable Market Story? - Kalkine Media",
+    "180 WEALTH ADVISORS, LLC's Bunge Global SA(BG) Holding History - GuruFocus"
+  ]
+}

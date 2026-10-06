@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-06",
+  "total_events": 29,
+  "by_company": {
+    "tyson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "costco": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 23,
+      "sentiment_avg": 0.04
+    },
+    "food_safety": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    },
+    "food_inflation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
