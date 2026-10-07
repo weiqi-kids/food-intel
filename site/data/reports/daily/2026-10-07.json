@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T14:54:49.525724Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "costco-2026-10-07-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "COSTCO WHOLESALE CORP /NEW FY 2026: Revenue $303.15B, EPS $20.76— 10-K Summary - TradingView",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3JtSHR5UE11RVVROVZxVTloX1djcEdYQjgybU83Y0NQQnRjUkJKcGpvRjhKWktLZ0hsLUx6dkVuRFBTSVRLRnFEN1FCZER6Z3hieGJDUmpkY0dleU5MSVhQaUp1dFFXZG1nOGJfYWlnVjBZMFlucW5Eb2plM0lhVGZ3Rlk4ZzZIek10YnVYd0tCa0l5azdEOWo5cmxNb3FGOGsxaFlFeXNtaU5WcVQ2bDd0ZjlMUjd0UE1rNGZ6MGsyUkNJN2xybjc0UE13b0k?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-10-07-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Q4 2022 Costco Wholesale Corp Earnings Call Transcript - GuruFocus",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xaFluT1NQbFpWdTU2SEN5Skd6VGJjNWxDUW42NC10Y0Q4cjFCLTlGeTh2Zk9HdnItWllHMnpZQXA4VmFmaFF5anliZHNpYjNtLUdrYVZBY3ZnN3B3YllBVjU2R2NhNkM2dlRSQg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-10-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Five lucky Tyson Foods employees receive MVP tickets to Bears-Packers game - WLUK",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcldHVk90SmxPVWdkNnZXTFRWZWRRY1RzeVk4Y1psZ3ctSHFteDVYRzVrcXpBaXhiTzh5ZUtWbUVzcWktMHZlUHl4VmdGcWhscU1IUzVKU28yc3NqZUNrbndORmFrd0R2azNHdW14MkF4OHZPRnRHQzZNeGppTlExNVp6UUJSazRUOVY2TkpZWERBZzhxRFlaRTA5eHdEVURkczRkWl9VTFNhcm9taHc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tyson-2026-10-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Piper Sandler maintains Overweight rating on Tyson Foods, $56 price target - TradingView",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVM5WURObE5ENzBHeUNqaUcwamRKRlRLTEY5cWU3ZXJBcnliU1FWbElkNzdQdjZoUWRaaGdnVGpaVkxqVlBnTzdKV0ltcENocEtuRnNzQUEwN25DZXpJOXh5NGVhUHpJMFpUbGZoWXhXQUhROTd1ZTlXbkl1MHpFYmNOYUhER1p3Z0R1aC1vRk8tVkpFTGtVS0NORDJ6bEpTZXE1NUhmTFY4cWxFaExfX3Z4UHUtRzZQeC04SVRNaTNpeTQtT0d3M3dWZjJESDg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mondelez-2026-10-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Anjali Madan named Consumer Experience Lead, Southeast Asia at Mondelēz International - Exchange4Media",
+      "companies": [
+        "mondelez"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZFJwUU04a1pGY1VwdTlHTTBCVGZVeGN0V0Vna1g1Rm5ndHVQelBOTmRrOWRuVG1wS2NPUUFEWFVWRHBuc05YdTFSNFdIc2hndDQ3bE1OVE1rQTB4VlEzSmZ4bzdNT0sxalJidm9nWUdSX0tjak1xTk1HbmlfUncwbG9Rc1FLVTZNM29pUGdGN19tZFBHM2l5MDBTTWxWZU1hMkxlYjlDQ01VYVJ2dXU2cWFWQTZhem5WVWdybkJMc3pQbnFtZ3hVdnpPVmgwTkUwWjFaR2hoQVBFUjdNc1Q0d0tB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 6
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "mondelez",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 95,
+    "too_old": 83,
+    "gate1_blocked": 13,
+    "gate2_blocked": 22,
+    "passed": 54,
+    "pass_rate": "31.4%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "Archer Daniels Midland (NYSE:ADM) Cut to Hold at Zacks Research - MarketBeat",
+      "Is Archer-Daniels-Midland (ADM) Fully Priced On Its New Feed Amino Acid Venture? - Simply Wall Stree",
+      "Corn Rallies Off Six-Week Lows: Archer-Daniels-Midland (NYSE:ADM), Deere (NYSE:DE) in Focus - kalkin",
+      "Ag Commodity Giant Bunge Pulls New CLO from Avery Dennison - Law.com",
+      "180 WEALTH ADVISORS, LLC's Bunge Global SA(BG) Holding History - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為好市多、泰森食品、億滋相關動態：「COSTCO WHOLESALE CORP /NEW FY 2026: Revenue $303.15B, EPS...」。主要關注主題為產業通用、法說會、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "COSTCO WHOLESALE CORP /NEW FY 2026: Revenue $303.15B, EPS $20.76— 10-K Summar...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Q4 2022 Costco Wholesale Corp Earnings Call Transcript - GuruFocus（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

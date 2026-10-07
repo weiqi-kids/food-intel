@@ -1,0 +1,16 @@
+{
+  "total_raw": 267,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 13,
+  "gate2_fail": 22,
+  "passed": 54,
+  "gate2_samples": [
+    "Archer Daniels Midland (NYSE:ADM) Cut to Hold at Zacks Research - MarketBeat",
+    "Is Archer-Daniels-Midland (ADM) Fully Priced On Its New Feed Amino Acid Venture? - Simply Wall Stree",
+    "Corn Rallies Off Six-Week Lows: Archer-Daniels-Midland (NYSE:ADM), Deere (NYSE:DE) in Focus - kalkin",
+    "Ag Commodity Giant Bunge Pulls New CLO from Avery Dennison - Law.com",
+    "180 WEALTH ADVISORS, LLC's Bunge Global SA(BG) Holding History - GuruFocus"
+  ]
+}
