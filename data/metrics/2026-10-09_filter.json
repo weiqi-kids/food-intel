@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 13,
+  "gate2_fail": 23,
+  "passed": 38,
+  "gate2_samples": [
+    "Is Archer-Daniels-Midland (ADM) Fully Priced On Its New Feed Amino Acid Venture? - Simply Wall Stree",
+    "Archer Daniels Midland (NYSE:ADM) Cut to Hold at Zacks Research - MarketBeat",
+    "Agriculture giant Bunge names successor to retiring legal chief - The Business Journals",
+    "Ag Commodity Giant Bunge Pulls New CLO from Avery Dennison - Law.com",
+    "Is Bunge Global Sa (NYSE:BG) Building a More Durable Market Story? - Kalkine Media"
+  ]
+}
