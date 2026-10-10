@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T14:06:54.027883Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-10-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland (NYSE:ADM) Stock Gets Downgrade from Wall Street Zen - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVNmQzI5cUg3V3Bld0J3eWRkaF9fdnpOUTVOV3ZuNE5IYnJ5TGdBMXh0STZJcUVrWjVzd21zYWJfZl94QTRQTUFsN3hzMWJvX0VPZkRXUHBPTTdQNDVJRUtmd0Rrc1hDd0lma3FHTU1xemg2aGFJWHJOTmJsemxSSWFaSVY5ZVJSQm5MMGRYZWFFbnNDS2c2WU1heUx1OFlPY2E0cUtuOUw4TkFGNkV3M2FMNkRJQllOX1hMZUdkQ1ZLbzZMTV9UVGY1NDFKSzV3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-10-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Texans love Costco. Is it the most bang for your buck grocer? - MySA",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS2hLQ1JpRHJGMEpvaUpUcVFFMF90czlaY1NWdTd1R3A0bmFXQXQ2eUVQZHFKdHA5WmRRX1BtX3BBbmRmZnJKRDBuaDVoT0gwRGozQXp3SGM1QzZ0UW5ndGlWcWdZWU9XZFlOaUNjZXg1cXRqR1NBTXpfcmljR2ZxWnB5UnhSWlhISVk4SkhoWGxLTkFs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-10-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco Wholesale Corporation $COST Shares Newly Purchased by Sacks & Associates LLC - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaWJ1NW9kQUZMU0NKMTZaQy11MV9DemJ5TUxvREI2T18xWDJQaS0zOGF0anI4d21hWVhWQjFlalJ5LXRPTVJXdGYwUTdjbktYX0FPYjJ6clNwVGVkRFhFRXo4Zkg4cUl5NEt3SFZLaldObDREamRPbk9kQmFtbkdLYzAtRmRkOFp1N2txZVRTYk81V3FqWWlObnVNMHU1d0JsQUg1R2lRR2ZjM25wRFBrdXI1MVBGdURoREk0LWhlMExqYVhDUHhGYzdqRXoyQWUxZUZHS1hiVUk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-10-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco Wholesale Corporation $COST Position Increased by Sound Income Strategies LLC - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbE4yZXNnZzQyWDd5Z2YxMER2aTRIaU9DMGNQZXJ2cVhORVJvQ2hYZ20zRkhnd3NXb193ODBlQ093ZE9KME9Sdkdjc2dMSU9PcDJjbHRocS1vQWtKZDYzbDR3X0NlanA5bHg1cHd1anFEVUpFNlg2emhJZi1aT2s4eGJScnNLNU1QdGNxaGpyLUtGQnQ5Z0tQa2hXVS1sZkhveTB2MWViWDdYcGExX2ZoVzJvd1NDQ3lHdFpJZ0FwWEIxV3F3V2JJeGtQY21LeTc0QmxraW54LVljZ3U3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Food safety tips for hurricane recovery",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/10/food-safety-tips-for-hurricane-recovery/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 271,
+    "dup_title": 119,
+    "too_old": 91,
+    "gate1_blocked": 10,
+    "gate2_blocked": 22,
+    "passed": 29,
+    "pass_rate": "19.1%",
+    "gate2_block_rate": "14.5%",
+    "gate2_samples": [
+      "A Look at Archer-Daniels-Midland Co (ADM) After 3.1% Decline -- GF Value $61.35 vs Price $79.89 - Gu",
+      "Is Archer-Daniels-Midland (ADM) Fully Priced On Its New Feed Amino Acid Venture? - Simply Wall Stree",
+      "Archer Daniels Midland (NYSE:ADM) Cut to Hold at Zacks Research - MarketBeat",
+      "A Look at Bunge Global SA (BG) After 4.7% Decline -- GF Value $1 - GuruFocus",
+      "Agriculture giant Bunge names successor to retiring legal chief - The Business Journals"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為好市多、ADM相關動態：「Archer Daniels Midland (NYSE:ADM) Stock Gets Downgrade fr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Archer Daniels Midland (NYSE:ADM) Stock Gets Downgrade from Wall Street Zen -...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Texans love Costco. Is it the most bang for your buck grocer? - MySA",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

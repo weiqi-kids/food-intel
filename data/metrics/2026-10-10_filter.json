@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 10,
+  "gate2_fail": 22,
+  "passed": 29,
+  "gate2_samples": [
+    "A Look at Archer-Daniels-Midland Co (ADM) After 3.1% Decline -- GF Value $61.35 vs Price $79.89 - Gu",
+    "Is Archer-Daniels-Midland (ADM) Fully Priced On Its New Feed Amino Acid Venture? - Simply Wall Stree",
+    "Archer Daniels Midland (NYSE:ADM) Cut to Hold at Zacks Research - MarketBeat",
+    "A Look at Bunge Global SA (BG) After 4.7% Decline -- GF Value $1 - GuruFocus",
+    "Agriculture giant Bunge names successor to retiring legal chief - The Business Journals"
+  ]
+}
