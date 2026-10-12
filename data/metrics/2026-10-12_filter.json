@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 8,
+  "gate2_fail": 22,
+  "passed": 43,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Company (ADM) Options Chain - Yahoo! Finance Canada",
+    "A Look at Archer-Daniels-Midland Co (ADM) After 3.1% Decline -- GF Value $61.35 vs Price $79.89 - Gu",
+    "Archer Daniels Midland (NYSE:ADM) Cut to Hold at Zacks Research - MarketBeat",
+    "A Look at Bunge Global SA (BG) After 4.7% Decline -- GF Value $1 - GuruFocus",
+    "Agriculture giant Bunge names successor to retiring legal chief - The Business Journals"
+  ]
+}

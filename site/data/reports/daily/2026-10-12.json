@@ -1,0 +1,235 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:08:58.035981Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-10-12-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Reflecting On Perishable Food Stocks’ Q2 Earnings: Tyson Foods (NYSE:TSN) - TradingView",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWVJVVRuVWpRa0xRM1lkQlNGdlVqMUVJNFRaNjdTbEdqY2N1eWpqNVFmQkhfT0NsUWY0cjdJaXFWaVp3QnNodXpwUmZndHFJN2hSZ3dnNks2azlmLXpudVJmVUJGeU0wUXNkRFNxR3cydVREdFRYVVIzTC0xV255WFEwUDJRSmF3NmFVLURObXk0Z3oxb1gwZ29GOGJIWHJKb21JZWZlc2d3NDM0M0hHeGJpWHpjQnhKWHRKTWtoOW1KamFsUURtNVVR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "uni_president-2026-10-12-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Uni-President reports September revenue: what it means for Uni-President stock - ad-hoc-news.de",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY3ozQ1d1WHJ6TjhUaVpGbXNYOXdSaTMxMFZjZ2F3WTVleE9uVi1vR2hEMkY0M2dUTjlBSERrelEtTmQ1VkNzQUc0VW5mZWM4SEYwQlJfTl9oM1pjakk5TTNnMjBWbnpkd0JGM0RNa1hIZnNOOWZNcTFjZ1dXOUxPVG5HMEsyUGY1WUlMVTdCcmd4WXpMZVJCS2NOMkdzY3NFYjdwTi16cExfR25IeTRLU2FVZ2kxMVFzVl9hZXVoeDlSelFzOVBHVVlDV2ZTRG8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-10-12-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart denies plans to use surveillance pricing patents - Quartz",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9udFhOVWYxNkZEN1ZuWXZ2Tm9uUEhLT0dna2NZVUMzaU41VXNUeTJfX0ZGS1hINjFUSHg5Uk5MX1RYamlVQ0NKYzl4RVk1bGt0NlBWY0M4LU9DSllrQXZVNzZsSmJ6cFJUbzB4N0gwN29maWs?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-12-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA finds cockroaches on cheese equipment, flies on ready-to-eat products at Florida plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/10/fda-finds-cockroaches-on-cheese-equipment-flies-on-ready-to-eat-products-at-florida-plant/"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-10-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland (NYSE:ADM) Stock Gets Price Target Reduction from JPMorgan Chase & Co. - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORW9HZ2cycFFsdGk1RXlEZ1hEbjQ4cEhYb3NSblF5dlhvTWtwNkt2b0ZnV1d6SzlDWWNoeDRCRW9jTENWb1V6QmFYbUpMMGRGMXhkbnlqVjZHa0JLTTBNYW9aM084c2ZYWDYtVlpSVlVFRFBYSDBrZmw3a2xTeFE0RWRrdllMcjdJVm8xWC11bW5fM1lHWWNHZVhOOEJaWFQwOWs4dkNsMDBCZUY4enlSMGVyWHR6YjNETGItZ2IzZEl2WG9QbHhJdzlVU2kycUdxYWVYYmVaRm9IRmlMaVU2eHJtRjY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 29,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 5
+      },
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "tyson",
+        "count": 3
+      },
+      {
+        "id": "uni_president",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 271,
+    "dup_title": 106,
+    "too_old": 92,
+    "gate1_blocked": 8,
+    "gate2_blocked": 22,
+    "passed": 43,
+    "pass_rate": "26.1%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Company (ADM) Options Chain - Yahoo! Finance Canada",
+      "A Look at Archer-Daniels-Midland Co (ADM) After 3.1% Decline -- GF Value $61.35 vs Price $79.89 - Gu",
+      "Archer Daniels Midland (NYSE:ADM) Cut to Hold at Zacks Research - MarketBeat",
+      "A Look at Bunge Global SA (BG) After 4.7% Decline -- GF Value $1 - GuruFocus",
+      "Agriculture giant Bunge names successor to retiring legal chief - The Business Journals"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為沃爾瑪、好市多、泰森食品相關動態：「Reflecting On Perishable Food Stocks’ Q2 Earnings: Tyson ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Reflecting On Perishable Food Stocks’ Q2 Earnings: Tyson Foods (NYSE:TSN) - T...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Uni-President reports September revenue: what it means for Uni-President stoc...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
