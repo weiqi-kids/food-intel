@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 7,
+  "gate2_fail": 20,
+  "passed": 48,
+  "gate2_samples": [
+    "A Look at Archer-Daniels-Midland Co (ADM) After 3.1% Decline -- GF Value $61.35 vs Price $79.89 - Gu",
+    "Archer-Daniels-Midland Company (ADM) Options Chain - Yahoo! Finance Canada",
+    "A Look at Bunge Global SA (BG) After 4.7% Decline -- GF Value $1 - GuruFocus",
+    "Agriculture giant Bunge names successor to retiring legal chief - The Business Journals",
+    "Tyson's settlement with Commercial IIPPs gets final approval - National Hog Farmer"
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:25:15.796567Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-10-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tyson Foods (TSN) Misses On Revenue And Margins, Is A 17% Undervalued View Still Credible? - Simply Wall Street",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVVV3U3I1cmh5dFlqWVBSVUpVREhwOXN1SEdDSlUyd083NWN4WWxrWFFsaTA1eFQxNUhLcDkwRk9pRUhhRnNnZnpPc05LTDVvaWlUZDdLRDJoOEZPQ3pGb3dxZVp4NHdrM3pEMkFNMW9kWTJ2dlREMVp4TXhaMHBGRWxUYlQwYXJ4Z203bmZyaXYybFFOT0NlWTBZS0dMMkdGdnpCLTFzNWZjWnVYTndEN0czVFFDWlIyOGo4cDBtYTdiODBmRl9KQW5YX25kSHNSTVZhbTk3Z9IB3AFBVV95cUxORC1jSXYzaFUwcjRxeFEteU5XdHZNRGZVb0tVcERBNVhtd2xaQnZwZzM2WGI3RjhkNk1xVl9GYWEya1JtMU1rWXJEbU03cXhjX3lfM2t0SzdHcEdyUkpaWG94UnY3aWtkT0FVLUloSW5Na01DU0V3WVFDM2VneDNyek1Oa19jU2hBWDh5QjNfREJoTmdUeWNJLWhXaWRNOUJDeHh3cmN3MXpQRGxhNEZlVmJtQlFnaU9ndmxoT19Tb3ZBdlYxYWJRQTUzajVwbjV2S0RsZE9DMk5YNE9D?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "uni_president-2026-10-13-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Uni-President stock trades at a price-to-earnings ratio of 18.71 - ad-hoc-news.de",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ01mTHlrN0dXU283VUtGelVTYk50U2dxeWwwSUQ0S1MzdzQzdnRac0g1bXJDS2FXd1EyczItMWUtTDFHUVZBN1dmbFpBNGlxLXNIVU1vbFVVNWlHUmV4YndwNUU4TUU0aEg4SXBIcUtvRGV0S0tRU3A2STNIZDVGd01TODlWRUhQYUZMemZEaTI4RGpNaTFoeDhqR1NHVWxac2RLTkVuYzNPeEFGVlIyYkQ0UEFMWHprNUVEcU5LQm1yRmI5Z0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-13-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "US consumer trust in food safety falls to record low",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "consumer_spending",
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fooddive.com/news/food-safety-consumer-confidence-gallup/832856/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-13-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Can WK Kellogg save cereal?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fooddive.com/news/cereal-kellogg-generalmills-healthy-snacking-breakfast-protein-fiber-sugar/826716/"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-10-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Zacks Analyst Blog Highlights Archer-Daniels-Midland, Dole, Diageo and The Hershey - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWEsxaXJySTJRX2g2d0RNRnFrbHA2TTNIaDloMkFURVJfUVFCMXVRQVVMSFVBTFZLTjk2U2xVVGp5akRIZGVIa2pDSjlteU51Vks1ZVllY0t0YTRGb2VQR3UzeUlEN2hVUHo1RXJFSkthYi10cFJjMTNyNGxvLWs3c2J4eGtmUDZFd3ZNWnBXNFA3QnJyNDEtOXZ0RzlQenFpZDNR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "consumer_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 22,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 7
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "uni_president",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "consumer_spending",
+        "count": 2
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 271,
+    "dup_title": 106,
+    "too_old": 90,
+    "gate1_blocked": 7,
+    "gate2_blocked": 20,
+    "passed": 48,
+    "pass_rate": "29.1%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "A Look at Archer-Daniels-Midland Co (ADM) After 3.1% Decline -- GF Value $61.35 vs Price $79.89 - Gu",
+      "Archer-Daniels-Midland Company (ADM) Options Chain - Yahoo! Finance Canada",
+      "A Look at Bunge Global SA (BG) After 4.7% Decline -- GF Value $1 - GuruFocus",
+      "Agriculture giant Bunge names successor to retiring legal chief - The Business Journals",
+      "Tyson's settlement with Commercial IIPPs gets final approval - National Hog Farmer"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為好市多、泰森食品、Uni-President相關動態：「Tyson Foods (TSN) Misses On Revenue And Margins, Is A 17%...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tyson Foods (TSN) Misses On Revenue And Margins, Is A 17% Undervalued View St...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Uni-President stock trades at a price-to-earnings ratio of 18.71 - ad-hoc-new...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
