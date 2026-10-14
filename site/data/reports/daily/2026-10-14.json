@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:12:07.715096Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-14-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "When risk management and consumer trust collide",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/10/when-risk-management-and-consumer-trust-collide/"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-10-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Shares Purchased by Sax Wealth Advisors LLC - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3A0X2doczU3Q2d2UjNncjdxdFV2ZUNNT0djcFplMHNhTUxIZFBmaEVXTXJabFFlM0hPUTYxUjctTnZscXc5Y2JsT3RsZ28yQjk5dVcxdHZPVkxNcTJHRGtld3prNUIxemF6eEFJdFZtNFYyU2pwdU1kOUIzNE9vMVdUcjlXWmV4YTYyMGFZMjlrWXBHcFdwNHl0Q0tINXJnVHhHZkJFYzNtQ1pyRkJKdG1QQlBoc0twQjNibkdIQzBTVERMWklvWEh5UzN2bjA0Z0JOd093?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "uni_president-2026-10-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Uni-President stock trades TWD 78.20, 3.10 percent below high - ad-hoc-news.de",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNck1SeG5KSWtWM0ZfV2ZKaDVFaDNUc2RRaGxCeTlDZjNpS0gtb1o3ZktnYkpYQVdRUkVkaTdDRmxiY0VnckYxX0Q2aXp2Tl93OFROWWpoM0tQcUxjRGE1Q0RkQmNkOXZETC1XYWVHS19vaElBdFZtbHJ5WEJfUkRnOW44TEg3akV1dlRnaF9tRlg2NmdMdlU2YURDQmJNNzR4WG1CNkxHOTN0LXZHSGFKUUdUQWNreU1pVC1HbVg5RFI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-10-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart has a new secret weapon that’s making stores better - TheStreet",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdk9vT0xqaFlhR1ZrV0p5UGo1UkUtNTVoYm1RM1ZSN0hjQVRqZFlUV0pSbFJDT0Exc2RVR0lGaWNFV3VlVFhIajYyZlhENzZGR09xY1RJWkh0WjNMRDc4WVIwOXNjYUc5eVpYNUtKdmxUVkJJUUZIbHB6QVlMX3JzWnZJZy1OQVB6UzdWN0dDSU5GRU0wcENGMWVTaw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-10-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wing and Walmart to Expand Drone Delivery in 2027 - Hardware Retailing",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZzlFUW41NlFwcGZrTndDbDQ1SndTVlNwUVJqcHNXTHJac2NDMVh0cW90MHpjVm1NZkJPa21uT0xoTTR2ZEppRG9GNk5ITE42ODNXQXpoekdBcVNnM3oyT3RndGxadjg3WDZwM0NDTlhGZWZZd250al8wNHBOYVdILTZaQ3lxdE0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 7
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "food_safety",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 120,
+    "too_old": 88,
+    "gate1_blocked": 5,
+    "gate2_blocked": 16,
+    "passed": 40,
+    "pass_rate": "26.8%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Company (ADM) Options Chain - Yahoo! Finance Canada",
+      "Agriculture giant Bunge names successor to retiring legal chief - The Business Journals",
+      "A Look at Bunge Global SA (BG) After 4.7% Decline -- GF Value $1 - GuruFocus",
+      "Tyson, Cargill Challenge Class-Action Ruling in Cattle Price-Fixing Case - PYMNTS.com",
+      "Walmart mobile kitchen serves free meals, water in Milton, Pensacola - WEAR TV"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為好市多、沃爾瑪、ADM相關動態：「When risk management and consumer trust collide」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "When risk management and consumer trust collide（食品安全、產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Archer Daniels Midland Company $ADM Shares Purchased by Sax Wealth Advisors L...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

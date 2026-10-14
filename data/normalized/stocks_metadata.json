@@ -13,14 +13,14 @@
   },
   "ttet": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-13",
-    "count": 6658,
+    "latest": "2026-10-14",
+    "count": 6659,
     "history_complete": true
   },
   "nestle": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-13",
-    "count": 6797,
+    "latest": "2026-10-14",
+    "count": 6798,
     "history_complete": true
   },
   "coca_cola": {
@@ -55,20 +55,20 @@
   },
   "uni_president": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-13",
-    "count": 6658,
+    "latest": "2026-10-14",
+    "count": 6659,
     "history_complete": true
   },
   "wei_chuan": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-13",
-    "count": 6658,
+    "latest": "2026-10-14",
+    "count": 6659,
     "history_complete": true
   },
   "standard_foods": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-13",
-    "count": 6658,
+    "latest": "2026-10-14",
+    "count": 6659,
     "history_complete": true
   },
   "kraft_heinz": {
