@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T12:58:25.759921Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nestle-2026-10-15-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nestle India flags food, commodity inflation after profit surges 36% - Reuters",
+      "companies": [
+        "nestle"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWJkZUU3ZVFLcl92bjE4UW5oTUxZU21mY0lzNVJwTWxGR1plNEp4S29fOGZsWnRxdkNlYzVpcnExZU1MVzZWUDc1OXJCSUs3OUtnaVRkc0VQVHJuTE5obG9hbEhlLVdwUU90MW1LOHJsSDZXbE5HYV9GUEIyYnFoSEdYQmtQWkxkQVYwZzVDX1k2cksyVk1qT09CcVhRSGxfRk0ta2lGVUVUWDdab1dNdWptb1Zhdk9w?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-10-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Barclays keeps Tyson Foods stock at Buy with a USD 75 target - ad-hoc-news.de",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTGNuNFBkTDhsNWdyRkc3dWllNE5zU0tmbHpUVnZ6ajRpRHd3RGEyem5YdWJWQ0p5RFF4UF9wQU95X0JITEdOc0lESkJiMXl2bHFsQzJVZWV3UmFCYVI5akkyUmZZZTJXSm55c3o5cDJmMlhVTmV2NTBEa3Q4T2daMHdLZ2pwNlNPY2xjWFQzdklaN2NDczJrSFczYlgwd1l6TmRXMGR6aVZOM2VyT20yX2ctRXN4WmlpQTJZ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "uni_president-2026-10-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Uni-President unit sells CNY 200 million deposit. Uni-President stock is valued at TWD 451.7 billion - ad-hoc-news.de",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZjRzdE9oMktmeEc3a0ozV0wtWS1zelE2TThiWXFhQ1JnSkpxVWExbFRmV1hlWEhwVXBQOWx0eVFTbXhrZlNJTE5HTXNrQzJSVmRjdjFoWFRiRWc4ZW1JaGg1RTQ4LW5pb1FqMmU1Vl9sQmxPQTFHcUZIV0ZUX2NZd2ZGamJNUmFJRFFTWVQwV2syaDF4NU1FVnBpVVNTWm94aHo4bS1PeFRaUkZMeGhBTWZkZ1hIcFZkcXlKTGNlSE5mamx6Q2xrSFpoejZGWlU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-10-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart to increase employee benefits with new initiative for 2027 - TheStreet",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sUVphbmQ1c1l2dmUwTEdtblI2RWRoUTYxVGJYU21INU1TTzBSeHVBQjRUaVVubF8xQkJQU2Y4X2JGTDJSWTBMMExxZVdIY2FGNmlDYnVSOXE5ZkJVU2U5WlFzaEZGSlhGa2xkZmkyQTBvTUZYb3AzSW0weFktQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-10-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kroger lost $12 billion to Walmart and Amazon in one year — now 3,000 workers are losing their jobs as SNAP cuts hit - Yahoo Finance",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaEN3UHFzVmN5R0c4ekp0enBzWERxMlF2UjVvZXNVVUM2eHJIMFI1WXl3M1dwMVFtZXY3bllOSU15LXpPQ2ptMzNFNmpFVTFjSk9ZQWVSVWJQYWpNQnRVN3YyY3dpUWNWZ2RrWWZjbFBzTnRfVmNSUHBpRjdVZXc1XzhNb1V4cXo0MlBaLWZNTFVBUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 8
+      },
+      {
+        "id": "walmart",
+        "count": 4
+      },
+      {
+        "id": "nestle",
+        "count": 2
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "food_safety",
+        "count": 4
+      },
+      {
+        "id": "food_inflation",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 115,
+    "too_old": 85,
+    "gate1_blocked": 5,
+    "gate2_blocked": 16,
+    "passed": 48,
+    "pass_rate": "31.2%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - GuruFocus",
+      "Archer-Daniels-Midland Company (ADM) Options Chain - Yahoo! Finance Canada",
+      "A Look at Bunge Global SA (BG) After 4.7% Decline -- GF Value $1 - GuruFocus",
+      "Tyson, Cargill Challenge Class-Action Ruling in Cattle Price-Fixing Case - PYMNTS.com",
+      "Walmart mobile kitchen serves free meals, water in Milton, Pensacola - WEAR TV"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為好市多、沃爾瑪、雀巢相關動態：「Nestle India flags food, commodity inflation after profit...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nestle India flags food, commodity inflation after profit surges 36% - Reuters（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Barclays keeps Tyson Foods stock at Buy with a USD 75 target - ad-hoc-news.de（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

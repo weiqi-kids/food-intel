@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 115,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 5,
+  "gate2_fail": 16,
+  "passed": 48,
+  "gate2_samples": [
+    "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - GuruFocus",
+    "Archer-Daniels-Midland Company (ADM) Options Chain - Yahoo! Finance Canada",
+    "A Look at Bunge Global SA (BG) After 4.7% Decline -- GF Value $1 - GuruFocus",
+    "Tyson, Cargill Challenge Class-Action Ruling in Cattle Price-Fixing Case - PYMNTS.com",
+    "Walmart mobile kitchen serves free meals, water in Milton, Pensacola - WEAR TV"
+  ]
+}
