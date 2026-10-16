@@ -1,0 +1,249 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T12:51:11.489125Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-10-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What to Expect From Archer-Daniels-Midland’s Q3 2026 Earnings Report - Barchart.com",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS2Y3cWpqSjRXTjJNamFPYnVVdWJEaklNLTJqbTZDUG52ako4QjF1UG9wZzhRc1JNSzF1ODU5MF9VMGh3R2dteW1GUElJdGtROUR4cUFsMXpJLXFISDhVVElYNmJYS2wxOWxpNnlweV9rVXpiR0pHcnlpT29MTUlMbmIySmZfVUlVRVlwRjh1QS0tMm1ManB4NkJ4ay1tQUZtNkJYNDRHTHZSVjM1Wk5BRw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-10-16-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Costco Wholesale Corporation $COST Stock: State of Alaska Department of Revenue Boosts Position - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNT2JZaGgzdGs0bmMtV3RuUmIzSklsTzZSYjRPSkRCWW0yVnRwelNxdEwwMW1ZeFc3c0lndG5sb3RkbGFMOE5xaVZ2R1o2Q2Z1a1IzRlo3OWVQSDNlTmM1S2VEU2c1dzBtM2p4SEU4cmNQRzcxaWt5VExaaTF1SWFtWjZYTURNV1lOOVBKcnhZUHRSM1lIdl9iQko5ZzlTNHQ3czFHTFMwdUdQY1F1VERGQm12dWFjU0tpWHIwQXB5NzZCOUNIcmoxZVVzYm9DanI4UWFrUWN6b0J4eGNIMjZRdlRCTDc2ZXRKUFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nestle-2026-10-16-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nestlé India flags food inflation, rising commodity costs despite 36% Q2 profit growth - Storyboard18",
+      "companies": [
+        "nestle"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_inflation",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWkkxWk1Zb2Y4TnJtcWpkbS1zcFlna3FycGItODdUamtfNml6d2dSaFNIb3laN2JIMlZWS2ZkOFNNZnVNMThEUHYyZDdBbFRVN2RNQWIxVVM0TERXbmJJWldfdXZfTUtvQ2hCRXZXbG9QY2RDX1Q0aGlCVjRoV2c1RHppUVdzV2IzMFpueXo0TVd0N0VKdHpSWFhWMWloVWh2RGR1OEJmT2VjTXdTUVVSZ25laDRTOUZJbV81S1JGOGdiWkEwQ085WFI5WkYyVUtLYTVWZWxtS3RFOGF2RHfSAeMBQVVfeXFMTkRKekhWb3hKY2NXTmpKZThCZWFFRmtCdEVFc3lJNEhra2dfVmYwbFVsZjRVaDVZUUsxMXFiSUtVZnZWNnN4MVlYNm5RbzR5R293OE9VamYzVWtVLUsycGt6M0U4MDRPM01pZGhiWUxja3c2eFFrS2VzN0dhX2tRRVpvamhmUEU1RTZyVHVhMGF2STRacXN1QlpCaG1qdjhuUlg4VFhobnRPSTQ1enZZNFVubWozSm5ISnRaY1RWaGNLQ05oc3ZMOWlyY1RodzZlVmxoWHFzSWdhVEVRcW1RbnlrbGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-16-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Sandwiches are America’s leading protein source - Food Business News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSWhJYVhiX0dXT0lDQWR6YVBIVjh6M1ByTVJkY3VBeGRjQThwblJIdUhWSDBVZGJ4LTBObGlpd1ZqMV9HSmVaZTRqZ1pHSnhqeXpvRWU1N1VDR3ZqQXNtdERkNHU5a2JmTGVsaTZodzhrWUtiRzduNDdYWDlPVk52eGU1OXhEUVNpd1p3NDRBU0Q3aFVXM181QklR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-10-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "446,474 Shares in Archer Daniels Midland Company $ADM Acquired by Ninety One UK Ltd - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd1haQThuM3ozZ0dzR2FOZFE3alFfM0VMbV9wLVZVX0FlYUdWYnY4ZjNTbGtEa3pWQTZXSTlVRm53Yl9Nbmg1dDVnNUxSQlR4WjN0QUNHUV9RbDBSdUlxZmVCT2dYZ28tTFJabVA0eDhEN3pLay1Ld19ONTJSVk1naVY5VFlEX3lNbENSbWpEVFlwdzloOWNLTTlxOGp1MzlLNkY5U21TLTdObUpoRkN4V3U4d0wtODNJbTRJckdIMFg3NGtRTl9aVkNRM3JrX3E1YzZYZlRzaXJGdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 12,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 129,
+    "too_old": 75,
+    "gate1_blocked": 6,
+    "gate2_blocked": 14,
+    "passed": 45,
+    "pass_rate": "32.1%",
+    "gate2_block_rate": "10.0%",
+    "gate2_samples": [
+      "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - Yahoo Finance",
+      "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - GuruFocus",
+      "Tyson, Cargill Challenge Class-Action Ruling in Cattle Price-Fixing Case - PYMNTS.com",
+      "Walmart mobile kitchen serves free meals, water in Milton, Pensacola - WEAR-TV",
+      "Mondelēz International to release Q3 2026 earni... - Pluang"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為好市多、ADM、沃爾瑪相關動態：「What to Expect From Archer-Daniels-Midland’s Q3 2026 Earn...」。主要關注主題為產業通用、法說會、食品通膨，市場情緒中性。",
+    "signals": [
+      {
+        "text": "What to Expect From Archer-Daniels-Midland’s Q3 2026 Earnings Report - Barcha...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Costco Wholesale Corporation $COST Stock: State of Alaska Department of Reven...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

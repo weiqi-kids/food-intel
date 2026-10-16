@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 6,
+  "gate2_fail": 14,
+  "passed": 45,
+  "gate2_samples": [
+    "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - Yahoo Finance",
+    "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - GuruFocus",
+    "Tyson, Cargill Challenge Class-Action Ruling in Cattle Price-Fixing Case - PYMNTS.com",
+    "Walmart mobile kitchen serves free meals, water in Milton, Pensacola - WEAR-TV",
+    "Mondelēz International to release Q3 2026 earni... - Pluang"
+  ]
+}
