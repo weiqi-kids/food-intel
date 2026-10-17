@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 7,
+  "gate2_fail": 19,
+  "passed": 31,
+  "gate2_samples": [
+    "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - Yahoo Finance",
+    "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - GuruFocus",
+    "Tyson, Cargill Challenge Class-Action Ruling in Cattle Price-Fixing Case - PYMNTS.com",
+    "Mondelēz International to release Q3 2026 earni... - Pluang",
+    "Walmart, Target face a new price problem as costs surge - TheStreet"
+  ]
+}
