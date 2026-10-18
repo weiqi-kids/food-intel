@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:17:28.393924Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-10-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Shares Sold by Howard Capital Management LLC - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbVpDNW4ybnJ4RGdCdnJIZmUwWno4RlhHYVg1MWN2aDVzUThEQjlJNmowTEVkYkY3OVQ5cGlzUUFXNWliNUxhWGlhS05ESk1WUVFLZ2lycm11TzBKRlJJM3JBTHRPdXFBTzE4aDZSNnZwM2lnTUtIR2FFWS0zNHp3cG9RMFJodnp6czEtaUU5WkJXLXVQeGExMGg4WklyTGhKT2ViUW4zS0M3Y3dkVGdXNU1ZVTQ0aHYyZDMyUFliSHkzVGZmSXlReHFsVnBYV254ZElwN3JxOA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-10-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Stock And 2 Grain Logistics Names Riding Global Shipping Disruption - Yahoo Finance",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQekRkcjZEUnpJWnhiVjRCUENOWUd2bXNtWUJ5eFVPREp5U1Zmd25vcXc3UFdPeUZTRGRkRDRqY2lMTThmVmtOc21qQkFQOGtweElYMkNTMjlhMm5NR0wtb29nbTdraGhGYWx2YTFyOE1vWGxEV211S3NtNENQeHB2bFpSQUJid2Q5dkRqTVA3Qm9oLURyN1pJZ3k4eklnNkYt?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-10-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Barclays keeps USD 75 target for Tyson Foods stock - ad-hoc-news.de",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzM0a3FXc1Zkd2JjRUhFaTlSTjJHQ1JxMV9qdXJjN25GZUw2eUJIekU0VkxPRjFaTnNTZFJWTWRGamtXMkhIQ2oxMkJhQ0VaRmJVOVkxUHdqeWFUWk9vS05Za3ZjSFNnZ1M0cDI4V2FDTkxaQ3NLU1dZdnd0eDZqSkswMlRYUTZRMlR3TFA0TE5TWkxFWW5uMVVHRXVRWXdVd0hmSlRYZkJFV2Mzenc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Discount grocery chain closing all stores as bargain grocers struggle - TheStreet",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGphN2YwVEJPeGpKWG94bUtydHVDa0o1NXh4cVpfVjZtSG5xcmFnSkpFcUNfMjlsOXJodXlEOGdLUHU0SjZZZTdiVlRqTGc5NlRUU093c0V3V2lsNEhqWlBhQmJld0cyQWpzeExCV0VxVm1sTkJ1S1d3MnZPYld4MmFlS3BYYXdjNWN0NjJuaXpuNGhySmtxNHlySW4zM1V2N3I2eWZ5MDZyNHlERUJOWU0xTEQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-10-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "2,037 Shares in Costco Wholesale Corporation $COST Purchased by USA Financial Formulas - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUGZ3R0VfbUJNS2RXRlI4UGZYZ0h0bDREc0dIczc5ZjlGdFhmSWxBci1SdUlVRzQ1WDBJekR2LVJXTDFKLVM2aUI4Z29zMXlheGtnSzlkTlVYVktuaGNiS196ZTZZaXBwUDlwTFhkY2FWOGhNYjh2Z3lKeXhQd3BBVG95ZDlVMU5NSWJwMTdhVXpnUDE2MDVLRWFmbFo1ZGVlSTE1d0VNT09xSnNrTTBqdFhzM0Z2X09SMWFEeVFwNkNMeHc0ZXVDYktSMG1Zc0xQTXZ0X3U3bFR5Tks2a0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "raw_material_cost",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 270,
+    "dup_title": 131,
+    "too_old": 82,
+    "gate1_blocked": 5,
+    "gate2_blocked": 25,
+    "passed": 27,
+    "pass_rate": "19.4%",
+    "gate2_block_rate": "18.0%",
+    "gate2_samples": [
+      "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - GuruFocus",
+      "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - Yahoo Finance",
+      "Archer-Daniels-Midland Company (ADM) options chain - Yahoo Finance Australia",
+      "Mondelēz International to release Q3 2026 earni... - Pluang",
+      "Walmart, Target face a new price problem as costs surge - TheStreet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為好市多、ADM、Bunge相關動態：「Archer Daniels Midland Company $ADM Shares Sold by Howard...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Archer Daniels Midland Company $ADM Shares Sold by Howard Capital Management ...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Bunge Stock And 2 Grain Logistics Names Riding Global Shipping Disruption - Y...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "原物料成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

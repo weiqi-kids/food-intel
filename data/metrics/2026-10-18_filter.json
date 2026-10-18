@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 5,
+  "gate2_fail": 25,
+  "passed": 27,
+  "gate2_samples": [
+    "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - GuruFocus",
+    "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - Yahoo Finance",
+    "Archer-Daniels-Midland Company (ADM) options chain - Yahoo Finance Australia",
+    "Mondelēz International to release Q3 2026 earni... - Pluang",
+    "Walmart, Target face a new price problem as costs surge - TheStreet"
+  ]
+}
