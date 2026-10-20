@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T13:09:30.480858Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-10-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Goldman cuts Tyson Foods stock target to USD 62 from USD 67 - ad-hoc-news.de",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaGpjQkZXUExQbUl1QUZBVFBhNFVYa1ZhMk5QTl9TbFJzbXhGQmZmeFRWWm5kUzFGVXh1TFNxckNZNkRWOHlTVDFNT1g3WGsxR25fYk14cFl2b1JqX2VHTEthU0dsQnJSQVdiTTNnRUlBdENhUTUtQmxPNllEeGxfcFQ1RE8taXNQQzE4alRpdVJwMld4dVFWQ3c2QXp4SkgtaUhCa3AwdFNINHlNYjdQaWUxZ2lWOUFDRUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-10-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts - CNBC",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vNmNNZVJnTmJ3OFJpbm55OHVqRDhjS2h4dHlodGU4TC03c2ZJRWN2Ynk5TVQtdGhtSnpYYW9ZVVFuRlFYSDE3Vmx3dmRuM2tkQ3FnQVN4LVZKWThreDU2d1JXNmtrSmNMdXVwWERaSjFOYkltVlQ2X1dn0gF_QVVfeXFMTno0Mi1oSU9tVGpOcUhxd2QwWkVPRXVNTXBDNi1ydFdIQ2NTMFdJYmZhMExHaEFPdWpFMzBGOWtSRGtHLWdhcG9JMHJ0cU92SVg3a1Y0UVJTVkNyb2NwcmxJVlN6ci1xU2dzZ2lFbXpkT0h1bDlIcDFsNnRCN05xcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-10-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart launches $120 membership bundle with Sam's Club ahead of holidays - Reuters",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR0gyc0REbkFRSnhUUlJFLV9nNG5RTW5TUFJzcV9QMk16bG1GNk1xczZBQV9fVGlhT05SS25ZWTZuS0ZGS2FxOVpqTk01a0xWV0ZPODJLR1pac01mS1dNS2ZtMElRdnJsTGlLallLaThyQ0JVeloxOVRqTFA1MTFyYXpwSWh3NUlfazhoOEMwNTA4RGRBQUhiQzhhajR6Y1VCMl90NWUzWWtQVnF2RWNEM2MxRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-10-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Retail bundle wars: Walmart is offering combined memberships with Sam's Club. The price point is curious - Fast Company",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFBVNUR3YzlQaExIcmg5MlVqNk92dWU4bmhsdXRuWnpEWDk2eXhkZjVrRldsUEdEVzlkbEhqRnVrXzhxWlM2b2pWZ2R5V1NmTU5QZVlnd1RPck1SYmlKSkg4eHhuamNyUVVtMmxqMVlLMDJ1a0MyTS1pdU1PQWxReUt2Uk85NHYwclhvUGJGdU5MSUJiNXRRQXZiTFNHVDhMR0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-10-20-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Meet Your $120 Life Hack: Walmart+ and Sam’s Club Plus, Together - Business Wire",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcWFfSGlSOE1WTW9PRmtud3g4QUJmaGl4Ui1jVTdKNmRuRTVIZmlyX19Vc0gtYUk1bnlRX2ZZZ1BsYkt3enVqTVBlQTBFLVlqUjVCOVhuUUUwbGRXRV9ZdFpMMWo3c09kSlNRcnlYdENRTnJBYmNVcTQ2V1lDQ09JUVJWRGh6VTdkdkY0WVZBZ0p2OS1BanA5LXAxNkZwOEpMQnZocEVwVXAwRm9Vd0Y3ZzdqdlZNa3p4eWVn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 7
+      },
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 271,
+    "dup_title": 117,
+    "too_old": 86,
+    "gate1_blocked": 7,
+    "gate2_blocked": 19,
+    "passed": 42,
+    "pass_rate": "27.3%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - Yahoo Finance",
+      "Archer-Daniels-Midland Company (ADM) options chain - Yahoo Finance Australia",
+      "Mondelēz International appoints Othmane Nadifi as MD – Gulf - Campaign Middle East",
+      "Mondelēz International appoints Othmane Nadifi as Managing Director of its Gulf business - Zawya",
+      "Mondelēz International appoints Othmane Nadifi as Gulf managing director - hrme.economictimes.indiat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為沃爾瑪、好市多、泰森食品相關動態：「Goldman cuts Tyson Foods stock target to USD 62 from USD ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Goldman cuts Tyson Foods stock target to USD 62 from USD 67 - ad-hoc-news.de（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Walmart launches joint membership with Sam's Club as it leans into delivery, ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

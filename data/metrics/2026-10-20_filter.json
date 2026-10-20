@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 7,
+  "gate2_fail": 19,
+  "passed": 42,
+  "gate2_samples": [
+    "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - Yahoo Finance",
+    "Archer-Daniels-Midland Company (ADM) options chain - Yahoo Finance Australia",
+    "Mondelēz International appoints Othmane Nadifi as MD – Gulf - Campaign Middle East",
+    "Mondelēz International appoints Othmane Nadifi as Managing Director of its Gulf business - Zawya",
+    "Mondelēz International appoints Othmane Nadifi as Gulf managing director - hrme.economictimes.indiat"
+  ]
+}

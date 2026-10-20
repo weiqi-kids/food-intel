@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-20",
+  "total_events": 18,
+  "by_company": {
+    "tyson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "walmart": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "costco": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 14,
+      "sentiment_avg": -0.04
+    },
+    "food_safety": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
