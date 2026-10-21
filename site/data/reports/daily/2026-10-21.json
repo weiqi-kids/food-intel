@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:20:12.654890Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-21-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FDA meeting seeks to gather input on exemptions from Food Traceability Rule",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/10/fda-meeting-seeks-to-gather-input-on-exemptions-from-food-traceability-rule/"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-10-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland (ADM) Faces A Fresh Valuation Test As Pipeline Case Enters View - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNalFxemhyTEphLW5odC1ybmZhUDhsV1Ffb3QyeEVxU0RQVW1rY1REQ19kY3RSNHJNbHVhNEx4X041MFVDb3E2dWIxbWFHMFBORUpmdll6eXZyeVN4bXl5Qmd6bXlJTFhhNUpZYU8tSHBYS2xxNUJJZ0VaU1dmaG41SmtXLTFURjl3WU1MRENlaWdMWEFYT3FkZDBCZDJFZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-10-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Stock And 2 Grain Shipping Plays Facing Black Sea Insurance Shifts - Simply Wall Street",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWFRPQUhvb0hrM3Vvc2ZMdTNPR2FBR21yMXdwajEtTmFrbzkxMnowc3lBWDF3VXJBR2NPWkJtNXAtbFpzaXEyd0xmLXpWbG5aM1QzT013c0lDUEIyQ0hnTE85ZzY3azBRZTEwQk1hcXZOdEtydmVHT2ZQNjEyTFIwZFpTX0VOZFJubDBIWkVNTVJ6N3RGaVhYYUZIMkREUDR5QUQyRXRvc3RDZEdVb2FoN3lSbGJNSUVtcVhES096ZzFNeXpmRkhUdVgtMGpyWTJEdng5MTRWZHFBcWZBRi03OVF0TGtqaUFMeXpFdzJFMHNYUdIB8gFBVV95cUxOWFRPQUhvb0hrM3Vvc2ZMdTNPR2FBR21yMXdwajEtTmFrbzkxMnowc3lBWDF3VXJBR2NPWkJtNXAtbFpzaXEyd0xmLXpWbG5aM1QzT013c0lDUEIyQ0hnTE85ZzY3azBRZTEwQk1hcXZOdEtydmVHT2ZQNjEyTFIwZFpTX0VOZFJubDBIWkVNTVJ6N3RGaVhYYUZIMkREUDR5QUQyRXRvc3RDZEdVb2FoN3lSbGJNSUVtcVhES096ZzFNeXpmRkhUdVgtMGpyWTJEdng5MTRWZHFBcWZBRi03OVF0TGtqaUFMeXpFdzJFMHNYUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mondelēz shines spotlight on more than 200 years of chocolate making as part of the Cadbury story - Greater Birmingham Chambers of Commerce",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbF9rbi1FOEI2MXdBR19tRHI5Y2hxMGlsb2dRVWYydW1zc1hyMFdpX093LUhjVTN2cnBQQlBrYmxjUUNxV19XODZnUU5HMW9udTZVcS1TRXJyN2RiZ1Q0ZDJScDlTakYyMG05LWJ1TlJOdDltUkRucVRyWEZSZ1FYOGFaWUpWVVNpSkZhdXdvZmZNeXpkcnI1eDlzaEVBQ3oyaFFnZzZYVzlPeS1ramprdklfbG9FV211amx4N3Y1REhBdHo1dU5kVUt0aGlvRXlzbDN0ZWJ2MHc0eDF6X1VmMm1laS1IU3pu?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-10-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "From shelf to sky: Walmart's drone delivery service takes flight in Charlotte - The Business Journals",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVBJRnlPRjVKaXh2UEZobUpGNVZxTVF0VFF5Y2d6Q0otRGpLX0pLeGQ2eFAzSWlpQzdSeFNJSHg1dlk2QTFXVWxxN2lia2ZvbXFZbXJOazlhMURhbXNKSmM3MjNSTGowX1pyNl9xMlFOaHE1MU91OFNZOEVoUmkxVlpwNFdLQ0t5d3B2bzJrSkhBZnlGZC00d0s3bDQ0VFh1NlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 270,
+    "dup_title": 104,
+    "too_old": 81,
+    "gate1_blocked": 8,
+    "gate2_blocked": 22,
+    "passed": 55,
+    "pass_rate": "33.1%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - Yahoo Finance",
+      "Archer-Daniels-Midland Company (ADM) options chain - Yahoo Finance Australia",
+      "Tyson Faces Trial Over Turkey Price-Fixing Claims After Federal Court Ruling - PYMNTS.com",
+      "How the Finance Graduate Program Shaped Peter Creagh’s Career at Mondelēz International - Mondelēz I",
+      "Mondelēz International appoints Othmane Nadifi as Gulf managing director - People Matters Global"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為好市多、ADM、Bunge相關動態：「FDA meeting seeks to gather input on exemptions from Food...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "FDA meeting seeks to gather input on exemptions from Food Traceability Rule（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Archer-Daniels-Midland (ADM) Faces A Fresh Valuation Test As Pipeline Case En...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
