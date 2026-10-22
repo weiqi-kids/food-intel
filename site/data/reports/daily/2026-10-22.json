@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T13:19:03.695463Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-10-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Stock: Robeco Institutional Asset Management B.V. Lowers Position - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeF92VWJ5QXRwdXk5NG1xSl9OR0x2bW5BZTBwUUFhR014b2pIRHZUZWdjV1JBMzhOSmdCMGRrVENqcl9yMnc2Q1ZrRWFoZ05HOGJWU3gwTDZMX0lDd2kwZ2s4TGxOZUtTcHUwTl9mSkVMdGplZGJyZ21Lc2szb2U5RkczTFFqbUpzeHp4bTVDcnpjejlvNXNkcVZkNTVNRmpXa2dZMkdubDBlcHRYaF9fWElZLUxLSFdoYWhETlVqaEVjb2ZpUzNCdDdGbEZzVEpGbXZzelVJcy1VU3AwcUJOc19sMVBzYUFqX0RuTzVsWQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-10-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "134,194 Archer Daniels Midland Company $ADM Shares Sold by Vest Financial LLC - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWWlyMC1QTjA0cklUQkVJdlR4Z2hZZzhKclo2ZjBVUmdTdjJ1Mk91N1VpNGZiZzFRUjZUWEkzSkZrbDNjR3N0OVZPUHBxRk1WT2RFTjIyX0ZLaEhJdG03N3RiazJwYWNfZmhsYzdvUUF3eTFyQzZmclBqSXg2SF8tLUJFZExhVlFldTdTd3JQYWstREc3VnpMT3otUkdFYXFsN0djcWtyVDF1dVlkOEZGNlBhLTVVTmd3NVM2LXhEVHFldU51SnpwMjRtU1Vqam00eXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-10-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Better Retail Stock for 2026: Alibaba vs. Walmart - The Motley Fool",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFpMbURRUTAxcy1wekU1eGRSVVUxQThZZHVPRjZqUFN5OVNPaVRFeUtOUkVCWThVZ081aVcydmZ4azh0WEdTZU1FdDBvQUFONXctSWlwNno5c25ZNzVNY2cxTEYwb21mekdlOFpHS0liYUg2ZGFHaDZpYXBnN0hWUHl0czQ4MThPZ01UazNxR2JqcTVHdTZ3SzlYeEI1aFJDZkE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-10-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Retail twist: Walmart allows outside AI agents to shop, while Amazon blocks them (WMT:NASDAQ) - Seeking Alpha",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGgtaTdwbUtCR3NKWTBIdnE2ZHQzTi0xLWdsVlJuc09aSG1DQXNpZDM0dFhiVWI4dFEtbThWVEVNMlhhOWpXVWVVRFVvTjlkQVlwV2JXMFBpLUc4SEx1MDRlNzhIbFRSVnl6Nk80Wkd3NkNJQzk4M0dsNDVLeXdmMFE2cUNfdW1XR3JnaUFXN29SUlpTZW0xSUd0M2cxV3FiNjR3Ri0wamF5ZTZVMFNTRThvcDFpb28?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-10-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco chooses Smithfield for first Rhode Island store - WJAR",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVHlrVXVPenBWRk5xNFQ3WUJkVjhOc0lSUDVmX1M0bXhjbF9ESzZlM1poanpiREt6ZlY3cDN5Y0gxNnh0MHZybk1tenQ0V1YyMWdpMjFvTThjOVV0SWdjZnhrZ3hBNXRITUd4OWwwM0NfNVZwemEzR2pqSmkwREVFR2RZaEIwemZqc0RlblQyMVBMS3E3OGRSVjdtZC13YUlTN21LNmZjbG54SzRqcjB2OVZwNW8yN3RmVXNaejZLbks2VThYc1pUa2xR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 266,
+    "dup_title": 114,
+    "too_old": 89,
+    "gate1_blocked": 12,
+    "gate2_blocked": 27,
+    "passed": 24,
+    "pass_rate": "15.8%",
+    "gate2_block_rate": "17.8%",
+    "gate2_samples": [
+      "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - Yahoo Finance",
+      "Archer-Daniels-Midland Company (ADM) options chain - Yahoo Finance Australia",
+      "Tyson Faces Trial Over Turkey Price-Fixing Claims After Federal Court Ruling - PYMNTS.com",
+      "How the Finance Graduate Program Shaped Peter Creagh’s Career at Mondelēz International - Mondelēz I",
+      "Mondelēz International appoints Othmane Nadifi as MD – Gulf - Campaign Middle East"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為好市多、ADM、沃爾瑪相關動態：「Archer Daniels Midland Company $ADM Stock: Robeco Institu...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Archer Daniels Midland Company $ADM Stock: Robeco Institutional Asset Managem...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "134,194 Archer Daniels Midland Company $ADM Shares Sold by Vest Financial LLC...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

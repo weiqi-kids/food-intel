@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 12,
+  "gate2_fail": 27,
+  "passed": 24,
+  "gate2_samples": [
+    "ETFs Are Net Sellers of Archer-Daniels-Midland (ADM) on Oct. 13 - Yahoo Finance",
+    "Archer-Daniels-Midland Company (ADM) options chain - Yahoo Finance Australia",
+    "Tyson Faces Trial Over Turkey Price-Fixing Claims After Federal Court Ruling - PYMNTS.com",
+    "How the Finance Graduate Program Shaped Peter Creagh’s Career at Mondelēz International - Mondelēz I",
+    "Mondelēz International appoints Othmane Nadifi as MD – Gulf - Campaign Middle East"
+  ]
+}
