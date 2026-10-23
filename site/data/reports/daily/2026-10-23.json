@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T12:58:34.332163Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "standard_foods-2026-10-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Standard Foods Corporation Estimates – TWSE:1227 - TradingView",
+      "companies": [
+        "standard_foods"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yQjRHT0FDb1pPWlV3aFlBclUtdVFjbk9oekl0LXpVa184Y1hVY0dBZ1pONVNteEVfNFhDenU1U2FrVXpVM3pPVmxWUjZlMGFxZDBXbS0wQkJYWnNIY3Fpb3lEbkM2bkJEUmhmNG1KTGdjRmFHRFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-10-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart reveals plans for massive new store spanning nearly 20 acres with gas station - The Sun",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSkNOMjlTUVBPaHdHSWtuRWdNQ0pRRFljNDZJWC1NMzFxamRLbkVFUEI1b2Q0RGZGc0tlZkhfS3kxYlYxVG1KMWgybThRbjA4OGY3R21TYVE2UGJrU3VPd0NFTGtiLVptak5CMk5NaVFaX2kzNy11R09BVkdmbksxY3BqZFJRZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-10-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Love for Costco influencing house design for big fans - Retail Customer Experience",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaExDazlMUHpiU2R3WlU4QjJWS0RrelNmQ05IejJGSWM2REtxS1pqVm9EcmRucWx5MWFQUnJoUkpqMHJPa0ZGY2pkSlpNb044MFo5TXhUdFF2d09ObVNaY3dkb05JckdZdlA1NDIxdWMxR2tFY0JTMktzWk1lVGVCTEhZY1BiZDVrb3NaaFlYeHItSGQwVkxBTHNEa2pOZTRZMnc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-10-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FY2028 EPS Forecast for Costco Wholesale Boosted by Analyst - MarketBeat",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPekptUVRIODA0bFBpeFVobmZwVkRRbjVIRzktOWhDd2kxcm9FdmF6OW41WWFJYmxjVTd4clV5b2hSNndOSnFkSkRjM2F1dk9Xb2JMXzF6eWtsc1pyS0ZCNmlpWXVPMGl1QXp6eUozRTBJeEUzVGFZdmtyWFFKRVh6UVZ4N0htRUNCd1pnbVlxb3pVdnRfTldoSExoNk1YcW9BZ2x2cDJnbE5ZUUNsMjlBdlRTcjJ5NmlMWGpRQ1ZjQmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Maple Syrup Production Rises Despite Fewer Tapped Trees - Prepared Foods",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1hGaEcxNWhJNlU2MFY1U1pKaVJ1NzJ1eng0bU5valNPVnN6MWI0ZW0zZkU2V2ZZVXVfR3NEVmJTVGktNWxOVS1PaHNkazRfeHpBODhOenh0eERGUTRENUxOZGxvaTFndGd1ZUhxdFNlTFhIY181cE9iV0xKNldPaEpUTHlwQXJxMHYtUmMwN1RjeTJScnhoZTRsMzlDdktIRDRv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "standard_foods",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 104,
+    "too_old": 92,
+    "gate1_blocked": 12,
+    "gate2_blocked": 24,
+    "passed": 37,
+    "pass_rate": "22.4%",
+    "gate2_block_rate": "14.5%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Company (ADM) options chain - Yahoo Finance Australia",
+      "Tyson Faces Trial Over Turkey Price-Fixing Claims After Federal Court Ruling - PYMNTS.com",
+      "How the Finance Graduate Program Shaped Peter Creagh’s Career at Mondelēz International - Mondelēz I",
+      "Mondelēz International appoints Othmane Nadifi as MD – Gulf - Campaign Middle East",
+      "Mondelēz International appoints Othmane Nadifi as Gulf managing director - People Matters Global"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為好市多、Standard Foods、沃爾瑪相關動態：「Standard Foods Corporation Estimates – TWSE:1227 - Tradin...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Standard Foods Corporation Estimates – TWSE:1227 - TradingView（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Walmart reveals plans for massive new store spanning nearly 20 acres with gas...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

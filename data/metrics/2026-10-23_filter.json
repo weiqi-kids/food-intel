@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 12,
+  "gate2_fail": 24,
+  "passed": 37,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Company (ADM) options chain - Yahoo Finance Australia",
+    "Tyson Faces Trial Over Turkey Price-Fixing Claims After Federal Court Ruling - PYMNTS.com",
+    "How the Finance Graduate Program Shaped Peter Creagh’s Career at Mondelēz International - Mondelēz I",
+    "Mondelēz International appoints Othmane Nadifi as MD – Gulf - Campaign Middle East",
+    "Mondelēz International appoints Othmane Nadifi as Gulf managing director - People Matters Global"
+  ]
+}
