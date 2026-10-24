@@ -1,5 +1,83 @@
 [
   {
+    "id": "uni_president-2026-10-24-001",
+    "date": "2026-10-24",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Uni-President China Holdings Ltd. Estimates – HKEX:220 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1xc1hkUlF2RzVMb1pOVVp1LTJCdDRsM1Y5b01SSWVxdDdqNGMtOXpuRmxEa2gzbExYSW96TFBqeWZSVDBmdnZzWEY0TkFFVWY5a0VQM0xlWnk2UFMzNXF3NjJEYW9TcHFsZFRJTlhmSl",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xc1hkUlF2RzVMb1pOVVp1LTJCdDRsM1Y5b01SSWVxdDdqNGMtOXpuRmxEa2gzbExYSW96TFBqeWZSVDBmdnZzWEY0TkFFVWY5a0VQM0xlWnk2UFMzNXF3NjJEYW9TcHFsZFRJTlhmSlJ1UHlk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-10-24-002",
+    "date": "2026-10-24",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBITDA forward of Uni-President China Holdings Ltd. – DUS:58U - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONjlIaDgwRExnY2xzWElaOUJZX1IzLXYyZDhZWm1MSzFMelF4em9wOWhMTXdKTVUzREFSSnlzX3Q1dEVOUFZDZ3dmQ1RKdkQwVHdDM3RhYnlpaUI0TnhkXzUyVFZEQUEwcEZ0RExUQT",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONjlIaDgwRExnY2xzWElaOUJZX1IzLXYyZDhZWm1MSzFMelF4em9wOWhMTXdKTVUzREFSSnlzX3Q1dEVOUFZDZ3dmQ1RKdkQwVHdDM3RhYnlpaUI0TnhkXzUyVFZEQUEwcEZ0RExUQThTOEVJcDNCaUYtVE55SEtsZVNGcVdObktRV3k3Mm45d0dOVVZPVGtydXNXVGJCMy1sYmhBWVJWa2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-10-24-003",
+    "date": "2026-10-24",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "neutral",
+    "title": "Walmart recalls: Return these 3 products ASAP - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQTUZ6TVNTQm1OaTQ3enhmLTBKNm15dXpKWll2R3IyNFVLOVc5cGFXS1RMdDZRbERMcDg1emFUTzlwYWdkYjZuLXhKclFzS3NDTVQ2WEIzbThjdFdvWlZTc1dJeDI0NHNFQVlnYlZjV1",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTUZ6TVNTQm1OaTQ3enhmLTBKNm15dXpKWll2R3IyNFVLOVc5cGFXS1RMdDZRbERMcDg1emFUTzlwYWdkYjZuLXhKclFzS3NDTVQ2WEIzbThjdFdvWlZTc1dJeDI0NHNFQVlnYlZjV1NWM3FBUEZmdm5MOUxUUUgzZ0FDakFPMFlzNVlnYmhyMG4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-004",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "food_safety"
+    ],
+    "impact": "negative",
+    "title": "FDA issues warning about cold smoked fish because of botulism risk; company refuses to recall product",
+    "summary": "<p>The FDA has issued a public warning about cold smoked sprats from&#xa0;D&amp;M Smoked Fish Inc. because the company has refused to recall the item that was produced without controls for the control",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/10/fda-issues-warning-about-cold-smoked-fish-because-of-botulism-risk-company-refuses-to-recall-product/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "standard_foods-2026-10-23-001",
     "date": "2026-10-23",
     "companies": [
@@ -239,6 +317,327 @@
       {
         "name": "food_safety_news",
         "url": "https://www.foodsafetynews.com/2026/10/judge-delays-usdas-reorganization-plan/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-10-23-014",
+    "date": "2026-10-23",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Archer Daniels Midland : ADM Investments in Columbus, Nebraska, Ethanol Facility Expected to Increase Annual Corn Grind by 20 Million Bushels - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeVlIOTdGRjhGdzNIZV9fZWtVcldsc0NkRHdGcWhpSWM2c0hFd1dGbk8tVVFvd0hhY3labzJVVmp6VWNNbWhnOUJQVExxRDdkM3ZwQjlLRjVHN0c2UDAybkpydmplVHR1ZGJVNzN0SF",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeVlIOTdGRjhGdzNIZV9fZWtVcldsc0NkRHdGcWhpSWM2c0hFd1dGbk8tVVFvd0hhY3labzJVVmp6VWNNbWhnOUJQVExxRDdkM3ZwQjlLRjVHN0c2UDAybkpydmplVHR1ZGJVNzN0SFZqSUppSl9VWGVxWTBEQXNJaGRDcUhoSDd6TDNLajN0UUREMElzdXZLcVhiNTZvSW8xRWItdVNqcmxQSnlybzk4R2hpcGU1WW1LTEFmQ3dqWkloWFdXa3BkX3dqcXd3VFVoVC1mRkdKNjRoUU9waXQ2Q1Fuaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-23-015",
+    "date": "2026-10-23",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge (BG) Stock May Be Below Fair Value On Earnings Power - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmlfdzk4bFM5UmRVNHlza1FlLXN6SUJ3YlZHNTZtRm9KTUJpdFVNWVFIUW0teVJyMjl3S1djZEdLaVN4blJ4OTNyN190Vl9KblJGTy1TTU1CQ1dVbEJCOWpmcV91dDVsSWxFcjZLMz",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmlfdzk4bFM5UmRVNHlza1FlLXN6SUJ3YlZHNTZtRm9KTUJpdFVNWVFIUW0teVJyMjl3S1djZEdLaVN4blJ4OTNyN190Vl9KblJGTy1TTU1CQ1dVbEJCOWpmcV91dDVsSWxFcjZLMzNxeWFTYmRKUzl4bHZUTjBPSVpzbGE1b3p0eUNfWnMtVVpiZjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-23-016",
+    "date": "2026-10-23",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (BG) Faces An Earnings Test As Viterra Deal Fuels Undervalued View - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDkyLTZkUFRjUG5ua2JpelI4clE1aVlPdHg1aklUQUFmSmEzR2JIdEJ6QkQwSG5TNGV2bkNhYlk0NjdtNnEySUpjZHo3WnRJVUpaMTNfcmhXMzZXaVRxU2VYaVZQUXNuWkl3QkQxZ3",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDkyLTZkUFRjUG5ua2JpelI4clE1aVlPdHg1aklUQUFmSmEzR2JIdEJ6QkQwSG5TNGV2bkNhYlk0NjdtNnEySUpjZHo3WnRJVUpaMTNfcmhXMzZXaVRxU2VYaVZQUXNuWkl3QkQxZ3AyZ3FIaDZDUG5xRFZoTV9OeHdCVllZOUNndUtZeTJRRWRPejdsWkl1ZGw0SQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-23-017",
+    "date": "2026-10-23",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (BG) Faces An Earnings Test As Viterra Deal Fuels Undervalued View - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQeURpaEd5dGMxb0taOW5qaTVXM0hGN0tEX2NuMElFWnpoZXBDalF5bFpEcWNxYWhBNlpzdmx3eGhnQk5tSGtYNl9NWG82UVZHV1J0cXpOM3Fvbk9KQjJLMi1sUUxKd2V4bUhpYWQxWl",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeURpaEd5dGMxb0taOW5qaTVXM0hGN0tEX2NuMElFWnpoZXBDalF5bFpEcWNxYWhBNlpzdmx3eGhnQk5tSGtYNl9NWG82UVZHV1J0cXpOM3Fvbk9KQjJLMi1sUUxKd2V4bUhpYWQxWllreDRCb0Y3eEZBQlNCUDdoMVJrWWcxdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-10-23-018",
+    "date": "2026-10-23",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers. - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOVGhiS21sV1hVTmE3TXh0cjdwOHhuTEI4Q05EX2oxUXQxM1ZXT2dQb09yQU1KQ1BUaDRTcFB4cjNacnNJSTZ3eWlsX18xSDdja3JIeG1MM0ZlYk04MEpJSU91SEZTV1QwYnhvVDVYa0",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVGhiS21sV1hVTmE3TXh0cjdwOHhuTEI4Q05EX2oxUXQxM1ZXT2dQb09yQU1KQ1BUaDRTcFB4cjNacnNJSTZ3eWlsX18xSDdja3JIeG1MM0ZlYk04MEpJSU91SEZTV1QwYnhvVDVYa0owSk1hSm1Fcjc5RGdIYzZwN2huYWZBeVEzZEItdm01cERGdFVYamItYTVNUHNKU0dvZ25xMkxqbFhtbkN4Q1RIc01BanREOGFNdFZyNHhSRFVwdVVWeW00WldKWkc3bzdxVUF0ZV9uT0hkQUp2S0hwcWNvMkxaUmhiRmpITlJUaHFDbG16eXBjbEh0S29ubC10QzZ6SA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-10-23-019",
+    "date": "2026-10-23",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Shopper Was Wearing Her Work Uniform At Walmart When Another Woman Mistook Her For Staff And Suddenly Grabbed Her By The Collar - TwistedSifter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ0lGaDRNWXpHUGxGWUtXYmlhM3BkZjFTVk41YnJFYlA2enUtTVhVRE5OMmREaEVYdUhSbzlVMmF2eUJLeGpsVjV0X0xjLUJBbXZXLWM3YXltelBDNktqT2txOXQyeE4xS193d1I0c2",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ0lGaDRNWXpHUGxGWUtXYmlhM3BkZjFTVk41YnJFYlA2enUtTVhVRE5OMmREaEVYdUhSbzlVMmF2eUJLeGpsVjV0X0xjLUJBbXZXLWM3YXltelBDNktqT2txOXQyeE4xS193d1I0c2RiVENQSkhXWjNGM0gxUE80akhaRnh5elBrbVFYTURoUGlFWl9GMHExZHJqOXhiQ2o2LXE2ekhwV1JmZFQ3a1c5blJUcUYwcTlLXzdQdjNROGdCdjNra2ZjZlN1VXhSQ0FUYkl3RzBPYjlHYWNWTWozSXUyNmUza1M2Qjd0VHdsVXd3eWps?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-10-23-020",
+    "date": "2026-10-23",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "10 Costco Foods Dietitians Always Stock up On - Martha Stewart",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5wUFF6ZGdZOW1RNGZncm91SW56YXRCMURtZGZpdnVPYzRGUThIZDJrN0M2dFBmVHB1dWItbWNCZlNpdmt0eWVncFZlTUMwa0dQWlNIdUx6YkgxWUJ6eFhQcktuVXdKQnFCMmJJVkd0R0",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wUFF6ZGdZOW1RNGZncm91SW56YXRCMURtZGZpdnVPYzRGUThIZDJrN0M2dFBmVHB1dWItbWNCZlNpdmt0eWVncFZlTUMwa0dQWlNIdUx6YkgxWUJ6eFhQcktuVXdKQnFCMmJJVkd0R0o0VU5mTnZoU0l0bFd4Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-10-23-021",
+    "date": "2026-10-23",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Prediction: $5,000 in Costco Stock Will Trail the Market Through 2030 - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVJMSXNSQXhVNVViYTEtMERZRWt6LTVEeDdBNGVjQ1FBZE5ZOXBqWmp5T0RRWTVoM2MtZHg3T2hpZFFBc3k1Y1ZDU3RBOUQ5cDMwUEhERzZVVHpHcU5MVEU1OHcxY2Zkcy01dFRZR1",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVJMSXNSQXhVNVViYTEtMERZRWt6LTVEeDdBNGVjQ1FBZE5ZOXBqWmp5T0RRWTVoM2MtZHg3T2hpZFFBc3k1Y1ZDU3RBOUQ5cDMwUEhERzZVVHpHcU5MVEU1OHcxY2Zkcy01dFRZR1JvLTVfSGpUcXlkalp6blp4TDBwZHVDMzdaV1Y1OUVubC01V1VQcUtJTGNlRVI1dUdHQmlfb2JnaTQyRDdzazY5RmhUSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-10-23-022",
+    "date": "2026-10-23",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco Wholesale Corporation Estimates – BMV:COST - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9WZ21yc3lDaUtkMDY3QXRxcVpnSWphYWIzdGFuVGVUQkRaWGdqMDA1YmVUdDlXUElkUF96dHFXUXNaX2Y0cjAxNTFPbGwzU3hUUDhMZ2RaTHMxY2p2QmFZN0h6bkRJcjQwRXJVSWdpR0",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WZ21yc3lDaUtkMDY3QXRxcVpnSWphYWIzdGFuVGVUQkRaWGdqMDA1YmVUdDlXUElkUF96dHFXUXNaX2Y0cjAxNTFPbGwzU3hUUDhMZ2RaTHMxY2p2QmFZN0h6bkRJcjQwRXJVSWdpR09ENEVy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-10-23-023",
+    "date": "2026-10-23",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Prediction: $5,000 in Costco Stock Will Trail the Market Through 2030 - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1GT200aVdVUkhlNGhDbUx0MFEzM1BpRWxKX1dITmxOUDVJZXI3YzVQWWI4RGwyNnhKckhtQU9SSGtNbTVvUy1kbzFzcEZCYlNNN1VJaHIwRFBZUTdSVG45Rm92b01mSFJaY2ZhVjlHT0",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GT200aVdVUkhlNGhDbUx0MFEzM1BpRWxKX1dITmxOUDVJZXI3YzVQWWI4RGwyNnhKckhtQU9SSGtNbTVvUy1kbzFzcEZCYlNNN1VJaHIwRFBZUTdSVG45Rm92b01mSFJaY2ZhVjlHT0VSYkp6R0Zwa1ZneVpXUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nestle-2026-10-23-024",
+    "date": "2026-10-23",
+    "companies": [
+      "nestle"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Nestlé turnaround taking shape a year after new CEO",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/3xaVTGmADAdS3C-c318yKQAF_57BTwIzz3K3hOc3Oto/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDk4MC1mb3Rvci0yMDI1MDQyNTEzNDkx",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/Nestle-turnaround-ceo-frozen-coffee-snacking/833742/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-025",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Leftovers: Lays gives thanks with holiday flavors | Dogfish Head brews ‘ancient’ beer",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/j7SXlgciTeOphYuOlOPPbXdW9KDm3CPpr8M4tLOAlQM/g:nowe:107:503/c:2919:1649/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMyMD",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/lays-thanksgiving-dogfish-midas-touch-tajin-chamoy/833834/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-026",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "How AB InBev built a culture of creative effectiveness that drives growth",
+    "summary": "<p>To focus its marketing efforts, the Bud Light owner looks for opportunities at the intersection of consumer needs and business problems, rather than chasing creative ideas intended to generate hype",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/how-ab-inbev-built-a-culture-of-creative-effectiveness-that-drives-growth/833830/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-027",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Restaurants are about to inherit the food industry’s hardest labeling problem - Restaurant Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQTkowSVlZZVdJWWRMaDhwSFlYSGZYQ081VUtiWVhGaHdHNHpwcUFweXV0T3lPLWNUMWxnOG9TcXY2amVyVXZNSkxkYTRiVFVMYzdwXzRSTFljM3FtUE56MkNpd0d6cGJ5aDI0bHpuX0",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTkowSVlZZVdJWWRMaDhwSFlYSGZYQ081VUtiWVhGaHdHNHpwcUFweXV0T3lPLWNUMWxnOG9TcXY2amVyVXZNSkxkYTRiVFVMYzdwXzRSTFljM3FtUE56MkNpd0d6cGJ5aDI0bHpuX0FmZ3hZT2J1M3lkdWxOUndLV0NGUnN5bEd6a1R3dmJMNFZVTXdmMWFZYzg1MnZxdk5oYVR2aXVsUWRvMlk0ZXNQZXZVMlM4WlV2aXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-028",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Food Exec Brief: F&B Cuts 29.7k Jobs, Corn Yield Drops Futures 4%, and Texas Sues Gerber - Food Industry Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlRhb1BTOUZ3ZGt3ckxQNDgtSDNURVkxNU1rSzF6eDhDSDEwcV9ybkJaZUdyT2hTcW45VVpMdm5CcTZXN3p6TVNDVmdIdDhNSWtfckwwN3FPcFA1WXNyRmVLczJGUURYSEtKSXkzVF",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlRhb1BTOUZ3ZGt3ckxQNDgtSDNURVkxNU1rSzF6eDhDSDEwcV9ybkJaZUdyT2hTcW45VVpMdm5CcTZXN3p6TVNDVmdIdDhNSWtfckwwN3FPcFA1WXNyRmVLczJGUURYSEtKSXkzVF9UR2NtQUFkaFZHV28xUE9fSjFxVjlTUkxycV9aZkJNaEN4b3cxclFKRzNibldkVHJtTG8zT05GbkxzUjlXR0R1dg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-029",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Grupo Nutresa Adds Presto as Gilinski Expands Food Portfolio - ColombiaOne.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1MdF9oSVlhNXQzU2hJMWFobGZwNWhibEMxbWVSM2ZLenRDamc4M1kwazUtcS1rWW5PZWJ6a3h6N3dTeXZTMjJnZVNHTXhtMzhUZmthOE8yY3p5N3VuSldLYXpUdXF6SDBhcENiZmxKR1",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MdF9oSVlhNXQzU2hJMWFobGZwNWhibEMxbWVSM2ZLenRDamc4M1kwazUtcS1rWW5PZWJ6a3h6N3dTeXZTMjJnZVNHTXhtMzhUZmthOE8yY3p5N3VuSldLYXpUdXF6SDBhcENiZmxKR1N4Y3Nra1BvNTNVTkFRX2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-030",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Midera Food Processing acquires Phoenix Innovations - The National Provisioner",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNM2x6VVp5MTZ5X2cwbnplM3d2Q3h1Ui1UQnhqaHpwa2ViNWhEZTJHcWp0cTZhSjd2YlNHQzdORndiMEtGUE9SV2NtVlFPeHhPUmxUZ0hmbTUyTGRDWDluYjloQmFKRFpkSnhqTS1qcW",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM2x6VVp5MTZ5X2cwbnplM3d2Q3h1Ui1UQnhqaHpwa2ViNWhEZTJHcWp0cTZhSjd2YlNHQzdORndiMEtGUE9SV2NtVlFPeHhPUmxUZ0hmbTUyTGRDWDluYjloQmFKRFpkSnhqTS1qcWRmWVZJczV3M19kb3paOFU2Q2NfTlUxQTQtQUpNVmotRmlFQTN5WjBjTERTaG5vUVlYQ1ZR?oc=5",
         "type": "rss"
       }
     ]
@@ -856,6 +1255,84 @@
     ]
   },
   {
+    "id": "tyson-2026-10-22-033",
+    "date": "2026-10-22",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "KRVN 880 – KRVN 93.1 – KAMI - USDA teases major announcements involving shuttered Tyson beef plants - Rural Radio Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXAwM0NlVFlsZGhpREFOMUU0VkpVdGtWWnFUNHgtOTFSbTVVM0hvM3NhUmZvdTNlMl9RZ3NSV2ZYUWNGci1wRVpYMWMtcGtKR0pPS0ZJZmdOWHRzcWJ2QmZiQ3R5UU5Bd01vNERVSH",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXAwM0NlVFlsZGhpREFOMUU0VkpVdGtWWnFUNHgtOTFSbTVVM0hvM3NhUmZvdTNlMl9RZ3NSV2ZYUWNGci1wRVpYMWMtcGtKR0pPS0ZJZmdOWHRzcWJ2QmZiQ3R5UU5Bd01vNERVSHh5THB4LTJ1MGlCVTRNLW1KWkRaTE1Zakg5VWFuM1d1WFUxQVJDRFFLRVhaMWZJNmZLTi1QVndR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-10-22-034",
+    "date": "2026-10-22",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart Defines Agent Shopping In Move Toward AI-Driven Retail 10/22/2026 - MediaPost",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPZlkwalBIdmU1TnRyZHA1RmFOcExjWmdaYkJOdmJWazRuOXJ0aGhkMjVpaElycDhfU09JMXRFcW5ybXF5S0lfUlExWURYVXEyY25fRUVWTm1VdzNnbV9PNWNBaDBGdmF0aFNEM3NtR0",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZlkwalBIdmU1TnRyZHA1RmFOcExjWmdaYkJOdmJWazRuOXJ0aGhkMjVpaElycDhfU09JMXRFcW5ybXF5S0lfUlExWURYVXEyY25fRUVWTm1VdzNnbV9PNWNBaDBGdmF0aFNEM3NtR0lBaGRLU1pLWHhJTGlCQTgxZFo5TU15MFc1bUJKYlp4bXlreEl4MnlZZHZOcEd5aU5RTUhpU2lCR09hUDVZR0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-10-22-035",
+    "date": "2026-10-22",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco Is Making A Major Change To Kirkland Signature Butter—And It Costs $4 Less Than Kerrygold - Delish",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQRU5MRDlZRk5UQWdBcWdpZVNQYW0zaDZTSzdoUS01UkRFTUZ5XzdldFNyVjVjd1JkcmpVTEhXN0MtR0o3ZEhqbmxtT3NZNnl5RW1VMjdXcWc0RER6YXVvTjVjclR0VmxHN1RoM01uQk",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRU5MRDlZRk5UQWdBcWdpZVNQYW0zaDZTSzdoUS01UkRFTUZ5XzdldFNyVjVjd1JkcmpVTEhXN0MtR0o3ZEhqbmxtT3NZNnl5RW1VMjdXcWc0RER6YXVvTjVjclR0VmxHN1RoM01uQk5hUl9JLWlON3E2aGdqSnRGbW8tY09PZlBuN1RacWRxMm5fUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-10-22-036",
+    "date": "2026-10-22",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco plans warehouse in a new state as others await their first store - KTLA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTFsem5PV1VlMWFTMlZkeTNXbzZFWnRaeGsxUGxfQ3VjbXdtZExkUVVxMGFWQzgyN0tvT1lHcHZUX21NYUpaZmlmVG52U0VOVGk4bUNQdjJWV3Qya0VCS2ZPSWNnUjNvQnIxdmgybX",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTFsem5PV1VlMWFTMlZkeTNXbzZFWnRaeGsxUGxfQ3VjbXdtZExkUVVxMGFWQzgyN0tvT1lHcHZUX21NYUpaZmlmVG52U0VOVGk4bUNQdjJWV3Qya0VCS2ZPSWNnUjNvQnIxdmgybXhjNnpabVh2LWl4clNZMzcwb1gtekxpdVI0Z0twNTBHNjR0VFVBOGdKVHpn0gGfAUFVX3lxTE96dFYzdlg1V2FDY3NEdkVrTzhfYW8xdHJlekV0YWVldUU4dzJHMEFJcHBhWDdISWpHMGNRekVRWEV2QldBWUdrSXBMYlh5bk1UMHdFTXJQTlp0TloxQmNtOWxzUFJ3SE5VNWpJV3I2a0pGVmlwYWViX19KMGpTQWV4WVJpNEFGVWI4UUxza3otV3RmOFlHdS04MGFMeXBEYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-10-21-001",
     "date": "2026-10-21",
     "companies": [
@@ -1338,6 +1815,42 @@
       {
         "name": "google_news_food_industry",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFJmZTQzMERraUN6dTZyX3pEZTNDZUhlT2RYeFVtWjRnb3ZsMVU3OXB5TmVBVkNFVE5WWkVwUFg3ZWpvUW1hakNlYm9WTEtsMVk0bGd2THd1QjNRSlFUQUJ3OFdLYzhVZndQTVhQYmxxVTZab0QxS1ptNUdwX3h5NE42WTZhd0RLUnlYanZBZ3RrY1FreVNmd3RReDFRdlVUR1l3Y1EtemlYZXNSMlJkY2lxT3N1SzBa?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-10-21-027",
+    "date": "2026-10-21",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart launches tools for AI agents to shop for customers - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmtSSlFFOWZ0ZnlfU0YyQXZBR3l6VjNvdjFtanMtdkdHOFctdFdVTld2a0M4cUlEZmNaS3hnV1ZTdzc1WnQ2RVl4NG1BbVQ1MzUwZV9KWlgzWEFsRGhLOFUzVHdnQzE5VDhBWWx4NU",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmtSSlFFOWZ0ZnlfU0YyQXZBR3l6VjNvdjFtanMtdkdHOFctdFdVTld2a0M4cUlEZmNaS3hnV1ZTdzc1WnQ2RVl4NG1BbVQ1MzUwZV9KWlgzWEFsRGhLOFUzVHdnQzE5VDhBWWx4NU9OZ1ZkNUJ6ZFlSdFBpOXJ1ZmhvaFM0VEVxcDV0MDNUeklPQ0Q5R1pJNVU5ZkdieFlIQkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-10-21-028",
+    "date": "2026-10-21",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Charlotte Shoppers Can Now Get Walmart Orders by Drone - Progressive Grocer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjVQbTlBb2dZSHBUTWpRNFVETXFQSE9hdjVva0pXWF9yTWRTcEZRNTZNc2RaX251UW5KVEp5R3kySGdadF9pXzZ6VEdMYjlvajhOSjZ2Zl9DbnN1WGRMeV9taDFqY1JYLTMzMFc5UH",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjVQbTlBb2dZSHBUTWpRNFVETXFQSE9hdjVva0pXWF9yTWRTcEZRNTZNc2RaX251UW5KVEp5R3kySGdadF9pXzZ6VEdMYjlvajhOSjZ2Zl9DbnN1WGRMeV9taDFqY1JYLTMzMFc5UHdkNE9Yb1F3UWlRc0lnXzNIYll4VlFDdzB6?oc=5",
         "type": "rss"
       }
     ]

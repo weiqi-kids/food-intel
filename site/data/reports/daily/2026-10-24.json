@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:21:08.512373Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-24-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA issues warning about cold smoked fish because of botulism risk; company refuses to recall product",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/10/fda-issues-warning-about-cold-smoked-fish-because-of-botulism-risk-company-refuses-to-recall-product/"
+    },
+    {
+      "rank": 2,
+      "event_id": "uni_president-2026-10-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Uni-President China Holdings Ltd. Estimates – HKEX:220 - TradingView",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xc1hkUlF2RzVMb1pOVVp1LTJCdDRsM1Y5b01SSWVxdDdqNGMtOXpuRmxEa2gzbExYSW96TFBqeWZSVDBmdnZzWEY0TkFFVWY5a0VQM0xlWnk2UFMzNXF3NjJEYW9TcHFsZFRJTlhmSlJ1UHlk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "uni_president-2026-10-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to EBITDA forward of Uni-President China Holdings Ltd. – DUS:58U - TradingView",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONjlIaDgwRExnY2xzWElaOUJZX1IzLXYyZDhZWm1MSzFMelF4em9wOWhMTXdKTVUzREFSSnlzX3Q1dEVOUFZDZ3dmQ1RKdkQwVHdDM3RhYnlpaUI0TnhkXzUyVFZEQUEwcEZ0RExUQThTOEVJcDNCaUYtVE55SEtsZVNGcVdObktRV3k3Mm45d0dOVVZPVGtydXNXVGJCMy1sYmhBWVJWa2M?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-10-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart recalls: Return these 3 products ASAP - Yahoo",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTUZ6TVNTQm1OaTQ3enhmLTBKNm15dXpKWll2R3IyNFVLOVc5cGFXS1RMdDZRbERMcDg1emFUTzlwYWdkYjZuLXhKclFzS3NDTVQ2WEIzbThjdFdvWlZTc1dJeDI0NHNFQVlnYlZjV1NWM3FBUEZmdm5MOUxUUUgzZ0FDakFPMFlzNVlnYmhyMG4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "uni_president",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 111,
+    "too_old": 77,
+    "gate1_blocked": 22,
+    "gate2_blocked": 28,
+    "passed": 27,
+    "pass_rate": "17.5%",
+    "gate2_block_rate": "18.2%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Company Estimates – NYSE:ADM - TradingView",
+      "Bunge Global SA Estimates – HAM:Q23 - TradingView",
+      "How the Finance Graduate Program Shaped Peter Creagh’s Career at Mondelēz International - Mondelēz I",
+      "Mondelēz International appoints Othmane Nadifi as Gulf managing director - People Matters Global",
+      "Mondelēz International appoints Othmane Nadifi as MD – Gulf - Campaign Middle East"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Uni-President、沃爾瑪相關動態：「FDA issues warning about cold smoked fish because of botu...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "FDA issues warning about cold smoked fish because of botulism risk; company r...（食品安全）",
+        "level": "green"
+      },
+      {
+        "text": "Uni-President China Holdings Ltd. Estimates – HKEX:220 - TradingView（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
