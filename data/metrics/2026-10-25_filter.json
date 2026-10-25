@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 21,
+  "gate2_fail": 27,
+  "passed": 18,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Company Estimates – NYSE:ADM - TradingView",
+    "Bunge Global SA Estimates – LS:A3EYCJ - TradingView",
+    "How the Finance Graduate Program Shaped Peter Creagh’s Career at Mondelēz International - Mondelēz I",
+    "Mondelēz International appoints Othmane Nadifi as Gulf managing director - People Matters Global",
+    "Mondelēz International appoints Othmane Nadifi as MD – Gulf - Campaign Middle East"
+  ]
+}

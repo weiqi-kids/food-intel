@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T12:21:04.823305Z",
-  "quarter": "2026-03-31, 2026-05-31, 2026-06-30",
+  "updated_at": "2026-10-25T12:52:24.628767Z",
+  "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
       "id": "adm",
@@ -58,17 +58,17 @@
       "name": "好市多",
       "ticker": "COST",
       "currency": "USD",
-      "ar": 3750000000,
-      "ar_prev": 3782000000,
-      "ar_qoq": "-1%",
+      "ar": 3959000000,
+      "ar_prev": 3750000000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 19418000000,
-      "inv_prev": 18991000000,
-      "inv_qoq": "+2%",
+      "inventory": 19324000000,
+      "inv_prev": 19418000000,
+      "inv_qoq": "-0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-05-31"
+      "quarter_date": "2026-08-31"
     },
     {
       "id": "general_mills",
@@ -143,17 +143,17 @@
       "name": "百事",
       "ticker": "PEP",
       "currency": "USD",
-      "ar": 13722000000,
-      "ar_prev": 12396000000,
-      "ar_qoq": "+11%",
+      "ar": 13845000000,
+      "ar_prev": 13722000000,
+      "ar_qoq": "+1%",
       "ar_period": "QoQ",
-      "inventory": 6734000000,
-      "inv_prev": 6211000000,
-      "inv_qoq": "+8%",
+      "inventory": 6434000000,
+      "inv_prev": 6734000000,
+      "inv_qoq": "-4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "standard_foods",
