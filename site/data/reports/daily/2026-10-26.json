@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T14:41:20.839716Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-10-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What to Expect From Bunge Global’s Q3 2026 Earnings Report - Barchart.com",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc19jNndUeXNfaGNKeVVlMV9xYjhzN2pRd1JhcEJVb1RjNW9sYW1Uby02NlllSkpWQkQ4aENDcWJhdThUbE9qb2UwaUpDSzl1WndwaG1UbUVvY201czNranpqZXNtYjNfRGlsb2JFT2t6UFFkYm44cnBWTTdXWDdENnlvekY4M0ZGWTBDalFYc2J4bDhYS1VJREpQbVUyN0hSc3RJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-26-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA warns fermented cabbage maker about pathogen risks, labeling violations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/10/fda-warns-fermented-cabbage-maker-about-pathogen-risks-labeling-violations/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cadbury Dairy Milk celebrates its people with #ProudlyMadeHere campaign - Convenience Store",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjBZR3c3MmFnY3lfMEFpT2tMYzJGamllZ3RtNkRudG45TUdUYWJqY1BITVBiZ3p2UEQtZC1ZVU13dV9xT3ViYkNpbHdlS1RmdXhzYlRLVkRRN0tYekhRUlpveHp3MlM3ZXk4U2ZXVHNYc01mR2NNSmpUVWpRUjMwSEROYS13NURLRzZuMjRITzRzUGdpVFRCb3F1QVJ0NXFDUURpS1NzOGY0endNcHdDa3ZtWlY0dU44Y0FyUld1eVNZdG5fLWxFTA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-10-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart Takes On Prime With $120 Subscription Bundle - PYMNTS.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYnluc3hWMzhzMGdpbFc3Z0VXeDhTT0FHZG1JUnFUc2N4UWpPM1dvdWpkSzZ3bGplS2ZaRndVdDRZTzVFbkEwczg4ZnZLZEhkeVJPSkZtbVJLR3dOQ2xIQTJVdl9JMVhvQ21vaW9uSnpWU2tFN0VZY29BQVFPQ2l3UkIyNUVwVndXUnRyVjR0U28xXy1GeUNhbmo4Qzg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-10-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart adds three major holiday sales as consumers struggle - TheStreet",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVJFYVlha09nc2tBSm9oOV9IbFdFaVQtMFhPazFzNDBESnoyOElKc2M4UDZYcFZpNW1sV21mbkQzQ0JKekFZRktySjI0T0ZsQ2J6cFZoU3Y2NzRzZDlSQjdLSTF3OHNyeEZzZzZRSEhGakdybUh4MHNFcUdMdWloX2lMMGhkbjFyVVNWU3lHNG0zeWtxSGtjUg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 3
+      },
+      {
+        "id": "costco",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 271,
+    "dup_title": 119,
+    "too_old": 82,
+    "gate1_blocked": 21,
+    "gate2_blocked": 24,
+    "passed": 25,
+    "pass_rate": "16.4%",
+    "gate2_block_rate": "15.8%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Company Estimates – NYSE:ADM - TradingView",
+      "Bunge Global SA Estimates – HAM:Q23 - TradingView",
+      "TTET Union Corporation Estimates – TWSE:1232 - TradingView",
+      "How the Finance Graduate Program Shaped Peter Creagh’s Career at Mondelēz International - Mondelēz I",
+      "Mondelēz International appoints Othmane Nadifi as Gulf managing director - People Matters Global"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為沃爾瑪、好市多、Bunge相關動態：「What to Expect From Bunge Global’s Q3 2026 Earnings Repor...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "What to Expect From Bunge Global’s Q3 2026 Earnings Report - Barchart.com（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "FDA warns fermented cabbage maker about pathogen risks, labeling violations（食品安全、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
