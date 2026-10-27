@@ -1,0 +1,227 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T13:45:39.984061Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-10-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer Daniels Midland (ADM) Set to Announce Earnings on Tuesday - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaVBfZU5SRkNxT2J2RGlER2t3UTZhWGFHUWRKMkpuRUtLaVBuSnJQclR4TllvWUZ6ZVZHckdyQ05lMlRvZHFvT2hHSkZZeW1ZSjdvbmtpS0xRaTZIdHVvamZuRkxEOTFlTnI0X0k0djZTZmhxWDYxaGp0UHZQdkV2U255c0Y5d0VPNUVTcWc2RVUwcElhZ2Yyejk0MXJFY3M3eUMwbXdDaDNBNmhWc1ZNbWk4RFR4dGllNzA2UkxiUE16Tmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-10-27-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Walmart copies a core Costco move that also benefits customers - TheStreet",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVm0zd1lNOFh2OWhJVG82U2FyTWhsZlJKWGpydHVMSUU1WkFmaG5wWFZPcldJZ0Vxd1lFRDhoeWxPSFFOWkRmSElVSmlpNUJzZVplZGNzalhDTTU3WXZVVWRPTTRnVURoWnlTeG1WYWROM0FwT2xGN0d6NU82WXZxM1BwZ2luX0xnZzF4eVFqMkpyVjR6VE92NXIwMzFJOExmelBaWm81Qjk4LUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-10-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Robeco Institutional Asset Management B.V. Sells 254,535 Shares of Tyson Foods, Inc. $TSN - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEtZOUQ4eXUxbWVkVDJ3QkxwZ0VXYlIxTzFJRUU1MmFTOHowX1ZOUHNvUW5YdnRNWndxTlBQbzBoNTJscHg5T2owUklHVC1LQ2pJMGVRREN5M0YzY2dHLWR0VDFEeDFqM3FKOF9LTHVydVU4NUdZYTJ6a0VTLVpMZG5TSjBSci00cVJ0VUl6TGV1VENrbjFXQmViN3N2bVJ1ZGNrcEw0RUJNOWhCRy0xMHF1NGNCOWVLU2QzUm8yOG5LWFg4Z2RBenBfOXc0WUYzbGVuRHJOSWJGT3FJ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tyson-2026-10-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods, Inc. $TSN Stock: Inspire Investing LLC Decreases Stake - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObmVZb2dOX2lWUHlnVDBDOE1yQ1V6SlBZbnBYd1hZbDE1bUtOTzhhTWZMWGNvd1dBVDdTWVRkWHRBczAtcjZJUXVHeTlySGc5NEZqcHVIVkhlYXRtbjB3QVAyMDR2YmQySGlUZmdDaGhkb19NVnY0VWs3RHFRejE2MnJLRlcwcndoSkZxUEZHWGRUN0JvQlNpTThhdjdUVHNqUTBMMjVxVlZ0WFlkRWJQRk81cUJQWjBHRE9nMDVzaVowdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-10-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "This Is One Of The Best Wines You Can Buy From Costco - Yahoo",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlQwYlJoc3lzM2xDc2VkR3Zwa0d5SjYyZHZZbkNGcUtWVWpWTjc0M0h4NDlnSmhBNXRlOHFPZFhvUUt6dm5WV1JfQjVEZ1dvMUJ1UU9oVFQwRzdyaWJBSFk5SE9ObVkwZURVLVo5QTZWSDRycGthVnRSZGl1YzNJNjItNGc2azZ1?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 7
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      },
+      {
+        "id": "nestle",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 266,
+    "dup_title": 90,
+    "too_old": 90,
+    "gate1_blocked": 20,
+    "gate2_blocked": 21,
+    "passed": 45,
+    "pass_rate": "25.6%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Sued Over Retirement Plan Forfeitures - Bloomberg Law News",
+      "Archer-Daniels-Midland Company Estimates – NYSE:ADM - TradingView",
+      "Bunge Global SA Estimates – HAM:Q23 - TradingView",
+      "TTET Union Corporation Estimates – TWSE:1232 - TradingView",
+      "How the Finance Graduate Program Shaped Peter Creagh’s Career at Mondelēz International - Mondelēz I"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為好市多、泰森食品、ADM相關動態：「Archer Daniels Midland (ADM) Set to Announce Earnings on ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Archer Daniels Midland (ADM) Set to Announce Earnings on Tuesday - MarketBeat（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Walmart copies a core Costco move that also benefits customers - TheStreet",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

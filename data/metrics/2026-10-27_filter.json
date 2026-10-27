@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 20,
+  "gate2_fail": 21,
+  "passed": 45,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Sued Over Retirement Plan Forfeitures - Bloomberg Law News",
+    "Archer-Daniels-Midland Company Estimates – NYSE:ADM - TradingView",
+    "Bunge Global SA Estimates – HAM:Q23 - TradingView",
+    "TTET Union Corporation Estimates – TWSE:1232 - TradingView",
+    "How the Finance Graduate Program Shaped Peter Creagh’s Career at Mondelēz International - Mondelēz I"
+  ]
+}
