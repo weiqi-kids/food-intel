@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 89,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 23,
+  "gate2_fail": 20,
+  "passed": 45,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Sued Over Retirement Plan Forfeitures - Bloomberg Law News",
+    "TTET Union Corporation Estimates – TWSE:1232 - TradingView",
+    "Mondelēz International appoints Othmane Nadifi as MD – Gulf - Campaign Middle East",
+    "Walmart gets aggressive when it comes to holiday sales - TheStreet",
+    "Walmart cuts holiday meal basket price to $3.50 per person - Reuters"
+  ]
+}

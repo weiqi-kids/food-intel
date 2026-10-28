@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T14:42:15.199773Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-10-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global (BG) reports Q3: everything you need to know ahead of earnings - FinancialContent",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGFIUmI3U3lJRGhsX1hTM1U4UjFqRkFNYi1xYThvcFFITTc3YjY1LURuOFdRQnRrZjRIdFlIVE9DMnA2NTJDdDd4TjVxWXQ3T1JXZU1tYmZyMHFjNDkxYW9vZkF6aTVHc2lKSzlFS3dwaGJuajFJNXF6TlRhUzVwS2JXMTdsYkRILXJUX2k1aU9vYno3UVNWZXRyRmRJMlo4elliSVdXQWswcHNFTFVvbGtBMF94cG84U3FxYnJBdi1WdU1TRFhqb2lyYmtvUTB1?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-10-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Here's What to Expect From Tyson Foods’ Next Earnings Report - Barchart.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzdXSmI3cWpwQmRsQUlZMHBNOC1NS1JzNGZwUnU2bi1sMWVtdEs2V3d3Njg5RzV5Vl9rMWtEdTdDYW9tWXZ5VjgtY2tyUjUxT3ZxNEhQZjI3a3N3WHd4Y2pBLUg1TVFZd3VSTmtJSGF0NGFNNHBBMHg5cnFGRDR1ZG5nU0dENzRqdjAwSWstekV6WEoxQVFOSXBoTTQzUFNIM2ZtSXFB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-10-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart US CEO on Affordability, Whether It Will Use Dynamic Pricing - Yahoo",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0RycjZGTkk5SzZOUVNENTdRcEdFYjRnbjJ0clprX05uM1d5cVpJSENJdXVwaVFjUGtsWW9sZndrXzB3cjNVd21kcFlMNjhybjdCUmh0bGU2YS1MQ3BuNGk5YUdSME5wakJLakhLV25MOXp2RjVZRUhyT1hublUzaHdQN0dIYktWSmdRQ0hn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-28-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Simply Good Foods braces for pricing challenge to reset gross margins - www.just-food.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWF6a0JGNl9Ddmh0TnJob1UwVjVPaGtBQS16akZrTEs5UmtFZmY4V2lOY1phQlVOdXA2VTd0MmFyNVhKTFJ3M0NJcDl4TV9mMzVHLURwT0Z4WHBKZ0NGZzY4N0lTZFd0SVUtSXRrTGFfOU1SUWJOVHZWWDZFZTlLTUEzMjVUV1l6SGcteFN1T05KNjVrOFZTc3E5WGVXS05VTWY0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-10-28-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Grocery chain promises to mark up prices by only 10%, lower than Walmart, Costco - AL.com",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeU0xRmFXNko4R2ZvSlRKY0JoRUIxTFBMUEUxZlZPUjhQMk4wVnlOYVB3REZSRFdsS0ltNGFiRUl2cEJCYUlRMmwxM1hTZ2NURTBrNXpJOGNhbEduYl9lSmo3MUN1eU9uMzlwUm0yNlV2aE1rRVFqbTBXdktTYkFHN1dmNkM0aWNyUkZKbGFxUEN5XzhWYi1ZU3lFVEN5YmMzcG90a3NkeHZVSEI2b3RtVjV5blZGM0FuVnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 23,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 8
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "food_safety",
+        "count": 4
+      },
+      {
+        "id": "raw_material_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 89,
+    "too_old": 92,
+    "gate1_blocked": 23,
+    "gate2_blocked": 20,
+    "passed": 45,
+    "pass_rate": "25.0%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Sued Over Retirement Plan Forfeitures - Bloomberg Law News",
+      "TTET Union Corporation Estimates – TWSE:1232 - TradingView",
+      "Mondelēz International appoints Othmane Nadifi as MD – Gulf - Campaign Middle East",
+      "Walmart gets aggressive when it comes to holiday sales - TheStreet",
+      "Walmart cuts holiday meal basket price to $3.50 per person - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為好市多、沃爾瑪、Bunge相關動態：「Bunge Global (BG) reports Q3: everything you need to know...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bunge Global (BG) reports Q3: everything you need to know ahead of earnings -...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Here's What to Expect From Tyson Foods’ Next Earnings Report - Barchart.com（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "原物料成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
