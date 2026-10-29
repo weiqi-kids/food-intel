@@ -1,0 +1,16 @@
+{
+  "total_raw": 262,
+  "dup_title": 67,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 26,
+  "gate2_fail": 25,
+  "passed": 44,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Sued Over Retirement Plan Forfeitures - Bloomberg Law News",
+    "Archer-Daniels-Midland Company Estimates – NYSE:ADM - TradingView",
+    "Bunge Global’s (NYSE:BG) Q3 2026 sales top estimates - TradingView",
+    "Bunge Global (BG) Q3 2026: Six Straight EPS Beats on Soybeans Surge - 24/7 Wall St.",
+    "Form 8K Bunge Global SA For: 29 October By Investing.com - Investing.com Canada"
+  ]
+}
