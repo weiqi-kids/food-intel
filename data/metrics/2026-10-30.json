@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-30",
+  "total_events": 19,
+  "by_company": {
+    "adm": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "walmart": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "costco": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 13,
+      "sentiment_avg": -0.04
+    },
+    "health_wellness": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

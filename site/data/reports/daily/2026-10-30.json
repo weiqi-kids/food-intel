@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:42:37.191324Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-10-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer-Daniels-Midland: Caution Warranted Amid Recent Financial Volatility (Earnings Preview) - Seeking Alpha",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWhfR0llU3hLaVlwX0F4TFltRjdQSTg4dFlMeHY2MDBLOFJ0UXJ3OEZjaUNoZzFhYkFqLUd4bHlwc0ZzMDdYY1NtZEtKWUFnaWtLc1UxVjdHWG1jY2M0OWZ1YjU2dFNxOTlYQnJtZGk3OHlrWEk5YzdIaXZ5UWNmOXZFaklmb2hnSWQxR01WRm9fR1hHSTh2VWpYM0VmMkppYkN1TThQWjRGV2FleWd1Yk42RGZiNTdKN01QbA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-10-30-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What Bunge Global (BG) Said on Its Q3 Earnings Call - Yahoo Finance",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGltTjIyX2xoTHFyOXh5Ykhya05kSHpfUkxoblg3dUFrR1QyV0gtZ3dGem9BZTFzVmxrV1d6Zm9rNzJwT3Q4ZV9WMHlTcmdWcjV0MmlBU1Q4Qi1mZlhrR3g1RDNaSHEtLXh2XzdINHRkelhLay1UeUFFV1V0NktTRnJUVTYzdFFTbjhURlRDd3otZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-10-30-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global SA 2026 Q3 - Results - Earnings Call Presentation (NYSE:BG) 2026-10-30 - Seeking Alpha",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblFabk13dVZtdlUtMk5wWWQwbzh1MUI3SDZ6eWoweDRscHB2cVhyY3Q1T2xEQjhxNmEzbzBnQjlwTlZHWG41V2tmbWduQndGOXE2b0FreVVTcl9tbS1oSjI5c0ptRV9tSERaVG50ZlhSNkkwbkFiLXhNeHJ2V1dHYVUtalJyb0t3Tm9OSWVsc0QwQ0I3RFJ3bFNzYVVCRnpH?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-10-30-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What to Expect From Costco Wholesale’s Next Quarterly Earnings Report - Barchart.com",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOenZKMjBEdlNueFdobXRMUTlpaVRueFZyVE5FVGlIYlFxMW5hYzIyQnVXU1pnVmx3VVotR19ocmd6NUxTN3JLenZ2aHJJdFlzaTFMWk5KLW4tamN4S2VOTzlzekJHWVhBeW1xQ0lIRjk3QURBSkxKX2hDVzBtb0Fnem5fU2pwZ19KZWRLWjVxNWR0dDc5SHloSUMyTHNkSnZQRnVHTEpMLWpFOTI5LWxha2RB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-30-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Weight-loss drug pioneer Lotte Bjerre Knudsen: ‘The food industry has to listen’ - Financial Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMHRkSzdHWkRJbmN3bVJCeDFXN00wSlAxQUFvc3BETm05VkJPX0h2Ty0yWHJpRXo1dDZNRDlZcldROHVsZTZMbEJfQjRiVXpmVzVINll6NDNsYXZqLWh0UzMxOGVtdkpGcXBoMzd1b0VxdnljQlRnWnBfOU5adjZEYzJoZ0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 3
+      },
+      {
+        "id": "costco",
+        "count": 3
+      },
+      {
+        "id": "bunge",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 263,
+    "dup_title": 76,
+    "too_old": 90,
+    "gate1_blocked": 22,
+    "gate2_blocked": 19,
+    "passed": 56,
+    "pass_rate": "29.9%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Sued Over Retirement Plan Forfeitures - Bloomberg Law News",
+      "Archer-Daniels-Midland Company (ADM) Seasonal returns chart - Yahoo Finance Australia",
+      "Archer-Daniels-Midland Company (ADM) Seasonal returns chart - Yahoo Finance UK",
+      "Archer-Daniels-Midland Company (ADM) Seasonal returns chart - Yahoo Finance Singapore",
+      "Bunge Global’s (NYSE:BG) Q3 2026 sales top estimates - Barchart.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為ADM、好市多、Bunge相關動態：「Archer-Daniels-Midland: Caution Warranted Amid Recent Fin...」。主要關注主題為產業通用、法說會、健康趨勢，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Archer-Daniels-Midland: Caution Warranted Amid Recent Financial Volatility (E...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "What Bunge Global (BG) Said on Its Q3 Earnings Call - Yahoo Finance（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

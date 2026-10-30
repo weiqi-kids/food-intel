@@ -1,0 +1,16 @@
+{
+  "total_raw": 263,
+  "dup_title": 76,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 22,
+  "gate2_fail": 19,
+  "passed": 56,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Sued Over Retirement Plan Forfeitures - Bloomberg Law News",
+    "Archer-Daniels-Midland Company (ADM) Seasonal returns chart - Yahoo Finance Australia",
+    "Archer-Daniels-Midland Company (ADM) Seasonal returns chart - Yahoo Finance UK",
+    "Archer-Daniels-Midland Company (ADM) Seasonal returns chart - Yahoo Finance Singapore",
+    "Bunge Global’s (NYSE:BG) Q3 2026 sales top estimates - Barchart.com"
+  ]
+}
