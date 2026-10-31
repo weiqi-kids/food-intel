@@ -1,0 +1,16 @@
+{
+  "total_raw": 267,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 14,
+  "gate2_fail": 18,
+  "passed": 42,
+  "gate2_samples": [
+    "Bunge Global’s (NYSE:BG) Q3 2026 sales top estimates - Barchart.com",
+    "Bunge Global SA (BG) Seasonal returns chart - Yahoo Finance UK",
+    "Bunge Global SA (Q23.HM) Seasonal returns chart - Yahoo Finance UK",
+    "Nearly 29 Years at Mondelēz International, Elena's Journey Shows How Every Opportunity Can Lead to G",
+    "Uni-President Enterprises Corp. Estimates – TWSE:1216 - TradingView"
+  ]
+}

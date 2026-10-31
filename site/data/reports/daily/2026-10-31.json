@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T14:02:08.743541Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-10-31-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ADM Earnings Outlook Might Change The Case For Investing In Archer Daniels Midland (ADM) - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTM4OGFBamZtdFN0Y1NNZ1hscjZSSDIyay1KZHVMbGFFT0dUdFQyQlNrN1RwSEZnUXFVc3NhMWhsZzJKNS01YWpIMEY4MTNiZmlkbU9PSllCaTdsM2VhcHZiYlNXSmFaZHduaWVHT3hERG5GU2NmQUpsYWNPWTdydUh1dDZWQUg4SWtGNy1ORXBGYi1kRnJDdVotd0Q3MW8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-31-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Reports of infants choking result in FDA warning about Once Upon a Time snacks",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "health_wellness",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/10/reports-of-infants-choking-result-in-fda-warning-about-once-upon-a-time-snacks/"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-10-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland (ADM) Stock May Be 34% Undervalued On Cash Flow - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHJZU19Ha2VEdTh0WXpBSWhVcHNqSjZ2MlRDUGw1YkJlS1lRalJrNXkyb0wxd0hjUDJwY0xGLWRhUUdKZmUxQzhKVXJKYUROWDAxSzFZWFFRU1dCeVlhZ1dDSXVpZnFvR1dWTERRVTQ5c19tQW5ZNzBqWmFlZUdWdElTd3ZDQ1FBSkN3eE9LRkJnZFhtUDhFclBoU01XUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bunge-2026-10-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Barclays Keeps Their Buy Rating on Bunge Global (BG) - The Globe and Mail",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPanlfaXdjM0lyTGxzZ1BLTnJ0OXFFSnVpdFFfWjlQSEVCakd6ekpSMG9wQWgzeGFSRExzcl9CY0swWmZuNVVlZWZ1b0tBLXRjZnVmN043WTk0MVlxV0trRzNpNGVycWR2SmwwRHI2WWFBSG05bnVIaUo5QkJsQXJIblFwazlONFc4Z0NUcmM5V0ZsUHhwWHVDcERYbHJSVW1iQV9wWGx3RFNmYVdDVy1wUlJxdVlkTzBmdTI3RmdLMURfUjh6THdYRy1kZmFiUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-10-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods Yields 3.55%. Can Its Cash Flow Support Another Dividend Raise? - Yahoo Finance",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ25qekJDaU1mMW1vRnRyR3BwZnhidFl1VVV1c1hhMHdEMi1MblM5OWppRVZHX3JnbXNZQ2xfWlJNbDlpNFZPbnRtM2p6ZlFXcXg0YkZaQk9HM2JDQkVxcEZEWWVXN29xVmdUSVZNTmlreDZOSnZHMU5sTkFya2YtNmg3WjJGVnRraDZjcHpMRk1LZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      },
+      {
+        "id": "health_wellness",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 104,
+    "too_old": 89,
+    "gate1_blocked": 14,
+    "gate2_blocked": 18,
+    "passed": 42,
+    "pass_rate": "25.8%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "Bunge Global’s (NYSE:BG) Q3 2026 sales top estimates - Barchart.com",
+      "Bunge Global SA (BG) Seasonal returns chart - Yahoo Finance UK",
+      "Bunge Global SA (Q23.HM) Seasonal returns chart - Yahoo Finance UK",
+      "Nearly 29 Years at Mondelēz International, Elena's Journey Shows How Every Opportunity Can Lead to G",
+      "Uni-President Enterprises Corp. Estimates – TWSE:1216 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為好市多、ADM、泰森食品相關動態：「ADM Earnings Outlook Might Change The Case For Investing ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "ADM Earnings Outlook Might Change The Case For Investing In Archer Daniels Mi...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Reports of infants choking result in FDA warning about Once Upon a Time snacks（食品安全、健康趨勢、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
