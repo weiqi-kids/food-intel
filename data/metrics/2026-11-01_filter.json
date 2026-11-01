@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 16,
+  "gate2_fail": 14,
+  "passed": 29,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Company (ADM) Seasonal returns chart - Yahoo Finance Australia",
+    "Archer-Daniels-Midland Company (ADM) Seasonal returns chart - Yahoo Finance UK",
+    "Archer-Daniels-Midland Company (ADM) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapor",
+    "Bunge Global’s (NYSE:BG) Q3 2026 sales top estimates - TradingView",
+    "Bunge Global (BG) Q3 2026: Six Straight EPS Beats on Soybeans Surge - 24/7 Wall St."
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T14:38:03.171863Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-11-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global (BG) Could Be 32% Undervalued On Strong Q3 Earnings - Simply Wall St",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONDIyOFRCcTNYZG81ZmVHcy1NMVRBUllWMjZVYVZGWjBGb3lwcnRPa2ROeFlTNGY2Rl92X0Qtc2FLR0hzVnE1SmJZSnFzblpkM0RMeG15NzUxUVU4WmNERl9BQWtKX1hPMk42OHVrRHBFVzRDcFRmLU9kY1RfaUtjMTNmZFFNTTVnaGdBbnBNcHBnU0RrY1Z4V25QZ1U2UXVsSlBzZmdMVXQ2ZC16NUhMZzJzWTFvTXROVFVwTUtjc0pCMWdTemtnSFBucFBYbFhxTE1TSGtmMNIB3AFBVV95cUxQcFYtaTFaaGJRQlVaZVBscVpMQnRWaEI4OG1Lam40dklmUWRRMEJUeHhMNS1UUUdlS3VyZnE0dUpBNTkzeDVyV1JMTEdhOFhDaXlkc2cwMXhTaFViYzkydzUyQmRyMFdHOHZ3LXFLZXV4V2tqNmRxRW5uYUtHNEJwREk1Y1l2V1JXdnNDN2RuU2RVS244dVpmU3pUQmJIbGFwX0puREdUajNHZExFWjl2RnFoQ3hyNGc4ckhIb1oxWFdWam9oX0ZXYUtyN0V3X0FFakU4SDdSN0h3WFdK?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-11-01-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "The latest update on the grocery wars is here, with Walmart and Costco gaining ground - Business Insider",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXFnNUVKVWY5cUdSeS10eUt2N1NhX09tVkFPY0FiakQ1STRuWWVBTldDM3ZVNFpNRkhNaXUyTGlHSVJQMVNsY05WaExycEIzemk0UHZ5NXRnLWhfdXI4VVMtUkQtX0ZRdFh3NGdKQVQxemJ4XzByaEZZUWlkQ1VDT29TN2JRXy00dFpCQmV3a2dqTFlBRjBLWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-11-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "423,273 Archer Daniels Midland Company $ADM Shares Sold by ProShare Advisors LLC - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbWNfRnNLVm5jV2JwelJtM1FmSmZnbkpuMGtCRTl0TWtUajZma25rWVpvUkxac0NLRU91TEpCdWVKS0dDcEhmMUNsWUx2dlFEOWprRUwxTlpDU05vaGVWSHhrTzdRWWVoVDRoeDlyR0hfR00zRFV3Z3VON3lpaFNGdnR0ZHdwTHJ1RXc4QzhyajdPY0VYYTVETHR5QTdRQmRxWVVpTlEyMG5HblhDMnNRc2hOelpwZHRmcmt1TUNBekNzYW8zYjBpWmwybVExM3NmMkRiTlBn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "uni_president-2026-11-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Uni-President stock: China unit buys CNY 100 million deposit - ad-hoc-news.de",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMTVqYzRidmpoRGgzM0NIS2NQRU5BTmdRVl81VnVBNVd3UTVLWHdOMEpKNEktbDJpRjV0UkxlSk15cmVqeXdVRDZMaFFJTkd0aU5QLXFvcW9jMkcxbV9kNkxlYksxM1Y0dXlGVmQtQ1ZXYTlfNnlEWG5NaGhMeXl2MERMclRNcFM4OWVhMktaWTlkeWhyZGVsc2dtV1RZaUc5ejVMcDRkUnkxRGJFUjFiMWtoV1hlSHpiNlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-11-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Walmart Just Closed 3 Stores. The Real Story Isn’t a Retail Retreat - Inc.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdjNZd3JmajFlcG82cGVCRmVTa3JUUm5DTnA2cnRmM0M0eHJnX3hla1hVOUQya2xPR2JXdE4zX3FFRGwzQmp5V3NGSG45dmxiVW5hT1ZvZ0xic2E4MUdzN0pvQUFwd2JGVUJNcTdTUW0zakdiMFBlZGR2TTIwSk5heGc2VTJRQTd3RGtTekN4NU82QktpOHlPc0NaWnVpUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 7
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 107,
+    "too_old": 102,
+    "gate1_blocked": 16,
+    "gate2_blocked": 14,
+    "passed": 29,
+    "pass_rate": "18.0%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "Archer-Daniels-Midland Company (ADM) Seasonal returns chart - Yahoo Finance Australia",
+      "Archer-Daniels-Midland Company (ADM) Seasonal returns chart - Yahoo Finance UK",
+      "Archer-Daniels-Midland Company (ADM) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapor",
+      "Bunge Global’s (NYSE:BG) Q3 2026 sales top estimates - TradingView",
+      "Bunge Global (BG) Q3 2026: Six Straight EPS Beats on Soybeans Surge - 24/7 Wall St."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為好市多、沃爾瑪、ADM相關動態：「Bunge Global (BG) Could Be 32% Undervalued On Strong Q3 E...」。主要關注主題為產業通用、法說會、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Bunge Global (BG) Could Be 32% Undervalued On Strong Q3 Earnings - Simply Wal...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "The latest update on the grocery wars is here, with Walmart and Costco gainin...（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
