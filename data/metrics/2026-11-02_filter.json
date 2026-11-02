@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 88,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 19,
+  "gate2_fail": 10,
+  "passed": 59,
+  "gate2_samples": [
+    "Archer-Daniels-Midland Company (ADM) Seasonal returns chart - Yahoo Finance UK",
+    "Bunge Global’s (NYSE:BG) Q3 2026 sales top estimates - TradingView",
+    "Bunge Global (BG) Q3 2026: Six Straight EPS Beats on Soybeans Surge - 24/7 Wall St.",
+    "Amazon is saying bye-bye to Muse while Walmart is rolling out the welcome mat for Meta's shopping ag",
+    "Worst time to shop at Costco may be when you least expect it, with one day drawing the most crowds -"
+  ]
+}
