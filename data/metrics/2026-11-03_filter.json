@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 89,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 17,
+  "gate2_fail": 15,
+  "passed": 61,
+  "gate2_samples": [
+    "Bunge Global SA (Q23.HM) Seasonal returns chart - Yahoo Finance Australia",
+    "Bunge Global SA (BG) Seasonal returns chart - Yahoo Finance UK",
+    "Petar Sogindolski appointed Managing Director Romania at Mondelēz International - The Diplomat Bucha",
+    "Uni-President Enterprises Plans NT$125 Million Residential Build - www.marketscreener.com",
+    "Amazon is saying bye-bye to Muse while Walmart is rolling out the welcome mat for Meta's shopping ag"
+  ]
+}
