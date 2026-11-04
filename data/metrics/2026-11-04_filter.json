@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 14,
+  "gate2_fail": 20,
+  "passed": 45,
+  "gate2_samples": [
+    "A Look at Archer-Daniels-Midland Co (ADM) After 6.8% Decline -- GF Value $61.83 vs Price $70.60 - Gu",
+    "Bunge Global (BG) Q3 2026: Six Straight EPS Beats on Soybeans Surge - 24/7 Wall St.",
+    "Season’s Eatings: Tyson® Debuts New Holiday Nuggets - GlobeNewswire",
+    "Petar Sogindolski appointed Managing Director Romania at Mondelēz International - Business Review",
+    "AI shopping agents could threaten Amazon and Walmart's ad business - Reuters"
+  ]
+}
