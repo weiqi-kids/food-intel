@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 12,
+  "gate2_fail": 19,
+  "passed": 49,
+  "gate2_samples": [
+    "Bunge Global’s (NYSE:BG) Q3 2026 sales top estimates - Yahoo Finance",
+    "KRVN 880 – KRVN 93.1 – KAMI - Lexington advances South Industrial Development plans on former Tyson ",
+    "Can a DoorDash-Instacart fusion stand up to Amazon and Walmart? - The Economist",
+    "AI shopping agents could threaten Amazon and Walmart's ad business - Reuters",
+    "Walmart’s ‘Buttery Soft’ Matching Lounge Set Is ‘Cold-Weather Ready’ and Now Just $20 - Parade Magaz"
+  ]
+}

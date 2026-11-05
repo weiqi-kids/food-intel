@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T15:56:44.698476Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "uni_president-2026-11-05-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Taiwan's Uni-President Enterprises Profit Tops NT$21 Billion in First Three Quarters; EPS of NT$3.7 Sets Same-Period Record - BigGo Finance",
+      "companies": [
+        "uni_president"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FTlVxVVFkTEhFMkVzTGQwaE5MRnlUZVBmRVhRbi12d0MzSU1Bb0xYMDZ5cHBPMFpPdENBSmlnbGlHZW5DaC00a19nQnRFRENlT3pIMV9FWVdqNThqMlo5VWt1OUZpTWtZU1YxVUxJY2RPZEcwV2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-05-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI Shopping Agents Put Retail Ad Revenue at Risk - Technology Org",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2ptRDVDQzJxUzhsaDZQbDBsanhtU3pINFB3SFYxZEdJcXJZTUZqV0pPVE5pRkRlaTJFR0ZFam1nOW9tUDZGODBkOWNmUG5zLWJYZ1l2elh2M1ZwclVqZktpTFpNMWxLY3Z0bXh6T0VVZk81M2llUjUxSFVKWXBZaHpkT3JBVVk4OHg2SGFvdnR2RDg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-05-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The problem with ‘GLP-1 friendly’ food labels",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fooddive.com/news/glp1s-labels-food-health-innovation-protein-fiber/873857/"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-11-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland declares $0.52 dividend - TradingView",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVkdfa3JySWlHekVKX1BRY0s3ZERqSXNhU1dWTnlOOEFBU0hVdkM4UFNNYUVYY0hOb05lSTlvc3N5XzJQWTNYbWRGU1M2TkZlOU4wd1hUUWVnZTFpckI0N3hTTVVhNjZrN3Zpcm0xMEYxMlNPNGJKeWQ0ZDJtV05NeDFfSWNCWDVmQWJMcW9TUy1vUWR3VzE5TFRKLXg0cEtSU0dxWVdiTzZvX1Va?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-11-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company (NYSE:ADM) Shareholders to Receive $0.52 Quarterly Dividend - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLU1qRVhwdWtYbDN3eHpwU3FhcURySENkNk5veXd3WVVaOUVkdDUwbk5sMHVGQnY1ZEhpenBEVDlRYW5rWWQyRkdnUVFDTFdSN0tzYUlYV1c1Vk5EWDduYU9ESkpNWTBuOHllYkJNTkZZeXh3anBEM1JzUWJxTWM0ZVd1NXhiLXp1MWlPSEpXaTZLMUVFaUhmMlpQQ1NUcVo2R2xCemZKdUs3RHh4d2FDYl9pRVllOE9wVkhwcFJpS3ZUWmRBME9WQmZKanpfRHN6bXd4aTdPaG1KeVNwbGVBYnRDVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 26,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 5
+      },
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "mondelez",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 271,
+    "dup_title": 103,
+    "too_old": 88,
+    "gate1_blocked": 12,
+    "gate2_blocked": 19,
+    "passed": 49,
+    "pass_rate": "29.2%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Bunge Global’s (NYSE:BG) Q3 2026 sales top estimates - Yahoo Finance",
+      "KRVN 880 – KRVN 93.1 – KAMI - Lexington advances South Industrial Development plans on former Tyson ",
+      "Can a DoorDash-Instacart fusion stand up to Amazon and Walmart? - The Economist",
+      "AI shopping agents could threaten Amazon and Walmart's ad business - Reuters",
+      "Walmart’s ‘Buttery Soft’ Matching Lounge Set Is ‘Cold-Weather Ready’ and Now Just $20 - Parade Magaz"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為泰森食品、好市多、ADM相關動態：「Taiwan's Uni-President Enterprises Profit Tops NT$21 Bill...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Taiwan's Uni-President Enterprises Profit Tops NT$21 Billion in First Three Q...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "AI Shopping Agents Put Retail Ad Revenue at Risk - Technology Org（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
