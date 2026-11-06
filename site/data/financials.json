@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:56:40.934411Z",
+  "updated_at": "2026-11-06T15:29:41.603546Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-08-31",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "ADM公司",
       "ticker": "ADM",
       "currency": "USD",
-      "ar": 4111000000,
-      "ar_prev": 4537000000,
-      "ar_qoq": "-9%",
+      "ar": 4291000000,
+      "ar_prev": 4111000000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 10586000000,
-      "inv_prev": 11741000000,
-      "inv_qoq": "-10%",
+      "inventory": 11675000000,
+      "inv_prev": 10586000000,
+      "inv_qoq": "+10%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "bunge",
@@ -92,17 +92,17 @@
       "name": "卡夫亨氏",
       "ticker": "KHC",
       "currency": "USD",
-      "ar": 2286000000,
-      "ar_prev": 2306000000,
-      "ar_qoq": "-1%",
+      "ar": 2211000000,
+      "ar_prev": 2286000000,
+      "ar_qoq": "-3%",
       "ar_period": "QoQ",
-      "inventory": 3308000000,
-      "inv_prev": 3310000000,
-      "inv_qoq": "-0%",
+      "inventory": 3415000000,
+      "inv_prev": 3308000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "mondelez",

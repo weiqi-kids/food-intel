@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 9,
+  "gate2_fail": 20,
+  "passed": 42,
+  "gate2_samples": [
+    "A Look at Archer-Daniels-Midland Co (ADM) After 6.8% Decline -- GF Value $61.83 vs Price $70.60 - Gu",
+    "KUVR - Lexington advances South Industrial Development plans on former Tyson property - Rural Radio ",
+    "How HR Leadership Shapes Careers and Business Growth at Mondelēz International - Mondelēz Internatio",
+    "AI shopping agents could threaten Amazon and Walmart's ad business - Reuters",
+    "Can a DoorDash-Instacart fusion stand up to Amazon and Walmart? - The Economist"
+  ]
+}
