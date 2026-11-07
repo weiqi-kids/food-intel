@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 10,
+  "gate2_fail": 21,
+  "passed": 31,
+  "gate2_samples": [
+    "A Look at Archer-Daniels-Midland Co (ADM) After 6.8% Decline -- GF Value $61.83 vs Price $70.60 - Gu",
+    "How HR Leadership Shapes Careers and Business Growth at Mondelēz International - Mondelēz Internatio",
+    "Can a DoorDash-Instacart fusion stand up to Amazon and Walmart? - The Economist",
+    "AI shopping agents could threaten Amazon and Walmart's ad business - Reuters",
+    "Walmart Adds 300 More Drone Delivery Sites - Progressive Grocer"
+  ]
+}
