@@ -1,0 +1,16 @@
+{
+  "total_raw": 272,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 6,
+  "gate2_fail": 25,
+  "passed": 16,
+  "gate2_samples": [
+    "TTET Union Corporation (1232.TW) Seasonal returns chart - Yahoo Finance UK",
+    "KRVN 880 – KRVN 93.1 – KAMI - Lexington advances South Industrial Development plans on former Tyson ",
+    "How HR Leadership Shapes Careers and Business Growth at Mondelēz International - Mondelēz Internatio",
+    "Can a DoorDash-Instacart fusion stand up to Amazon and Walmart? - The Economist",
+    "Walmart Adds 300 More Drone Delivery Sites - Progressive Grocer"
+  ]
+}
