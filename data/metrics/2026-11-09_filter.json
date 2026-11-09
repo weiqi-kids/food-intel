@@ -1,0 +1,16 @@
+{
+  "total_raw": 273,
+  "dup_title": 97,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 9,
+  "gate2_fail": 14,
+  "passed": 49,
+  "gate2_samples": [
+    "TTET Union Corporation (1232.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Tyson to boost beef processing after a year of cuts - Transport Topics",
+    "How HR Leadership Shapes Careers and Business Growth at Mondelēz International - Mondelēz Internatio",
+    "Walmart Adds 300 More Drone Delivery Sites - Progressive Grocer",
+    "Walmart can now turn a child's Santa letter into ready-to-go shopping cart within seconds thanks to "
+  ]
+}
