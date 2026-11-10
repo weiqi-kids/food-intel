@@ -1,0 +1,16 @@
+{
+  "total_raw": 274,
+  "dup_title": 81,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 13,
+  "gate2_fail": 17,
+  "passed": 62,
+  "gate2_samples": [
+    "Bunge Global SA (BG) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "TTET Union Corporation (1232.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Tyson to boost beef processing after a year of cuts - Transport Topics",
+    "Tyson to Boost Beef Processing After a Year of Cuts - Bloomberg.com",
+    "How HR Leadership Shapes Careers and Business Growth at Mondelēz International - Mondelēz Internatio"
+  ]
+}
