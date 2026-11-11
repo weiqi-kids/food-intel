@@ -1,0 +1,16 @@
+{
+  "total_raw": 273,
+  "dup_title": 93,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 8,
+  "gate2_fail": 18,
+  "passed": 50,
+  "gate2_samples": [
+    "Decatur's Clubhouse at Scovill Acres gains major support from ADM - Herald-Review.com",
+    "TTET Union Corporation (1232.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Significant losses expected to continue for Tyson beef segment - Talk Business & Politics",
+    "Tyson to boost beef processing after a year of cuts - Transport Topics",
+    "Tyson to Boost Beef Processing After a Year of Cuts - Bloomberg.com"
+  ]
+}

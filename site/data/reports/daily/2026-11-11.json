@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:43:30.781659Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-11-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Archer-Daniels (NYSE:ADM) Lifting Guidance on Oilseeds? - Kalkine Media",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQazUxSEdxTXJBQUdSNXJoOXBVV01GZFAzTHkxVzU3dktZMVZtS284bjhTek51bXhJY1M1OElKOHFXSzU1UWt2MnpueWdwcmNUUXN5THhxMWI3Zl9aNTZ1b3h1LUFRRkpvaVdtOWpYUThUME1IdWpveWZJOGxkV1VVMkg5T2Jzd3FQYW04UEo2N2V5bkF3blMxc2NHSi1EWWs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-11-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Food Resilience Is Food Industry Resilience - Food & Beverage Outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1NUTnlJNU80ZlVKMVJtdWtqa1VWMFhHVTkzN1BNRlRhTkd6c0l2Z3Z3STFOdW52dy1NVDZacmNjU2FxS0ozbG83T3c2ckVTV3I1SkdqNTZRLS15a3JQRndQa2thajVhX1BrTk1vM3h6b2JaN1owU0VRNGR3Y2JDT0hhNXhKVFFEOFpCSjR5SFJqdGtWa1QxSkpBMEZTX2hq?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-11-11-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Black Friday store hours 2026: When are Walmart, Target, Best Buy, Apple, Costco and more retailers open for holiday shopping? - Yahoo",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOS3FEVkp0dW9LUzQzTnNLWVNjc0RmUGg2VmJCMWRyVEItY25oY1F6cGlYR1lvTFJQbXNLMU5TNjZybEhhdVdZX0x5WGtGV05LMFMwNlRoVDZKVGphZy1vSkhDUnNuWWtIckVBY25BTFhnc1ZtVWFZUHVCM1hRN2N3V25WRHBYbDM4S3pkLTFmTWRiZkR6TENhc1VGbjR6bTZDMTBOWm10SkpPcE15NEQ0VW5EcGozSVM0NlB5T295aDFNbGZXcURXVnVkTkJnUlJPbEZhQ0tGLVMzZ3gwVWt1OWFQSm9oVW55dGZIZTluN3FyN2xCWEJRa2k0MWl4VTlDbmJHUWEzb0xYOVRxcUw0ZF9DcFQzV3RSQWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-11-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland (ADM) Is Back In Focus, What Are Investors Watching? - Simply Wall St",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOVJEMmtjUkFsWUhLV01zYkxjM0p6bDVRV0llZXFWRktIRGN0NkgzOHNvUWFRUGRUWE9PUFl4THROU0FwSmZsbVpsTDg5dFhrLUlwN3RJVmE2X2FNNWdtN0RlLU5QRUdNSjV2Q3dQSkRIeUVISnRpa3JDTjBXUG83U2cwWVZQbzZwWHYtT0g1MkRtYVgteUp2ZXpHMXFDZ2xUbHhqcEJFekh2cmJBa2lQUk5CbjlhUEpKS3FDbXB2dWo3eVhfcGlVS2JHVzNsWVlNeG03Mmg1OEQ0R2s2QmtZeHVvNmJrZ9IB6wFBVV95cUxNS2dXUXBTOFlaWG1mLXJHelpfRmVsZEJGaFdRdTc0YVc0bmNPdnR2cVRLY3poUS1TbE1rSzNNS3ktZFFvTXBONXEtYTZiUnVQdzFMU09wYlNxX2J2MV9DYmhSYWNxa0dFOHFXZzkwSV8wRGRNUkdpdEVXS1pYTmdwckJ3em9ibDB3eU1kTG94RHNjeXY3dDhQdVFHT3Jla3NfUEdjTmtwbDlNZ3RjeEV3QmgyZTZjX3A4eWNLV1NMel9jOWFsdmFtdzNlNmQ1M0gxZnVlX0lMZWpVZTVNR09hSlduZllhbkVjQndn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bunge-2026-11-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Bunge Global Stock Hit $130? - Trefis",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0pybGxNUGNMUlVPT01FbkF4NFRIeUluQzJOdFBsam5WWHJBNDJ4SVRobVlEVDhSSkIzMy1KTEJyM0Q1ZFRiY3dGQXdsUGozc3dKbkVoSGh3YnlyaG5tM2dyXzFxRnlkbHZyUk1TRTRWMk90Z0E0Tk1tUW5IdER3RFJ5QUprT3lLb09CMnFQNFNGSjQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 25,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 9
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 2
+      },
+      {
+        "id": "walmart",
+        "count": 2
+      },
+      {
+        "id": "tyson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 273,
+    "dup_title": 93,
+    "too_old": 104,
+    "gate1_blocked": 8,
+    "gate2_blocked": 18,
+    "passed": 50,
+    "pass_rate": "27.8%",
+    "gate2_block_rate": "10.0%",
+    "gate2_samples": [
+      "Decatur's Clubhouse at Scovill Acres gains major support from ADM - Herald-Review.com",
+      "TTET Union Corporation (1232.TW) Seasonal returns chart - Yahoo Finance UK",
+      "Significant losses expected to continue for Tyson beef segment - Talk Business & Politics",
+      "Tyson to boost beef processing after a year of cuts - Transport Topics",
+      "Tyson to Boost Beef Processing After a Year of Cuts - Bloomberg.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為好市多、ADM、Bunge相關動態：「Is Archer-Daniels (NYSE:ADM) Lifting Guidance on Oilseeds...」。主要關注主題為產業通用、法說會、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is Archer-Daniels (NYSE:ADM) Lifting Guidance on Oilseeds? - Kalkine Media（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Food Resilience Is Food Industry Resilience - Food & Beverage Outlook（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

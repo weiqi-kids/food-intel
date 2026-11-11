@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:57:15.563770Z",
+  "updated_at": "2026-11-11T15:43:27.521007Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-08-31",
   "companies": [
     {
@@ -177,17 +177,17 @@
       "name": "大統益",
       "ticker": "1232.TW",
       "currency": "TWD",
-      "ar": 1105661000,
-      "ar_prev": 1076248000,
-      "ar_qoq": "+3%",
+      "ar": 1177826000,
+      "ar_prev": 1105661000,
+      "ar_qoq": "+7%",
       "ar_period": "QoQ",
-      "inventory": 3257778000,
-      "inv_prev": 2835936000,
-      "inv_qoq": "+15%",
+      "inventory": 3849772000,
+      "inv_prev": 3257778000,
+      "inv_qoq": "+18%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "tyson",
@@ -211,17 +211,17 @@
       "name": "統一",
       "ticker": "1216.TW",
       "currency": "TWD",
-      "ar": 20952478000,
-      "ar_prev": 20501511000,
-      "ar_qoq": "+2%",
+      "ar": 22594501000,
+      "ar_prev": 20952478000,
+      "ar_qoq": "+8%",
       "ar_period": "QoQ",
-      "inventory": 59947698000,
-      "inv_prev": 58206374000,
-      "inv_qoq": "+3%",
+      "inventory": 58975810000,
+      "inv_prev": 59947698000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "walmart",
