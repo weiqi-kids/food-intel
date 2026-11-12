@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 9,
+  "gate2_fail": 19,
+  "passed": 57,
+  "gate2_samples": [
+    "TTET Union Corporation (1232.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Tyson to boost beef processing after a year of cuts - Transport Topics",
+    "Significant losses expected to continue for Tyson beef segment - Talk Business & Politics",
+    "How HR Leadership Shapes Careers and Business Growth at Mondelēz International - Mondelēz Internatio",
+    "Uni-President Eyes Jardine’s KFC And Pizza Hut Operator - Finimize"
+  ]
+}
