@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 7,
+  "gate2_fail": 17,
+  "passed": 40,
+  "gate2_samples": [
+    "Decatur's Clubhouse at Scovill Acres gains major support from ADM - Herald-Review.com",
+    "Bunge Global: A Crucial, Growing, And Undervalued Ag Trading Giant (NYSE:BG) - Seeking Alpha",
+    "Form 4 Bunge Global SA: Ignacio J. Walker (CLO) For: 9 November - Investing.com Canada",
+    "Uni-President Enterprises Corp. (1216.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Uni-President Eyes Jardine’s KFC And Pizza Hut Operator - Finimize"
+  ]
+}
