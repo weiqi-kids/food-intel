@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 7,
+  "gate2_fail": 16,
+  "passed": 35,
+  "gate2_samples": [
+    "Bunge Global: A Crucial, Growing, And Undervalued Ag Trading Giant (NYSE:BG) - Seeking Alpha",
+    "Uni-President Enterprises Corp. (1216.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Uni-President in advanced talks to buy Jardine's KFC, Pizza Hut business in Asia, sources say - The ",
+    "Walmart shopper fumes over sneaky new scanning tool — and vanished price tags: ‘Nonsense’ - New York",
+    "Walmart’s running an early Black Friday sale this weekend. When it ends - Palm Beach Daily News"
+  ]
+}

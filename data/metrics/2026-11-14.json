@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-14",
+  "total_events": 14,
+  "by_company": {
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tyson": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "walmart": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "costco": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": 0.17
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "food_inflation": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
