@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-15",
+  "date_range": {
+    "start": "2026-11-09",
+    "end": "2026-11-15"
+  },
+  "generated_at": "2026-11-15T15:06:59.985271Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tyson-2026-11-13-003",
+      "date": "2026-11-13",
+      "title": "Tyson Foods faces earnings test as beef losses mount - Investing.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 145,
+      "last_week": 136,
+      "week_over_week_change": "+7%",
+      "sentiment_this_week": 0.03
+    },
+    "food_safety": {
+      "this_week": 16,
+      "last_week": 10,
+      "week_over_week_change": "+60%",
+      "sentiment_this_week": -0.03
+    },
+    "earnings": {
+      "this_week": 19,
+      "last_week": 26,
+      "week_over_week_change": "-27%",
+      "sentiment_this_week": -0.03
+    },
+    "food_inflation": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "consumer_spending": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "adm": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "tyson": {
+      "event_count": 23,
+      "sentiment_avg": -0.02,
+      "rank": 3
+    },
+    "walmart": {
+      "event_count": 31,
+      "sentiment_avg": 0.02,
+      "rank": 2
+    },
+    "costco": {
+      "event_count": 39,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "kraft_heinz": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "general_mills": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "bunge": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "uni_president": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 302,
+        "last": 294,
+        "change_pct": 2.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-09",
+      "event_count": 64,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-11-10",
+      "event_count": 74,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-11",
+      "event_count": 53,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-12",
+      "event_count": 47,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-11-13",
+      "event_count": 38,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-11-14",
+      "event_count": 18,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-11-15",
+      "event_count": 8,
+      "sentiment_avg": -0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-09 ~ 2026-11-15）共 302 則事件，重點為「Tyson Foods faces earnings test as beef losses ...」。通用磨坊表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "ADM",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "泰森食品",
+        "reason": "本週出現 23 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "沃爾瑪",
+        "reason": "本週出現 31 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

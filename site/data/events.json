@@ -1,5 +1,166 @@
 [
   {
+    "id": "tyson-2026-11-15-001",
+    "date": "2026-11-15",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods to report earnings tomorrow: Here is what to expect - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNemd6b24yUzcyRVc2bGszd21LLTlyWW1sT25FNng4bzZnTVNlUGdKWVR5dmRuN1RXbFV0ZzlUbktCdGpUcl9ucXpRMDdrYWJTb09XY0o2b2FpV09uMGJtZmtRMlRYWWtsenpUWnppbH",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNemd6b24yUzcyRVc2bGszd21LLTlyWW1sT25FNng4bzZnTVNlUGdKWVR5dmRuN1RXbFV0ZzlUbktCdGpUcl9ucXpRMDdrYWJTb09XY0o2b2FpV09uMGJtZmtRMlRYWWtsenpUWnppbHVMQlUxYnZLeWlFdGIxRURlSnlFUW8zT0ZGdTFSMWNKU0VXVTJMZjRIdGRfYjBNZTBvMzZ5VVJTNjVLMkVoWnVNQ0taWGlrdmRydHBhMy1Yd2E2N2YwMEhhc2xzeEFzSVhPMWlETHh0NDVTSFcyWTBN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-11-15-002",
+    "date": "2026-11-15",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Home Depot vs. Walmart: Which Consumer Stock Is a Better Buy for 2027? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPVUJ2NDdFVjRrQlNoZzAzYjc2TmY3VlJFejFjRUVteXg2NjA2UUlGVXVZcmtpYnhJRTVDR0ZSQUZTN0IzeFlpdk1vWElZbXlMM05WZlRpYVZXalRGZjNBcE96RW95MThvdUFBdm5SVV",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVUJ2NDdFVjRrQlNoZzAzYjc2TmY3VlJFejFjRUVteXg2NjA2UUlGVXVZcmtpYnhJRTVDR0ZSQUZTN0IzeFlpdk1vWElZbXlMM05WZlRpYVZXalRGZjNBcE96RW95MThvdUFBdm5SVVFRd1NoNkhEVklVLWk4ZmlYQjk4QWdGMTAtVzVIMUhzQlZpWV9MdGN2S2plZjRYdmN2Y2RfSU84VU1ocjZzLXdKR1BmdmR5N0gxakFFWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-11-15-003",
+    "date": "2026-11-15",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart Leads 2026 Store Recalls With 81 Notices - Food & Beverage Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXo0NzRGU0dGdVE2WmxxR3I2RUxZS3ltRk4tQTR1Zk1DbUNxSWJUMmZaVENQMDktMU55aTBQUGlPYlVrMkNEdEZYRDN1bVlsWGFwb0VBVXl4YkJBb2ZsNmV1QXVoa0ZfcXZQbGYxNm",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXo0NzRGU0dGdVE2WmxxR3I2RUxZS3ltRk4tQTR1Zk1DbUNxSWJUMmZaVENQMDktMU55aTBQUGlPYlVrMkNEdEZYRDN1bVlsWGFwb0VBVXl4YkJBb2ZsNmV1QXVoa0ZfcXZQbGYxNm0talRnd05pelQ2Q0ZwOV9aTXh2NGNzNkNoV09IY2JR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-11-15-004",
+    "date": "2026-11-15",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "consumer_spending",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Week Ahead: Blockbuster Nvidia Q3 Earnings Arrive as US October Retail Sales, FOMC Minutes and Walmart Earnings Follow - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUpqSU4ya1ZSYkNPUFB0X3p4c1p2OFlQWDVaSFBLZ2JWOFAzRGU1MWdFNHk1cXg4MC1PbFBNSnIwV3FELUppMmJPb1d5NzBnWjFTdWdTTTU5T3dwR3VVd0NKUW5xSG1jWWV0REE2WG",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUpqSU4ya1ZSYkNPUFB0X3p4c1p2OFlQWDVaSFBLZ2JWOFAzRGU1MWdFNHk1cXg4MC1PbFBNSnIwV3FELUppMmJPb1d5NzBnWjFTdWdTTTU5T3dwR3VVd0NKUW5xSG1jWWV0REE2WGZLSWFvbmlDa1dvZXJqQ3RTOXFnbXFaV2prUGJlMlhUMzAwdlF4VVIxdjRTNFVMRjlfdVNRcEliTklrRmQ1QzlGRzJ0ME1laFJnODJpaGpSMFU1UU1SYjRXcEk1b0d6RklrX3pkWWVObFF6bVVHbUZvZlB3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-11-15-005",
+    "date": "2026-11-15",
+    "companies": [
+      "walmart",
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Should Investors Buy Costco Stock Instead of Walmart Stock? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdTNTVHhXSDlJZTBURUNyRmNyQnRMcmJRTGw5U2tMTnNiZnpuZ3RSZHZWZmVCTk5hNWl4Um81M0hCOGNfNHRIcnQ4RDdBXzVLR04yWXVyclVlRVV2aE9mTWF6YjJRTVp2c2NUd2ZOQn",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdTNTVHhXSDlJZTBURUNyRmNyQnRMcmJRTGw5U2tMTnNiZnpuZ3RSZHZWZmVCTk5hNWl4Um81M0hCOGNfNHRIcnQ4RDdBXzVLR04yWXVyclVlRVV2aE9mTWF6YjJRTVp2c2NUd2ZOQndMSXFjLUc2a1VyeVVGUk8wbVZBUnYxOTl1c000TExMay1YR0hwQmo1ZFhxRjV3aHU4SzJkMFo1U0M3SlhjTlJmcksyX2RCaEhsT2RkYy10VjVfNDlmM2FwWGZfR1VmNGdkZENtM2ViYUI1QlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-11-15-006",
+    "date": "2026-11-15",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco Wholesale (COST) Could Be 28% Overvalued On Its $30 Special Dividend News - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPR3NWVFZhUzJIVjhiLUFxX19xWEFKQjBROThhOHlYZUJOTTdaNmtqT1NWcXZNR3pFUXd0MkxYWkhFUGdqcXBrUnBYbTFScXU0UVpfb25nS0J2NVNEYl9LUmkxZUx5WW9LbmxoY1FIVG",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPR3NWVFZhUzJIVjhiLUFxX19xWEFKQjBROThhOHlYZUJOTTdaNmtqT1NWcXZNR3pFUXd0MkxYWkhFUGdqcXBrUnBYbTFScXU0UVpfb25nS0J2NVNEYl9LUmkxZUx5WW9LbmxoY1FIVGFmc3hvRE9pTjFTQjNYUnFYQmNfYlFyU2hvWkFWYjVyVm5yOWdpVTRweHpuLWZOVzJ4U1Exdm5JczRfRzd3b1BuUkRKUnZyQS0xVkY4bE5zckJJajJYNWpZTmdFZjZfSWl4Mm50c3pNT28yZzBlOEHSAeMBQVVfeXFMTjUwVzNUMlI5N1M3S1c2MjU4OFhwLTVaUkdxYjlXc25FQlM3NFZQcFZIbEtPd1hKcy0tdURxMGFTb3RpVFhWSHc1cXJYRUl6b3pUdzRWcTB6RzVnUElmR2FJbERFaUFzejhYc01xbGZUcUlsU0p4T21qYlh1b2FvX21kaTBwTk5Bejd3Q0xaempZbF9MN281V04zN0p5LVhkSzZ2S1hBamR6R1VmZUlUVENXamVUTXk4clNnb1kyc21IOUxJZlM0UU1jWGFSOU1iWXR5VDNrem9nbUkxRFJmSWlXRm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-007",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Sunday Edition: Bird Flu",
+    "summary": "The APHIS public awareness plan mentions food safety, calling for messaging about “the issues and concerns relating to food safety, public health and animal welfare.”",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/11/sunday-edition-bird-flu/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-008",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA issues alert for biscuit and sausage gravy products because of Listeria risk",
+    "summary": "<p>The USDA&#x2019;s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat meat products containing FDA-regulated biscuits that may be contaminated with Listeria ",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/11/usda-issues-alert-for-biscuit-and-sausage-gravy-products-because-of-listeria-risk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-11-14-001",
     "date": "2026-11-14",
     "companies": [
@@ -262,6 +423,85 @@
       {
         "name": "food_safety_news",
         "url": "https://www.foodsafetynews.com/2026/11/fda-final-report-on-salmonella-outbreak-traced-to-japalenos-fails-to-reveal-grower-exporter/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-11-14-015",
+    "date": "2026-11-14",
+    "companies": [
+      "walmart",
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Black Friday store hours 2026: When do doors open at Walmart, Target, Best Buy, Apple, Costco and other retailers for holiday shopping? - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxQUlY3TXAxRWZlUWJZNDdiUDh2MlI4d0lDY1pYc2paZ2M2ajM4WUJhdExCSmZyTURPR2lmT3h2N2ZoSEhoQ25CNjBCWlppNTFobXVQaWdYbUo0dkNmbDc4OVhhV3hZdUhoLUlodEFZNG",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQUlY3TXAxRWZlUWJZNDdiUDh2MlI4d0lDY1pYc2paZ2M2ajM4WUJhdExCSmZyTURPR2lmT3h2N2ZoSEhoQ25CNjBCWlppNTFobXVQaWdYbUo0dkNmbDc4OVhhV3hZdUhoLUlodEFZNGxjaWpvRC0yV2JKV3lsSU55LWpzYzFfU003LVpoTmt0WWJQTWRiWHZuZGNkelFNV0RlZkZ6eGpVdGl2SUJ4TmZGdEl1eUdUOHBmZGdHV1dVZG1CYkdXMEZadGVKQU5yNVc2bFRTWDdFVy1VUUVVbXM0ekhYZ2JJVmJNbUJJTlFmSDA4d1l2SUpZOFozUjVaZnI0TElQUnBlNzZQRGVEdlhKeVBja25vZkwtSGtCczZZVVVleDg0WlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-11-14-016",
+    "date": "2026-11-14",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart's new seafood rules could change what's in your lunch box — here's what's coming in 2027 - New York Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQQU5sRFVsVUxreGxkeDFUd3JKWWpTX2YzNGNZaE9jSHBSaHFqWHZzajc5aFcxUUxaSXFZQ1hMblZ3Q29fU2lySVdYRTdNV3hjdjVxSTcyRHA1WDkzTlVsWS1reDdlMmNvMW9SanZsaW",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQU5sRFVsVUxreGxkeDFUd3JKWWpTX2YzNGNZaE9jSHBSaHFqWHZzajc5aFcxUUxaSXFZQ1hMblZ3Q29fU2lySVdYRTdNV3hjdjVxSTcyRHA1WDkzTlVsWS1reDdlMmNvMW9SanZsaW9tcTdiNzIzZlVhTFhhRG83VUdxYTBkTVh0Ml81bW5aUll4aHJlUE5udVFtT0ptRDc3ay12X3JRc2JHQXptRUh6VEJ5QURUYjJiR2pHaXFYMDFsQTB2N3ppVDlkQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-11-14-017",
+    "date": "2026-11-14",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Costco solves a problem Sam’s Club hasn’t figured out yet - TheStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzN2SDJmM1lMT1Z6cDZNbVdXQjdhSTYxYWxPQUE3Mm1RNkRCaVVPQm5TbUNoOEt1SnZLckd2NU5zTzhCZklBNkxLcTgtWTVSNlRoRkFZUTVVWkdzSTZBcnFXMDVBZC1DLXJzZlJVR3",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzN2SDJmM1lMT1Z6cDZNbVdXQjdhSTYxYWxPQUE3Mm1RNkRCaVVPQm5TbUNoOEt1SnZLckd2NU5zTzhCZklBNkxLcTgtWTVSNlRoRkFZUTVVWkdzSTZBcnFXMDVBZC1DLXJzZlJVR3JZa2VuTnZZbVhMWmQ4ZzRkRm5lQXRFUGh4RDFWTzBrQmh4Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-11-14-018",
+    "date": "2026-11-14",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "One Of The Most Recommended Costco Finds Makes Fall And Winter Baking 5X More Flavorful - Tasting Table",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUERXdlBZa0JGUG94bEY4YU5qa0xtZnc4NmdOdVZjSFhHU3djMFBjeHhoaTI3eUtMTlBRakdhVFppM3BJR0QwbDVTODV6SmlhWHdOZDFCam84NXlEVTl3NHJuRUpYTGNBX0YxQ1JrSE",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUERXdlBZa0JGUG94bEY4YU5qa0xtZnc4NmdOdVZjSFhHU3djMFBjeHhoaTI3eUtMTlBRakdhVFppM3BJR0QwbDVTODV6SmlhWHdOZDFCam84NXlEVTl3NHJuRUpYTGNBX0YxQ1JrSEpTMTdDTU50cUswZjRWajhkX1dsNnZ2Zy1n?oc=5",
         "type": "rss"
       }
     ]
@@ -931,6 +1171,64 @@
       {
         "name": "google_news_food_industry",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdXdhcXBIWEFDSmlFQWZXYTF4bXdLNjV1dkpaX203UGF1S0tERFRnandwUVpnb0hTdFdTOTlOeFpfNlRnN2gweUZxSWVpUDg5UXdZNWhqNlRSSDMyZENsN3B0TWgwMjVueTNsVVFoVi1tUWdpdVFzNVRxaFNyNzJ6Tm1KTjJKeE5fZV80QXFWZ0tlY1dfclY1ZFZGZnJNdEI0NW9HOUdlNVlBX1NISjcza2tPcHJvMWtGMkV4c3pTY0VIMG5xb0hQZ09XdTZYekZlaW52bQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-11-13-036",
+    "date": "2026-11-13",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods team members in Humboldt hold stuffed animal drive for Le Bonheur - wbbjtv.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjhHRFJteUVDTDQtVlNyR2NHbFVENXlyM0RPWTYyVVZTd2dmazlpdXN0RV9hTnRjZ0M0UEloQ3VYUjEzTmhkLVFoTTl6QTlvSU93Y2RpN00yUThtRXJnVDZNSGdwUGtaZDVETThIWE",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjhHRFJteUVDTDQtVlNyR2NHbFVENXlyM0RPWTYyVVZTd2dmazlpdXN0RV9hTnRjZ0M0UEloQ3VYUjEzTmhkLVFoTTl6QTlvSU93Y2RpN00yUThtRXJnVDZNSGdwUGtaZDVETThIWEMzOWVQUGVkR2oyYkF3YS1EYXFCVW5hcThoWDJFM19LTHBVWVZFRWRFMDhCaFNzbWlyeUhYdERBUWpnX0FCTFlGUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-11-13-037",
+    "date": "2026-11-13",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart's Black Friday deal saves you $86 on this flat iron - PennLive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdU1DUWZTeFB3M2lSLTR5RTE5ODdUZXdvTUU3NjJiZUlnT2tCYWp5Z1gwckhrbGFQZnRTRUNiTTFfaVJWSXFYdG45VHVjRXpGVk1ycXRaQ25VTjVfUG1QS1Vzdy1DX2NVSmxnWWpkdz",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdU1DUWZTeFB3M2lSLTR5RTE5ODdUZXdvTUU3NjJiZUlnT2tCYWp5Z1gwckhrbGFQZnRTRUNiTTFfaVJWSXFYdG45VHVjRXpGVk1ycXRaQ25VTjVfUG1QS1Vzdy1DX2NVSmxnWWpkdzU0Q21CUG1mVFp2blEwSVAwOVNtV2JIbElOYnJmQTdWOTBfcWRwMEJ3YnBJWEVjMVotTUR3cUlHV1NVZXp2V2xZSERIVTJjWTBEM2hqbGRULWNUM2lodjFVVHN0M1pkWWVpQnpQM19vZFM5Ync?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-11-13-038",
+    "date": "2026-11-13",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco's Food Court Hot Dog Vs Slice Of Pizza: Which Is Actually Healthier? - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUZqcTNQSlV3QlBNdEd1SW0yQVRPa21QbVRncjVFajAtWXBTTDhIdEZ0dzIzblp1dXZMRklYMUZLVjE1MXc4TGZycmpZZk15QjViNHhfTlJhcTdfYVRiQnZuaml1TDlGcklPd3kxdH",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUZqcTNQSlV3QlBNdEd1SW0yQVRPa21QbVRncjVFajAtWXBTTDhIdEZ0dzIzblp1dXZMRklYMUZLVjE1MXc4TGZycmpZZk15QjViNHhfTlJhcTdfYVRiQnZuaml1TDlGcklPd3kxdHNsWUVCVXVJbGczUG9XNXktYkNLWHlLeHg1cHc?oc=5",
         "type": "rss"
       }
     ]
@@ -1783,6 +2081,44 @@
       {
         "name": "google_news_food_industry",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbUtTdHVXeVZhbWl5dWF2UlZicTB0dnQ3MDNWT3E2MS1FbmstOU1ITDY1UjY3QlUtMEdTYzNYbGdpZzZPN1ladVQxekxha0VvajZ1bFNmU05jZFNZOC1KUWN2UG9TZ29ZMDRpM0R1ZUhLejhqZVZpOXlpRUdlTmJFMEhqU281blkyR3RNTGdMZTl5UU5ldFZWclNsS05oTm53alM1d1dHelI0aUEtQWpXVmJtVjROdUZVRDVlQnJsZE5lN0l3ZVJOcGpYRG9pQWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "uni_president-2026-11-12-046",
+    "date": "2026-11-12",
+    "companies": [
+      "uni_president"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can Uni-President China Holdings (SEHK:220) Justify Its Price Through Cash Flow? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPaDdJZEtjZTA1UzRpcEFTRTBya0ltSmxMaTBnelVwMm5TSUU5cjVkdjR2dXhoZ3lNekNRWUV2cnNsNTlvUk1KRTRkSU9YaTVrNGJoWFF6WXY2TUhXdlpBZ09Dd2RfODBqWkI1N0Q3ak",
+    "sources": [
+      {
+        "name": "uni_president",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaDdJZEtjZTA1UzRpcEFTRTBya0ltSmxMaTBnelVwMm5TSUU5cjVkdjR2dXhoZ3lNekNRWUV2cnNsNTlvUk1KRTRkSU9YaTVrNGJoWFF6WXY2TUhXdlpBZ09Dd2RfODBqWkI1N0Q3akdvZUpycWdGd0xyMEQwczlsM3NUM2tsYVlISmVaRXVBQlQ1Skc0WndKdmdvaVNqTzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-047",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Barley Market Risks Rise as Russian Strikes Hit Ukraine’s Food Industry - CMB News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPU1FRdjVpaXIzN19MZzRHQ3JtZl8tNy1HSUVlc0V2aUlPUjVMeWtjYTVRTHNmdXdYNFpyekNXbG9kajNsN1pMb0N3WUZPYTNfVE1wSWg0Y0xadzY5WHJ5WXFBWVNtV210SGplOHAxcW",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU1FRdjVpaXIzN19MZzRHQ3JtZl8tNy1HSUVlc0V2aUlPUjVMeWtjYTVRTHNmdXdYNFpyekNXbG9kajNsN1pMb0N3WUZPYTNfVE1wSWg0Y0xadzY5WHJ5WXFBWVNtV210SGplOHAxcWZQYjN1bmFad1dhWFFUMUozSlAzUFNSakotY1Vkak54eldmRm5pT1AxcVEwbHg?oc=5",
         "type": "rss"
       }
     ]
