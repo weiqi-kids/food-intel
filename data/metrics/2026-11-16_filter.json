@@ -1,0 +1,16 @@
+{
+  "total_raw": 273,
+  "dup_title": 75,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 9,
+  "gate2_fail": 15,
+  "passed": 60,
+  "gate2_samples": [
+    "Can Bunge Global (NYSE:BG) Expand in S&P 500 Biofuels? - Kalkine Media",
+    "Tyson reports Q4 and fiscal 2026 results - Feedstuffs",
+    "Walmart’s running an early Black Friday sale this weekend. When it ends - Florida Today",
+    "Bringing Creators Home: Four Years of Walmart Creator - Walmart",
+    "Costco’s Black Friday sale goes live this week! Get a $45 Shop Card for holiday shopping when you si"
+  ]
+}
