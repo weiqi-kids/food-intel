@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:41:09.030367Z",
+  "updated_at": "2026-11-17T17:13:42.757129Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-08-31",
   "companies": [
     {
@@ -160,17 +160,17 @@
       "name": "佳格",
       "ticker": "1227.TW",
       "currency": "TWD",
-      "ar": 3281632000,
-      "ar_prev": 3710808000,
-      "ar_qoq": "-12%",
+      "ar": 4256913000,
+      "ar_prev": 3281632000,
+      "ar_qoq": "+30%",
       "ar_period": "QoQ",
-      "inventory": 5908549000,
-      "inv_prev": 4021491000,
-      "inv_qoq": "+47%",
+      "inventory": 5751840000,
+      "inv_prev": 5908549000,
+      "inv_qoq": "-3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "ttet",

@@ -1,0 +1,16 @@
+{
+  "total_raw": 273,
+  "dup_title": 77,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 11,
+  "gate2_fail": 14,
+  "passed": 65,
+  "gate2_samples": [
+    "Archer Daniels Midlands ‘ADM Cares’ supports employee volunteers giving back to the community - Nort",
+    "Bunge and CP Expand Blockchain-Enabled Soy Traceability Collaboration to Vietnam - Business Wire",
+    "Bunge Global: A Crucial, Growing, And Undervalued Ag Trading Giant (NYSE:BG) - Seeking Alpha",
+    "Bringing Creators Home: Four Years of Walmart Creator - Walmart",
+    "Best Buy’s Black Friday sale has the Bose SoundLink Flex Bluetooth speaker cheaper than Walmart - NJ"
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:13:45.966401Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-11-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Tyson Foods Stock Is Up 8.7% And What's Next After Earnings Beat - Yahoo Finance",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmhyQzJVcXEyZE1oeGMzRWlSWXBRZmk3MFRwbDFRRzNKRWZwY3hUaFNYeUZ6UElISUZ0emItX3FKak5NNjM1M2JGSjUxTy1hd3RxdHRXVGs2dS1MWkgwb2NTQWFfY3NWcHB3dWlvU1JxdUtCYjUzSzNYeWROVGRVOHd0THVVc1FKUGhGY2N0OUduUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-11-17-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "​Tyson Foods Stock Jumps 8.7% Despite Just $1 Million in Q4 Operating Profit - EBC Financial Group",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkp2WmpkOGRCcWpnTzVHcDJBOWU3NEJJNWJKeEhaQUpYRmQ5U1RWd2JmYVZ2alpsZGkzNlBPVlplX3NmOXY5M3JNUmRxMjFhWGVTWFltRXJaeFg1Q0dNTF8zOElsMDh1c1NOdjRKcXZGNkhleXlzNWJjd0lmcDVDTHJ4RQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-11-17-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "WARC: Walmart U.S. ad revenue projected to reach $6 billion in 2026 - TheDesk.net",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSzRoOHg1YU5kMjVQY2RPNUZ0Q0xNV0VnVmhxZ1ROZ2pQY2xhMVNjUzlVdHVQcFpXZWswLXFrUUdlRlFEUklnV09tQnlNUHRZM0JCeHpfOS1JVFcxQjcyV25WQmpXbm10Q1FqNW1DOUF2bU5jTTREalJoVlFuUUVHQUV6ckhYRWxiLVNYVU5VUDlXS01pUkRFQg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-11-17-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Mizuho maintains Costco Wholesale at Outperform, raises price target to $1150 from $1100 - TradingView",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOblFtdXltMGhVUGNDT3JsRGF0MzdsWVJwTHNCN0NtZTFDNDQxaXdnb0JGVk1ObkhLZjJnSWJvSkFwOXE3MTJESUVHdHgzZ2ttSTdBQlN5UjFqVDNIY0k0b0N2RG42eWJMLUtzRmV0MU9YbXU1cHN4OHNqeTRuUXF5RTg1S216Snp3RkxKMEJLRUs1MjRZTmhTdG1mT280amprZWYxY1haZkRLRTFUbDhKNGI1aUFKOTJfU3JKTjlWUzVCMzlNUjNRRllkR09rRGVKOE9rNUFNZnktU1pzQ3pxYg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-11-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "These Analysts Boost Their Forecasts On Tyson Foods After Upbeat Q4 Results - Benzinga",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZmt2SnNRNnR4SlhCU095c1FWUHg1MWtUWkkwelR1LWNCTHFPSkxpbWIyNzBJeXJSa3lxVmE0RkJQNWRqWjBDRE9JOUpGdlhSQmlCMnE5Q0RqLXNwT24yWDVQWFFiTHF1d3B0OS1MSEtYTTI4ZlU4NTRCTE9PWFNGZnN6OHR6ZUw1WV9JMzlQUjBDQ2pOclNsTEJLb0Q4c0pvZTB2WnBUX2VVV0JoUE9zTHNNVUFBcUM0ZFp2RFNQQWRHNHAwM0I2QjhlYjE0MW03NUdCMUk1R0RQMllTRlEzemZiS20?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "consumer_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 36,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tyson",
+        "count": 11
+      },
+      {
+        "id": "costco",
+        "count": 7
+      },
+      {
+        "id": "walmart",
+        "count": 5
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "food_safety",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "consumer_spending",
+        "count": 1
+      },
+      {
+        "id": "raw_material_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 273,
+    "dup_title": 77,
+    "too_old": 106,
+    "gate1_blocked": 11,
+    "gate2_blocked": 14,
+    "passed": 65,
+    "pass_rate": "33.2%",
+    "gate2_block_rate": "7.1%",
+    "gate2_samples": [
+      "Archer Daniels Midlands ‘ADM Cares’ supports employee volunteers giving back to the community - Nort",
+      "Bunge and CP Expand Blockchain-Enabled Soy Traceability Collaboration to Vietnam - Business Wire",
+      "Bunge Global: A Crucial, Growing, And Undervalued Ag Trading Giant (NYSE:BG) - Seeking Alpha",
+      "Bringing Creators Home: Four Years of Walmart Creator - Walmart",
+      "Best Buy’s Black Friday sale has the Bose SoundLink Flex Bluetooth speaker cheaper than Walmart - NJ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為泰森食品、好市多、沃爾瑪相關動態：「Why Tyson Foods Stock Is Up 8.7% And What's Next After Ea...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Why Tyson Foods Stock Is Up 8.7% And What's Next After Earnings Beat - Yahoo ...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "​Tyson Foods Stock Jumps 8.7% Despite Just $1 Million in Q4 Operating Profit ...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "原物料成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
