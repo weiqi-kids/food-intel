@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 96,
+  "no_date": 0,
+  "too_old": 103,
+  "gate1_fail": 9,
+  "gate2_fail": 14,
+  "passed": 48,
+  "gate2_samples": [
+    "Bunge Global: A Crucial, Growing, And Undervalued Ag Trading Giant (NYSE:BG) - Seeking Alpha",
+    "Tyson: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "Latest Walmart and Sam's Club move could steal customers from Costco - Yahoo Finance",
+    "Walmart and Target make a key customer service blunder - TheStreet",
+    "Bringing Creators Home: Four Years of Walmart Creator - Walmart"
+  ]
+}

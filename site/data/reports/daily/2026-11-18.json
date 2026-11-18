@@ -1,0 +1,262 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T16:50:04.588478Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-11-18-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart Advertising Revenue Jumps 46% To $6.4 Billion. - Insideradio.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZDNfeV9OUTVZSmE5Zy1iSHN2WW16SDVvVUF6UzEyaWFEOC05c1JBNVB2LUJqdXgtb21CUWtYU3k5Smw1SGZYem5wNllxWC16VlZ5Xzk4cjRZeWRYaEFVUEVGbjJ4bVNFWjJrY05mV19UUDZYLVh4aGw4NHhKT2V0MDlFaklsWEFHMnlYX0VtbkNFbFowM1ZmTkswdTNqZm00aTRVdkxBLUJENjFZLUpGejlaZE96SXcyUmRua25UUWRmSXZXV00tSmwtM3Etcjg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-11-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "McDonald’s, Tyson chicken donation will provide 33,000 meals in Ozarks - Springfield News-Leader",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTnRjRDhBU0trRWRNbEhELVUybEJXdnpyTmtOY3czb2ZsVTduLXNfUUJJVE9SQllUVFIta3dWZ2p3RXdYd2xOUUg2Z0xZV2tuUFl5aWF5NHVnV3ZvUnpTMlV4Q0NnNTVWMEVLWXVRZE01STJId2pZUEVUNGctdU1iT0I2QXVjY2RlRDlZLU1nLXRFSGIxc2RWNEpaT0wzNU5FdzVmcDIzZXNBRWd5QjMyLVpDS2JMTnpJYVRQSmgwVDB4WnhYUGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-11-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods: A Stronger Business Is Emerging Despite The Historic Beef Downturn (NYSE:TSN) - Seeking Alpha",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmVsc1pOQ3Q2MEVBbTE2b0dDMkJzNHBoaXZYUW8xNzduZEdRTTFOZTBrZF84ZndwNDYtUko3aWpkZGJXc1o4YkM0NVM1U0NST195RktqWlNKTjRidDh3RnIwdDhhRTltNVZfbERKRm9PckRsRjJxc0V0SVJVN0E4UW5HSHRHQ2IwajlkZ095MG56WEpEM05uYzJKRDJIdk56R2tvZmI2aVdxWjE0emEyc1FpZUh6YUZkSkc3TUtXWFg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tyson-2026-11-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Mattered Most In Tyson Foods' Latest Quarter? - Yahoo Finance",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVdrRHVROUtvY0dKVng0eHJOdzdtWHJvV0pJRFNKQ0pMX2w4eTZkbnpSVEc1QjMxRUp2b2NpaTBnelRlS3YxdWpmSG1TUkJ3NFdJbjM4cHRkcVhpQnNVMG81dnhvWlhWalI1NW5QeTFRQ0ZNNE54R2pCNF9hSnhEVTFwZkpuai0zV0dSWm9XWFk0ZnQ0ajBSQVVCbEx5Zw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AI Stocks Resume Their Slide - WSJ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jMVRGNmM2LXVUalRrSEREd3VLUDl4alRBLTZDaEhhWjdCbXZJQlNxZnBhQWdvS2lrLVRESjg3LUZLRkpEQ0wtUFZVLWcwNllRX190Vm5PcHlEcndfODBubE9HZDVHVkMyYWFiMlo0YkpkVWpCdXhLaGhHZG8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_inflation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "health_wellness": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 23,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 4
+      },
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "tyson",
+        "count": 3
+      },
+      {
+        "id": "uni_president",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "food_inflation",
+        "count": 1
+      },
+      {
+        "id": "raw_material_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 270,
+    "dup_title": 96,
+    "too_old": 103,
+    "gate1_blocked": 9,
+    "gate2_blocked": 14,
+    "passed": 48,
+    "pass_rate": "27.6%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "Bunge Global: A Crucial, Growing, And Undervalued Ag Trading Giant (NYSE:BG) - Seeking Alpha",
+      "Tyson: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+      "Latest Walmart and Sam's Club move could steal customers from Costco - Yahoo Finance",
+      "Walmart and Target make a key customer service blunder - TheStreet",
+      "Bringing Creators Home: Four Years of Walmart Creator - Walmart"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為沃爾瑪、好市多、泰森食品相關動態：「Walmart Advertising Revenue Jumps 46% To $6.4 Billion. - ...」。主要關注主題為產業通用、食品安全、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Walmart Advertising Revenue Jumps 46% To $6.4 Billion. - Insideradio.com（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "McDonald’s, Tyson chicken donation will provide 33,000 meals in Ozarks - Spri...",
+        "level": "green"
+      },
+      {
+        "text": "原物料成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

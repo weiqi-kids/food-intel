@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T17:13:42.757129Z",
+  "updated_at": "2026-11-18T16:50:01.856670Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-08-31",
   "companies": [
     {
@@ -194,17 +194,17 @@
       "name": "泰森食品",
       "ticker": "TSN",
       "currency": "USD",
-      "ar": 2457000000,
-      "ar_prev": 2399000000,
-      "ar_qoq": "+2%",
+      "ar": 2365000000,
+      "ar_prev": 2457000000,
+      "ar_qoq": "-4%",
       "ar_period": "QoQ",
-      "inventory": 5840000000,
-      "inv_prev": 5478000000,
-      "inv_qoq": "+7%",
+      "inventory": 5578000000,
+      "inv_prev": 5840000000,
+      "inv_qoq": "-4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "uni_president",
@@ -245,17 +245,17 @@
       "name": "味全",
       "ticker": "1201.TW",
       "currency": "TWD",
-      "ar": 3041738000,
-      "ar_prev": 2759487000,
-      "ar_qoq": "+10%",
+      "ar": 3231625000,
+      "ar_prev": 3041738000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 1798451000,
-      "inv_prev": 1714687000,
-      "inv_qoq": "+5%",
+      "inventory": 1646108000,
+      "inv_prev": 1798451000,
+      "inv_qoq": "-8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     }
   ]
 }
