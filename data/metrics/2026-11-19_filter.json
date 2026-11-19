@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 91,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 8,
+  "gate2_fail": 17,
+  "passed": 54,
+  "gate2_samples": [
+    "Why Archer-Daniels-Midland (ADM) Is Getting Fresh Attention - Simply Wall St",
+    "Bunge Global: A Crucial, Growing, And Undervalued Ag Trading Giant (NYSE:BG) - Seeking Alpha",
+    "Form 8K Bunge Global SA For: 18 November By Investing.com - Investing.com UK",
+    "Tyson: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "A new Walmart is planned in this bustling Columbia area. Check out where - The State"
+  ]
+}

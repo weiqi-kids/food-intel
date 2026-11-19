@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T16:57:17.741044Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-19-026",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Worrying decline in revenue for food service industry - eKathimerini.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORUlXSlI0T2JsREFGV0RMTVlRN1A0ajFya0d5ZG5PTjc3VklQbjRZaUw5VDBQMWJOOXdxTlhWS1NHOXVCZFJfSjR5TTlkaTVlVURFZ3g1bXdGT3pTNDF5U25fYzR6dU5IU2hOOHo4NzBoWVFQVnVxY1NOYlppbTNET1BTY3l3LTlUWUFEZW9INzhmd0k1ZVd0Wl8tdW9zU3dWbUJFUENn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-11-19-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs - CNBC",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LV0lxTE41NmNVYW15ZTE3dndjYy1YUFdVYm5uNkFiWWE5NU53ZVEwc3RuR0cxdFNqWXdVX3lTYUVOYXFlaGVGUnJvU3Y5QTFpdU8yWWdxTnVGMVh1TVFfMlM0WndyTmpjcW5HTGlaZWc4dVHSAXhBVV95cUxQMjhJaXpYODlkQ2xkSHB3Z1FCc1pDdkpCWU1NbnZleFV2Q2VoMG9RekZ6U2RfS2ItcVU1X3VuZUZTSlhCUGZGLUN3M1pIdDlXT0tEdXBJZkJSU050VUFBV0NVVGlOcGtLVXRyZjJJQVpnM0I2bFJzY1A?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-11-19-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart Raises Outlook as Wealthier Shoppers Hunt for Deals - Bloomberg.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajg1eGtUX2N1TmNwT2plLVVZS3JjcWNMaUpZQU1zdzJCNDlMQWtDNE9CRzdSczFTQkJCM2pNTjd4YzJETmlLRGxsRUl2ZzVrYVpTeDY0M0JtVjBZb3NIYjMwLTNocHlkUlhqYW00VlJMQWZaVllfSnN0Y1lONHFxbEhlRmlCY0pZZ2QySl9nNFNkZTUwV2lEdXRmZ1h3dlVWcE5DeGVUcFlncUN0ZXlfeEY0MlU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-11-19-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart raises its outlook for the year for the 3rd time after a solid quarter - ABC News - Breaking News, Latest News and Videos",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUTRPSnV4S0tMSzhkbmdDalcxRXJhdmxWQUY1R3BzQm5SeU1jemFtRUxYekd0d1FWM3U5Yll4czF5dzBhSFZ0UDA1akhtc1VrNHBiR21QRlByTDd3VWRmbzFGM0hacjNCVkFGT0M3RkJnTVBpUS1oUTVzMnBLQmpDTlEzZFdhdzlxTTVRSmI2aDk2UmVSYlJ2czZBNm9rQdIBowFBVV95cUxPazlUNkl5LVJtVEYwcWxZRUU4QW4tekRqZFZfd214enRmVlFOc2lWeHNVeldWOTJ0TjhqazZpNHF0Q016b3BweDdseEE0dzJLTlhqbjE0aUY2c0k3SlVjQ0otdkd1QXNVTm5KRktTdWhZWVpEaEYwdFNVa0lDbG8wa1ZlUnVRU0NCYjNBbUxXV1ZucXFwMFdra1Q2dU0xd0dTcTk0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "walmart-2026-11-19-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart raises its outlook for the year for the 3rd time after a solid quarter, fuled by e-commerce - TribLIVE.com",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbkRtVUdvY1I3elJVVG1mQ1IyMkZ1b2tWc1JsbDVHTFlUYnRRcmsxNkF1elFiWnBNWVdRZGhOSVR1ZVZmbWNPM1hiS0RPbGJWM0l5RVN6ZUFVWjl1MDRIcTRpaGtUOTFBUmtDRFJRcENaM3lXWUh1dFFoaW9HTVcxU005TTR3bldSUXJrNkZWWEo5WkxzSUJyNGhpa3pGMW9MZWMxZjl5VXhidml5S3ZyZ3FYWUZ6MWJxSGFGYzFDVzJQM0Y4Z0hDZEcweDBPZzBUQzlhUw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.21,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 29,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 12
+      },
+      {
+        "id": "costco",
+        "count": 4
+      },
+      {
+        "id": "tyson",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "mondelez",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 271,
+    "dup_title": 91,
+    "too_old": 101,
+    "gate1_blocked": 8,
+    "gate2_blocked": 17,
+    "passed": 54,
+    "pass_rate": "30.0%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "Why Archer-Daniels-Midland (ADM) Is Getting Fresh Attention - Simply Wall St",
+      "Bunge Global: A Crucial, Growing, And Undervalued Ag Trading Giant (NYSE:BG) - Seeking Alpha",
+      "Form 8K Bunge Global SA For: 18 November By Investing.com - Investing.com UK",
+      "Tyson: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+      "A new Walmart is planned in this bustling Columbia area. Check out where - The State"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為沃爾瑪、好市多、泰森食品相關動態：「Worrying decline in revenue for food service industry - e...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Worrying decline in revenue for food service industry - eKathimerini.com（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low desp...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
