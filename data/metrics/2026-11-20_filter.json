@@ -1,0 +1,16 @@
+{
+  "total_raw": 250,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 11,
+  "gate2_fail": 6,
+  "passed": 29,
+  "gate2_samples": [
+    "Archer Daniels Midlands ‘ADM Cares’ supports employee volunteers giving back to the community - Nort",
+    "Tyson: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "Walmart mulls role advertising will play in an agentic shopping world - Marketing Dive",
+    "Walmart, Target Highlight Groceries Heading Into the Holidays - Bloomberg.com",
+    "PepsiCo improves deforestation-free sourcing for key commodities"
+  ]
+}
