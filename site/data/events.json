@@ -1,5 +1,139 @@
 [
   {
+    "id": "tyson-2026-11-21-001",
+    "date": "2026-11-21",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods changes course after meat plant closures - TheStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPV0RSdURyRGthQ19yZ0tqdF9uUk5oanhTYVRiWW9XWVZUY3l0SjRzdkR2Q3VzZ3JYODlnT3k0bjV4VWR2WmNVTmFldmxhYW41LWZPdm9Nc2NkWnlvaFZvcElsdy1XekYyeWJmRFU4Nm",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV0RSdURyRGthQ19yZ0tqdF9uUk5oanhTYVRiWW9XWVZUY3l0SjRzdkR2Q3VzZ3JYODlnT3k0bjV4VWR2WmNVTmFldmxhYW41LWZPdm9Nc2NkWnlvaFZvcElsdy1XekYyeWJmRFU4NmVCM0FDeE1YLVJVVEZBQ3ZCZDhodmxkQnBJTFNOdnNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-11-21-002",
+    "date": "2026-11-21",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lexington looks toward future a year after announcement of Tyson closure - Nebraska Public Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWtaS3NhMHJlM1dlZzFLckJhUDNUUDRNVEFXYXlvS24wbkpvV2RjZXgyMHB4NTdYcnZLUlFUNTZTZEFWSHBnckczVlRES09KaGFObkNNdDNOX1dWeHF3YVNGaEFCeUh6YW5PNzlHbU",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWtaS3NhMHJlM1dlZzFLckJhUDNUUDRNVEFXYXlvS24wbkpvV2RjZXgyMHB4NTdYcnZLUlFUNTZTZEFWSHBnckczVlRES09KaGFObkNNdDNOX1dWeHF3YVNGaEFCeUh6YW5PNzlHbUVLVlR5SWFkcmZWY0ZrbVFUeUV1S0Nja2M4UzF5Nm5ZMElhQzFBODF6U1RqTk56RG1SbUV5RHgyMDJ1VExWWEtYbjRaS0dLTEhjVWdpRjdpcVNHd21rUGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-11-21-003",
+    "date": "2026-11-21",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A pre-Black Friday win: Costco Gold Star Membership + $45 Digital Costco Shop Card* for $65 - kare11.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxQZzlWQ2NHMHFJbEkzUWc1QnZMenJvWlM5aVdac1VhTTVuSTNXVXNvTENIYVc1em5xUTRvUURsc1JIR1FNTW1NZXd0cVJhRkJwOHRVd2pDalNPeUxBb0Z6S1JRenJiOTBaN1RBUDZDek",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQZzlWQ2NHMHFJbEkzUWc1QnZMenJvWlM5aVdac1VhTTVuSTNXVXNvTENIYVc1em5xUTRvUURsc1JIR1FNTW1NZXd0cVJhRkJwOHRVd2pDalNPeUxBb0Z6S1JRenJiOTBaN1RBUDZDekUtMFN4cEtwNy1qWlZUZEZNNGNJWmE5Wm9pajhiYmxFdlZZSjNualFRZTFZOEdIblZmbWV1NGswS0g3X2FRcmYwZmh0VkZKSHM4eWRsZEZ0b2pfb1RDVjRqLXFBUWhSOHk2WjBfM09sTng0enA0Q1ZVZHZnbWVkcDl2SF9lOEFnOGRQSzZIai1oRmN0bjRSY1ItZTRzM0ZmSlhBaWNSNkJmSVlEU25kd1BUWi1TRm9HUE8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-11-21-004",
+    "date": "2026-11-21",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Costco Pumpkin Pie Upgrade That’s Worth a Trip to the Food Court - Simply Recipes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE8tTjZPaS1aRHhvU0FkVEtuZEtFcmc4b291SFRUN0UzODFlM2pJU0x6d1E4QkFqZi1JZjlESHVOLVRHcmwzdERsXzUwUU91bjJjMWpBazBIU0Itd09uSGRhYVJVeVJNM2trX2RLNjFVYk",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tTjZPaS1aRHhvU0FkVEtuZEtFcmc4b291SFRUN0UzODFlM2pJU0x6d1E4QkFqZi1JZjlESHVOLVRHcmwzdERsXzUwUU91bjJjMWpBazBIU0Itd09uSGRhYVJVeVJNM2trX2RLNjFVYkpEMWo4WVR2UWMtZnRQUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-11-21-005",
+    "date": "2026-11-21",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Costco Shares Lift Higher on Sales, Warehouse Growth - FXEmpire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcE00SUE2SWxUeTFOVEpXVFF4YXFiVTJpNXl0ZVU2TXU2MUZHTEF2ZXhPWkRUdVlsT0dCTkh4RUdvMlpQZlRRR1dERGo4VTFKZ2ZqS3Y0eC05aVlxR0plS1hHYUVDdnR0TWN6NFJLeW",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcE00SUE2SWxUeTFOVEpXVFF4YXFiVTJpNXl0ZVU2TXU2MUZHTEF2ZXhPWkRUdVlsT0dCTkh4RUdvMlpQZlRRR1dERGo4VTFKZ2ZqS3Y0eC05aVlxR0plS1hHYUVDdnR0TWN6NFJLeW81WmF6Wkh4R1dXcWRFcEVSME1DRGVSMmFmcVpqTkZxOXlRSDhNUzBMWjlaWHlsdVZ6aUFFSA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-006",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Fresh & Ready expands recall of biscuit sandwiches because of Listeria risk",
+    "summary": "<p>Fresh &amp; Ready Foods LLC is expanding its Nov. 8 recall of select Fresh To You Sausage, Egg &amp; Cheese Biscuit Sandwiches to now include the additional products produced at Fresh &amp; Ready&#",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/11/fresh-ready-expands-recall-of-biscuit-sandwiches-because-of-listeria-risk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-007",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "food_safety",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lunch Box brand biscuit sandwiches recalled because of Listeria risk",
+    "summary": "<p>Grand Strand Sandwich Company Inc. is recalling several biscuit sandwiches because of potential contamination with Listeria monocytogenes.&#xa0;</p><p>The recalled products were distributed between",
+    "sources": [
+      {
+        "name": "food_safety_news",
+        "url": "https://www.foodsafetynews.com/2026/11/lunch-box-brand-biscuit-sandwiches-recalled-because-of-listeria-risk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tyson-2026-11-20-001",
     "date": "2026-11-20",
     "companies": [
@@ -324,6 +458,256 @@
       {
         "name": "food_safety_news",
         "url": "https://www.foodsafetynews.com/2026/11/health-officials-issue-warning-about-parasites-in-wethington-farms-raw-milk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-11-20-018",
+    "date": "2026-11-20",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Semi truck driver stabbed in the face at Tyson Foods in Columbus Junction - KWQC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOcUxtQThEeU9zMHB3YkFxc0dsN0J2OG5ZMU1FYWNjNjk2YW9NMDBZTDFzRzBFR0NqbWhtbnlHUE5aZHFfQUxqdjV5aXVndXFSWkUweGEzaE00b05IQUpsTXRaaGRISVhVUmlDUWkyen",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcUxtQThEeU9zMHB3YkFxc0dsN0J2OG5ZMU1FYWNjNjk2YW9NMDBZTDFzRzBFR0NqbWhtbnlHUE5aZHFfQUxqdjV5aXVndXFSWkUweGEzaE00b05IQUpsTXRaaGRISVhVUmlDUWkyenZXZUdzdEJMTEtibUlNaXg5OVJhZVBhRFZuWHQzQ9IBoAFBVV95cUxONDZuR191VHpvVlFpSVRUeEV5QkdYaWtlY3dONnVDdmd6TWFGNXpPTEpOQVFGX0FPUlE1ZEthaF91Q1doRGZtXzNVaTBUeU5rWTRNdnY0VlF5SUtUcDN1UkVGRllyZXVURWFzQ09DYUtFR29obGRxWGl4cUpGaDhPSVhUV3E2elBMUVpoclF3Ulg3a1Z6Znc0RG41UDAyRlN4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-11-20-019",
+    "date": "2026-11-20",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Former Governor, Tyson Family Member Retiring From Tyson Foods Board - Arkansas Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQbk82aGkyazZxRHVWQVJLdkdFMjd2Y0JfQWJZWVFWbWR6dnhDMzZwa3hnTHpndDhMM1lvcDZOTzZJT09TaUwxb3ZWOWNYMzBEdmFxUzlsVjhtQUxFZ3BPS1Izd25nX3dDa01INTBQSE",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbk82aGkyazZxRHVWQVJLdkdFMjd2Y0JfQWJZWVFWbWR6dnhDMzZwa3hnTHpndDhMM1lvcDZOTzZJT09TaUwxb3ZWOWNYMzBEdmFxUzlsVjhtQUxFZ3BPS1Izd25nX3dDa01INTBQSE9DZ0pBZDhMQVQ3cUQ0b1VwZGJtRGx0a2dHTk1EUVlDazdjQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tyson-2026-11-20-020",
+    "date": "2026-11-20",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods announces board leadership changes - meat+poultry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0NsVXExMTVkTjNSNU9ZUkx4RlRsUTFtaDRrbTYwaEozSHU0NnpXbDZ3RC1wby1hXzlIX2Qzb0dtMERtS3BEOTVLVHowSXlfR3BTOWYxX1lhVWx4NVVnbUVqS1N4bXl2VzVkTTNHdl",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0NsVXExMTVkTjNSNU9ZUkx4RlRsUTFtaDRrbTYwaEozSHU0NnpXbDZ3RC1wby1hXzlIX2Qzb0dtMERtS3BEOTVLVHowSXlfR3BTOWYxX1lhVWx4NVVnbUVqS1N4bXl2VzVkTTNHdllNWmUyU3lhVVBHLUthaENBZldtOUJZTVRDNHVQaHZSUGxqMUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-11-20-021",
+    "date": "2026-11-20",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Why Walmart and Amazon keep expanding subscription partnerships - Chain Store Age",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzVHRmQ3Y2JBUU0zVC1NZTZSMmhYY2RyRXhxVnBmc2htQ2h1MS1ZTkFIYndKOXdadVNUZmlnYTA1a01lYlNoandMY29CSDBsZTNWU2tqak44c0gzclZoY2QwbGVVUVk3MzdCV05vYk",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzVHRmQ3Y2JBUU0zVC1NZTZSMmhYY2RyRXhxVnBmc2htQ2h1MS1ZTkFIYndKOXdadVNUZmlnYTA1a01lYlNoandMY29CSDBsZTNWU2tqak44c0gzclZoY2QwbGVVUVk3MzdCV05vYkNPdGdsMEd1OHNHSTNaWHNZX1BiVmJINzU1S0c4NHA3R2lxRnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-11-20-022",
+    "date": "2026-11-20",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco’s Newest Expansion Isn’t Another Warehouse. It’s 918 Apartments Built Above One - Inc.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPS3FYTy1PdEVsNlZCa0NQbnVVbnRidWlPTURqTU1RWWEtdUV5QzRjOFBQeFNwa1ZfT3hzRTRscTdrcmhPbUFsNnZhc19WdDFuczZJUEtLblNHV3FqRkFXS2x2RDdVT0RrVFQwbm5QWV",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS3FYTy1PdEVsNlZCa0NQbnVVbnRidWlPTURqTU1RWWEtdUV5QzRjOFBQeFNwa1ZfT3hzRTRscTdrcmhPbUFsNnZhc19WdDFuczZJUEtLblNHV3FqRkFXS2x2RDdVT0RrVFQwbm5QWVppR1I1TXhkamRja3o2eUhRT3ZRTS01eHVFbmNHOUhGSDB4MXJodTdUUVlqampoWTd5MU5VM29ZbVRTaEFoNjE3cGx6WFlsUUlzQmw2ZA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-11-20-023",
+    "date": "2026-11-20",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Name-Brand Ski Gear You Didn’t Know You Could Buy at Costco - SKI Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBVZ21YSHBDZGJwNDZicEpyMFRzVDUwQndjR1Frc0hseE9EOHZ5VzBucU9NUkpWZ29lWWMyeGxaMnI3NzB2dUt5SXRSZHNoM2pyWkRVU1FwbjhLbnlwMzVMWVhkV1V0ZHZranB2ay1XMF",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVZ21YSHBDZGJwNDZicEpyMFRzVDUwQndjR1Frc0hseE9EOHZ5VzBucU9NUkpWZ29lWWMyeGxaMnI3NzB2dUt5SXRSZHNoM2pyWkRVU1FwbjhLbnlwMzVMWVhkV1V0ZHZranB2ay1XMFg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-11-20-024",
+    "date": "2026-11-20",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Top Black Friday membership deals at Sam’s Club, Costco and Amazon - USA Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQV05wUS1sZERqZ29pQ2o2amlaWFBKRHBHblRKVnVua1ptZ29jVTZQTHhhNEU5RE9EZDl5X2k3andkWTBOeXE1SnNTTEFwaWhyX093ZE94LUp5LS1SZjdIVDVpRWRuaEsyVjN4a1BHY0",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV05wUS1sZERqZ29pQ2o2amlaWFBKRHBHblRKVnVua1ptZ29jVTZQTHhhNEU5RE9EZDl5X2k3andkWTBOeXE1SnNTTEFwaWhyX093ZE94LUp5LS1SZjdIVDVpRWRuaEsyVjN4a1BHY0ZmZmRKQ0RwLUhLY3JVTmRsNzZHVE1fb3J0UGNROTY3U3Jla0plLVA2eDVscG5KbWItY2tjMTlSeE5IT2U0bmo5UW5CbnBlYV9welFKVF93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-11-20-025",
+    "date": "2026-11-20",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco store in Franklin to open next week - BizTimes - Milwaukee Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBLSEh0dlRJaW4xV3JOMWNZN2lGZUtzS0ZQbTBwVi1KRHpkZGxESFlzUVRyVE9oYWwzbnhOSHBjamhfUVR3SnNVU2ctSU8xOXA0NThxUjZONU82YUREOEF4cm9ycWRHN3pnSjBDQkphM1",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLSEh0dlRJaW4xV3JOMWNZN2lGZUtzS0ZQbTBwVi1KRHpkZGxESFlzUVRyVE9oYWwzbnhOSHBjamhfUVR3SnNVU2ctSU8xOXA0NThxUjZONU82YUREOEF4cm9ycWRHN3pnSjBDQkphM1A0QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-11-20-026",
+    "date": "2026-11-20",
+    "companies": [
+      "costco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Costco Files Second Lawsuit Against Pompano Beach Over Rejected New Store Plan - TAPinto",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY1BJRkhVUnhSRXJmbld0ekM4OU1lbTZSYUloMTZ3RE5STVllOU12LWdTTDNXMGJlRUZ5RkNTNG51ZUVFeXRHZC04R3luOXZqMEtIZlV3QWlzX204d2tkbW0yVmhhelJibG90NlZpcU",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY1BJRkhVUnhSRXJmbld0ekM4OU1lbTZSYUloMTZ3RE5STVllOU12LWdTTDNXMGJlRUZ5RkNTNG51ZUVFeXRHZC04R3luOXZqMEtIZlV3QWlzX204d2tkbW0yVmhhelJibG90NlZpcUk3SG1BT3FwU25peGlxZzRGZDc1cVhjMk9tTnFMZnNTN3hWQVdWRzlabWVidzgxXzhkalJGck9uZmQxc1pVT0JTMGozd2tUd1hacWZuZnB4Q1BaRmZKTlNubXdvWFJXWHFMWHhzSDlSeE9YR3lBellFcTlyLWtTUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-20-027",
+    "date": "2026-11-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Boston Beer names next CEO",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/H_I75fdEOV5njmNwK3txgMQTLxcZUPxWfKbfEr6Odjk/g:nowe:0:75/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xM",
+    "sources": [
+      {
+        "name": "food_dive",
+        "url": "https://www.fooddive.com/news/boston-beer-promotes-new-ceo-phil-hodges-jim-koch/875350/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-20-028",
+    "date": "2026-11-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Federal cybersecurity gaps leave US food supply vulnerable to ransomware and operational disruptions, GAO warns - Industrial Cyber",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUlBlVFktS3ZuQmp3dEFCRy1POVp4RVYzTGhOUzJFZVpVQWp5MHhFSFVmUUFGQU1VQXVpQkZfWXVlNjNzZV9JQk5RTVZ1azJwbVZjMnlEenYxUWtBbG9UTWIwOWk1b3o4azF1VVZham",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUlBlVFktS3ZuQmp3dEFCRy1POVp4RVYzTGhOUzJFZVpVQWp5MHhFSFVmUUFGQU1VQXVpQkZfWXVlNjNzZV9JQk5RTVZ1azJwbVZjMnlEenYxUWtBbG9UTWIwOWk1b3o4azF1VVZhamhEckF3aWt1cEZGbkJTRl9QbTBqa3N1c2tfa0JMTW9QSUJkNExVbTVRQjR4NVpnR2lqUTgzLUFpM0Z4LWc0OUtBOVhkRnd4ZS13a0x1ZjBuRl8wUXRnQ3RZdDFNYlF0Sm1SN01QWU9KczhKaG9FZlBZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-20-029",
+    "date": "2026-11-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hochul plans to veto bill that would have banned three food additives - WXXI News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOb0I3djBpRjJFOVR1S195UWppN3JvQTFTNGltb3JCY0xISTRzQnJBc3N6TmpLbDNnNXZfelY4SkRhbFJaTEtzTWwzWHBoNGloSkZRRnNJSmt3YWZSSTEwV0FGWmtxZGZTVGo0TjVacm",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb0I3djBpRjJFOVR1S195UWppN3JvQTFTNGltb3JCY0xISTRzQnJBc3N6TmpLbDNnNXZfelY4SkRhbFJaTEtzTWwzWHBoNGloSkZRRnNJSmt3YWZSSTEwV0FGWmtxZGZTVGo0TjVacm9fdW1waHVsMi1TQlBSd3k3VGgwbnZsZFJyXzh5TWFtMXk3a0F0SHlKcWtOblA3NmlHRkVrTDdiN0ZOZk9yWGZGVW54OWlaMEJKbE9QOThtWFo3S1cxQ0RBU1NtNGUyRms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-20-030",
+    "date": "2026-11-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RAWZ donates over $93,000 in senior cat food - PetfoodIndustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTUFIbGozeWpJOHpnYjlTZHQtclpiUlJ2ckhNWDRSZzZDWXNUWkZSX0tuVWFVQ29NUTJSd256Mk5XaE5yM2doS3YyOXFNNFY2LW5kMzJOYWVfRkJPaXpiakZvMTdOZkNVaWRJSjFhQn",
+    "sources": [
+      {
+        "name": "google_news_food_industry",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTUFIbGozeWpJOHpnYjlTZHQtclpiUlJ2ckhNWDRSZzZDWXNUWkZSX0tuVWFVQ29NUTJSd256Mk5XaE5yM2doS3YyOXFNNFY2LW5kMzJOYWVfRkJPaXpiakZvMTdOZkNVaWRJSjFhQnJuV0MtUmVFQlRZOWlfYW5iWENlZXZNc0l2V3NMdzVNVHRHdm1LQWl2TmJRdXlFa2xRNjBVSFR1ME9tbFgzMTZCd3FMUi03MjlPUmNZ?oc=5",
         "type": "rss"
       }
     ]
@@ -1205,6 +1589,84 @@
     ]
   },
   {
+    "id": "tyson-2026-11-19-047",
+    "date": "2026-11-19",
+    "companies": [
+      "tyson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tyson Foods Announces Board Changes and Employee Retention Awards - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEdkVm4zazY3WjlXVS1PMzlXUHVxSWI4QUhZV3R1V19NRjhJR0YzUXRVSjd4OXBCTEtHaXhJQ0R3RThuLXdtRzdQSVdnXzNibVJULVZjNk5lc2Y5aEpFT0xpT2Fub21kaXk4LXpSMl",
+    "sources": [
+      {
+        "name": "tyson",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEdkVm4zazY3WjlXVS1PMzlXUHVxSWI4QUhZV3R1V19NRjhJR0YzUXRVSjd4OXBCTEtHaXhJQ0R3RThuLXdtRzdQSVdnXzNibVJULVZjNk5lc2Y5aEpFT0xpT2Fub21kaXk4LXpSMlpsRERaNVRZRndQOXhzMm1XMDhFU0cxdHFSVkVMeDNfR0FUOHFxZTFqR0dabW53UEJaMkhaVmViWDllSm9mOVZLQllkQXBhRnRj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-11-19-048",
+    "date": "2026-11-19",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart Stock Falls as Forecast Leaves Wall Street Asking for More - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE95Tm9LbzVPSzNtSGZNV0NHNjZyalduOVk0VzliUC1uaUkwdGVHZDM1YjZDNUQwOEZwNGYySE5FUjNKYTNsVHQ5QTdKQ25jTXhMbV84SS1rbUJ4bjV0anJ1aXpRR1ZNanA3cGZ4OXlMdV",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95Tm9LbzVPSzNtSGZNV0NHNjZyalduOVk0VzliUC1uaUkwdGVHZDM1YjZDNUQwOEZwNGYySE5FUjNKYTNsVHQ5QTdKQ25jTXhMbV84SS1rbUJ4bjV0anJ1aXpRR1ZNanA3cGZ4OXlMdVA0ejhBcVM2bmN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-11-19-049",
+    "date": "2026-11-19",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Walmart is making a bigger bet on fast-food delivery - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHVMSDQyTUdFdnFyRGRIcXVpU3FKVEFvelA2emhCYUc5eFhIMDhJdjRBM1A5bnE4ODNNRUNOTVVNUjZKOFJ3QXhYUmprSUFQTmFsY0NJNUhla2pYdUY3UzNHa2h6VWFZOWZKMXRIWm",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHVMSDQyTUdFdnFyRGRIcXVpU3FKVEFvelA2emhCYUc5eFhIMDhJdjRBM1A5bnE4ODNNRUNOTVVNUjZKOFJ3QXhYUmprSUFQTmFsY0NJNUhla2pYdUY3UzNHa2h6VWFZOWZKMXRIWmFsYnFqcUhjd1U0dkZxcUw0c2ZpZXJSd1pqekhvTWpneEtnY0VJbFM5Y0dpaWpNNU11?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "costco-2026-11-19-050",
+    "date": "2026-11-19",
+    "companies": [
+      "costco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "We Tried Costco and Sam’s Club Apple Pies—and One Was the Clear Winner - Serious Eats",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE42QnpyT1FUcHdpQ01nWjVFdnNBd3FIQ1U3OU5aSDFLVDZLNGFsbVR4VE5rWldvZGQwQ19FZXpVUmpZaV9CZ1hHTjB5ZVhxdlJOalZEM0VyLWZfTUgtQlplMkN1ckZkNHhIaGFLaTFpUn",
+    "sources": [
+      {
+        "name": "costco",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42QnpyT1FUcHdpQ01nWjVFdnNBd3FIQ1U3OU5aSDFLVDZLNGFsbVR4VE5rWldvZGQwQ19FZXpVUmpZaV9CZ1hHTjB5ZVhxdlJOalZEM0VyLWZfTUgtQlplMkN1ckZkNHhIaGFLaTFpUnFfWmxKVWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tyson-2026-11-18-001",
     "date": "2026-11-18",
     "companies": [
@@ -1915,6 +2377,26 @@
       {
         "name": "google_news_food_industry",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS01Ob0tZNDFqWS1JZWVyTk5SZjhTV2Y5UjNSMS1GVnFUVDlTMUpkOHd0b0l0TVdBZmlNMzQwdVJBVWVFZUR2ZDV6TkpYdm8xazZhZHB1TzdmcG1yWmhneXIzV213ZncxOFBEQ0NiMzdfUDhnR1VMNmhGLTdDd2lSUl83RzdLcGJHN0dodUJaUE1GeU1kZXlZNkw0SmNsbFdBcE9rM2lSVXRuQVIyRnZCU3paVHM1ako4aVdWQlVUOTBUbFNiSG1XTHBXaWtUZWlDcFRTNkpVVVVDS2hnVnNNSk9XQXplb0dKdHlV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "walmart-2026-11-18-039",
+    "date": "2026-11-18",
+    "companies": [
+      "walmart"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart applies, later withdraws plan for new Canyon County store - BoiseDev",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTU43OFRtYmJUNzdfaV85WlBkOHlNaVljaUlrR19qOGVnTklIcmJFeGxjTHFyS3Fudm1BUEZtU3VJOWFFTGhkU1RCamljck13elo0Z1o4VnluSTRBdXA2Y3dhOEdYMHNBOE5BeEYyT3",
+    "sources": [
+      {
+        "name": "walmart",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTU43OFRtYmJUNzdfaV85WlBkOHlNaVljaUlrR19qOGVnTklIcmJFeGxjTHFyS3Fudm1BUEZtU3VJOWFFTGhkU1RCamljck13elo0Z1o4VnluSTRBdXA2Y3dhOEdYMHNBOE5BeEYyT3l0VEs1LUs1azBSZTlfa0cyc3liQ3Q3OHFs?oc=5",
         "type": "rss"
       }
     ]

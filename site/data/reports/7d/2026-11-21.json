@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-21",
+  "date_range": {
+    "start": "2026-11-15",
+    "end": "2026-11-21"
+  },
+  "generated_at": "2026-11-21T15:47:05.171096Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tyson-2026-11-15-013",
+      "date": "2026-11-15",
+      "title": "Tyson Foods (TSN) Earnings Preview: Profits Seen Falling 54% as Beef Losses Deepen - TipRanks",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 27,
+      "last_week": 17,
+      "week_over_week_change": "+59%",
+      "sentiment_this_week": -0.26
+    },
+    "industry_general": {
+      "this_week": 152,
+      "last_week": 143,
+      "week_over_week_change": "+6%",
+      "sentiment_this_week": -0.05
+    },
+    "food_safety": {
+      "this_week": 19,
+      "last_week": 14,
+      "week_over_week_change": "+36%",
+      "sentiment_this_week": -0.05
+    },
+    "consumer_spending": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "raw_material_cost": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "food_inflation": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "health_wellness": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "tyson": {
+      "event_count": 42,
+      "sentiment_avg": -0.17,
+      "rank": 1
+    },
+    "walmart": {
+      "event_count": 38,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "costco": {
+      "event_count": 28,
+      "sentiment_avg": 0.04,
+      "rank": 3
+    },
+    "bunge": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "uni_president": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 4
+    },
+    "mondelez": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "adm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "pepsico": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 8
+    },
+    "kraft_heinz": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 278,
+        "last": 313,
+        "change_pct": -11.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-15",
+      "event_count": 14,
+      "sentiment_avg": -0.11
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 78,
+      "sentiment_avg": -0.11
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 60,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-11-18",
+      "event_count": 39,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-19",
+      "event_count": 50,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-20",
+      "event_count": 30,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-11-21",
+      "event_count": 7,
+      "sentiment_avg": 0.14
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-15 ~ 2026-11-21）共 278 則事件，重點為「Tyson Foods (TSN) Earnings Preview: Profits See...」。卡夫亨氏情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "卡夫亨氏",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "泰森食品",
+        "reason": "本週出現 42 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "沃爾瑪",
+        "reason": "本週出現 38 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

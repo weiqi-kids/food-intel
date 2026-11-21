@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 10,
+  "gate2_fail": 13,
+  "passed": 25,
+  "gate2_samples": [
+    "Walmart Sees Weakest Global Ad Sales Growth in 2 Years - ADWEEK",
+    "Walmart mulls role advertising will play in an agentic shopping world - Marketing Dive",
+    "A new Walmart is planned in this bustling Columbia area. Check out where - The State",
+    "What Does Costco Wholesale (COST) Panic Buying Mean For Sales And Inventory? - Yahoo Finance",
+    "Where Does Costco's Kirkland Signature Sea Salt Come From? - Mashed"
+  ]
+}
