@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 115,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 7,
+  "gate2_fail": 13,
+  "passed": 22,
+  "gate2_samples": [
+    "Walmart Sees Weakest Global Ad Sales Growth in 2 Years - ADWEEK",
+    "Walmart adds an exclusive limited-time mystery box - TheStreet",
+    "A new Walmart is planned in this bustling Columbia area. Check out where - The State",
+    "New Walmart in Caldwell appears off the table, for now - BoiseDev",
+    "Walmart mulls role advertising will play in an agentic shopping world - Marketing Dive"
+  ]
+}

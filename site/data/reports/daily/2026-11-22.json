@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T15:48:00.281329Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-11-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Shares Sold by State Street Corp - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSTc4LXQ3UUFNS1JTUWNQZ1Q2ODJVcmpZRmlwU0J0X3JlQlJncjQ2QUx0ZXNweXZ3b25naktPUTlPSHdnZFgwclQ5REZnTThPSjBxRW84cWQteGJ2bW1UcVctQ1ZyWnZ4b0xBQ0s1aWI1ZTM1endmTlVjTnFYeVB0OGxrRlpFWGNEVUVPZi1CWktwdWlLMURxeVV3WXVXbjNsMXM5WGFROGVwc1JqY0Z3RXNDWXVKc1pyX2E3OGVkN1ZyX05QZ2pJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Major retail corporation buys Concord Mall Sears building | Exclusive - Delawareonline.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY1BZUk41MjVlY0VoLXpRNUE5NkRHZThVWnlmaVJXQnN3NVRWQlJIVkJhRGJNUnFJM3ZPd0M4aVQ1VmJzODJTeXlOb2s2ZUR1b3BTVHRQVlY5NDVXbXdsZGRzbDdXdEJ6elpRQlN0QnNncllYOXpNM0Z2eVN5aVhZOTd2cXFlczdtT1RBTGpiN0F2WkV4d2p4UDRaY050Z3VQZ0sxWC1uM1lya1YtUm82emc5V3Qtb0xZMVdBbk1KbFZHYmwzeUltSzczQ1c5MGlQOFNWU0ZMWi01MnFSaTlOUk84amdEc0drN2NN?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-11-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "4 Best Beers To Buy At Costco And 4 To Avoid - Tasting Table",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zUjYzM2w1LWRFTDlsa0g0UDRYMnBxVnpQNUpkRWExM1gxZlVrLVI2TkxneWY3RDBJTmxraTF1Z0hzZGJDN3dXZmxrU1Zub3lZNE9tdVJNdy1xeUoxWGw1QVMxQkVibWlTQkJvX2FNUGROc0RubnpxR3Fn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "costco-2026-11-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The $12 “Gourmet” Costco Grocery I’m Stocking in My Pantry for Fall - Yahoo",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR3o1WEV5bDFXWWVTaW9mMnd4Mk5kWllkNkh3d0xSaW5Rc3VsZURITG82ZGlFNFY5cHpkR2czUzQ4YkdKNmJxeGdEWDBXUWZidTd5WXA0QW14ZFprNEU2SC00cEk3b1JBMjdGNndoM3dLM1ZOamdObUxST2hGZXdTYXRybTNuTDRnNGQ0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-11-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Not Kirkland Signature — One Of Costco's Highest-Rated Coffees Comes From Another American Brand - Mashed",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkppMVhMMEFpaDVXWndPMDk2ZGVJS2UzRV8tbG40R2V5VzhvWEs3d29nZDdGemVXWk5iaXZVQ0l3RjNSQmI3cGZKQ2dxcjluLTY3YlZlT2JnMHRiUnoxLWE3S3ZCNjBNd2VYb2JuMEs0V0ZEbE9aa2lwakp4QVN4UElmNHJEWjFFdmZiXw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 115,
+    "too_old": 112,
+    "gate1_blocked": 7,
+    "gate2_blocked": 13,
+    "passed": 22,
+    "pass_rate": "14.3%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Walmart Sees Weakest Global Ad Sales Growth in 2 Years - ADWEEK",
+      "Walmart adds an exclusive limited-time mystery box - TheStreet",
+      "A new Walmart is planned in this bustling Columbia area. Check out where - The State",
+      "New Walmart in Caldwell appears off the table, for now - BoiseDev",
+      "Walmart mulls role advertising will play in an agentic shopping world - Marketing Dive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為好市多、ADM相關動態：「Archer Daniels Midland Company $ADM Shares Sold by State ...」。主要關注主題為產業通用、食品安全，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Archer Daniels Midland Company $ADM Shares Sold by State Street Corp - Market...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Major retail corporation buys Concord Mall Sears building | Exclusive - Delaw...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
