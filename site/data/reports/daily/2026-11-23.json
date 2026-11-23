@@ -1,0 +1,233 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T19:40:10.592154Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tyson-2026-11-23-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Equities Outlook: Dell, Tyson Foods, Coinbase - StoneX",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUhuZkpEVXZ5YXNQZWpaeUVUVXFUWVVxUTBZVDgxS21FaDM1NzRNT3hzWWF5STUtUkJVemx5LVRILWYzMmpnMkpSYTdYRjNuOWJza0lRVHg1Y1gxOHRMRmRPTzVqcWlMVC1sRFpfWjRzVkhjcEhWWDZjUVJ1NnpHYzZ2cWF3cUc5ZXZSdzB5N3dBVENqQzdwWlJyOHREUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-11-23-016",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Costco vs. Walmart: One Retail Giant Looks Better for Retirement Investors - 24/7 Wall St.",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnZ3QTBlUF8tc2pWOGdtTnZCa0RBcE5MSmMzajlzVV9Uajl4MXRoQVZxWF9CYlJ1Nm1hbzAtNWlYQ2ZXUFFZaUdId0JIaERPbmxtLWtzWHZWWjRJbDhZOTZlaHMyZGpGUjdiS1JpQi1CdmpqZFByYzRSVWFSSnV2Zk1YbzRUSEI0S1VyVVY4ZUYwd2IxdXhsbDZlWTZ1ZjdqZ1dsdWdyV0lKTWk2cW9xRklBbG9UZUU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-23-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA flags sanitation, allergen and labeling problems at noodle maker and supplement company",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "food_safety",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.foodsafetynews.com/2026/11/fda-flags-sanitation-allergen-and-labeling-problems-at-noodle-maker-and-supplement-company/"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-11-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland Opens Expanded Flavor Creation Laboratory in Germany - marketscreener.com",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSHBGQmNNalRMdTRQTHhzLXVuZUN1bW1DRXNjd18tMW9MdU5JUkdEY0luYWdYYWxHVm1pVEpMMXVnYWxfUEhUbWZuNUdscXJCTnlYOEhMeU5qVlJCM2pNUnJib1laa1FhRzBvY2Q4ZXI4cXhfaXJwVkNXb05CRnlBdGNTSExadXB6UktxWFZ3M29vRlRDTlZCOHhIXzQzWUo2VXN6MnFWcVJYWnE0ZVRtMVkyUG9qcFUtUTU2SWpCNXhFSExTUmNZ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-11-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Procter & Gamble or Archer-Daniels-Midland: The One Dividend Stock I’d Hold for the Next 10 Years - TIKR.com",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUlJWlozZjJvUlp1TGdDWmJrczFIQlg0NmZJZnVjd0x6b1JONlJJNC05V2YybUlOUng0Zmg1TU5xbmpGaXZBcExQSDVMTTNJZFFraWU2THFPLTFUakZfMTRtNF95N3VoMWM2Yk1yX2lBTVFGeVFzQUFSSjMzMDdMZUVFVS1OMVlOM3VDN0JfSUR1RHJVMTBSQXE1T2hDcDZVZzRrRy1vZGZIZ0NqUGhqeGZsOXBRd0g4TXphaXdrLTBySXlKNnR3Tm1hb2w?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 26,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "tyson",
+        "count": 4
+      },
+      {
+        "id": "walmart",
+        "count": 4
+      },
+      {
+        "id": "bunge",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 88,
+    "too_old": 113,
+    "gate1_blocked": 7,
+    "gate2_blocked": 18,
+    "passed": 43,
+    "pass_rate": "23.8%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Archer Daniels Midlands ‘ADM Cares’ supports employee volunteers giving back to the community - Nort",
+      "Form 4 Bunge Global SA: Christopher Mahoney (Director) For: 19 November - Investing.com Canada",
+      "Form 8K Bunge Global SA For: 23 November By Investing.com - Investing.com UK",
+      "Target and Walmart Are Winning More Shopping Trips. Bigger Baskets Can Wait. - PYMNTS.com",
+      "Walmart, Target Highlight Groceries Heading Into the Holidays - Bloomberg.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為好市多、泰森食品、沃爾瑪相關動態：「Weekly Equities Outlook: Dell, Tyson Foods, Coinbase - St...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Weekly Equities Outlook: Dell, Tyson Foods, Coinbase - StoneX（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Costco vs. Walmart: One Retail Giant Looks Better for Retirement Investors - ...（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
