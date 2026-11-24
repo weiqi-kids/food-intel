@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 96,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 5,
+  "gate2_fail": 10,
+  "passed": 45,
+  "gate2_samples": [
+    "Why Archer-Daniels-Midland (ADM) Is Getting Fresh Attention - Simply Wall St",
+    "Form 8K Bunge Global SA For: 23 November By Investing.com - Investing.com South Africa",
+    "1216 Uni-President 20261117 Investor Conference Off-Site - finance.biggo.com",
+    "More Visits, Smaller Carts Drive Target and Walmart Sales - PYMNTS.com",
+    "Walmart is letting Meta’s Muse shop its shelves — but on its own terms - Digiday"
+  ]
+}

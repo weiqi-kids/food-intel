@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-24",
+  "total_events": 27,
+  "by_company": {
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tyson": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "walmart": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "costco": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "kraft_heinz": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nestle": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 18,
+      "sentiment_avg": -0.03
+    },
+    "raw_material_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "food_safety": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

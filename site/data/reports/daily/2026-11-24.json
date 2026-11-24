@@ -1,0 +1,224 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:13:26.492492Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-11-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge, GDM joint venture to develop novel oilseeds for biofuels - Oils & Fats International",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQakc1NVdJX0JsR2RNeENNZW5pN0VsUTg4QlR3eU1FR3pfRXB6ZVBydlpNdnFOMHBucnNPd0hwVENYZGRieDBmb1RKbm11aXRMcDZ2Q3ZxSDF3ckZlTG5XbDM2eVN2d1IwVF9COTZIWTk4cWJTNk9Wblp1TjhjZlFqa2c4OTVncklzcTdNNnJtcXBBMXNFN2w1d0xrVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tyson-2026-11-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Former Governor Beebe, Tyson family member retiring from Tyson Foods Board - KTLO",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa00zTW5HeEtUdDh2OVNUWTVOSW90MU1LSmYtTHpmNi02a3VlcWpuVzlWXzh5OFFpdlpWVnNCY0FnZUY4eWljcUJvX3BHTGszWjNKNDJaZTdVLS1abGZvSmZ3ZnVFSXNEWnlsRjZmbGRNWjhzMXlBTmVtMDJnZkVUVTVLbl9GZlpmNVlNVXZyc2lkWVkzaUVmaW1Ob1B2dTd6RUpLZ1pieW5pdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tyson-2026-11-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Truck driver stabbed at Iowa Tyson Foods plant - WATTPoultry.com",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlUtdzhJVzBmR0hCd0RHMDZBZEwxRFRBRzU4UHhQZ0lpSGRuaXkxaFFXVlZ6b3VDd2IzbnlXNGFSNi1uYmVNZTZNYXVHeVRhU1Rxd0JDbjdCNXdHejVSREVYS1UtaVpSRWRpeEVFQ2dJeG9oX2J4UDhxemxrTVJTVUplSmhHNHZXYlpickZhS2dJWUNHTkstUnZhem5wUDF1R1FySnluUVRBcHFHbUVSZ1FnSFg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "walmart-2026-11-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The 25+ Best Walmart Black Friday Deals We’ve Already Found - The New York Times",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Db3BRYURBS1h1QlEyUmZKbnFhQTBRbDg5QnJNb0N3TjNXMUhTZ2ZfY0xQa3pzanZQckdCSGVram9CNkF5cF8xZ3ViYU5xTkpHRjZhclMwRGxGbXdUbU9YQTl2cWlrSm9zOHFlUFEyUDhHbExlR3JaN28xRWdtQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "costco-2026-11-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Costco’s unusual L.A. apartment complex gets bigger, more affordable - KTLA",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNGdmMm5mRWtEdXJqQUQydkQtSW1EQm84SkNFX0M5UjV5b2p6MHhlTWc4eXIxeVl5SU9IYWR0UjQ1clNnaExYczY4d2NXWU1ESjhpUmtUeHlfbjVuTVp4cTJvTEJpN2VTVzRZb1pfUVRobFVSREtjRVFoNWpXMXcyTFFPOGN6bzNWcEV3eTE3NDBOdWY5SjVV0gGcAUFVX3lxTFBZcGtkcXpDczVrMnVOV3hqNDIwRUlrNHdSNHI2RnBYNlZiOXRxTTlUQVU3X25XV0dfWGVvWWhQcGQ4dmxSWUg2eDZaYWxkaGhOcEpLSnpqM2RCVFZDeWZqaURiYmU2NDJ2X0xteGtWNEdxeThydGkwNTVwRVVLUlA0ZzFmMTIzUE9sSi1CV3E0SzlsOE5zN0tQZ1k4VA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 26,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 10
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "walmart",
+        "count": 1
+      },
+      {
+        "id": "kraft_heinz",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "food_safety",
+        "count": 3
+      },
+      {
+        "id": "raw_material_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 96,
+    "too_old": 109,
+    "gate1_blocked": 5,
+    "gate2_blocked": 10,
+    "passed": 45,
+    "pass_rate": "26.6%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Why Archer-Daniels-Midland (ADM) Is Getting Fresh Attention - Simply Wall St",
+      "Form 8K Bunge Global SA For: 23 November By Investing.com - Investing.com South Africa",
+      "1216 Uni-President 20261117 Investor Conference Off-Site - finance.biggo.com",
+      "More Visits, Smaller Carts Drive Target and Walmart Sales - PYMNTS.com",
+      "Walmart is letting Meta’s Muse shop its shelves — but on its own terms - Digiday"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為好市多、泰森食品、Bunge相關動態：「Bunge, GDM joint venture to develop novel oilseeds for bi...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Bunge, GDM joint venture to develop novel oilseeds for biofuels - Oils & Fats...",
+        "level": "green"
+      },
+      {
+        "text": "Former Governor Beebe, Tyson family member retiring from Tyson Foods Board - ...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "原物料成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
