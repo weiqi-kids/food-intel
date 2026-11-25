@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:17:56.250486Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-11-25-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart Earnings Review: Grocery Share Gains and E-Commerce Drive Solid Quarter - Morningstar",
+      "companies": [
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUWFiT2gyMkVXMG1PaUdhSUhRVWJiZ0lQbkRmZndrXzVmaVJ2WHI3SGJQbjgxZTlMTWNZTnlHdG43Zk1DUVRLdHZSRldHRFpmZFV4SGdnMjRXTGpHOHo1UEpDRFZSMWhlVHh2cFhMR1ByYzFYVURFa3ltakhlYndkYm8zekRVVi14NW9iUkQ0YkRPMVFwVHlHa3RnWk0wbDN1UDVFS29IVTU3R1hRbEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-11-25-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Black Friday store hours 2026: What time do Walmart, Target, Kohl's, Macy's, Best Buy, Costco open? - Yahoo",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjk2YTJndFlYMjdSTTVta1Y1N0xvVUZIQkRobGNoVFJhejdNbGtTN2VHR0p6c1Q3WmljZ2luRmRnZFVDZDRNelFGRUlkQk1xVnhfc0ZsSVJ3THRmUjJsUHphempSTUlEbV9RU010NkJjaFhHeFZaOHliUm1NYnduVWFKdGdQVWV0YlVLRi1ZaDBqZ2syNHlsRDJLZWIzR05LSGlFanpvYWlUczBMczFCLW9UaGxzWkhmTkVRMmt3VnVSV2hoMDZQaHdkN0R4MUZOeVVYSFROdy1lVmlzcEQxVnN0dHJvZm5lcmh2bHdpTUs0QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-11-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Investors Are Reacting To ADM Flavor Lab Expansion - Simply Wall St",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa2tUS0Z2ZXlReUpod09Qd0FxbUVrTVliaXU3NGI3M2dPaUFQanE5ZmNySkFhQ0hkanlTX2JBMkhUQXl2OHdqZTEyNWR3WlBqZmxqQ2JlWHJJS3Rta0VZRE42SUtjNDZXWUxSclZySC00OGd2UFlTRUZXYW1CcjFLOWhuNEhJbjVwNTdiX1E1U2dOTHpHV0VhWU1HbXExUGczRmRBY3B3bFVXUXlxSTQzX1U2cnF3S2xJV05XWXVqQXVNamNlUXd6LURJTk1CRFlCMnJkU0duX0N1VlJyS2fSAeMBQVVfeXFMTmtubHZVMkpSLTZBbi1uZzNFMzV2VHdBRExKMDIyYUtMdnlkaGxrYk04cUlIUjNHNDdYdWxMQmFNenFRMjlENXROUnY5NmRySkx1a3BGcTRrRGcyWGRfYjFJQjc2YzA1cmpoMXRaVmhaOW01MFlTQnVmVlJwVkgxa3FFSjR4M3g0N3NKZXBIY2RNYTRwSFVFN01lMjEzNjg2bnRyY2xDeVlFTXdWc1JzSnNmekVoTzUweFp1RTZmeFQwOVpkb1NqdXpiRkswbXppYmdFNzZQWXN0QXRMV2xqZEVUTFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-11-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Stock Purchased by Healthcare of Ontario Pension Plan Trust Fund - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTC1BMlhBNE5vNTctMkJ0emwwVnZldTdnYjFDSUZfYmZKRXFEMlMyczJzc1lIdDQtNFhZb3dOd2JsTXJZbVZDb2Z1T1hGWkFZc054cUhSWDROd2xoNWJoS0I3SE5iOVJKZUw5NkQ2RTdrLUIwNkFtQ3l6TDRDc01YNmM0MHZxN2tTRW15bGJDS3BNSlFOME0wTXJObXpfRWZIX3pBTlFNRDNRNG96RWhQVnFHZVpzTWJidThhLUFGX21pRm1JMUVtdWVXdmRKajQxWlcwNVlkSmowRW0zWVkyb2g1dFpvRTFNOUpsT3I1c2Fsdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-11-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Marshall Wace LLP Acquires New Holdings in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT2RMUjZzYnBDY0JGb2ZuZGE5REpad016c3hscmxNTDF4VzVJRVF5SnR3VjVzdUxUSGRSN2M5LU1QT0hHUFVsRThWcFpaRGgtaHh5Sk9UaFg1ZE5CaEVwQktZOTRWZ0liQUJEaXVCclJkZ0M2R2owcng5NWRxalQ0SGVTLVVPUFpkMmx2NWh6S3NUR21ORV9faU56NlJTZ1BCUmU4WDBPcEFMYnVUNlowc291Rmx6aDVNOWc2Rk9ha0FjSkZQMWgySW0ybU9JcHBmZUJJcQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 32,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 9
+      },
+      {
+        "id": "walmart",
+        "count": 9
+      },
+      {
+        "id": "adm",
+        "count": 3
+      },
+      {
+        "id": "tyson",
+        "count": 3
+      },
+      {
+        "id": "bunge",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "food_safety",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 271,
+    "dup_title": 86,
+    "too_old": 116,
+    "gate1_blocked": 4,
+    "gate2_blocked": 18,
+    "passed": 47,
+    "pass_rate": "25.4%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "BG: Bunge Limited filed SEC Form 8-K: Amendments to Articles of... - Quantisnow",
+      "Form 8K Bunge Global SA For: 24 November By Investing.com - Investing.com Canada",
+      "Form 8K Bunge Global SA For: 24 November By Investing.com - Investing.com UK",
+      "Form 4 Bunge Global SA: Christopher Mahoney (Director) For: 19 November - Investing.com Canada",
+      "Walmart is letting Meta’s Muse shop its shelves — but on its own terms - Digiday"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為好市多、沃爾瑪、ADM相關動態：「Walmart Earnings Review: Grocery Share Gains and E-Commer...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Walmart Earnings Review: Grocery Share Gains and E-Commerce Drive Solid Quart...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Black Friday store hours 2026: What time do Walmart, Target, Kohl's, Macy's, ...（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

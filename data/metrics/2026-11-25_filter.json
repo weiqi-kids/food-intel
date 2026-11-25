@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 86,
+  "no_date": 0,
+  "too_old": 116,
+  "gate1_fail": 4,
+  "gate2_fail": 18,
+  "passed": 47,
+  "gate2_samples": [
+    "BG: Bunge Limited filed SEC Form 8-K: Amendments to Articles of... - Quantisnow",
+    "Form 8K Bunge Global SA For: 24 November By Investing.com - Investing.com Canada",
+    "Form 8K Bunge Global SA For: 24 November By Investing.com - Investing.com UK",
+    "Form 4 Bunge Global SA: Christopher Mahoney (Director) For: 19 November - Investing.com Canada",
+    "Walmart is letting Meta’s Muse shop its shelves — but on its own terms - Digiday"
+  ]
+}
