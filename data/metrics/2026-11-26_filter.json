@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 6,
+  "gate2_fail": 20,
+  "passed": 42,
+  "gate2_samples": [
+    "Bunge Global (NYSE:BG) Rebounds 7% With No Company Headline After a Slide to a 52-Week Low, and a Di",
+    "Bunge Global SA (Q23.DU) Seasonal returns chart - Yahoo Finance Australia",
+    "BG: Bunge Limited filed SEC Form 8-K: Amendments to Articles of... - Quantisnow",
+    "Form 4 Bunge Global SA: Mark N. Zenuk (Director) For: 24 November - Investing.com Canada",
+    "Form 4 Bunge Global SA: Christopher Mahoney (Director) For: 19 November By Investing.com - Investing"
+  ]
+}

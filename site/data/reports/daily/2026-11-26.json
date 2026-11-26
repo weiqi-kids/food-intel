@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T17:59:48.536617Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "walmart-2026-11-26-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Are stores open on Thanksgiving Day 2026? Holiday hours for Walmart, Whole Foods, Costco, and more - Fast Company",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzkxTFU1dkF4Q3VUVm1QVHlOQUx6dVU0UzRhMXpvXzA5ZlROSTM1YlZQRGptT2lkZk5hR3lxc2s5Z0N0WFFWTTBpQXdUd3V4M0xMV0ozZTd4WTdLbVJnTlZDaHVwMFRkX2pDOEI2LV82eGo3eGZjVS1Pa1d6Y1RQOE5iOG5HTmtYR1h3R3lJY2VWWWZDTFFHMlRJc0M5aEQzSXRqN0l4SXdjZUVmYzhYT0x1WFgzTzc4TE0tSUpoZUp5ZHRKT2l1S2QzYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "walmart-2026-11-26-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Are Costco and Walmart open on Black Friday 2026? All the stores open on Nov. 27 - NJ.com",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOelE2SFBpV3BHV0tfMU9xQldoNXRKUUgyQWRuLVNNQllRLWxXa3RkRVB0V3ZoanRNckdwZHlTRjVxVk1fM0RnRllza2xGX0dXZVI1NnF3VXdGeHNNTlpYdjR6bzZzdFZMY01VSHpQVXU2LVBsdTctdm0zeHFlbFhOZzVFWG1hcjRZQzRtcDFrN2RYMU5KMVFSMVBkb1NSQzQ1S3l2UjNIQjdqZFp4TVFSYmNnOUtLZ9IBygFBVV95cUxOZXBsaE9tMGNKQmJLS0hURmEwYUZhVTFrZ1ZSdlBYQi16cUE1NW1aV0xqNTJoRDROYktrRlF3SzJyNkNnU1E0amhYVG95Z3p5NGVhUUE1N1NYQnFDd2lwQ09ReWZ0Ry00NFRWaGxCNGFSaHdsOWZaMlVneVNuZHNOR29DY3RxdFpFM3dadnFIOURjVk1jTWVuUm5NSURESmN3bTRzV2NPbnk0Zm8yM3RCNmlieWl3TEZkdUNwaE5Ma1JvYW9CRzZhLUZ3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "walmart-2026-11-26-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Walmart Thanksgiving Deals Put Target on the Spot - Walmart (NASDAQ:WMT), Costco Wholesale (NASDAQ:COST) - Benzinga",
+      "companies": [
+        "walmart",
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXFkemRRdmJkeE9kQ1RyUEZha3FyTk42RUlOWFFqWnp4NVFySDBTam9TUnJyc01yNWJVbEp2dFIyY19KaHRQT0pfcnJJZm54RXR6bU5rdzJwdzlSZ05sS3BjTGVZSGRVSHE0bHdkMFp5d0hkcDl1Tk80eGIwamcwUmdaaTZ2WGVkaEpoUWowcXBTTkg4ckVWTVV3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-26-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "India's top court tightens food warning labels in new setback for industry - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWDVWU3NIYWRFSDA4VUZFb3RuOW53bE1rVnllN2Z4VF9FOGY5UjFwanN1d0gyOEEtS1VaRHR3VGtzVjQ5OWs3V2ttdVp0dXFMeVFsRXpmMmJZN210TjdFLUNrZW1QWTNLUXU4ZHFmVWF4blRJeXlDUHlYZjNNcEMxR3FPOXFXdHNmcTdqOE1BRDM4cDNjZU5jdG5sWTJ5WTFOUDVfYkxhcEtnaDJuRkVkVDI0emlMTm41Y2pCNHJud1I0Y0oxaTNMUWVNejl1ZEZMWUdtTWpndHBGMGY5?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-26-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "‘Reformulation costs, inventory losses, GST implications’: Food industry flags concerns over SC’s... - Moneycontrol.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaXZmVUdBOFFPU2dzN25IX3lTNllGMDhKcnNXT1NLdVl1MDNVaU5qSmpuaTJyRC1ETkx0S3lqWDNfZGlGVncwRHNzWW83R29LaE04T2xaUzMtYnVIek1IQTZlTFdRZVQ2aGphZEQwb3JzQXQya2F6dVhDUDN1Z2lrZl96djdoMXUwaVRGNWk3ZGlodi1TNXlfRmF6UzF1NEFyZFJlMmpkcHg2R3VuNVNfZnBVaUFVM2JIaEFHa2V4QkhST1ViOHBZWFZhSVFqY1l6UG12VTk5alpzdnF0WkZCeG1IU2RTWTdJc2tvX0ZWamt2VDh1SkpWckgtd9IBgAJBVV95cUxPSFozV0RnMEVURi0tN0oyazRJbHcxNHo2OHBDSkJ2dVpfTzROYkUwUmVpZzJQMGtFWE5QU0cxcWpSbTN3Rm9IbWxPZXp3aHk4TEdrT2dod0pnVW5qeERwYnIzSnFYN1Zqc0hMWFNjWjVEeFFXS1pEOTNvMkxhZzAtYzRfMVV2MXQ5dVhXWjZUZXd2ZFp2Uml5SVBCeXAwSTM5MWplejBZckNRZUpKQ3NDUlF5TV9HODFBYnE1WGhtQ3o0c1VyUDFEVkJQaG9seGNnLUdvWkhUZUR5MEYwSjVMLXA4NXV0OVc3R2M4M2dRcGtUZ0ZYNnlRaGhOYzAxazhS?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    },
+    "food_safety": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "costco",
+      "to": "walmart",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 21,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "costco",
+        "count": 9
+      },
+      {
+        "id": "walmart",
+        "count": 5
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "food_safety",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 270,
+    "dup_title": 109,
+    "too_old": 93,
+    "gate1_blocked": 6,
+    "gate2_blocked": 20,
+    "passed": 42,
+    "pass_rate": "26.1%",
+    "gate2_block_rate": "12.4%",
+    "gate2_samples": [
+      "Bunge Global (NYSE:BG) Rebounds 7% With No Company Headline After a Slide to a 52-Week Low, and a Di",
+      "Bunge Global SA (Q23.DU) Seasonal returns chart - Yahoo Finance Australia",
+      "BG: Bunge Limited filed SEC Form 8-K: Amendments to Articles of... - Quantisnow",
+      "Form 4 Bunge Global SA: Mark N. Zenuk (Director) For: 24 November - Investing.com Canada",
+      "Form 4 Bunge Global SA: Christopher Mahoney (Director) For: 19 November By Investing.com - Investing"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為好市多、沃爾瑪、ADM相關動態：「Are stores open on Thanksgiving Day 2026? Holiday hours f...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Are stores open on Thanksgiving Day 2026? Holiday hours for Walmart, Whole Fo...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Are Costco and Walmart open on Black Friday 2026? All the stores open on Nov....（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
