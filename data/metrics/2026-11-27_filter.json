@@ -1,0 +1,16 @@
+{
+  "total_raw": 265,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 10,
+  "gate2_fail": 13,
+  "passed": 24,
+  "gate2_samples": [
+    "What time does Walmart open on Black Friday? - AL.com",
+    "Walmart won't resort to 'gimmicks' to get Black Friday shoppers in early - Business Insider",
+    "Is Walmart Open On Thanksgiving Day 2026? What Shoppers Should Know - Tasting Table",
+    "Walmart Leadership to Participate in Upcoming Investor Events - Walmart",
+    "Walmart Opens Black Friday Shopping to Meta’s AI Agent - PYMNTS.com"
+  ]
+}

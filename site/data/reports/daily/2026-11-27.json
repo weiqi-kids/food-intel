@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T17:44:48.638178Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "costco-2026-11-27-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Black Friday store hours 2026: Doors open at Target, Walmart, Kohl's, Macy's, Best Buy, Costco and more - Yahoo",
+      "companies": [
+        "costco",
+        "walmart"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRTZBQmNwMmdOSTJrMzBFQmpubXlyOXRpWE5QQkVhcll3cGg5TXlGNF9ndVVPV1F3bVF3Zm5STmJXRDdvYzR5M2VDd0FVbVE4MWRfaFBwVHV0N2JkSXIyUmxDVWx2c0Jqa3dZajIzWkQwb1ByRnc4UkQxYkNGNzRpclFhQXhuUlY3dWZSLTBveEprWHVlN3NnWDVtb0JQRlhqSFBwQkRNTE10aW1GbnZpUjRhUjdZcXZHZVhkSE55ZXB2TXNrcHVFdmEtUnZQNXdoS21UOHZtMm9LVWYyNVh5TllnMDlueGliU2ZEYm92MEFiV3NiVlU1eg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "costco-2026-11-27-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Costco Wholesale Corporation Stock: Is COST Outperforming the Consumer Staples Sector? - Barchart.com",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdFlXZmFHX0pSUF9OZ2Y3YlpFcXhqeUxzME95cHZLQXRPaG9HWHdMSm1mcG1qSW9ZQkRtblFmUFRkWlVVM2szYkhIVTI1ekd3OS10cXJ3eWM0R1B5OGJ2UE9qMlF6Y291RjJSOTdMZzNQMm9vSnVlYUQtelhKUnVoUDlpOU1BWnpqR1pjY21ZQm1kZVhzY1pwamNCTG03ckhpdGpPNDBlVUVoWGdDdVExUzY1TWYxZWVoVGZUb0Zkc3ZYT2pNR1lV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "costco-2026-11-27-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Costco Absorbs Its $30 Special Dividend and Stays Near Records, With $1,090.46 Next - TradingKey",
+      "companies": [
+        "costco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNM2VFY0dIRVcxdVhpdFpHRV9JWXZDUnI1U3NyYUEwVkFFUlJ5ZDN5M3NfakpQdU1MOWYtSmNNWXBOREY0Qi0wTllXdWgzZVBHX0JRa0M0SENxOUxaYlZwdTJ5N2ZrcHRYUFpEaFJFSmhxbGhJVVhVX3kwcUNoZ3ZER0RfSnEwYTFKbnNoLUZsbGJoeUwzanY2cHFWU3BzNWpXd0NiUFg5X212TFNkMDItTjlBYVZxSzRPd2FqcjRVNlJyM1EyZ19YSDVNUUY3WHJkUkEwUW5Oa0RWSUhVOHk2WUpMVmtXcVd0ekpjeTRQTDdEdW1QdG8zag?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tyson-2026-11-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Live Cattle (Macro): Why Do Tight US Supplies Leave Tyson Foods Guiding to Another Uncertain Year for Beef? - Kalkine",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeVU5Ulk2RGZQOW9meFhSU0VfTXJWOTRLUFlRS244WjhzaXhLWEg3WlZCM3kyLXdhbFRFc2xZN3VBR3IwWWQtdkg5Q18zM1ZPbU5talMxN1VBcW5pdk9YZ3RoSWQzSWxSZG5Sd05qWEF1Ni15aWR4Yks0QnBiNzdSa2ZETG5rMDEyV2lhRUczc3dlY3hScE5nX2VhOEZrS3pMbnRtVWhOamJ5UkljNDAxelVHTnM0LUJuSU5YdjJ3SHJJTVlJRVlnVWpFVk9nRHJwWEtYSGQ1bw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tyson-2026-11-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tyson Foods, Inc. $TSN Holdings Lifted by First Trust Advisors LP - MarketBeat",
+      "companies": [
+        "tyson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRlJsTUNZTzNodk1vWlFDcVZtSmdZZTFTeVpHbXFoMExXR1Z2ZXlMT19RNjNod0czTzVnU3JPQWEwZGVCVVpkZG1uSEx2WWwtV194dDdqcDUwSHlXcXVDV3JlMTREUnk1dk9xUHc1MVNaT0pOUk9NNVFTcFJmaXY5cElLeHoxU21tWlgxRkN4OXF6dWUxWk9JR2EtQndDZHZwN3p2N1dMWURhRjd4TV9oa0JGMmw3aHVBVFBvVzR5VUo?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "walmart",
+        "count": 5
+      },
+      {
+        "id": "costco",
+        "count": 5
+      },
+      {
+        "id": "tyson",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 104,
+    "too_old": 114,
+    "gate1_blocked": 10,
+    "gate2_blocked": 13,
+    "passed": 24,
+    "pass_rate": "14.9%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "What time does Walmart open on Black Friday? - AL.com",
+      "Walmart won't resort to 'gimmicks' to get Black Friday shoppers in early - Business Insider",
+      "Is Walmart Open On Thanksgiving Day 2026? What Shoppers Should Know - Tasting Table",
+      "Walmart Leadership to Participate in Upcoming Investor Events - Walmart",
+      "Walmart Opens Black Friday Shopping to Meta’s AI Agent - PYMNTS.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為沃爾瑪、好市多、泰森食品相關動態：「Black Friday store hours 2026: Doors open at Target, Walm...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Black Friday store hours 2026: Doors open at Target, Walmart, Kohl's, Macy's,...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Costco Wholesale Corporation Stock: Is COST Outperforming the Consumer Staple...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
